@@ -1,0 +1,86 @@
+[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
+Style: Eng,Arial,45,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
+Style: Lyrics,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,-1,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
+Style: LyricsEng,Arial,45,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,-1,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
+Style: Screen,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,0,0,2,5,5,0,1
+Style: Note,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,0,1
+Style: Credit,Microsoft YaHei,60,&H00E7E7E8,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,0,0,2,5,5,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:20.08,0:01:21.98,Default,,0,0,0,,好 好 好\NOkay, okay, okay, okay...
+Dialogue: 0,0:01:24.09,0:01:25.76,Default,,0,0,0,,没事的\NOkay...
+Dialogue: 0,0:02:02.79,0:02:04.89,Default,,0,0,0,,对 对\NYes... Yes...
+Dialogue: 0,0:02:04.90,0:02:08.73,Default,,0,0,0,,对 对 快点 快点 没错 没错\NYes, yes, come on... Come on, yes! Yes, yes!
+Dialogue: 0,0:02:08.73,0:02:10.57,Default,,0,0,0,,到了 到了 到了\NOkay. Okay. Okay.
+Dialogue: 0,0:02:49.81,0:02:51.44,Default,,0,0,0,,找到了 找到了\NHere we go, here we go.
+Dialogue: 0,0:02:52.28,0:02:54.81,Default,,0,0,0,,好 好 该死\NOkay. Okay. Fuck.
+Dialogue: 0,0:02:55.28,0:02:57.75,Default,,0,0,0,,能用 能用 一定得能用\NWork. Work. Work.
+Dialogue: 0,0:02:58.92,0:03:01.48,Default,,0,0,0,,标准组... 好...\NStandard... Okay...
+Dialogue: 0,0:03:01.48,0:03:03.05,Default,,0,0,0,,标准组 你们...你们能收到吗？\NStandard, can you- can you hear me?
+Dialogue: 0,0:03:03.99,0:03:05.65,Default,,0,0,0,,我是纳伦\NThis is Naren.
+Dialogue: 0,0:03:05.66,0:03:07.46,Default,,0,0,0,,我 呃...\NAnd I've, um...
+Dialogue: 0,0:03:07.46,0:03:08.86,Default,,0,0,0,,我跟其他人走散了\NI've been separated, uh, from the others.
+Dialogue: 0,0:03:08.86,0:03:10.19,Default,,0,0,0,,我应该没事\NAnd I think I'm okay,
+Dialogue: 0,0:03:10.19,0:03:11.40,Default,,0,0,0,,我不知道我现在到底在哪儿\Nbut I'm not sure where I, uh...
+Dialogue: 0,0:03:12.70,0:03:14.16,Default,,0,0,0,,我从来没走到过那么深 所以我也...\NI've never been out this far before, so I don't...
+Dialogue: 0,0:03:16.27,0:03:18.40,Default,,0,0,0,,刚才有个...\NThere was this, uh...
+Dialogue: 0,0:03:18.40,0:03:20.04,Default,,0,0,0,,我没看清 可是 呃...\NI didn't get a good look at it, but there was, um...
+Dialogue: 0,0:03:21.04,0:03:22.21,Default,,0,0,0,,这里还有别的东西\Nthere's something else in here.
+Dialogue: 0,0:03:24.41,0:03:25.84,Default,,0,0,0,,你们快来\NI need you guys.
+Dialogue: 0,0:03:26.74,0:03:28.31,Default,,0,0,0,,明白吗？快来接我 求你们了\NOkay? I need you guys to get me, please.
+Dialogue: 0,0:03:29.98,0:03:32.88,Default,,0,0,0,,该死 快来把我弄出去\NFuck, I need you guys to come out and get me.
+Dialogue: 0,0:03:32.88,0:03:34.95,Default,,0,0,0,,麻烦来接我 求你们了 标准组\NCan you... can you come, please, standard?
+Dialogue: 0,0:03:35.72,0:03:37.45,Default,,0,0,0,,收到了吗？\NStandard?
+Dialogue: 0,0:03:38.32,0:03:39.76,Default,,0,0,0,,完了\NOh, fuck!
+Dialogue: 0,0:03:43.73,0:03:45.06,Default,,0,0,0,,完了\NFuck...
+Dialogue: 0,0:03:52.60,0:03:54.17,Default,,0,0,0,,该死 该死\NFuck! Fuck...
+Dialogue: 0,0:04:06.35,0:04:07.95,Default,,0,0,0,,该死 搞什么鬼？\NOh, shit... What the fuck?
+Dialogue: 0,0:05:11.24,0:05:14.55,Default,,0,0,0,,[无需信用卡]
+Dialogue: 0,0:05:40.18,0:05:41.41,Default,,0,0,0,,怎么回事？\NWhat the fuck?
+Dialogue: 0,0:06:05.67,0:06:07.44,Default,,0,0,0,,完了 完了 完了\NFuck! Fuck! Fuck!
+Dialogue: 0,0:06:13.38,0:06:14.51,Default,,0,0,0,,完了\NFuck!
+Dialogue: 0,0:06:19.02,0:06:20.25,Default,,0,0,0,,不 不 完了 完了\NFuck, fuck, fuck! Fuck!
+Dialogue: 0,0:06:44.14,0:06:53.00,Default,,0,0,0,,[后室]
+Dialogue: 0,0:07:22.00,0:07:24.75,Default,,0,0,0,,[山脊公寓]
+Dialogue: 0,0:07:47.44,0:07:50.74,Default,,0,0,0,,人人都有自己的老路 固有的习惯...\NWe all have our loops, our habits...
+Dialogue: 0,0:07:54.08,0:07:55.88,Default,,0,0,0,,总是原地打转...\N...behaviors that keep us walking in circles...
+Dialogue: 0,0:07:58.38,0:08:01.12,Default,,0,0,0,,一遍遍用同样的办法\N...reaching for the same solutions over and over again,
+Dialogue: 0,0:08:03.67,0:08:04.61,Default,,0,0,0,,[海盗船长克拉克的脚凳帝国]
+Dialogue: 0,0:08:04.62,0:08:06.62,Default,,0,0,0,,却指望能走出新路\Nthinking each time they'll take you somewhere new.
+Dialogue: 0,0:08:07.83,0:08:08.99,Default,,0,0,0,,但没用\NBut they don't.
+Dialogue: 0,0:08:16.50,0:08:18.43,Default,,0,0,0,,因为大脑\NAnd still,
+Dialogue: 0,0:08:18.44,0:08:20.14,Default,,0,0,0,,总是找最懒的路线\Nit's the neural pathway of least resistance.
+Dialogue: 0,0:08:21.67,0:08:22.67,Default,,0,0,0,,[无良商家]
+Dialogue: 0,0:08:23.44,0:08:25.34,Default,,0,0,0,,你建立了心理防线\NA path you made.
+Dialogue: 0,0:08:26.34,0:08:29.08,Default,,0,0,0,,小时候 这套防线保护了你\NIt's the one that kept you safe when you were a child.
+Dialogue: 0,0:08:34.42,0:08:35.18,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:08:35.19,0:08:36.42,Default,,0,0,0,,你养成了疏远别人\NYou learned to push people away
+Dialogue: 0,0:08:37.09,0:08:38.35,Default,,0,0,0,,避免伤害的本能反应\Nbefore they could hurt you.
+Dialogue: 0,0:08:40.96,0:08:42.26,Default,,0,0,0,,现在\NAnd now,
+Dialogue: 0,0:08:42.13,0:08:43.58,Default,,0,0,0,,{\an8}[逾期账单]
+Dialogue: 0,0:08:42.26,0:08:43.93,Default,,0,0,0,,你都成年了\Nas an adult,
+Dialogue: 0,0:08:43.93,0:08:45.56,Default,,0,0,0,,却还是走不出来\Nyou're still stuck right where you started.
+Dialogue: 0,0:08:51.07,0:08:52.24,Default,,0,0,0,,把自己关里面\NAlone.
+Dialogue: 0,0:08:58.58,0:09:00.08,Default,,0,0,0,,我有人陪啊\NI mean, I'm not lonely.
+Dialogue: 0,0:09:01.15,0:09:05.81,Default,,0,0,0,,我有店员 还有顾客\NI have employees and... customers.
+Dialogue: 0,0:09:05.82,0:09:07.82,Default,,0,0,0,,我没说有人陪 我说的是你把自己关在里面\NI didn't say lonely. I said alone.
+Dialogue: 0,0:09:08.69,0:09:10.15,Default,,0,0,0,,好吧 是 但是...\NYeah, well, I mean...
+Dialogue: 0,0:09:12.29,0:09:14.32,Default,,0,0,0,,我老是伤人\NI hurt people.
+Dialogue: 0,0:09:14.32,0:09:16.12,Default,,0,0,0,,我也不想 可我就这德行\NI don't want to. It's just the way I'm wired.
+Dialogue: 0,0:09:16.13,0:09:18.09,Default,,0,0,0,,可能就该把自己关起来\NSo maybe I deserve to be alone.
+Dialogue: 0,0:09:19.23,0:09:20.80,Default,,0,0,0,,谁活该把自己关着吗？\NDo you think anyone deserves to be alone?
+Dialogue: 0,0:09:22.00,0:09:24.10,Default,,0,0,0,,我说不好 但怎么说呢\NI don't know, but, you know,
+Dialogue: 0,0:09:24.10,0:09:25.54,Default,,0,0,0,,也许这样也挺好\Nmaybe it's not such a bad thing.
+Dialogue: 0,0:09:26.74,0:09:28.34,Default,,0,0,0,,自我封闭...\NBeing alone feels...
+Dialogue: 0,0:09:28.34,0:09:29.57,Default,,0,0,0,,已经刻进骨子里了\Ndeeply ingrained.
+Dialogue: 0,0:09:30.17,0:09:31.31,Default,,0,0,0,,我理解\NI understand.
