@@ -1,4 +1,6 @@
 [Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
 ScriptType: v4.00+
 PlayDepth: 0
 ScaledBorderAndShadow: Yes
@@ -55,7 +57,7 @@ Dialogue: 0,0:07:22.00,0:07:24.75,Default,,0,0,0,,[山脊公寓]
 Dialogue: 0,0:07:47.44,0:07:50.74,Default,,0,0,0,,人人都有自己的老路 固有的习惯...\NWe all have our loops, our habits...
 Dialogue: 0,0:07:54.08,0:07:55.88,Default,,0,0,0,,总是原地打转...\N...behaviors that keep us walking in circles...
 Dialogue: 0,0:07:58.38,0:08:01.12,Default,,0,0,0,,一遍遍用同样的办法\N...reaching for the same solutions over and over again,
-Dialogue: 0,0:08:03.67,0:08:04.61,Default,,0,0,0,,[海盗船长克拉克的脚凳帝国]
+Dialogue: 0,0:08:03.67,0:08:04.61,Default,,0,0,0,,[克船长的家具百宝库]
 Dialogue: 0,0:08:04.62,0:08:06.62,Default,,0,0,0,,却指望能走出新路\Nthinking each time they'll take you somewhere new.
 Dialogue: 0,0:08:07.83,0:08:08.99,Default,,0,0,0,,但没用\NBut they don't.
 Dialogue: 0,0:08:16.50,0:08:18.43,Default,,0,0,0,,因为大脑\NAnd still,
@@ -84,3 +86,101 @@ Dialogue: 0,0:09:24.10,0:09:25.54,Default,,0,0,0,,也许这样也挺好\Nmaybe i
 Dialogue: 0,0:09:26.74,0:09:28.34,Default,,0,0,0,,自我封闭...\NBeing alone feels...
 Dialogue: 0,0:09:28.34,0:09:29.57,Default,,0,0,0,,已经刻进骨子里了\Ndeeply ingrained.
 Dialogue: 0,0:09:30.17,0:09:31.31,Default,,0,0,0,,我理解\NI understand.
+Dialogue: 0,0:09:32.38,0:09:35.78,Default,,0,0,0,,你有梦想 但老是受挫\NYou've had dreams and a lot of resistance,
+Dialogue: 0,0:09:35.78,0:09:38.91,Default,,0,0,0,,身边也没人支持你\Nnot a lot of support in realizing those dreams.
+Dialogue: 0,0:09:38.92,0:09:41.59,Default,,0,0,0,,当伤害变成了...\NAnd when we've experienced...
+Dialogue: 0,0:09:42.49,0:09:45.26,Default,,0,0,0,,一次次家常便饭\Nhurt again and again,
+Dialogue: 0,0:09:45.69,0:09:47.26,Default,,0,0,0,,就会习惯性地想\Nwe start to expect it.
+Dialogue: 0,0:09:47.26,0:09:48.62,Default,,0,0,0,,“哦 这路我熟”\NIt's like, "Oh, I know this path.
+Dialogue: 0,0:09:48.63,0:09:49.79,Default,,0,0,0,,“下场一定是一样的”\NI know where it goes."
+Dialogue: 0,0:09:51.26,0:09:52.53,Default,,0,0,0,,所以...\NSo...
+Dialogue: 0,0:09:53.83,0:09:56.03,Default,,0,0,0,,你想不想摆脱这个死循环\Nare you interested in forging a new path
+Dialogue: 0,0:09:56.03,0:09:57.37,Default,,0,0,0,,走出一条不同的路？\Nand see where that leads?
+Dialogue: 0,0:09:58.20,0:10:00.87,Default,,0,0,0,,好啊 我来都来了 就试试吧\NSure. Why not? You know, I'm here.
+Dialogue: 0,0:10:02.01,0:10:03.21,Default,,0,0,0,,很好\NGreat.
+Dialogue: 0,0:10:03.61,0:10:05.11,Default,,0,0,0,,要不咱们重温一下\NSo I want to revisit
+Dialogue: 0,0:10:05.11,0:10:07.31,Default,,0,0,0,,之前练过的那个\Nan exercise we've done before.
+Dialogue: 0,0:10:08.61,0:10:10.01,Default,,0,0,0,,角色扮演\NThe role play.
+Dialogue: 0,0:10:10.01,0:10:11.85,Default,,0,0,0,,- 哦 演戏那套？ - 对\N- Oh, the acting thing? - Yeah.
+Dialogue: 0,0:10:11.85,0:10:13.82,Default,,0,0,0,,- 我觉得太丢人了 - 我懂\N- I feel stupid doing that. - I know.
+Dialogue: 0,0:10:13.82,0:10:15.79,Default,,0,0,0,,但既然还有点时间 就....\NBut we have a few minutes. Let's, um...
+Dialogue: 0,0:10:16.92,0:10:18.56,Default,,0,0,0,,试一下吧 稍微试试\NYeah, let's try. A little bit.
+Dialogue: 0,0:10:19.09,0:10:20.52,Default,,0,0,0,,好吧\NAll right.
+Dialogue: 0,0:10:21.19,0:10:22.53,Default,,0,0,0,,咱们先定个场景\NLet's set the scene.
+Dialogue: 0,0:10:23.83,0:10:27.63,Default,,0,0,0,,回到芭芭拉离开你的那晚\NLet's go back to the night that Barbara left you.
+Dialogue: 0,0:10:29.03,0:10:31.27,Default,,0,0,0,,你是说她把我从我家给撵出去的那晚？\NYou mean the night she kicked me out of my own house?
+Dialogue: 0,0:10:31.50,0:10:33.20,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,0:10:33.67,0:10:34.77,Default,,0,0,0,,我演我自己\NI'm playing myself.
+Dialogue: 0,0:10:36.01,0:10:37.91,Default,,0,0,0,,- 我演芭芭拉 - 别忘了 那可是我的房子\N- And I'll be Barbara. - It is my house, by the way.
+Dialogue: 0,0:10:38.84,0:10:40.38,Default,,0,0,0,,房贷都是我在还\NI'm the one paying for it.
+Dialogue: 0,0:10:41.02,0:10:43.26,Default,,0,0,0,,- 我知道 - 好吧\N- I know. - All right.
+Dialogue: 0,0:10:45.62,0:10:47.38,Default,,0,0,0,,好 那...\NOkay, so, um...
+Dialogue: 0,0:10:49.25,0:10:51.75,Default,,0,0,0,,那天我回家晚了 具体几点我忘了\NI got home late. I don't know how late.
+Dialogue: 0,0:10:51.76,0:10:53.66,Default,,0,0,0,,那时候她已经睡了 应该是半夜了\NUh... She was already asleep. Maybe midnight.
+Dialogue: 0,0:10:55.26,0:10:57.16,Default,,0,0,0,,她一般睡得早...算了 这不重要\NShe usually goes to bed before... It doesn't matter.
+Dialogue: 0,0:10:57.16,0:10:59.79,Default,,0,0,0,,重点是我当时在厨房\NThe point is, I was in the kitchen, and, um...
+Dialogue: 0,0:10:59.80,0:11:02.30,Default,,0,0,0,,有个杯子 我把杯子打碎了\Nthe glass, I broke the glass,
+Dialogue: 0,0:11:02.30,0:11:05.77,Default,,0,0,0,,她听见动静跑下来 然后...\Nand she comes running down to see what happened, and...
+Dialogue: 0,0:11:06.50,0:11:07.80,Default,,0,0,0,,就闹起来了\Nthings escalated.
+Dialogue: 0,0:11:07.80,0:11:09.24,Default,,0,0,0,,那你当时什么感受？\NAnd how do you feel?
+Dialogue: 0,0:11:09.81,0:11:11.84,Default,,0,0,0,,我当时...\NWell, I was...
+Dialogue: 0,0:11:11.84,0:11:14.84,Default,,0,0,0,,我当时喝多了...\NI was drunk, and, um...
+Dialogue: 0,0:11:14.85,0:11:17.18,Default,,0,0,0,,我 我觉得自己挺蠢的 你懂吧\NI-I felt stupid, you know.
+Dialogue: 0,0:11:17.18,0:11:19.85,Default,,0,0,0,,我就火了 因为 因为我把杯子打碎了\NI was angry, because... because I broke the glass.
+Dialogue: 0,0:11:19.85,0:11:21.62,Default,,0,0,0,,你能对着我再说一遍吗？\NCan you say that to me?
+Dialogue: 0,0:11:21.62,0:11:23.49,Default,,0,0,0,,- 对着你 对着芭芭拉？ - 对\N- Uh, what, to-to Barbara? - Yeah.
+Dialogue: 0,0:11:26.62,0:11:29.89,Default,,0,0,0,,额...对不起 把你吵醒了\NUm... I'm sorry that I woke you.
+Dialogue: 0,0:11:33.20,0:11:36.00,Default,,0,0,0,,要是你能早点回家\NMaybe if you'd come home earlier,
+Dialogue: 0,0:11:36.00,0:11:37.40,Default,,0,0,0,,咱们今晚本该待在一起的\Nwe could have spent the evening together.
+Dialogue: 0,0:11:38.84,0:11:40.70,Default,,0,0,0,,我 我在加班 你懂的\NNo, I was... I was working, you know?
+Dialogue: 0,0:11:40.70,0:11:42.37,Default,,0,0,0,,下班后我就直接回来了\NI came straight home after work.
+Dialogue: 0,0:11:42.37,0:11:43.84,Default,,0,0,0,,诚实点吧\NBe honest with me, please.
+Dialogue: 0,0:11:44.88,0:11:46.38,Default,,0,0,0,,你身上那酒气我都闻得见\NI can smell it on your breath.
+Dialogue: 0,0:11:48.88,0:11:50.31,Default,,0,0,0,,我就喝了点啤酒\NI had a few beers.
+Dialogue: 0,0:11:50.55,0:11:52.18,Default,,0,0,0,,一点是多少？\NDefine a few.
+Dialogue: 0,0:11:52.18,0:11:53.35,Default,,0,0,0,,唉 今天太累了\NWell, it was a hard day.
+Dialogue: 0,0:11:54.62,0:11:56.05,Default,,0,0,0,,我得喝点放松放松\NI needed to wind down.
+Dialogue: 0,0:11:56.05,0:11:57.39,Default,,0,0,0,,你不成天在放松吗\NAll you ever do is wind down.
+Dialogue: 0,0:11:58.52,0:11:59.52,Default,,0,0,0,,成天呆在那店里\NYou're always at the store.
+Dialogue: 0,0:12:04.06,0:12:05.43,Default,,0,0,0,,你想要孩子 对吧？\NYou want kids, right?
+Dialogue: 0,0:12:07.26,0:12:08.96,Default,,0,0,0,,- 咱们都想要 - 但你要知道...\N- We both do. - Well, you know...
+Dialogue: 0,0:12:08.97,0:12:10.40,Default,,0,0,0,,养家得花钱\Nhaving a family takes money,
+Dialogue: 0,0:12:10.40,0:12:11.70,Default,,0,0,0,,总得有人去挣钱\Nwhich means someone has to work.
+Dialogue: 0,0:12:12.77,0:12:14.40,Default,,0,0,0,,除非现在当学生\NUnless being a professional student
+Dialogue: 0,0:12:14.40,0:12:16.34,Default,,0,0,0,,也能算份工作了\Nis considered a job these days.
+Dialogue: 0,0:12:16.34,0:12:18.74,Default,,0,0,0,,你不能这么说 你知道我得休学一段时间\NThat's not fair. You know I had to take time off.
+Dialogue: 0,0:12:18.74,0:12:20.21,Default,,0,0,0,,你自己跟不上 凭什么怪我\NWell, it's not my fault if you can't keep up.
+Dialogue: 0,0:12:20.21,0:12:21.41,Default,,0,0,0,,连法学院都搞不定\NHow are you going to be a lawyer
+Dialogue: 0,0:12:21.41,0:12:22.61,Default,,0,0,0,,还想怎么当律师？\Nif you can't even handle law school?
+Dialogue: 0,0:12:24.78,0:12:26.35,Default,,0,0,0,,当你这个三十岁的大一新生\NWho do you think pays for everything
+Dialogue: 0,0:12:26.35,0:12:27.62,Default,,0,0,0,,在学校里到处瞎逛时\Nwhile you're gallivanting around campus
+Dialogue: 0,0:12:27.62,0:12:28.85,Default,,0,0,0,,也不想想谁在供你上学？\Nlike a 30-year-old freshman?
+Dialogue: 0,0:12:29.65,0:12:31.32,Default,,0,0,0,,我给你个提示 就是我\NI'll give you a hint: it's me.
+Dialogue: 0,0:12:32.59,0:12:34.72,Default,,0,0,0,,你上学是我供 休学是我供\NI pay for your school, I pay for your time off school,
+Dialogue: 0,0:12:34.73,0:12:35.86,Default,,0,0,0,,房子还是我供\NI pay for the roof over your head.
+Dialogue: 0,0:12:35.86,0:12:37.79,Default,,0,0,0,,- 我能说句话吗？ - 不 没门 \N- Can I talk now? - No! No.
+Dialogue: 0,0:12:37.79,0:12:39.19,Default,,0,0,0,,要是你真混到毕业了\NBecause I'd like to know, what do you think happens
+Dialogue: 0,0:12:39.20,0:12:41.30,Default,,0,0,0,,我倒想知道结果会怎样？\Nif you do manage to graduate?
+Dialogue: 0,0:12:41.30,0:12:43.47,Default,,0,0,0,,生个娃账单继续甩给我？\NYou know, you pop out a kid, then leave me with the bill.
+Dialogue: 0,0:12:43.47,0:12:46.54,Default,,0,0,0,,还是你终于成大忙人了\NOr am I stuck at home changing diapers because
+Dialogue: 0,0:12:46.54,0:12:48.40,Default,,0,0,0,,我就得天天在家给娃换屎尿？\Nyou're too busy working for the first time in your life?
+Dialogue: 0,0:12:48.41,0:12:50.41,Default,,0,0,0,,- 你这话太狠了 - 我是在说实话\N- Now you're being cruel. - I'm being honest.
+Dialogue: 0,0:12:51.38,0:12:52.84,Default,,0,0,0,,我以为这就是你的追求\NI thought that's what you always wanted.
+Dialogue: 0,0:12:54.61,0:12:56.24,Default,,0,0,0,,你没考上建筑师 并不代表...\NJust because you didn't get to be an architect doesn't mean--
+Dialogue: 0,0:12:56.25,0:12:57.88,Default,,0,0,0,,老子就是建筑师！\NI am a fucking architect!
+Dialogue: 0,0:12:59.68,0:13:02.55,Default,,0,0,0,,我成天得在那破店里卖这些玩意儿\NGod damn it, I'm just stuck selling shit furniture because
+Dialogue: 0,0:13:02.55,0:13:04.72,Default,,0,0,0,,就因为某个懒猪在家混吃等死 根本不肯出力\Nsomeone won't get off their fat fucking ass and help me!
+Dialogue: 0,0:13:13.10,0:13:14.53,Default,,0,0,0,,克拉克 现在感觉怎么样？\NHow do you feel, Clark?
+Dialogue: 0,0:13:20.07,0:13:21.97,Default,,0,0,0,,我在跟谁说话呢？\NWho am I talking to?
+Dialogue: 0,0:13:21.97,0:13:23.37,Default,,0,0,0,,- 是我 在你面前  - 哦 你啊 好吧\N- Me, here, now. - You? Okay.
+Dialogue: 0,0:13:24.68,0:13:25.98,Default,,0,0,0,,那个...\NUm...
+Dialogue: 0,0:13:27.44,0:13:29.58,Default,,0,0,0,,对不起 我不是故意那样说...\NI'm sorry, I didn't mean to, uh...
+Dialogue: 0,0:13:29.58,0:13:31.95,Default,,0,0,0,,就是 刚才发火了\N...you know, get angry
+Dialogue: 0,0:13:31.95,0:13:33.82,Default,,0,0,0,,情绪失控了那种\Nor lose my temper or whatever.
+Dialogue: 0,0:13:33.82,0:13:34.88,Default,,0,0,0,,我知道\NI know.
+Dialogue: 0,0:13:36.05,0:13:37.92,Default,,0,0,0,,练习的目的就在这儿\NThat's the purpose of the whole exercise.
+Dialogue: 0,0:13:39.12,0:13:40.49,Default,,0,0,0,,这是一个不错的开始\NThis is a good start.
+Dialogue: 0,0:13:41.02,0:13:43.02,Default,,0,0,0,,正视你的感受\NTo feel what you feel,
+Dialogue: 0,0:13:43.03,0:13:45.03,Default,,0,0,0,,然后找出一条新路\Nand then learn to identify a new path.
+Dialogue: 0,0:13:46.60,0:13:49.40,Default,,0,0,0,,你的反应其实很正常\NYour reaction was actually quite normal.
+Dialogue: 0,0:13:51.87,0:13:53.07,Default,,0,0,0,,呵呵 我就这德行\NWell, that's me!
