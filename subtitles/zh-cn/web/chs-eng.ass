@@ -47,7 +47,7 @@ Dialogue: 0,0:03:38.32,0:03:39.76,Default,,0,0,0,,完了\NOh, fuck!
 Dialogue: 0,0:03:43.73,0:03:45.06,Default,,0,0,0,,完了\NFuck...
 Dialogue: 0,0:03:52.60,0:03:54.17,Default,,0,0,0,,该死 该死\NFuck! Fuck...
 Dialogue: 0,0:04:06.35,0:04:07.95,Default,,0,0,0,,该死 搞什么鬼？\NOh, shit... What the fuck?
-Dialogue: 0,0:05:11.24,0:05:14.55,Default,,0,0,0,,[无需信用卡]
+Dialogue: 0,0:05:11.24,0:05:14.55,Default,,0,0,0,,[钱不够 没...]
 Dialogue: 0,0:05:40.18,0:05:41.41,Default,,0,0,0,,怎么回事？\NWhat the fuck?
 Dialogue: 0,0:06:05.67,0:06:07.44,Default,,0,0,0,,完了 完了 完了\NFuck! Fuck! Fuck!
 Dialogue: 0,0:06:13.38,0:06:14.51,Default,,0,0,0,,完了\NFuck!
@@ -61,7 +61,7 @@ Dialogue: 0,0:08:03.67,0:08:04.61,Default,,0,0,0,,[克船长的家具百宝库]
 Dialogue: 0,0:08:04.62,0:08:06.62,Default,,0,0,0,,却指望能走出新路\Nthinking each time they'll take you somewhere new.
 Dialogue: 0,0:08:07.83,0:08:08.99,Default,,0,0,0,,但没用\NBut they don't.
 Dialogue: 0,0:08:16.50,0:08:18.43,Default,,0,0,0,,因为大脑\NAnd still,
-Dialogue: 0,0:08:18.44,0:08:20.14,Default,,0,0,0,,总是找最懒的路线\Nit's the neural pathway of least resistance.
+Dialogue: 0,0:08:18.44,0:08:20.14,Default,,0,0,0,,总是习惯于 走阻力最小的路径\Nit's the neural pathway of least resistance.
 Dialogue: 0,0:08:21.67,0:08:22.67,Default,,0,0,0,,[无良商家]
 Dialogue: 0,0:08:23.44,0:08:25.34,Default,,0,0,0,,你建立了心理防线\NA path you made.
 Dialogue: 0,0:08:26.34,0:08:29.08,Default,,0,0,0,,小时候 这套防线保护了你\NIt's the one that kept you safe when you were a child.
@@ -184,3 +184,162 @@ Dialogue: 0,0:13:41.02,0:13:43.02,Default,,0,0,0,,正视你的感受\NTo feel wh
 Dialogue: 0,0:13:43.03,0:13:45.03,Default,,0,0,0,,然后找出一条新路\Nand then learn to identify a new path.
 Dialogue: 0,0:13:46.60,0:13:49.40,Default,,0,0,0,,你的反应其实很正常\NYour reaction was actually quite normal.
 Dialogue: 0,0:13:51.87,0:13:53.07,Default,,0,0,0,,呵呵 我就这德行\NWell, that's me!
+Dialogue: 0,0:13:55.44,0:13:57.94,Default,,0,0,0,,喂！伙计们！\NWell, ahoy there, mateys!
+Dialogue: 0,0:13:57.94,0:14:01.98,Default,,0,0,0,,还打算把金币全砸在那些冤大头家具上？ \NTired of spending your hard-earned doubloons on overpriced furniture?
+Dialogue: 0,0:14:01.98,0:14:04.15,Default,,0,0,0,,想买惊掉下巴的跳海价吗？\NLooking for deals that'll shiver your timbers?
+Dialogue: 0,0:14:04.15,0:14:08.05,Default,,0,0,0,,赶快来克船长的家具百宝库！\NThen come on down to Cap'n Clark's Ottoman Empire,
+Dialogue: 0,0:14:08.05,0:14:12.29,Default,,0,0,0,,圣克拉拉谷的头号家具大卖场\Nthe Santa Clara Valley's favorite warehouse and showrooms.
+Dialogue: 0,0:14:12.29,0:14:14.36,Default,,0,0,0,,卧室 客厅 餐厅 书房 浴室\NYou'll find bedrooms, living rooms,
+Dialogue: 0,0:14:14.36,0:14:17.36,Default,,0,0,0,,全屋家具 应有尽有！\Ndinettes, dens and bathrooms aplenty.
+Dialogue: 0,0:14:17.36,0:14:20.13,Default,,0,0,0,,刚买房的？来这儿就对了！[拆分]\NFirst-time homeowners? We've got ya.
+Dialogue: 0,0:14:20.13,0:14:21.86,Default,,0,0,0,,新当爹妈的？\NNew parents looking for Billy's first crib?
+Dialogue: 0,0:14:21.87,0:14:23.43,Default,,0,0,0,,来这就对了！\NWe've got ya!
+Dialogue: 0,0:14:23.43,0:14:25.37,Default,,0,0,0,,时髦现代样样全\NFrom the latest in modern design
+Dialogue: 0,0:14:25.37,0:14:27.70,Default,,0,0,0,,经典复古通通有\Nto the classic styles of yesteryear,
+Dialogue: 0,0:14:27.71,0:14:29.74,Default,,0,0,0,,价格低到没对手\Nit's all here and it's all a steal.
+Dialogue: 0,0:14:30.27,0:14:31.81,Default,,0,0,0,,怎么啦 波莉？\NWhat's that, Polly?
+Dialogue: 0,0:14:31.81,0:14:33.61,Default,,0,0,0,,信用卡里钱不够？\NYou're worried about credit?
+Dialogue: 0,0:14:33.61,0:14:37.61,Default,,0,0,0,,哈哈！在克船长这儿 钱不够 没问题！\NHa! Cap'n Clark says no credit, no problem!
+Dialogue: 0,0:14:37.62,0:14:39.95,Default,,0,0,0,,快来潜入顶级家具海洋\NSail the high seas of high quality,
+Dialogue: 0,0:14:39.95,0:14:41.88,Default,,0,0,0,,把钱的问题统统抛在脑后\Nand leave your money problems at the door.
+Dialogue: 0,0:14:41.89,0:14:43.52,Default,,0,0,0,,今天就来店里\NWalk in today
+Dialogue: 0,0:14:43.52,0:14:45.55,Default,,0,0,0,,把梦想直接搬回家！\Nand get your dream sectional lounger,
+Dialogue: 0,0:14:45.56,0:14:48.56,Default,,0,0,0,,桌椅板凳 灯具摆件随便挑！\Nkitchen table, floor lamp, and bed frame here
+Dialogue: 0,0:14:48.56,0:14:51.56,Default,,0,0,0,,克船长的家具百宝库\Nat Cap'n Clark's Ottoman Empire,
+Dialogue: 0,0:14:51.56,0:14:54.36,Default,,0,0,0,,就在680号公路 凯皮托与麦基路口\Nlocated at Capitol and McKee, just off the 680.
+Dialogue: 0,0:14:54.36,0:14:56.00,Default,,0,0,0,,嘿吼！赶紧过来...\NArr! Walk in today...
+Dialogue: 0,0:14:57.33,0:14:59.13,Default,,0,0,0,,翘起二郎腿\N...kick your feet back,
+Dialogue: 0,0:14:59.14,0:15:01.37,Default,,0,0,0,,当你的家具大王！\Nand enjoy an empire of your own!
+Dialogue: 0,0:15:01.37,0:15:04.21,Default,,0,0,0,,毕竟 国王得有王座\NFor every sultan deserves a throne,
+Dialogue: 0,0:15:04.21,0:15:05.64,Default,,0,0,0,,而你的专属王座 就在这儿等着你\Nand we've got one with your name on it,
+Dialogue: 0,0:15:05.64,0:15:07.01,Default,,0,0,0,,就在克船长的...\Nhere at Cap'n Clark's--
+Dialogue: 0,0:15:08.21,0:15:09.11,Default,,0,0,0,,卧槽\NNo way!
+Dialogue: 0,0:15:10.38,0:15:12.01,Default,,0,0,0,,- 克拉克 没事吧？ - 快把相机关了\N- Clark, you good? - Turn the camera off.
+Dialogue: 0,0:15:12.02,0:15:13.88,Default,,0,0,0,,不不 拍得好 这种花絮才有趣\NNo, no, it's good. It's outtake stuff, dude.
+Dialogue: 0,0:15:13.89,0:15:15.85,Default,,0,0,0,,- 赶紧给老子关掉 - 好吧...我的天\N- Turn the fucking camera off. - Okay... Jesus...
+Dialogue: 0,0:15:17.76,0:15:19.25,Default,,0,0,0,,那个 要帮忙吗？\NYou, uh, you need help?
+Dialogue: 0,0:15:19.26,0:15:20.99,Default,,0,0,0,,不用 我自己来\NNo, I got it, I got it.
+Dialogue: 0,0:15:21.89,0:15:23.56,Default,,0,0,0,,那个...\NUm...
+Dialogue: 0,0:15:23.56,0:15:25.56,Default,,0,0,0,,- 还要重拍吗？ - 不拍了\N- Are we going again, or...? - No.
+Dialogue: 0,0:15:25.56,0:15:27.43,Default,,0,0,0,,小凯 去开门开业吧\NKat, you can open the store now.
+Dialogue: 0,0:15:27.43,0:15:29.17,Default,,0,0,0,,早就开了\NWe've been open.
+Dialogue: 0,0:15:29.41,0:15:30.41,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:15:32.00,0:15:34.24,Default,,0,0,0,,伙计 我还是没搞懂\NYou know, dude, I still don't get it.
+Dialogue: 0,0:15:34.24,0:15:37.37,Default,,0,0,0,,你演的是海盗还是国王？\NAre you, like, a pirate or a sultan?
+Dialogue: 0,0:15:37.37,0:15:39.71,Default,,0,0,0,,- 最好还是明确一下 - 我是个...闭嘴\N- Just be good to establish it. - I'm a... Shut up.
+Dialogue: 0,0:15:39.71,0:15:42.68,Default,,0,0,0,,刨花板做的破椅子\NPiece of cheap particleboard bullshit.
+Dialogue: 0,0:15:43.38,0:15:44.91,Default,,0,0,0,,快把这东西弄走 听到没？\NClear this stuff up, will you?
+Dialogue: 0,0:15:45.75,0:15:46.92,Default,,0,0,0,,给你\NHere.
+Dialogue: 0,0:15:47.62,0:15:49.85,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:16:05.07,0:16:06.00,Default,,0,0,0,,抱歉\NSorry about that.
+Dialogue: 0,0:16:07.00,0:16:08.40,Default,,0,0,0,,怎么样 查出来没？\NHow's it looking?
+Dialogue: 0,0:16:08.41,0:16:10.27,Default,,0,0,0,,电表没问题\NMeter reads fine.
+Dialogue: 0,0:16:10.27,0:16:12.11,Default,,0,0,0,,电费要是高 只能是你自己用得多\NIf your bill's coming in high, that's on you.
+Dialogue: 0,0:16:13.61,0:16:15.21,Default,,0,0,0,,那跳电的事怎么说 打烊后就出现\NWhat about the outages? That happens after hours.
+Dialogue: 0,0:16:16.58,0:16:19.01,Default,,0,0,0,,没准是荧光灯出问题 导致跳闸了\NDon't know. Fluorescents must be tripping a breaker.
+Dialogue: 0,0:16:21.18,0:16:23.95,Default,,0,0,0,,一打烊我就把顶灯都关了\NI turn the overheads off when the store closes,
+Dialogue: 0,0:16:23.96,0:16:25.26,Default,,0,0,0,,还没闪之前就关了\Nbefore the power gets weird.
+Dialogue: 0,0:16:26.59,0:16:27.92,Default,,0,0,0,,而且 这样电费不该少点吗？\NAnyway, wouldn't that just make the bills go down?
+Dialogue: 0,0:16:31.36,0:16:32.63,Default,,0,0,0,,配电箱在哪儿？\NWhere's your breaker box?
+Dialogue: 0,0:16:34.23,0:16:35.80,Default,,0,0,0,,虽然我不是专家\NI'm no expert,
+Dialogue: 0,0:16:35.80,0:16:38.90,Default,,0,0,0,,但我之前看过了 没看出什么问题\Nbut I checked earlier, and everything looks okay.
+Dialogue: 0,0:16:38.90,0:16:41.04,Default,,0,0,0,,- 你说灯会闪 - 对 整个店都闪\N- You said the lights flicker. - Yeah, the whole store does.
+Dialogue: 0,0:16:41.04,0:16:42.74,Default,,0,0,0,,- 是吗？ - 只是不一起闪\N- Huh. - Just not at the same time.
+Dialogue: 0,0:16:42.74,0:16:44.44,Default,,0,0,0,,有一晚是楼上\NOne night, I lose the power upstairs.
+Dialogue: 0,0:16:44.44,0:16:46.78,Default,,0,0,0,,下一晚就变成了楼下 完全没规律\NNext night, it's down here. There's no rhyme or...
+Dialogue: 0,0:16:54.22,0:16:55.65,Default,,0,0,0,,谁装的这鬼东西？\NWho the hell installed this thing?
+Dialogue: 0,0:16:56.52,0:16:58.45,Default,,0,0,0,,这房子买来就布好线了\NWell, the building came wired.
+Dialogue: 0,0:16:58.46,0:16:59.92,Default,,0,0,0,,虽然有点年头 但也不至于不能用\NI mean, it's dated, but it's not that old.
+Dialogue: 0,0:17:07.10,0:17:07.96,Default,,0,0,0,,你来看看这个\NTake a look at this.
+Dialogue: 0,0:17:12.74,0:17:13.84,Default,,0,0,0,,之前没这东西\NThat wasn't there before.
+Dialogue: 0,0:17:14.94,0:17:19.34,Default,,0,0,0,,也许是我没注意到 我不是专家\NOr... maybe I didn't notice. Like I say, I'm no expert.
+Dialogue: 0,0:17:19.34,0:17:21.34,Default,,0,0,0,,为什么 为什么是斜着的？\NWhy-why is it... why is it going that way?
+Dialogue: 0,0:17:21.34,0:17:23.05,Default,,0,0,0,,应该问问\NBetter question:
+Dialogue: 0,0:17:24.18,0:17:25.88,Default,,0,0,0,,这东西到底接到哪儿了\Nwhat is it even connected to?
+Dialogue: 0,0:17:26.92,0:17:28.12,Default,,0,0,0,,懂吗？\NHuh?
+Dialogue: 0,0:17:36.16,0:17:37.93,Default,,0,0,0,,小凯 楼上灯怎么样？\NKat! How's the power?
+Dialogue: 0,0:17:38.86,0:17:40.06,Default,,0,0,0,,干嘛？\NWhat?
+Dialogue: 0,0:17:40.06,0:17:41.90,Default,,0,0,0,,上面有反应吗？\NAnything happen up there?
+Dialogue: 0,0:17:42.33,0:17:43.53,Default,,0,0,0,,搞什么鬼\NWhat the hell?
+Dialogue: 0,0:17:43.53,0:17:44.87,Default,,0,0,0,,老鼠回来了\NThe rat's back.
+Dialogue: 0,0:17:45.54,0:17:47.07,Default,,0,0,0,,- 灯还正常吧 - 正常\N- But the power's on. - Yeah.
+Dialogue: 0,0:17:47.07,0:17:48.74,Default,,0,0,0,,我还以为咱们把老鼠给干掉了\NI thought we killed the rat.
+Dialogue: 0,0:17:48.74,0:17:49.84,Default,,0,0,0,,咱们才杀了一只\NWe killed  a  rat.
+Dialogue: 0,0:17:51.78,0:17:54.64,Default,,0,0,0,,- 这就是问题原因吗？- 没道理啊\N- So is this the problem? - Don't see how.
+Dialogue: 0,0:17:54.65,0:17:56.15,Default,,0,0,0,,电路根本不走这里\NPower can't even go through this part of the circuit.
+Dialogue: 0,0:17:56.58,0:17:57.78,Default,,0,0,0,,它纯粹是...\NIt's just...
+Dialogue: 0,0:17:57.78,0:17:59.05,Default,,0,0,0,,摆设\Nthere.
+Dialogue: 0,0:18:00.05,0:18:02.38,Default,,0,0,0,,被哪个笨蛋随便塞进去的\NLike some schmo just stuck it in there.
+Dialogue: 0,0:18:02.39,0:18:04.55,Default,,0,0,0,,没错\NYeah.
+Dialogue: 0,0:18:13.26,0:18:16.40,Default,,0,0,0,,你是否觉得生活像被隔在了一层玻璃之后？\NDo you ever feel like you're living behind glass?
+Dialogue: 0,0:18:16.40,0:18:18.63,Default,,0,0,0,,看着世界在眼前上演\NWatching life happen,
+Dialogue: 0,0:18:18.64,0:18:20.67,Default,,0,0,0,,自己却只能旁观？\Nbut never really stepping into it?
+Dialogue: 0,0:18:21.84,0:18:24.87,Default,,0,0,0,,现在 是时候打开心灵之窗了\NMaybe it's time to open the window within.
+Dialogue: 0,0:18:26.34,0:18:28.64,Default,,0,0,0,,你可以重新定义自己的人生\NYou can be the author of your own design
+Dialogue: 0,0:18:28.65,0:18:30.18,Default,,0,0,0,,我们每个人 都值得拥有另一次机会\Nbecause we all deserve another chance
+Dialogue: 0,0:18:30.18,0:18:31.65,Default,,0,0,0,,让梦想重新启航\Nto fulfill our dreams.
+Dialogue: 0,0:18:32.88,0:18:34.52,Default,,0,0,0,,只要你相信改变是可能的\NThe moment you believe change is possible,
+Dialogue: 0,0:18:34.52,0:18:35.75,Default,,0,0,0,,你就已经开始了这段旅程\Nyou've already begun.
+Dialogue: 0,0:18:36.21,0:18:36.74,Default,,0,0,0,,[《心灵之窗》]
+Dialogue: 0,0:18:36.75,0:18:38.82,Default,,0,0,0,,立即订购《心灵之窗》\NOrder The Window Within
+Dialogue: 0,0:18:38.82,0:18:40.69,Default,,0,0,0,,以及配套的三辑音频课程\Nand the companion three-part audio program,
+Dialogue: 0,0:18:40.69,0:18:44.49,Default,,0,0,0,,《引导之门》 均由玛丽·克莱因医生倾力呈现\NGuided Openings, by Dr. Mary Klein.
+Dialogue: 0,0:18:44.49,0:18:46.33,Default,,0,0,0,,现价24.95美元 运费另计\NAvailable now for $24.95 plus shipping.
+Dialogue: 0,0:18:47.53,0:18:51.90,Default,,0,0,0,,请拨打1-800-555-0199\NCall 1-800-555-0199.
+Dialogue: 0,0:18:53.74,0:18:55.84,Default,,0,0,0,,开辟一条新路 永远不晚\NIt's never too late to forge a new path.
+Dialogue: 0,0:18:58.71,0:19:00.78,Default,,0,0,0,,你居然还在信任纸质文件夹\NSo, you're still trusting paper folders,
+Dialogue: 0,0:19:00.78,0:19:03.01,Default,,0,0,0,,贴错标签的磁带 还有个谁拿把钥匙\Nmislabeled tapes, and a locked filing cabinet
+Dialogue: 0,0:19:03.01,0:19:04.61,Default,,0,0,0,,就能开的文件柜？\Nthat anyone with a spare key can open?
+Dialogue: 0,0:19:04.62,0:19:06.95,Default,,0,0,0,,信息决定企业的生死\NYour business runs on information,
+Dialogue: 0,0:19:06.95,0:19:09.55,Default,,0,0,0,,但大多数公司却把数据当成了堆杂物...\Nyet most companies treat their data like clutter...
+Dialogue: 0,0:19:13.72,0:19:15.86,Default,,0,0,0,,那个信号不是小行星\NThat small blip is not an asteroid.
+Dialogue: 0,0:19:15.86,0:19:18.03,Default,,0,0,0,,是一艘飞船 它咬住我们了\NIt's a spaceship, and it's on our tail.
+Dialogue: 0,0:19:18.03,0:19:20.46,Default,,0,0,0,,- 它在靠近 - 不可能 里格娜\N- It's getting closer. - Impossible, Rigna.
+Dialogue: 0,0:19:20.46,0:19:23.23,Default,,0,0,0,,他们不可能发现我们 雷达隐身还开着呢\NThey couldn't have spotted us. We have our radar shield on.
+Dialogue: 0,0:19:23.23,0:19:25.77,Default,,0,0,0,,我知道 长官 但他们追上来了\NI know that, sir, but they are gaining on us.
+Dialogue: 0,0:19:25.77,0:19:27.70,Default,,0,0,0,,难道地球人有某种秘密设备\NIs it possible Earth has a secret device
+Dialogue: 0,0:19:27.71,0:19:29.54,Default,,0,0,0,,能穿透我们的雷达隐身罩？\Nthat can penetrate our radar shield?
+Dialogue: 0,0:19:59.21,0:20:00.49,Default,,0,0,0,,[（1970年圣克鲁斯现代主义建筑设计论坛）]
+Dialogue: 0,0:20:05.04,0:20:06.48,Default,,0,0,0,,垃圾\NPiece of shit.
+Dialogue: 0,0:20:54.23,0:20:57.03,Default,,0,0,0,,为什么 你要这样对待自己？\NWhy did you do this to yourself?
+Dialogue: 0,0:21:00.77,0:21:02.13,Default,,0,0,0,,你是怎么来到这里的？\NHow did you get here?
+Dialogue: 0,0:21:06.14,0:21:09.64,Default,,0,0,0,,你的意识 就像一个装满记忆的房间\NYour consciousness is a room full of memories
+Dialogue: 0,0:21:09.64,0:21:12.11,Default,,0,0,0,,它在时刻重构 在无限演变\Nthat is constantly evolving.
+Dialogue: 0,0:21:14.38,0:21:15.85,Default,,0,0,0,,在现实生活中\NBut as you walk through life,
+Dialogue: 0,0:21:17.11,0:21:19.45,Default,,0,0,0,,未经训练的心灵会开始筑墙\Nthe untrained mind can start to build walls,
+Dialogue: 0,0:21:20.95,0:21:22.19,Default,,0,0,0,,建立屏障\Nput up barriers
+Dialogue: 0,0:21:23.99,0:21:25.49,Default,,0,0,0,,隔绝外界\Nto protect itself from the outside world.
+Dialogue: 0,0:21:27.36,0:21:29.09,Default,,0,0,0,,这是本能反应\NIt's a natural response.
+Dialogue: 0,0:21:30.66,0:21:32.19,Default,,0,0,0,,我们常常对此毫无察觉\NSomething we are often unaware of.
+Dialogue: 0,0:21:33.50,0:21:35.63,Default,,0,0,0,,但久而久之\NBut if gone unchecked,
+Dialogue: 0,0:21:35.63,0:21:37.13,Default,,0,0,0,,你会发现 自己被囚禁了\Nit can leave you feeling trapped.
+Dialogue: 0,0:21:39.37,0:21:41.44,Default,,0,0,0,,你会说服自己\NYou can become convinced that the world outside
+Dialogue: 0,0:21:41.44,0:21:43.07,Default,,0,0,0,,外面的世界不需要你\Nis better off without you.
+Dialogue: 0,0:21:44.54,0:21:46.18,Default,,0,0,0,,你会告诉自己 自己不配被爱\NThat you never deserve the relationships you've had.
+Dialogue: 0,0:21:47.81,0:21:50.21,Default,,0,0,0,,于是 你只能蜷缩在窗后\NResigned to watch your life unfold
+Dialogue: 0,0:21:50.21,0:21:51.98,Default,,0,0,0,,当个旁观者 静静地看着生活上演\Nfrom behind a lone window.
+Dialogue: 0,0:21:54.38,0:21:56.09,Default,,0,0,0,,但我能帮你\NI can help you open it now
+Dialogue: 0,0:21:57.99,0:21:59.39,Default,,0,0,0,,因为窗户 并没有锁上\Nbecause the window isn't locked.
+Dialogue: 0,0:22:01.66,0:22:03.53,Default,,0,0,0,,门闩 也可以被打开\NThe latch was never broken.
+Dialogue: 0,0:22:07.23,0:22:08.86,Default,,0,0,0,,准备好跨过去了吗？\NAre you ready to step through?
+Dialogue: 0,0:22:12.17,0:22:14.50,Default,,0,0,0,,去夺回属于你的东西\NSo that you can reclaim that which was once yours...
+Dialogue: 0,0:22:16.77,0:22:19.21,Default,,0,0,0,,去重新主宰你的生命\Nand take back control of your life.
+Dialogue: 0,0:22:21.21,0:22:22.71,Default,,0,0,0,,去过你想过的人生\NThe life you want to be living.
+Dialogue: 0,0:22:25.08,0:22:27.35,Default,,0,0,0,,卸下过去的沉重\NUnburdened by the traumas of the past.
+Dialogue: 0,0:22:28.75,0:22:31.12,Default,,0,0,0,,走出那些你亲手打造的围墙\NFree of the confines you had built.
+Dialogue: 0,0:22:31.12,0:22:33.19,Default,,0,0,0,,...所以我想...\N...to leave, and so I decided...
+Dialogue: 0,0:22:33.19,0:22:36.26,Default,,0,0,0,,开辟一条属于你自己的路\NAnd free to choose a path of your own design.
+Dialogue: 0,0:23:04.96,0:23:05.96,Default,,0,0,0,,[店铺名称需要翻译]
+Dialogue: 0,0:23:07.58,0:23:08.58,Default,,0,0,0,,[停车]
+Dialogue: 0,0:23:13.13,0:23:15.70,Default,,0,0,0,,嘿 牛仔们 快瞧这边！\NWell, hey there, cowboys and cowgirls!
+Dialogue: 0,0:23:15.70,0:23:16.93,Default,,0,0,0,,想在里奥格兰德河这块地盘\NAre you looking to rustle up the best deals
+Dialogue: 0,0:23:16.93,0:23:18.27,Default,,0,0,0,,抢到最便宜的家具吗？\Nthis side of the Rio Grande?
+Dialogue: 0,0:23:18.27,0:23:19.43,Default,,0,0,0,,刺\NPrick.
+Dialogue: 0,0:23:19.44,0:23:22.44,Default,,0,0,0,,咿吼！快来大韦恩家具店！\NWell, yeehaw, I say yeehaw!
+Dialogue: 0,0:23:22.44,0:23:24.81,Default,,0,0,0,,买了我们的餐厅套装\NHere at Big Wayne's, our dining room sets
+Dialogue: 0,0:23:24.81,0:23:27.31,Default,,0,0,0,,就跟挖到金矿一样！\Nare gonna make you feel like you just struck gold.
+Dialogue: 0,0:23:27.31,0:23:29.68,Default,,0,0,0,,别去管那些破店\NSo don't even think about going anyplace else.
+Dialogue: 0,0:23:28.26,0:23:29.26,Default,,0,0,0,,{\an8}[大韦恩家具店]
+Dialogue: 0,0:23:29.68,0:23:31.61,Default,,0,0,0,,认准大韦恩 认准金色招...\NBig Wayne's, just look for the golden--
+Dialogue: 0,0:23:47.10,0:23:48.37,Default,,0,0,0,,垃圾\NWhat the...
+Dialogue: 0,0:24:05.52,0:24:08.62,Default,,0,0,0,,该死 看我怎么修理你\NStupid... Fuck! Piece of shit!
