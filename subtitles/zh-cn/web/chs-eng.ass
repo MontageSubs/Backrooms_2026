@@ -19,777 +19,885 @@ Style: Credit,Microsoft YaHei,60,&H00E7E7E8,&HF0000000,&H00000000,&H32000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:20.08,0:01:21.98,Default,,0,0,0,,好 好 好\NOkay, okay, okay, okay...
-Dialogue: 0,0:01:24.09,0:01:25.76,Default,,0,0,0,,没事的\NOkay...
-Dialogue: 0,0:02:02.79,0:02:04.89,Default,,0,0,0,,对 对\NYes... Yes...
-Dialogue: 0,0:02:04.90,0:02:08.73,Default,,0,0,0,,对 对 快点 快点 没错 没错\NYes, yes, come on... Come on, yes! Yes, yes!
-Dialogue: 0,0:02:08.73,0:02:10.57,Default,,0,0,0,,到了 到了 到了\NOkay. Okay. Okay.
-Dialogue: 0,0:02:49.81,0:02:51.44,Default,,0,0,0,,找到了 找到了\NHere we go, here we go.
-Dialogue: 0,0:02:52.28,0:02:54.81,Default,,0,0,0,,好 好 该死\NOkay. Okay. Fuck.
-Dialogue: 0,0:02:55.28,0:02:57.75,Default,,0,0,0,,能用 能用 一定得能用\NWork. Work. Work.
-Dialogue: 0,0:02:58.92,0:03:01.48,Default,,0,0,0,,标准组... 好...\NStandard... Okay...
-Dialogue: 0,0:03:01.48,0:03:03.05,Default,,0,0,0,,标准组 你们...你们能收到吗？\NStandard, can you- can you hear me?
-Dialogue: 0,0:03:03.99,0:03:05.65,Default,,0,0,0,,我是纳伦\NThis is Naren.
-Dialogue: 0,0:03:05.66,0:03:07.46,Default,,0,0,0,,我 呃...\NAnd I've, um...
-Dialogue: 0,0:03:07.46,0:03:08.86,Default,,0,0,0,,我跟其他人走散了\NI've been separated, uh, from the others.
-Dialogue: 0,0:03:08.86,0:03:10.19,Default,,0,0,0,,我应该没事\NAnd I think I'm okay,
-Dialogue: 0,0:03:10.19,0:03:11.40,Default,,0,0,0,,我不知道我现在到底在哪儿\Nbut I'm not sure where I, uh...
-Dialogue: 0,0:03:12.70,0:03:14.16,Default,,0,0,0,,我从来没走到过那么深 所以我也...\NI've never been out this far before, so I don't...
-Dialogue: 0,0:03:16.27,0:03:18.40,Default,,0,0,0,,刚才有个...\NThere was this, uh...
-Dialogue: 0,0:03:18.40,0:03:20.04,Default,,0,0,0,,我没看清 可是 呃...\NI didn't get a good look at it, but there was, um...
-Dialogue: 0,0:03:21.04,0:03:22.21,Default,,0,0,0,,这里还有别的东西\Nthere's something else in here.
-Dialogue: 0,0:03:24.41,0:03:25.84,Default,,0,0,0,,你们快来\NI need you guys.
-Dialogue: 0,0:03:26.74,0:03:28.31,Default,,0,0,0,,明白吗？快来接我 求你们了\NOkay? I need you guys to get me, please.
-Dialogue: 0,0:03:29.98,0:03:32.88,Default,,0,0,0,,该死 快来把我弄出去\NFuck, I need you guys to come out and get me.
-Dialogue: 0,0:03:32.88,0:03:34.95,Default,,0,0,0,,麻烦来接我 求你们了 标准组\NCan you... can you come, please, standard?
-Dialogue: 0,0:03:35.72,0:03:37.45,Default,,0,0,0,,收到了吗？\NStandard?
-Dialogue: 0,0:03:38.32,0:03:39.76,Default,,0,0,0,,完了\NOh, fuck!
-Dialogue: 0,0:03:43.73,0:03:45.06,Default,,0,0,0,,完了\NFuck...
-Dialogue: 0,0:03:52.60,0:03:54.17,Default,,0,0,0,,该死 该死\NFuck! Fuck...
-Dialogue: 0,0:04:06.35,0:04:07.95,Default,,0,0,0,,该死 搞什么鬼？\NOh, shit... What the fuck?
-Dialogue: 0,0:05:11.24,0:05:14.55,Default,,0,0,0,,[钱不够 没...]
-Dialogue: 0,0:05:40.18,0:05:41.41,Default,,0,0,0,,怎么回事？\NWhat the fuck?
-Dialogue: 0,0:06:05.67,0:06:07.44,Default,,0,0,0,,完了 完了 完了\NFuck! Fuck! Fuck!
-Dialogue: 0,0:06:13.38,0:06:14.51,Default,,0,0,0,,完了\NFuck!
-Dialogue: 0,0:06:19.02,0:06:20.25,Default,,0,0,0,,不 不 完了 完了\NFuck, fuck, fuck! Fuck!
-Dialogue: 0,0:06:44.14,0:06:53.00,Default,,0,0,0,,[后室]
-Dialogue: 0,0:07:22.00,0:07:24.75,Default,,0,0,0,,[山脊公寓]
-Dialogue: 0,0:07:47.44,0:07:50.74,Default,,0,0,0,,人人都有自己的老路 固有的习惯...\NWe all have our loops, our habits...
-Dialogue: 0,0:07:54.08,0:07:55.88,Default,,0,0,0,,总是原地打转...\N...behaviors that keep us walking in circles...
-Dialogue: 0,0:07:58.38,0:08:01.12,Default,,0,0,0,,一遍遍用同样的办法\N...reaching for the same solutions over and over again,
-Dialogue: 0,0:08:03.67,0:08:04.61,Default,,0,0,0,,[克船长的家具百宝库]
-Dialogue: 0,0:08:04.62,0:08:06.62,Default,,0,0,0,,却指望能走出新路\Nthinking each time they'll take you somewhere new.
-Dialogue: 0,0:08:07.83,0:08:08.99,Default,,0,0,0,,但没用\NBut they don't.
-Dialogue: 0,0:08:16.50,0:08:18.43,Default,,0,0,0,,因为大脑\NAnd still,
-Dialogue: 0,0:08:18.44,0:08:20.14,Default,,0,0,0,,总是习惯于 走阻力最小的路径\Nit's the neural pathway of least resistance.
-Dialogue: 0,0:08:21.67,0:08:22.67,Default,,0,0,0,,[奸商]
-Dialogue: 0,0:08:23.44,0:08:25.34,Default,,0,0,0,,你建立了心理防线\NA path you made.
-Dialogue: 0,0:08:26.34,0:08:29.08,Default,,0,0,0,,小时候 这套防线保护了你\NIt's the one that kept you safe when you were a child.
-Dialogue: 0,0:08:34.42,0:08:35.18,Default,,0,0,0,,[大促销 大降价]
-Dialogue: 0,0:08:35.19,0:08:36.42,Default,,0,0,0,,你养成了疏远别人\NYou learned to push people away
-Dialogue: 0,0:08:37.09,0:08:38.35,Default,,0,0,0,,避免伤害的本能反应\Nbefore they could hurt you.
-Dialogue: 0,0:08:40.96,0:08:42.26,Default,,0,0,0,,现在\NAnd now,
-Dialogue: 0,0:08:42.13,0:08:43.58,Default,,0,0,0,,{\an8}[逾期账单]
-Dialogue: 0,0:08:42.26,0:08:43.93,Default,,0,0,0,,你都成年了\Nas an adult,
-Dialogue: 0,0:08:43.93,0:08:45.56,Default,,0,0,0,,却还是走不出来\Nyou're still stuck right where you started.
-Dialogue: 0,0:08:51.07,0:08:52.24,Default,,0,0,0,,把自己关里面\NAlone.
-Dialogue: 0,0:08:58.58,0:09:00.08,Default,,0,0,0,,我有人陪啊\NI mean, I'm not lonely.
-Dialogue: 0,0:09:01.15,0:09:05.81,Default,,0,0,0,,我有店员 还有顾客\NI have employees and... customers.
-Dialogue: 0,0:09:05.82,0:09:07.82,Default,,0,0,0,,我没说有人陪 我说的是你把自己关在里面\NI didn't say lonely. I said alone.
-Dialogue: 0,0:09:08.69,0:09:10.15,Default,,0,0,0,,好吧 是 但是...\NYeah, well, I mean...
-Dialogue: 0,0:09:12.29,0:09:14.32,Default,,0,0,0,,我老是伤人\NI hurt people.
-Dialogue: 0,0:09:14.32,0:09:16.12,Default,,0,0,0,,我也不想 可我就这德行\NI don't want to. It's just the way I'm wired.
-Dialogue: 0,0:09:16.13,0:09:18.09,Default,,0,0,0,,可能就该把自己关起来\NSo maybe I deserve to be alone.
-Dialogue: 0,0:09:19.23,0:09:20.80,Default,,0,0,0,,谁活该把自己关着吗？\NDo you think anyone deserves to be alone?
-Dialogue: 0,0:09:22.00,0:09:24.10,Default,,0,0,0,,我说不好 但怎么说呢\NI don't know, but, you know,
-Dialogue: 0,0:09:24.10,0:09:25.54,Default,,0,0,0,,也许这样也挺好\Nmaybe it's not such a bad thing.
-Dialogue: 0,0:09:26.74,0:09:28.34,Default,,0,0,0,,自我封闭...\NBeing alone feels...
-Dialogue: 0,0:09:28.34,0:09:29.57,Default,,0,0,0,,已经刻进骨子里了\Ndeeply ingrained.
-Dialogue: 0,0:09:30.17,0:09:31.31,Default,,0,0,0,,我理解\NI understand.
-Dialogue: 0,0:09:32.38,0:09:35.78,Default,,0,0,0,,你有梦想 但老是受挫\NYou've had dreams and a lot of resistance,
-Dialogue: 0,0:09:35.78,0:09:38.91,Default,,0,0,0,,身边也没人支持你\Nnot a lot of support in realizing those dreams.
-Dialogue: 0,0:09:38.92,0:09:41.59,Default,,0,0,0,,当伤害变成了...\NAnd when we've experienced...
-Dialogue: 0,0:09:42.49,0:09:45.26,Default,,0,0,0,,一次次家常便饭\Nhurt again and again,
-Dialogue: 0,0:09:45.69,0:09:47.26,Default,,0,0,0,,就会习惯性地想\Nwe start to expect it.
-Dialogue: 0,0:09:47.26,0:09:48.62,Default,,0,0,0,,“哦 这路我熟”\NIt's like, "Oh, I know this path.
-Dialogue: 0,0:09:48.63,0:09:49.79,Default,,0,0,0,,“下场一定是一样的”\NI know where it goes."
-Dialogue: 0,0:09:51.26,0:09:52.53,Default,,0,0,0,,所以...\NSo...
-Dialogue: 0,0:09:53.83,0:09:56.03,Default,,0,0,0,,你想不想摆脱这个死循环\Nare you interested in forging a new path
-Dialogue: 0,0:09:56.03,0:09:57.37,Default,,0,0,0,,走出一条不同的路？\Nand see where that leads?
-Dialogue: 0,0:09:58.20,0:10:00.87,Default,,0,0,0,,好啊 我来都来了 就试试吧\NSure. Why not? You know, I'm here.
-Dialogue: 0,0:10:02.01,0:10:03.21,Default,,0,0,0,,很好\NGreat.
-Dialogue: 0,0:10:03.61,0:10:05.11,Default,,0,0,0,,要不咱们重温一下\NSo I want to revisit
-Dialogue: 0,0:10:05.11,0:10:07.31,Default,,0,0,0,,之前练过的那个\Nan exercise we've done before.
-Dialogue: 0,0:10:08.61,0:10:10.01,Default,,0,0,0,,角色扮演\NThe role play.
-Dialogue: 0,0:10:10.01,0:10:11.85,Default,,0,0,0,,- 哦 演戏那套？ - 对\N- Oh, the acting thing? - Yeah.
-Dialogue: 0,0:10:11.85,0:10:13.82,Default,,0,0,0,,- 我觉得太丢人了 - 我懂\N- I feel stupid doing that. - I know.
-Dialogue: 0,0:10:13.82,0:10:15.79,Default,,0,0,0,,但既然还有点时间 就....\NBut we have a few minutes. Let's, um...
-Dialogue: 0,0:10:16.92,0:10:18.56,Default,,0,0,0,,试一下吧 稍微试试\NYeah, let's try. A little bit.
-Dialogue: 0,0:10:19.09,0:10:20.52,Default,,0,0,0,,好吧\NAll right.
-Dialogue: 0,0:10:21.19,0:10:22.53,Default,,0,0,0,,咱们先定个场景\NLet's set the scene.
-Dialogue: 0,0:10:23.83,0:10:27.63,Default,,0,0,0,,回到芭芭拉离开你的那晚\NLet's go back to the night that Barbara left you.
-Dialogue: 0,0:10:29.03,0:10:31.27,Default,,0,0,0,,你是说她把我从我家给撵出去的那晚？\NYou mean the night she kicked me out of my own house?
-Dialogue: 0,0:10:31.50,0:10:33.20,Default,,0,0,0,,对\NYeah.
-Dialogue: 0,0:10:33.67,0:10:34.77,Default,,0,0,0,,我演我自己\NI'm playing myself.
-Dialogue: 0,0:10:36.01,0:10:37.91,Default,,0,0,0,,- 我演芭芭拉 - 别忘了 那可是我的房子\N- And I'll be Barbara. - It is my house, by the way.
-Dialogue: 0,0:10:38.84,0:10:40.38,Default,,0,0,0,,房贷都是我在还\NI'm the one paying for it.
-Dialogue: 0,0:10:41.02,0:10:43.26,Default,,0,0,0,,- 我知道 - 好吧\N- I know. - All right.
-Dialogue: 0,0:10:45.62,0:10:47.38,Default,,0,0,0,,好 那...\NOkay, so, um...
-Dialogue: 0,0:10:49.25,0:10:51.75,Default,,0,0,0,,那天我回家晚了 具体几点我忘了\NI got home late. I don't know how late.
-Dialogue: 0,0:10:51.76,0:10:53.66,Default,,0,0,0,,那时候她已经睡了 应该是半夜了\NUh... She was already asleep. Maybe midnight.
-Dialogue: 0,0:10:55.26,0:10:57.16,Default,,0,0,0,,她一般睡得早...算了 这不重要\NShe usually goes to bed before... It doesn't matter.
-Dialogue: 0,0:10:57.16,0:10:59.79,Default,,0,0,0,,重点是我当时在厨房\NThe point is, I was in the kitchen, and, um...
-Dialogue: 0,0:10:59.80,0:11:02.30,Default,,0,0,0,,有个杯子 我把杯子打碎了\Nthe glass, I broke the glass,
-Dialogue: 0,0:11:02.30,0:11:05.77,Default,,0,0,0,,她听见动静跑下来 然后...\Nand she comes running down to see what happened, and...
-Dialogue: 0,0:11:06.50,0:11:07.80,Default,,0,0,0,,就闹起来了\Nthings escalated.
-Dialogue: 0,0:11:07.80,0:11:09.24,Default,,0,0,0,,那你当时什么感受？\NAnd how do you feel?
-Dialogue: 0,0:11:09.81,0:11:11.84,Default,,0,0,0,,我当时...\NWell, I was...
-Dialogue: 0,0:11:11.84,0:11:14.84,Default,,0,0,0,,我当时喝多了...\NI was drunk, and, um...
-Dialogue: 0,0:11:14.85,0:11:17.18,Default,,0,0,0,,我 我觉得自己挺蠢的 你懂吧\NI-I felt stupid, you know.
-Dialogue: 0,0:11:17.18,0:11:19.85,Default,,0,0,0,,我就火了 因为 因为我把杯子打碎了\NI was angry, because... because I broke the glass.
-Dialogue: 0,0:11:19.85,0:11:21.62,Default,,0,0,0,,你能对着我再说一遍吗？\NCan you say that to me?
-Dialogue: 0,0:11:21.62,0:11:23.49,Default,,0,0,0,,- 对着你 对着芭芭拉？ - 对\N- Uh, what, to-to Barbara? - Yeah.
-Dialogue: 0,0:11:26.62,0:11:29.89,Default,,0,0,0,,额...对不起 把你吵醒了\NUm... I'm sorry that I woke you.
-Dialogue: 0,0:11:33.20,0:11:36.00,Default,,0,0,0,,要是你能早点回家\NMaybe if you'd come home earlier,
-Dialogue: 0,0:11:36.00,0:11:37.40,Default,,0,0,0,,咱们今晚本该待在一起的\Nwe could have spent the evening together.
-Dialogue: 0,0:11:38.84,0:11:40.70,Default,,0,0,0,,我 我在加班 你懂的\NNo, I was... I was working, you know?
-Dialogue: 0,0:11:40.70,0:11:42.37,Default,,0,0,0,,下班后我就直接回来了\NI came straight home after work.
-Dialogue: 0,0:11:42.37,0:11:43.84,Default,,0,0,0,,诚实点吧\NBe honest with me, please.
-Dialogue: 0,0:11:44.88,0:11:46.38,Default,,0,0,0,,你身上那酒气我都闻得见\NI can smell it on your breath.
-Dialogue: 0,0:11:48.88,0:11:50.31,Default,,0,0,0,,我就喝了点啤酒\NI had a few beers.
-Dialogue: 0,0:11:50.55,0:11:52.18,Default,,0,0,0,,一点是多少？\NDefine a few.
-Dialogue: 0,0:11:52.18,0:11:53.35,Default,,0,0,0,,唉 今天太累了\NWell, it was a hard day.
-Dialogue: 0,0:11:54.62,0:11:56.05,Default,,0,0,0,,我得喝点放松放松\NI needed to wind down.
-Dialogue: 0,0:11:56.05,0:11:57.39,Default,,0,0,0,,你不成天在放松吗\NAll you ever do is wind down.
-Dialogue: 0,0:11:58.52,0:11:59.52,Default,,0,0,0,,成天呆在那店里\NYou're always at the store.
-Dialogue: 0,0:12:04.06,0:12:05.43,Default,,0,0,0,,你想要孩子 对吧？\NYou want kids, right?
-Dialogue: 0,0:12:07.26,0:12:08.96,Default,,0,0,0,,- 咱们都想要 - 但你要知道...\N- We both do. - Well, you know...
-Dialogue: 0,0:12:08.97,0:12:10.40,Default,,0,0,0,,养家得花钱\Nhaving a family takes money,
-Dialogue: 0,0:12:10.40,0:12:11.70,Default,,0,0,0,,总得有人去挣钱\Nwhich means someone has to work.
-Dialogue: 0,0:12:12.77,0:12:14.40,Default,,0,0,0,,除非现在当学生\NUnless being a professional student
-Dialogue: 0,0:12:14.40,0:12:16.34,Default,,0,0,0,,也能算份工作了\Nis considered a job these days.
-Dialogue: 0,0:12:16.34,0:12:18.74,Default,,0,0,0,,你不能这么说 你知道我得休学一段时间\NThat's not fair. You know I had to take time off.
-Dialogue: 0,0:12:18.74,0:12:20.21,Default,,0,0,0,,你自己跟不上 凭什么怪我\NWell, it's not my fault if you can't keep up.
-Dialogue: 0,0:12:20.21,0:12:21.41,Default,,0,0,0,,连法学院都搞不定\NHow are you going to be a lawyer
-Dialogue: 0,0:12:21.41,0:12:22.61,Default,,0,0,0,,还想怎么当律师？\Nif you can't even handle law school?
-Dialogue: 0,0:12:24.78,0:12:26.35,Default,,0,0,0,,当你这个三十岁的大一新生\NWho do you think pays for everything
-Dialogue: 0,0:12:26.35,0:12:27.62,Default,,0,0,0,,在学校里到处瞎逛时\Nwhile you're gallivanting around campus
-Dialogue: 0,0:12:27.62,0:12:28.85,Default,,0,0,0,,也不想想谁在供你上学？\Nlike a 30-year-old freshman?
-Dialogue: 0,0:12:29.65,0:12:31.32,Default,,0,0,0,,我给你个提示 就是我\NI'll give you a hint: it's me.
-Dialogue: 0,0:12:32.59,0:12:34.72,Default,,0,0,0,,你上学是我供 休学是我供\NI pay for your school, I pay for your time off school,
-Dialogue: 0,0:12:34.73,0:12:35.86,Default,,0,0,0,,房子还是我供\NI pay for the roof over your head.
-Dialogue: 0,0:12:35.86,0:12:37.79,Default,,0,0,0,,- 我能说句话吗？ - 不 没门 \N- Can I talk now? - No! No.
-Dialogue: 0,0:12:37.79,0:12:39.19,Default,,0,0,0,,要是你真混到毕业了\NBecause I'd like to know, what do you think happens
-Dialogue: 0,0:12:39.20,0:12:41.30,Default,,0,0,0,,我倒想知道结果会怎样？\Nif you do manage to graduate?
-Dialogue: 0,0:12:41.30,0:12:43.47,Default,,0,0,0,,生个娃账单继续甩给我？\NYou know, you pop out a kid, then leave me with the bill.
-Dialogue: 0,0:12:43.47,0:12:46.54,Default,,0,0,0,,还是你终于成大忙人了\NOr am I stuck at home changing diapers because
-Dialogue: 0,0:12:46.54,0:12:48.40,Default,,0,0,0,,我就得天天在家给娃换屎尿？\Nyou're too busy working for the first time in your life?
-Dialogue: 0,0:12:48.41,0:12:50.41,Default,,0,0,0,,- 你这话太狠了 - 我是在说实话\N- Now you're being cruel. - I'm being honest.
-Dialogue: 0,0:12:51.38,0:12:52.84,Default,,0,0,0,,我以为这就是你的追求\NI thought that's what you always wanted.
-Dialogue: 0,0:12:54.61,0:12:56.24,Default,,0,0,0,,你没考上建筑师 并不代表...\NJust because you didn't get to be an architect doesn't mean--
-Dialogue: 0,0:12:56.25,0:12:57.88,Default,,0,0,0,,老子就是建筑师！\NI am a fucking architect!
-Dialogue: 0,0:12:59.68,0:13:02.55,Default,,0,0,0,,我成天得在那破店里卖这些玩意儿\NGod damn it, I'm just stuck selling shit furniture because
-Dialogue: 0,0:13:02.55,0:13:04.72,Default,,0,0,0,,就因为某个懒猪在家混吃等死 根本不肯出力\Nsomeone won't get off their fat fucking ass and help me!
-Dialogue: 0,0:13:13.10,0:13:14.53,Default,,0,0,0,,克拉克 现在感觉怎么样？\NHow do you feel, Clark?
-Dialogue: 0,0:13:20.07,0:13:21.97,Default,,0,0,0,,我在跟谁说话呢？\NWho am I talking to?
-Dialogue: 0,0:13:21.97,0:13:23.37,Default,,0,0,0,,- 是我 在你面前  - 哦 你啊 好吧\N- Me, here, now. - You? Okay.
-Dialogue: 0,0:13:24.68,0:13:25.98,Default,,0,0,0,,那个...\NUm...
-Dialogue: 0,0:13:27.44,0:13:29.58,Default,,0,0,0,,对不起 我不是故意那样说...\NI'm sorry, I didn't mean to, uh...
-Dialogue: 0,0:13:29.58,0:13:31.95,Default,,0,0,0,,就是 刚才发火了\N...you know, get angry
-Dialogue: 0,0:13:31.95,0:13:33.82,Default,,0,0,0,,情绪失控了那种\Nor lose my temper or whatever.
-Dialogue: 0,0:13:33.82,0:13:34.88,Default,,0,0,0,,我知道\NI know.
-Dialogue: 0,0:13:36.05,0:13:37.92,Default,,0,0,0,,练习的目的就在这儿\NThat's the purpose of the whole exercise.
-Dialogue: 0,0:13:39.12,0:13:40.49,Default,,0,0,0,,这是一个不错的开始\NThis is a good start.
-Dialogue: 0,0:13:41.02,0:13:43.02,Default,,0,0,0,,正视你的感受\NTo feel what you feel,
-Dialogue: 0,0:13:43.03,0:13:45.03,Default,,0,0,0,,然后找出一条新路\Nand then learn to identify a new path.
-Dialogue: 0,0:13:46.60,0:13:49.40,Default,,0,0,0,,你的反应其实很正常\NYour reaction was actually quite normal.
-Dialogue: 0,0:13:51.87,0:13:53.07,Default,,0,0,0,,呵呵 我就这德行\NWell, that's me!
-Dialogue: 0,0:13:55.44,0:13:57.94,Default,,0,0,0,,哟 伙计们 瞧瞧这儿\NWell, ahoy there, mateys!
-Dialogue: 0,0:13:57.94,0:14:01.98,Default,,0,0,0,,还打算把金币全砸在那些冤大头家具上？ \NTired of spending your hard-earned doubloons on overpriced furniture?
-Dialogue: 0,0:14:01.98,0:14:04.15,Default,,0,0,0,,想买惊掉下巴的跳海价吗？\NLooking for deals that'll shiver your timbers?
-Dialogue: 0,0:14:04.15,0:14:08.05,Default,,0,0,0,,赶快来克船长的家具百宝库！\NThen come on down to Cap'n Clark's Ottoman Empire,
-Dialogue: 0,0:14:08.05,0:14:12.29,Default,,0,0,0,,圣克拉拉谷的头号家具大卖场\Nthe Santa Clara Valley's favorite warehouse and showrooms.
-Dialogue: 0,0:14:12.29,0:14:14.36,Default,,0,0,0,,卧室 客厅 餐厅 书房 浴室\NYou'll find bedrooms, living rooms,
-Dialogue: 0,0:14:14.36,0:14:17.36,Default,,0,0,0,,全屋家具 应有尽有！\Ndinettes, dens and bathrooms aplenty.
-Dialogue: 0,0:14:17.36,0:14:20.13,Default,,0,0,0,,刚买房的？来这儿就对了！[拆分]\NFirst-time homeowners? We've got ya.
-Dialogue: 0,0:14:20.13,0:14:21.86,Default,,0,0,0,,新当爹妈的？\NNew parents looking for Billy's first crib?
-Dialogue: 0,0:14:21.87,0:14:23.43,Default,,0,0,0,,来这就对了！\NWe've got ya!
-Dialogue: 0,0:14:23.43,0:14:25.37,Default,,0,0,0,,时髦现代样样全\NFrom the latest in modern design
-Dialogue: 0,0:14:25.37,0:14:27.70,Default,,0,0,0,,经典复古通通有\Nto the classic styles of yesteryear,
-Dialogue: 0,0:14:27.71,0:14:29.74,Default,,0,0,0,,价格低到没对手\Nit's all here and it's all a steal.
-Dialogue: 0,0:14:30.27,0:14:31.81,Default,,0,0,0,,怎么啦 波莉？\NWhat's that, Polly?
-Dialogue: 0,0:14:31.81,0:14:33.61,Default,,0,0,0,,信用卡里钱不够？\NYou're worried about credit?
-Dialogue: 0,0:14:33.61,0:14:37.61,Default,,0,0,0,,哈哈！在克船长这儿 钱不够 没问题！\NHa! Cap'n Clark says no credit, no problem!
-Dialogue: 0,0:14:37.62,0:14:39.95,Default,,0,0,0,,快来潜入顶级家具海洋\NSail the high seas of high quality,
-Dialogue: 0,0:14:39.95,0:14:41.88,Default,,0,0,0,,把钱的问题统统抛在脑后\Nand leave your money problems at the door.
-Dialogue: 0,0:14:41.89,0:14:43.52,Default,,0,0,0,,今天就来店里\NWalk in today
-Dialogue: 0,0:14:43.52,0:14:45.55,Default,,0,0,0,,把梦想直接搬回家！\Nand get your dream sectional lounger,
-Dialogue: 0,0:14:45.56,0:14:48.56,Default,,0,0,0,,桌椅板凳 灯具摆件随便挑！\Nkitchen table, floor lamp, and bed frame here
-Dialogue: 0,0:14:48.56,0:14:51.56,Default,,0,0,0,,克船长的家具百宝库\Nat Cap'n Clark's Ottoman Empire,
-Dialogue: 0,0:14:51.56,0:14:54.36,Default,,0,0,0,,就在680号公路 凯皮托与麦基路口\Nlocated at Capitol and McKee, just off the 680.
-Dialogue: 0,0:14:54.36,0:14:56.00,Default,,0,0,0,,嘿吼！赶紧过来...\NArr! Walk in today...
-Dialogue: 0,0:14:57.33,0:14:59.13,Default,,0,0,0,,翘起二郎腿\N...kick your feet back,
-Dialogue: 0,0:14:59.14,0:15:01.37,Default,,0,0,0,,当你的家具大王！\Nand enjoy an empire of your own!
-Dialogue: 0,0:15:01.37,0:15:04.21,Default,,0,0,0,,毕竟 国王得有王座\NFor every sultan deserves a throne,
-Dialogue: 0,0:15:04.21,0:15:05.64,Default,,0,0,0,,而你的专属王座 就在这儿等着你\Nand we've got one with your name on it,
-Dialogue: 0,0:15:05.64,0:15:07.01,Default,,0,0,0,,就在克船长的...\Nhere at Cap'n Clark's--
-Dialogue: 0,0:15:08.21,0:15:09.11,Default,,0,0,0,,卧槽\NNo way!
-Dialogue: 0,0:15:10.38,0:15:12.01,Default,,0,0,0,,- 克拉克 没事吧？ - 快把相机关了\N- Clark, you good? - Turn the camera off.
-Dialogue: 0,0:15:12.02,0:15:13.88,Default,,0,0,0,,不不 拍得好 这种花絮才有趣\NNo, no, it's good. It's outtake stuff, dude.
-Dialogue: 0,0:15:13.89,0:15:15.85,Default,,0,0,0,,- 赶紧给老子关掉 - 好吧...我的天\N- Turn the fucking camera off. - Okay... Jesus...
-Dialogue: 0,0:15:17.76,0:15:19.25,Default,,0,0,0,,那个 要帮忙吗？\NYou, uh, you need help?
-Dialogue: 0,0:15:19.26,0:15:20.99,Default,,0,0,0,,不用 我自己来\NNo, I got it, I got it.
-Dialogue: 0,0:15:21.89,0:15:23.56,Default,,0,0,0,,那个...\NUm...
-Dialogue: 0,0:15:23.56,0:15:25.56,Default,,0,0,0,,- 还要重拍吗？ - 不拍了\N- Are we going again, or...? - No.
-Dialogue: 0,0:15:25.56,0:15:27.43,Default,,0,0,0,,小凯 去开门开业吧\NKat, you can open the store now.
-Dialogue: 0,0:15:27.43,0:15:29.17,Default,,0,0,0,,早就开了\NWe've been open.
-Dialogue: 0,0:15:29.41,0:15:30.41,Default,,0,0,0,,[大促销 大降价]
-Dialogue: 0,0:15:32.00,0:15:34.24,Default,,0,0,0,,老哥 我还是没搞懂\NYou know, dude, I still don't get it.
-Dialogue: 0,0:15:34.24,0:15:37.37,Default,,0,0,0,,你演的是海盗还是国王？\NAre you, like, a pirate or a sultan?
-Dialogue: 0,0:15:37.37,0:15:39.71,Default,,0,0,0,,- 最好还是明确一下 - 我是个...闭嘴\N- Just be good to establish it. - I'm a... Shut up.
-Dialogue: 0,0:15:39.71,0:15:42.68,Default,,0,0,0,,刨花板做的破椅子\NPiece of cheap particleboard bullshit.
-Dialogue: 0,0:15:43.38,0:15:44.91,Default,,0,0,0,,快把这东西弄走 听到没？\NClear this stuff up, will you?
-Dialogue: 0,0:15:45.75,0:15:46.92,Default,,0,0,0,,给你\NHere.
-Dialogue: 0,0:15:47.62,0:15:49.85,Default,,0,0,0,,[大促销 大降价]
-Dialogue: 0,0:16:05.07,0:16:06.00,Default,,0,0,0,,抱歉\NSorry about that.
-Dialogue: 0,0:16:07.00,0:16:08.40,Default,,0,0,0,,怎么样 查出来没？\NHow's it looking?
-Dialogue: 0,0:16:08.41,0:16:10.27,Default,,0,0,0,,电表没问题\NMeter reads fine.
-Dialogue: 0,0:16:10.27,0:16:12.11,Default,,0,0,0,,电费要是高 只能是你自己用得多\NIf your bill's coming in high, that's on you.
-Dialogue: 0,0:16:13.61,0:16:15.21,Default,,0,0,0,,那跳电的事怎么说 打烊后就出现\NWhat about the outages? That happens after hours.
-Dialogue: 0,0:16:16.58,0:16:19.01,Default,,0,0,0,,没准是荧光灯出问题 导致跳闸了\NDon't know. Fluorescents must be tripping a breaker.
-Dialogue: 0,0:16:21.18,0:16:23.95,Default,,0,0,0,,一打烊我就把顶灯都关了\NI turn the overheads off when the store closes,
-Dialogue: 0,0:16:23.96,0:16:25.26,Default,,0,0,0,,还没闪之前就关了\Nbefore the power gets weird.
-Dialogue: 0,0:16:26.59,0:16:27.92,Default,,0,0,0,,而且 这样电费不该少点吗？\NAnyway, wouldn't that just make the bills go down?
-Dialogue: 0,0:16:31.36,0:16:32.63,Default,,0,0,0,,配电箱在哪儿？\NWhere's your breaker box?
-Dialogue: 0,0:16:34.23,0:16:35.80,Default,,0,0,0,,虽然我不是专家\NI'm no expert,
-Dialogue: 0,0:16:35.80,0:16:38.90,Default,,0,0,0,,但我之前看过了 没看出什么问题\Nbut I checked earlier, and everything looks okay.
-Dialogue: 0,0:16:38.90,0:16:41.04,Default,,0,0,0,,- 你说灯会闪 - 对 整个店都闪\N- You said the lights flicker. - Yeah, the whole store does.
-Dialogue: 0,0:16:41.04,0:16:42.74,Default,,0,0,0,,- 是吗？ - 只是不一起闪\N- Huh. - Just not at the same time.
-Dialogue: 0,0:16:42.74,0:16:44.44,Default,,0,0,0,,有一晚是楼上\NOne night, I lose the power upstairs.
-Dialogue: 0,0:16:44.44,0:16:46.78,Default,,0,0,0,,下一晚就变成了楼下 完全没规律\NNext night, it's down here. There's no rhyme or...
-Dialogue: 0,0:16:54.22,0:16:55.65,Default,,0,0,0,,谁装的这鬼东西？\NWho the hell installed this thing?
-Dialogue: 0,0:16:56.52,0:16:58.45,Default,,0,0,0,,这房子买来就布好线了\NWell, the building came wired.
-Dialogue: 0,0:16:58.46,0:16:59.92,Default,,0,0,0,,虽然有点年头 但也不至于不能用\NI mean, it's dated, but it's not that old.
-Dialogue: 0,0:17:07.10,0:17:07.96,Default,,0,0,0,,你来看看这个\NTake a look at this.
-Dialogue: 0,0:17:12.74,0:17:13.84,Default,,0,0,0,,之前没这东西\NThat wasn't there before.
-Dialogue: 0,0:17:14.94,0:17:19.34,Default,,0,0,0,,也许是我没注意到 我不是专家\NOr... maybe I didn't notice. Like I say, I'm no expert.
-Dialogue: 0,0:17:19.34,0:17:21.34,Default,,0,0,0,,为什么 为什么是斜着的？\NWhy-why is it... why is it going that way?
-Dialogue: 0,0:17:21.34,0:17:23.05,Default,,0,0,0,,应该问问\NBetter question:
-Dialogue: 0,0:17:24.18,0:17:25.88,Default,,0,0,0,,这东西到底接到哪儿了\Nwhat is it even connected to?
-Dialogue: 0,0:17:26.92,0:17:28.12,Default,,0,0,0,,懂吗？\NHuh?
-Dialogue: 0,0:17:36.16,0:17:37.93,Default,,0,0,0,,小凯 楼上灯怎么样？\NKat! How's the power?
-Dialogue: 0,0:17:38.86,0:17:40.06,Default,,0,0,0,,干嘛？\NWhat?
-Dialogue: 0,0:17:40.06,0:17:41.90,Default,,0,0,0,,上面有反应吗？\NAnything happen up there?
-Dialogue: 0,0:17:42.33,0:17:43.53,Default,,0,0,0,,搞什么鬼\NWhat the hell?
-Dialogue: 0,0:17:43.53,0:17:44.87,Default,,0,0,0,,老鼠回来了\NThe rat's back.
-Dialogue: 0,0:17:45.54,0:17:47.07,Default,,0,0,0,,- 灯还正常吧 - 正常\N- But the power's on. - Yeah.
-Dialogue: 0,0:17:47.07,0:17:48.74,Default,,0,0,0,,我还以为咱们把老鼠给干掉了\NI thought we killed the rat.
-Dialogue: 0,0:17:48.74,0:17:49.84,Default,,0,0,0,,咱们才杀了一只\NWe killed  a  rat.
-Dialogue: 0,0:17:51.78,0:17:54.64,Default,,0,0,0,,- 这就是问题原因吗？- 没道理啊\N- So is this the problem? - Don't see how.
-Dialogue: 0,0:17:54.65,0:17:56.15,Default,,0,0,0,,电路根本不走这里\NPower can't even go through this part of the circuit.
-Dialogue: 0,0:17:56.58,0:17:57.78,Default,,0,0,0,,它纯粹是...\NIt's just...
-Dialogue: 0,0:17:57.78,0:17:59.05,Default,,0,0,0,,摆设\Nthere.
-Dialogue: 0,0:18:00.05,0:18:02.38,Default,,0,0,0,,被哪个笨蛋随便塞进去的\NLike some schmo just stuck it in there.
-Dialogue: 0,0:18:02.39,0:18:04.55,Default,,0,0,0,,没错\NYeah.
-Dialogue: 0,0:18:13.26,0:18:16.40,Default,,0,0,0,,你是否觉得生活像被隔在了一层玻璃之后？\NDo you ever feel like you're living behind glass?
-Dialogue: 0,0:18:16.40,0:18:18.63,Default,,0,0,0,,看着世界在眼前上演\NWatching life happen,
-Dialogue: 0,0:18:18.64,0:18:20.67,Default,,0,0,0,,自己却只能旁观？\Nbut never really stepping into it?
-Dialogue: 0,0:18:21.84,0:18:24.87,Default,,0,0,0,,现在 是时候打开心灵之窗了\NMaybe it's time to open the window within.
-Dialogue: 0,0:18:26.34,0:18:28.64,Default,,0,0,0,,你可以重新定义自己的人生\NYou can be the author of your own design
-Dialogue: 0,0:18:28.65,0:18:30.18,Default,,0,0,0,,我们每个人 都值得拥有另一次机会\Nbecause we all deserve another chance
-Dialogue: 0,0:18:30.18,0:18:31.65,Default,,0,0,0,,让梦想重新启航\Nto fulfill our dreams.
-Dialogue: 0,0:18:32.88,0:18:34.52,Default,,0,0,0,,只要你相信改变是可能的\NThe moment you believe change is possible,
-Dialogue: 0,0:18:34.52,0:18:35.75,Default,,0,0,0,,你就已经开始了这段旅程\Nyou've already begun.
-Dialogue: 0,0:18:36.21,0:18:36.74,Default,,0,0,0,,[《心灵之窗》]
-Dialogue: 0,0:18:36.75,0:18:38.82,Default,,0,0,0,,立即订购《心灵之窗》\NOrder The Window Within
-Dialogue: 0,0:18:38.82,0:18:40.69,Default,,0,0,0,,以及配套的三辑音频课程\Nand the companion three-part audio program,
-Dialogue: 0,0:18:40.69,0:18:44.49,Default,,0,0,0,,《引导之门》 均由玛丽·克莱因医生倾力呈现\NGuided Openings, by Dr. Mary Klein.
-Dialogue: 0,0:18:44.49,0:18:46.33,Default,,0,0,0,,现价24.95美元 运费另计\NAvailable now for $24.95 plus shipping.
-Dialogue: 0,0:18:47.53,0:18:51.90,Default,,0,0,0,,请拨打1-800-555-0199\NCall 1-800-555-0199.
-Dialogue: 0,0:18:53.74,0:18:55.84,Default,,0,0,0,,开辟一条新路 永远不晚\NIt's never too late to forge a new path.
-Dialogue: 0,0:18:58.71,0:19:00.78,Default,,0,0,0,,你居然还在信任纸质文件夹\NSo, you're still trusting paper folders,
-Dialogue: 0,0:19:00.78,0:19:03.01,Default,,0,0,0,,贴错标签的磁带 还有个谁拿把钥匙\Nmislabeled tapes, and a locked filing cabinet
-Dialogue: 0,0:19:03.01,0:19:04.61,Default,,0,0,0,,就能开的文件柜？\Nthat anyone with a spare key can open?
-Dialogue: 0,0:19:04.62,0:19:06.95,Default,,0,0,0,,信息决定企业的生死\NYour business runs on information,
-Dialogue: 0,0:19:06.95,0:19:09.55,Default,,0,0,0,,但大多数公司却把数据当成了堆杂物...\Nyet most companies treat their data like clutter...
-Dialogue: 0,0:19:13.72,0:19:15.86,Default,,0,0,0,,那个信号不是小行星\NThat small blip is not an asteroid.
-Dialogue: 0,0:19:15.86,0:19:18.03,Default,,0,0,0,,是一艘飞船 它咬住我们了\NIt's a spaceship, and it's on our tail.
-Dialogue: 0,0:19:18.03,0:19:20.46,Default,,0,0,0,,- 它在靠近 - 不可能 里格娜\N- It's getting closer. - Impossible, Rigna.
-Dialogue: 0,0:19:20.46,0:19:23.23,Default,,0,0,0,,他们不可能发现我们 雷达隐身还开着呢\NThey couldn't have spotted us. We have our radar shield on.
-Dialogue: 0,0:19:23.23,0:19:25.77,Default,,0,0,0,,我知道 长官 但他们追上来了\NI know that, sir, but they are gaining on us.
-Dialogue: 0,0:19:25.77,0:19:27.70,Default,,0,0,0,,难道地球人有某种秘密设备\NIs it possible Earth has a secret device
-Dialogue: 0,0:19:27.71,0:19:29.54,Default,,0,0,0,,能穿透我们的雷达隐身罩？\Nthat can penetrate our radar shield?
-Dialogue: 0,0:19:59.21,0:20:00.49,Default,,0,0,0,,[（1970年圣克鲁斯现代主义建筑设计论坛）]
-Dialogue: 0,0:20:05.04,0:20:06.48,Default,,0,0,0,,垃圾\NPiece of shit.
-Dialogue: 0,0:20:54.23,0:20:57.03,Default,,0,0,0,,为什么 你要这样对待自己？\NWhy did you do this to yourself?
-Dialogue: 0,0:21:00.77,0:21:02.13,Default,,0,0,0,,你是怎么来到这里的？\NHow did you get here?
-Dialogue: 0,0:21:06.14,0:21:09.64,Default,,0,0,0,,你的意识 就像一个装满记忆的房间\NYour consciousness is a room full of memories
-Dialogue: 0,0:21:09.64,0:21:12.11,Default,,0,0,0,,它在时刻重构 在无限演变\Nthat is constantly evolving.
-Dialogue: 0,0:21:14.38,0:21:15.85,Default,,0,0,0,,在现实生活中\NBut as you walk through life,
-Dialogue: 0,0:21:17.11,0:21:19.45,Default,,0,0,0,,未经训练的心灵会开始筑墙\Nthe untrained mind can start to build walls,
-Dialogue: 0,0:21:20.95,0:21:22.19,Default,,0,0,0,,建立屏障\Nput up barriers
-Dialogue: 0,0:21:23.99,0:21:25.49,Default,,0,0,0,,隔绝外界\Nto protect itself from the outside world.
-Dialogue: 0,0:21:27.36,0:21:29.09,Default,,0,0,0,,这是本能反应\NIt's a natural response.
-Dialogue: 0,0:21:30.66,0:21:32.19,Default,,0,0,0,,我们常常对此毫无察觉\NSomething we are often unaware of.
-Dialogue: 0,0:21:33.50,0:21:35.63,Default,,0,0,0,,但久而久之\NBut if gone unchecked,
-Dialogue: 0,0:21:35.63,0:21:37.13,Default,,0,0,0,,你会发现 自己被囚禁了\Nit can leave you feeling trapped.
-Dialogue: 0,0:21:39.37,0:21:41.44,Default,,0,0,0,,你会说服自己\NYou can become convinced that the world outside
-Dialogue: 0,0:21:41.44,0:21:43.07,Default,,0,0,0,,外面的世界不需要你\Nis better off without you.
-Dialogue: 0,0:21:44.54,0:21:46.18,Default,,0,0,0,,你会告诉自己 自己不配被爱\NThat you never deserve the relationships you've had.
-Dialogue: 0,0:21:47.81,0:21:50.21,Default,,0,0,0,,于是 你只能蜷缩在窗后\NResigned to watch your life unfold
-Dialogue: 0,0:21:50.21,0:21:51.98,Default,,0,0,0,,当个旁观者 静静地看着生活上演\Nfrom behind a lone window.
-Dialogue: 0,0:21:54.38,0:21:56.09,Default,,0,0,0,,但我能帮你\NI can help you open it now
-Dialogue: 0,0:21:57.99,0:21:59.39,Default,,0,0,0,,因为窗户 并没有锁上\Nbecause the window isn't locked.
-Dialogue: 0,0:22:01.66,0:22:03.53,Default,,0,0,0,,门闩 也可以被打开\NThe latch was never broken.
-Dialogue: 0,0:22:07.23,0:22:08.86,Default,,0,0,0,,准备好跨过去了吗？\NAre you ready to step through?
-Dialogue: 0,0:22:12.17,0:22:14.50,Default,,0,0,0,,去夺回属于你的东西\NSo that you can reclaim that which was once yours...
-Dialogue: 0,0:22:16.77,0:22:19.21,Default,,0,0,0,,去重新主宰你的生命\Nand take back control of your life.
-Dialogue: 0,0:22:21.21,0:22:22.71,Default,,0,0,0,,去过你想过的人生\NThe life you want to be living.
-Dialogue: 0,0:22:25.08,0:22:27.35,Default,,0,0,0,,卸下过去的沉重\NUnburdened by the traumas of the past.
-Dialogue: 0,0:22:28.75,0:22:31.12,Default,,0,0,0,,走出那些你亲手打造的围墙\NFree of the confines you had built.
-Dialogue: 0,0:22:31.12,0:22:33.19,Default,,0,0,0,,...所以我想...\N...to leave, and so I decided...
-Dialogue: 0,0:22:33.19,0:22:36.26,Default,,0,0,0,,开辟一条属于你自己的路\NAnd free to choose a path of your own design.
-Dialogue: 0,0:23:04.96,0:23:05.96,Default,,0,0,0,,[店铺名称需要翻译]
-Dialogue: 0,0:23:07.58,0:23:08.58,Default,,0,0,0,,[停车]
-Dialogue: 0,0:23:13.13,0:23:15.70,Default,,0,0,0,,嘿 牛仔们 快瞧这边！\NWell, hey there, cowboys and cowgirls!
-Dialogue: 0,0:23:15.70,0:23:16.93,Default,,0,0,0,,想在里奥格兰德河这块地盘\NAre you looking to rustle up the best deals
-Dialogue: 0,0:23:16.93,0:23:18.27,Default,,0,0,0,,抢到最便宜的家具吗？\Nthis side of the Rio Grande?
-Dialogue: 0,0:23:18.27,0:23:19.43,Default,,0,0,0,,刺\NPrick.
-Dialogue: 0,0:23:19.44,0:23:22.44,Default,,0,0,0,,咿吼！快来大韦恩家具店！\NWell, yeehaw, I say yeehaw!
-Dialogue: 0,0:23:22.44,0:23:24.81,Default,,0,0,0,,买了我们的餐厅套装\NHere at Big Wayne's, our dining room sets
-Dialogue: 0,0:23:24.81,0:23:27.31,Default,,0,0,0,,就跟挖到金矿一样！\Nare gonna make you feel like you just struck gold.
-Dialogue: 0,0:23:27.31,0:23:29.68,Default,,0,0,0,,别去管那些破店\NSo don't even think about going anyplace else.
-Dialogue: 0,0:23:28.26,0:23:29.26,Default,,0,0,0,,{\an8}[大韦恩家具店]
-Dialogue: 0,0:23:29.68,0:23:31.61,Default,,0,0,0,,认准大韦恩 认准金色招...\NBig Wayne's, just look for the golden--
-Dialogue: 0,0:23:47.10,0:23:48.37,Default,,0,0,0,,垃圾\NWhat the...
-Dialogue: 0,0:24:05.52,0:24:08.62,Default,,0,0,0,,该死 看我怎么修理你\NStupid... Fuck! Piece of shit!
-Dialogue: 0,0:29:05.19,0:29:06.19,Default,,0,0,0,,[车停]
-Dialogue: 0,0:29:48.90,0:29:52.99,Default,,0,0,0,,（粤语）各位好吗？祝各位平安健康快乐
-Dialogue: 0,0:29:53.48,0:29:55.90,Default,,0,0,0,,（阿卡德语）愿一切都很好
-Dialogue: 0,0:29:56.88,0:29:59.51,Default,,0,0,0,,（俄语）你好 欢迎你们
-Dialogue: 0,0:29:59.91,0:30:02.76,Default,,0,0,0,,（泰语）远方土地的朋友们 你们好
-Dialogue: 0,0:30:02.78,0:30:06.50,Default,,0,0,0,,（泰语）在这片土地上的我们 向你们所有人致以诚挚的问候
-Dialogue: 0,0:30:06.85,0:30:09.97,Default,,0,0,0,,（阿拉伯语）我们向星际中的朋友们致以问候
-Dialogue: 0,0:30:10.15,0:30:12.94,Default,,0,0,0,,（阿拉伯语）但愿时间能让我们相聚
-Dialogue: 0,0:30:12.95,0:30:15.22,Default,,0,0,0,,（罗马尼亚语）向大家问好
-Dialogue: 0,0:30:16.35,0:30:18.19,Default,,0,0,0,,（法语）大家好
-Dialogue: 0,0:30:19.46,0:30:21.02,Default,,0,0,0,,（缅甸语）你们好吗？
-Dialogue: 0,0:30:22.87,0:30:24.07,Default,,0,0,0,,（希伯来语）你好
-Dialogue: 0,0:30:24.98,0:30:27.04,Default,,0,0,0,,（西班牙语）你好 向大家致敬
-Dialogue: 0,0:30:28.49,0:30:30.04,Default,,0,0,0,,（印尼语）女士们先生们 晚上好
-Dialogue: 0,0:30:30.05,0:30:31.35,Default,,0,0,0,,（印尼语）再见...
-Dialogue: 0,0:30:31.35,0:30:33.96,Default,,0,0,0,,- 有人吗？ - （印尼语）期待下次再见\NHello?
-Dialogue: 0,0:30:33.98,0:30:36.07,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
-Dialogue: 0,0:30:36.09,0:30:38.86,Default,,0,0,0,,（克丘亚语）每一个人问好
-Dialogue: 0,0:30:38.87,0:30:40.10,Default,,0,0,0,,（旁遮普语）欢迎你们
-Dialogue: 0,0:30:41.81,0:30:42.81,Default,,0,0,0,,（赫梯语）你们好
-Dialogue: 0,0:30:42.85,0:30:45.62,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
-Dialogue: 0,0:30:45.69,0:30:48.09,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
-Dialogue: 0,0:30:48.28,0:30:51.08,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
-Dialogue: 0,0:30:51.26,0:30:53.87,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
-Dialogue: 0,0:30:53.93,0:30:55.07,Default,,0,0,0,,（亚兰语）你好
-Dialogue: 0,0:30:56.50,0:30:58.76,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
-Dialogue: 0,0:30:58.77,0:31:00.43,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
-Dialogue: 0,0:31:01.85,0:31:03.98,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
-Dialogue: 0,0:31:03.99,0:31:07.89,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
-Dialogue: 0,0:31:07.90,0:31:10.64,Default,,0,0,0,,（乌尔都语）欢迎你们
-Dialogue: 0,0:31:10.66,0:31:14.19,Default,,0,0,0,,- 搞什么鬼？ - （越南语）诚挚地向你们致以友好的问候\NWhat the fuck?
-Dialogue: 0,0:31:14.29,0:31:16.86,Default,,0,0,0,,（土耳其语）亲爱的说土耳其语的朋友们
-Dialogue: 0,0:31:16.88,0:31:19.43,Default,,0,0,0,,（土耳其语）祝你们有个美好的早晨
-Dialogue: 0,0:31:19.63,0:31:21.58,Default,,0,0,0,,（日语）你好 你们好吗？
-Dialogue: 0,0:31:22.53,0:31:25.67,Default,,0,0,0,,（印地语）来自地球居民的问候
-Dialogue: 0,0:31:25.72,0:31:28.86,Default,,0,0,0,,（威尔士语）祝你们现在及未来健康
-Dialogue: 0,0:31:28.90,0:31:30.86,Default,,0,0,0,,（意大利语）致以最美好的祝愿和问候
-Dialogue: 0,0:31:31.71,0:31:32.83,Default,,0,0,0,,（僧伽罗语）健康长寿
-Dialogue: 0,0:31:34.56,0:31:36.68,Default,,0,0,0,,（恩古尼语）向伟大的你们致意
-Dialogue: 0,0:31:36.69,0:31:39.51,Default,,0,0,0,,（恩古尼语）祝你们永恒繁荣
-Dialogue: 0,0:31:39.53,0:31:41.40,Default,,0,0,0,,（塞索托语）向伟大的你们致以问候
-Dialogue: 0,0:31:42.92,0:31:44.75,Default,,0,0,0,,（吴语）祝大家好
-Dialogue: 0,0:31:46.14,0:31:48.91,Default,,0,0,0,,（亚美尼亚语）向宇宙中存在的
-Dialogue: 0,0:31:48.92,0:31:53.19,Default,,0,0,0,,（亚美尼亚语）所有生命致以问候
-Dialogue: 0,0:31:53.57,0:31:54.93,Default,,0,0,0,,（朝鲜语）你们好
-Dialogue: 0,0:31:56.62,0:31:59.65,Default,,0,0,0,,（波兰语）欢迎 来自异世界的生命
-Dialogue: 0,0:31:59.77,0:32:03.64,Default,,0,0,0,,（尼泊尔语）地球人祝愿你们拥有一个和平的未来
-Dialogue: 0,0:32:03.82,0:32:07.04,Default,,0,0,0,,（汉语）各位都好吧？我们都很想念你们
-Dialogue: 0,0:32:07.05,0:32:09.18,Default,,0,0,0,,（汉语）有空请到这儿来玩
-Dialogue: 0,0:32:09.19,0:32:11.72,Default,,0,0,0,,（伊拉族语）祝愿你们一切都好
-Dialogue: 0,0:32:12.32,0:32:14.79,Default,,0,0,0,,（瑞典语）来自地球
-Dialogue: 0,0:32:14.80,0:32:18.99,Default,,0,0,0,,（瑞典语）伊萨卡小镇一名程序员的问候
-Dialogue: 0,0:32:19.59,0:32:22.13,Default,,0,0,0,,（齐切瓦语）其他星球的朋友们 你们好吗？
-Dialogue: 0,0:32:22.90,0:32:26.33,Default,,0,0,0,,（古加拉特语）地球人类向宇宙各处
-Dialogue: 0,0:32:26.34,0:32:30.46,Default,,0,0,0,,（古加拉特语）致以诚挚问候
-Dialogue: 0,0:32:30.48,0:32:36.88,Default,,0,0,0,,（古加拉特语）期待着收到你们的回复
-Dialogue: 0,0:32:37.40,0:32:41.21,Default,,0,0,0,,（乌克兰语）来自我们世界的问候
-Dialogue: 0,0:32:41.21,0:32:43.73,Default,,0,0,0,,（乌克兰语）祝愿你们幸福健康 长久繁荣
-Dialogue: 0,0:32:43.92,0:32:56.17,Default,,0,0,0,,（波斯语）向遥远天际的居民致意
-Dialogue: 0,0:32:56.58,0:32:59.42,Default,,0,0,0,,（塞尔维亚语）来自我们星球的诚挚祝愿
-Dialogue: 0,0:32:59.80,0:33:04.29,Default,,0,0,0,,（奥里亚语）来自太阳系第三颗行星
-Dialogue: 0,0:33:04.31,0:33:08.23,Default,,0,0,0,,（奥里亚语）地球的问候
-Dialogue: 0,0:33:08.31,0:33:10.77,Default,,0,0,0,,（干达语）向宇宙所有族群致意
-Dialogue: 0,0:33:10.78,0:33:12.87,Default,,0,0,0,,（干达语）愿和平永远伴随你们
-Dialogue: 0,0:33:12.89,0:33:21.34,Default,,0,0,0,,（马拉地语）地球人民向你们传递美好的祝愿
-Dialogue: 0,0:33:21.56,0:33:25.41,Default,,0,0,0,,（台语）太空的朋友们 你们好
-Dialogue: 0,0:33:25.42,0:33:29.11,Default,,0,0,0,,（台语）吃过饭没？来我们这儿坐坐
-Dialogue: 0,0:33:26.91,0:33:27.91,Default,,0,0,0,,{\an8}[工作牌]
-Dialogue: 0,0:33:29.42,0:33:35.01,Default,,0,0,0,,（匈牙利语）用匈牙利语向宇宙中所有热爱和平的生命致意
-Dialogue: 0,0:33:35.41,0:33:39.33,Default,,0,0,0,,（泰卢固语）说泰卢固语的人们向你们致以美好的祝愿
-Dialogue: 0,0:33:37.79,0:33:39.22,Default,,0,0,0,,你好？\NHello?
-Dialogue: 0,0:33:39.40,0:33:42.52,Default,,0,0,0,,（捷克语）亲爱的朋友们 祝你们万事如意
-Dialogue: 0,0:33:42.70,0:33:46.28,Default,,0,0,0,,（卡纳达语）代表说卡纳达语的人们 向你们致以美好祝愿
-Dialogue: 0,0:33:46.39,0:33:50.75,Default,,0,0,0,,（拉贾斯坦语）大家好 我们这里很幸福
-Dialogue: 0,0:33:50.76,0:33:52.96,Default,,0,0,0,,（拉贾斯坦语）愿你们那里也同样幸福
-Dialogue: 0,0:33:52.97,0:33:56.05,Default,,0,0,0,,（英语）来自地球儿童的问候\NHello from the children of planet Earth.
-Dialogue: 0,0:33:56.08,0:33:57.76,Default,,0,0,0,,{\an8}[【多国语问候：源自1977年旅行者号金唱片】]
-Dialogue: 0,0:34:01.71,0:34:03.88,Default,,0,0,0,,（古希腊语）你们好 无论你们是谁 我们带着友谊 拜访朋友
-Dialogue: 0,0:34:08.82,0:34:11.79,Default,,0,0,0,,（葡萄牙语）愿所有人平安幸福
-Dialogue: 0,0:34:11.79,0:34:14.06,Default,,0,0,0,,（粤语）各位好吗？祝各位平安健康快乐
-Dialogue: 0,0:34:21.13,0:34:22.63,Default,,0,0,0,,哦...\NOoh...
-Dialogue: 0,0:34:24.88,0:34:26.97,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
-Dialogue: 0,0:34:26.99,0:34:29.76,Default,,0,0,0,,（克丘亚语）每一个人问好
-Dialogue: 0,0:34:29.77,0:34:31.00,Default,,0,0,0,,（旁遮普语）欢迎你们
-Dialogue: 0,0:34:32.71,0:34:33.71,Default,,0,0,0,,（赫梯语）你们好
-Dialogue: 0,0:34:33.75,0:34:36.52,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
-Dialogue: 0,0:34:36.59,0:34:38.99,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
-Dialogue: 0,0:34:39.18,0:34:41.98,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
-Dialogue: 0,0:34:42.16,0:34:44.77,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
-Dialogue: 0,0:34:44.83,0:34:45.97,Default,,0,0,0,,（亚兰语）你好
-Dialogue: 0,0:34:47.40,0:34:49.66,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
-Dialogue: 0,0:34:49.67,0:34:51.33,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
-Dialogue: 0,0:34:52.75,0:34:54.88,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
-Dialogue: 0,0:34:54.89,0:34:58.79,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
-Dialogue: 0,0:34:58.80,0:35:01.54,Default,,0,0,0,,（乌尔都语）欢迎你们
-Dialogue: 0,0:35:01.56,0:35:05.09,Default,,0,0,0,,（越南语）诚挚地向你们致以友好的问候
-Dialogue: 0,0:35:05.19,0:35:07.76,Default,,0,0,0,,（土耳其语）亲爱的说土耳其语的朋友们
-Dialogue: 0,0:35:07.78,0:35:10.33,Default,,0,0,0,,（土耳其语）祝你们有个美好的早晨
-Dialogue: 0,0:35:10.53,0:35:12.48,Default,,0,0,0,,（日语）你好 你们好吗？
-Dialogue: 0,0:35:13.43,0:35:16.57,Default,,0,0,0,,（印地语）来自地球居民的问候
-Dialogue: 0,0:35:16.62,0:35:19.76,Default,,0,0,0,,（威尔士语）祝你们现在及未来健康
-Dialogue: 0,0:35:19.80,0:35:21.76,Default,,0,0,0,,（意大利语）致以最美好的祝愿和问候
-Dialogue: 0,0:35:22.61,0:35:23.73,Default,,0,0,0,,（僧伽罗语）健康长寿
-Dialogue: 0,0:35:25.46,0:35:27.58,Default,,0,0,0,,（恩古尼语）向伟大的你们致意
-Dialogue: 0,0:35:27.59,0:35:30.41,Default,,0,0,0,,（恩古尼语）祝你们永恒繁荣
-Dialogue: 0,0:35:30.43,0:35:32.30,Default,,0,0,0,,（塞索托语）向伟大的你们致以问候
-Dialogue: 0,0:35:33.82,0:35:35.65,Default,,0,0,0,,（吴语）祝大家好
-Dialogue: 0,0:35:37.04,0:35:39.81,Default,,0,0,0,,（亚美尼亚语）向宇宙中存在的
-Dialogue: 0,0:35:39.82,0:35:44.09,Default,,0,0,0,,（亚美尼亚语）所有生命致以问候
-Dialogue: 0,0:35:44.47,0:35:45.83,Default,,0,0,0,,（朝鲜语）你们好
-Dialogue: 0,0:35:47.52,0:35:50.55,Default,,0,0,0,,（波兰语）欢迎 来自异世界的生命
-Dialogue: 0,0:35:50.67,0:35:54.54,Default,,0,0,0,,（尼泊尔语）地球人祝愿你们拥有一个和平的未来
-Dialogue: 0,0:35:54.72,0:35:57.94,Default,,0,0,0,,（汉语）各位都好吧？我们都很想念你们
-Dialogue: 0,0:35:57.95,0:36:00.08,Default,,0,0,0,,（汉语）有空请到这儿来玩
-Dialogue: 0,0:36:00.09,0:36:02.62,Default,,0,0,0,,（伊拉族语）祝愿你们一切都好
-Dialogue: 0,0:36:03.22,0:36:05.69,Default,,0,0,0,,（瑞典语）来自地球
-Dialogue: 0,0:36:05.70,0:36:09.89,Default,,0,0,0,,（瑞典语）伊萨卡小镇一名程序员的问候
-Dialogue: 0,0:36:10.49,0:36:13.03,Default,,0,0,0,,（齐切瓦语）其他星球的朋友们 你们好吗？
-Dialogue: 0,0:36:13.30,0:36:14.90,Default,,0,0,0,,是谁啊？\NAnyone there?
-Dialogue: 0,0:36:55.69,0:36:57.12,Default,,0,0,0,,哦 该死...\NOh, fuck...
-Dialogue: 0,0:37:13.95,0:37:14.95,Default,,0,0,0,,[车停]
-Dialogue: 0,0:37:19.51,0:37:21.48,Default,,0,0,0,,好 好\NOkay, Okay...
-Dialogue: 0,0:38:59.15,0:39:00.99,Default,,0,0,0,,（法语）大家好
-Dialogue: 0,0:39:02.26,0:39:03.82,Default,,0,0,0,,（缅甸语）你们好吗？
-Dialogue: 0,0:39:05.67,0:39:06.87,Default,,0,0,0,,（希伯来语）你好
-Dialogue: 0,0:39:07.78,0:39:09.84,Default,,0,0,0,,（西班牙语）你好 向大家致敬
-Dialogue: 0,0:39:11.29,0:39:12.84,Default,,0,0,0,,（印尼语）女士们先生们 晚上好
-Dialogue: 0,0:39:12.85,0:39:16.76,Default,,0,0,0,,（印尼语）再见期待下次再见
-Dialogue: 0,0:39:16.78,0:39:18.87,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
-Dialogue: 0,0:39:18.89,0:39:21.66,Default,,0,0,0,,（克丘亚语）每一个人问好
-Dialogue: 0,0:39:21.67,0:39:22.90,Default,,0,0,0,,（旁遮普语）欢迎你们
-Dialogue: 0,0:39:24.61,0:39:25.61,Default,,0,0,0,,（赫梯语）你们好
-Dialogue: 0,0:39:25.65,0:39:28.42,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
-Dialogue: 0,0:39:28.49,0:39:30.89,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
-Dialogue: 0,0:39:31.08,0:39:33.88,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
-Dialogue: 0,0:39:34.06,0:39:36.67,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
-Dialogue: 0,0:39:34.80,0:39:35.80,Default,,0,0,0,,{\an8}[左声道 右声道]
-Dialogue: 0,0:39:36.73,0:39:37.87,Default,,0,0,0,,（亚兰语）你好
-Dialogue: 0,0:39:39.30,0:39:41.56,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
-Dialogue: 0,0:39:41.57,0:39:43.23,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
-Dialogue: 0,0:39:44.65,0:39:46.78,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
-Dialogue: 0,0:39:46.79,0:39:50.69,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
-Dialogue: 0,0:39:48.76,0:39:49.96,Default,,0,0,0,,{\an8}[（基洛纳区-监视点J3 1990年6月29日）]
-Dialogue: 0,0:39:50.70,0:39:53.44,Default,,0,0,0,,（乌尔都语）欢迎你们
-Dialogue: 0,0:40:07.58,0:40:08.58,Default,,0,0,0,,抱歉来晚了\NSorry I'm late.
-Dialogue: 0,0:40:10.25,0:40:12.05,Default,,0,0,0,,路上堵死了 我又没法早点走\NTraffic was hell, and I couldn't leave early.
-Dialogue: 0,0:40:12.05,0:40:13.55,Default,,0,0,0,,没关系 趁还有时间聊聊吧\NLet's just use the time we have.
-Dialogue: 0,0:40:17.22,0:40:18.42,Default,,0,0,0,,今天感觉怎么样 克拉克？\NHow are you today, Clark?
-Dialogue: 0,0:40:18.42,0:40:20.42,Default,,0,0,0,,你看得我怎么样？\NHow do I look?
-Dialogue: 0,0:40:21.69,0:40:23.36,Default,,0,0,0,,挺好的 可能有点累吧\NFine. A little tired, maybe.
-Dialogue: 0,0:40:23.36,0:40:24.53,Default,,0,0,0,,我简直糟糕透了\NI look like shit.
-Dialogue: 0,0:40:25.43,0:40:26.80,Default,,0,0,0,,我想确认一下\NCan I ask, and there is
-Dialogue: 0,0:40:26.80,0:40:28.23,Default,,0,0,0,,放心回答 没什么对错\Nno wrong answer here, you know that...
-Dialogue: 0,0:40:28.77,0:40:30.43,Default,,0,0,0,,你现在是不是受到酒精影响？\NAre you intoxicated right now?
-Dialogue: 0,0:40:31.47,0:40:32.50,Default,,0,0,0,,你干嘛这么问？\NWhy you say it like that?
-Dialogue: 0,0:40:33.94,0:40:35.07,Default,,0,0,0,,怎么问了？\NLike what?
-Dialogue: 0,0:40:36.84,0:40:38.71,Default,,0,0,0,,我从周五起就没碰过一滴酒\NI haven't had a drink since Friday.
-Dialogue: 0,0:40:38.71,0:40:39.68,Default,,0,0,0,,没准儿我这副鬼样子就是因为没喝酒\NIt's probably why I look like shit.
-Dialogue: 0,0:40:41.05,0:40:42.65,Default,,0,0,0,,- 我能问你个事吗？ - 请说\N- Can I ask you something? - Sure.
-Dialogue: 0,0:40:43.28,0:40:44.58,Default,,0,0,0,,你把人强制关精神病院过吗？\NYou ever 5150'd someone?
-Dialogue: 0,0:40:43.28,0:40:45.08,Default,,0,0,0,,{\an8}[【加州法律5150条：强制将危险精神病人送院观察】]
-Dialogue: 0,0:40:47.45,0:40:50.62,Default,,0,0,0,,这么多年确实有过几次 只要情况需要\NA few times over the years, when it was necessary.
-Dialogue: 0,0:40:51.66,0:40:52.92,Default,,0,0,0,,那...那...那什么样的情况才算需要？\NWh-wha-what makes it necessary?
-Dialogue: 0,0:40:55.16,0:40:58.49,Default,,0,0,0,,只要我认为对方有伤人自残的风险\NIf I believe that the person is a danger to themselves or others,
-Dialogue: 0,0:40:58.49,0:41:00.56,Default,,0,0,0,,或者无法自理\Nor they're gravely disabled.
-Dialogue: 0,0:41:01.37,0:41:04.00,Default,,0,0,0,,行 行 \NOkay. Okay.
-Dialogue: 0,0:41:07.54,0:41:08.94,Default,,0,0,0,,那个...\NUm...
-Dialogue: 0,0:41:08.94,0:41:10.34,Default,,0,0,0,,我在店里发现了点情况\NI found something in the store.
-Dialogue: 0,0:41:12.44,0:41:14.98,Default,,0,0,0,,好 什么情况\NOkay. What did you find?
-Dialogue: 0,0:41:16.05,0:41:17.35,Default,,0,0,0,,呃...\NUh...
-Dialogue: 0,0:41:17.72,0:41:19.65,Default,,0,0,0,,是个地方 我...\NA place. I f...
-Dialogue: 0,0:41:20.42,0:41:22.05,Default,,0,0,0,,我发现了个地方\NI found a place.
-Dialogue: 0,0:41:23.09,0:41:24.39,Default,,0,0,0,,地方？\NA place?
-Dialogue: 0,0:41:25.39,0:41:27.16,Default,,0,0,0,,嗯 感觉...\NYeah. It's like, um...
-Dialogue: 0,0:41:27.93,0:41:29.66,Default,,0,0,0,,感觉店就那样...\NIt's like the store just, uh...
-Dialogue: 0,0:41:30.66,0:41:33.00,Default,,0,0,0,,往外扩了\Ncontinues, I guess.
-Dialogue: 0,0:41:33.00,0:41:34.90,Default,,0,0,0,,你知道吧...店有墙\NIt's like... you know, like there's a wall
-Dialogue: 0,0:41:34.90,0:41:36.23,Default,,0,0,0,,墙后头居然还是店\Nand on the other side of the wall,
-Dialogue: 0,0:41:36.23,0:41:38.03,Default,,0,0,0,,没完没了地往外扩\Nthe store just keeps going, you know,
-Dialogue: 0,0:41:38.04,0:41:40.34,Default,,0,0,0,,就像 就像 像个克隆的 \Nlike-like a... like a copy of itself.
-Dialogue: 0,0:41:40.34,0:41:42.10,Default,,0,0,0,,我...我猜入口是用镜子什么的给挡住的\NI-I-I figure they're using mirrors or something
-Dialogue: 0,0:41:42.11,0:41:43.01,Default,,0,0,0,,我不确定\Nto hide the entrance, I don't know.
-Dialogue: 0,0:41:43.01,0:41:44.84,Default,,0,0,0,,不好意思 我没听明白\NSorry, I'm not following you.
-Dialogue: 0,0:41:44.84,0:41:45.97,Default,,0,0,0,,你是说找到了个之前没发现的房间？\NIs this a room you didn't know about before?
-Dialogue: 0,0:41:45.98,0:41:47.68,Default,,0,0,0,,不是\NNo.
-Dialogue: 0,0:41:47.68,0:41:50.71,Default,,0,0,0,,就是...就是你一进去后\NOkay, so y-y-you go in and, uh, at first
-Dialogue: 0,0:41:50.71,0:41:52.75,Default,,0,0,0,,看着像个...像个写字楼\Nit just looks like a- like an office building.
-Dialogue: 0,0:41:52.75,0:41:55.72,Default,,0,0,0,,一个巨大的办公室 你懂吧？\NLike a... like a huge office building, you know?
-Dialogue: 0,0:41:55.72,0:41:57.75,Default,,0,0,0,,然后...你 你继续往里走\NAnd then, uh... But then you-you keep going,
-Dialogue: 0,0:41:57.76,0:41:59.89,Default,,0,0,0,,接着...接着你就发现\Nand then-then you realize
-Dialogue: 0,0:41:59.89,0:42:02.36,Default,,0,0,0,,所...所有东西都不对劲\Nth-th-that none of it makes any sense.
-Dialogue: 0,0:42:02.36,0:42:04.93,Default,,0,0,0,,怎么说呢...嗯...想象一下\NIt's-it's like, um... Imagine describing a dog
-Dialogue: 0,0:42:04.93,0:42:06.13,Default,,0,0,0,,你给个没见过狗的人描述狗\Nto someone who's never seen one before
-Dialogue: 0,0:42:06.13,0:42:07.80,Default,,0,0,0,,然后让那人把狗画出来\Nand then asking them to draw it.
-Dialogue: 0,0:42:07.80,0:42:09.80,Default,,0,0,0,,可能会画对几个地方\NThey might get some things right, you know,
-Dialogue: 0,0:42:09.80,0:42:11.57,Default,,0,0,0,,但绝不可能全画对\Nbut there's no way they'd get everything right.
-Dialogue: 0,0:42:11.57,0:42:12.83,Default,,0,0,0,,你知道 诡异的在于细节\NYou know, the devil's in the details.
-Dialogue: 0,0:42:12.84,0:42:14.50,Default,,0,0,0,,所以远看像只狗\NSo from a distance, you look at it,
-Dialogue: 0,0:42:14.51,0:42:16.14,Default,,0,0,0,,但凑近一看...\Nyou think you're seeing a dog, but then you look clos--
-Dialogue: 0,0:42:16.94,0:42:18.11,Default,,0,0,0,,干嘛那样看我？\NWhy are you looking at me like that?
-Dialogue: 0,0:42:19.78,0:42:21.21,Default,,0,0,0,,我只是在试着理解\NI'm just trying to understand.
-Dialogue: 0,0:42:21.21,0:42:22.48,Default,,0,0,0,,呵\NOh.
-Dialogue: 0,0:42:24.05,0:42:26.18,Default,,0,0,0,,你不像个心理医生 怎么表情都写在脸上\NYou know, for a shrink, you got a terrible poker face.
-Dialogue: 0,0:42:28.59,0:42:30.72,Default,,0,0,0,,你说的这些听起来很离奇\NWhat you're saying might sound fantastical,
-Dialogue: 0,0:42:30.72,0:42:32.29,Default,,0,0,0,,但并不危险\Nbut not dangerous.
-Dialogue: 0,0:42:35.59,0:42:37.63,Default,,0,0,0,,那些办公室里有人吗？\NAre there any people in these offices?
-Dialogue: 0,0:42:39.63,0:42:41.60,Default,,0,0,0,,没见过 但我能听到\NNot that I've seen. You know, I hear, um...
-Dialogue: 0,0:42:42.90,0:42:44.73,Default,,0,0,0,,听到脚步声 而且...而且我一转眼\NThere's footsteps, an-an-and stuff gets moved around
-Dialogue: 0,0:42:44.74,0:42:46.84,Default,,0,0,0,,东西就被挪了位置\Nwhen I'm not looking.
-Dialogue: 0,0:42:46.84,0:42:48.30,Default,,0,0,0,,我知道这听起来很离谱 但你得明白\NI know how this sounds, but you've got to understand,
-Dialogue: 0,0:42:48.31,0:42:49.94,Default,,0,0,0,,那地方太大了\Nit's massive in there.
-Dialogue: 0,0:42:49.94,0:42:52.14,Default,,0,0,0,,简直像纽约地铁那么大 懂吧\NLike New-York's-subway-system massive, you know.
-Dialogue: 0,0:42:52.14,0:42:53.68,Default,,0,0,0,,没准儿里面有好几百人\NFor all I know, there's hundreds of people.
-Dialogue: 0,0:42:53.68,0:42:55.31,Default,,0,0,0,,我只是没看到\NI just haven't seen them.
-Dialogue: 0,0:43:00.15,0:43:01.52,Default,,0,0,0,,看\NLook.
-Dialogue: 0,0:43:01.52,0:43:03.12,Default,,0,0,0,,你看 这就像个...\NYou see? It's like a...
-Dialogue: 0,0:43:03.12,0:43:05.25,Default,,0,0,0,,就像个迷宫\NIt's like a maze.
-Dialogue: 0,0:43:05.26,0:43:07.59,Default,,0,0,0,,根本没尽头\NIt just goes on and on and on.
-Dialogue: 0,0:43:07.59,0:43:09.09,Default,,0,0,0,,我有时候真怕自己会迷路\NSometimes I'm scared I'll get lost.
-Dialogue: 0,0:43:13.53,0:43:15.13,Default,,0,0,0,,那为什么除了你 没人发现这地方？\NWhy do you think no one else has found this place?
-Dialogue: 0,0:43:16.50,0:43:17.87,Default,,0,0,0,,我哪知道\NI don't know.
-Dialogue: 0,0:43:17.87,0:43:18.97,Default,,0,0,0,,但入口在负一层\NThe entrance is on the subfloor,
-Dialogue: 0,0:43:18.97,0:43:20.97,Default,,0,0,0,,所以整个结构\Nso the whole structure is
-Dialogue: 0,0:43:20.97,0:43:22.00,Default,,0,0,0,,估计都在地下 懂吧\Nprobably underground, you know?
-Dialogue: 0,0:43:22.01,0:43:23.87,Default,,0,0,0,,地图上根本没这个地方\NIt's not on any city maps.
-Dialogue: 0,0:43:23.87,0:43:25.74,Default,,0,0,0,,入口根本看不出来 谁会想到去找？\NThe entrances are hidden, so who'd think to look?
-Dialogue: 0,0:43:28.71,0:43:29.88,Default,,0,0,0,,我没说不信你...\NI'm not saying I don't believe you...
-Dialogue: 0,0:43:30.81,0:43:32.68,Default,,0,0,0,,不过 你跟我说\Nbut you told me yourself
-Dialogue: 0,0:43:32.68,0:43:34.55,Default,,0,0,0,,你周五就开始戒酒了\Nyou haven't had a drink since Friday.
-Dialogue: 0,0:43:34.55,0:43:35.65,Default,,0,0,0,,- 这会不会导致幻.... - 行了\N- Do you think there is a-- - Okay.
-Dialogue: 0,0:43:36.29,0:43:37.95,Default,,0,0,0,,- 克拉克 - 停 停\N- Clark-- - No, no.
-Dialogue: 0,0:43:37.96,0:43:39.25,Default,,0,0,0,,- 如果这是真的... - 行 我懂了 多谢您啊\N- If this is true-- - Yeah, I get it. Thank you.
-Dialogue: 0,0:43:41.46,0:43:44.83,Default,,0,0,0,,我迟早会带着证据回来\NYou know, I'm gonna come back here with proof
-Dialogue: 0,0:43:46.03,0:43:47.93,Default,,0,0,0,,到时候你得给我好好道歉\Nand you're gonna owe me a serious fucking apology.
-Dialogue: 0,0:44:39.58,0:44:40.92,Default,,0,0,0,,小凯\NKat!
-Dialogue: 0,0:44:44.92,0:44:47.52,Default,,0,0,0,,谁呀 来了 来了\NJesus, goddamn, I'm coming! I'm coming!
-Dialogue: 0,0:44:47.53,0:44:49.42,Default,,0,0,0,,- 嘿 - 克船长？\N- Hey. - Cap'n Clark?
-Dialogue: 0,0:44:49.43,0:44:50.76,Default,,0,0,0,,- 额... - 等等 等等 小凯 快来\N- Um... - Wait, wait, wait, wait. Kat?
-Dialogue: 0,0:44:51.53,0:44:52.89,Default,,0,0,0,,- 我来了 - 快点\N- I'm coming. - Kat!
-Dialogue: 0,0:44:52.90,0:44:54.33,Default,,0,0,0,,行了 我来了\NOkay, I'm coming!
-Dialogue: 0,0:44:54.33,0:44:56.00,Default,,0,0,0,,- 是这样的... - 搞什么鬼\N- Look-- -What the fuck?
-Dialogue: 0,0:44:56.00,0:44:57.60,Default,,0,0,0,,抱歉 那个...\NYeah, I'm sorry, uh...
-Dialogue: 0,0:44:57.60,0:44:59.23,Default,,0,0,0,,你们明天有空吗？\NWhat are you guys doing tomorrow?
-Dialogue: 0,0:44:59.24,0:45:01.00,Default,,0,0,0,,你在说什么呢？\NWhat are you talking about?
-Dialogue: 0,0:45:01.00,0:45:02.94,Default,,0,0,0,,我给钱 算加班 顶多两个小时 很快的\NI'll pay you. Two hours. Overtime. Tops.
-Dialogue: 0,0:45:02.94,0:45:04.51,Default,,0,0,0,,行 给钱干什么？\NOkay, pay us for what?
-Dialogue: 0,0:45:05.78,0:45:06.98,Default,,0,0,0,,做调研\NResearch.
-Dialogue: 0,0:45:09.75,0:45:11.08,Default,,0,0,0,,摄像机还在你们那儿吧？\NYou got the camera, right?
-Dialogue: 0,0:45:11.08,0:45:12.35,Default,,0,0,0,,你们能...能再帮我拍点东西吗？\NYou can-you can borrow it again...
-Dialogue: 0,0:45:13.69,0:45:15.22,Default,,0,0,0,,行不行？\NRight?
-Dialogue: 0,0:45:22.96,0:45:24.99,Default,,0,0,0,,好了 开始拍了\NOkay, we are rolling.
-Dialogue: 0,0:45:26.66,0:45:29.73,Default,,0,0,0,,这儿摆了些东西\NWe got, um, some shit over here.
-Dialogue: 0,0:45:28.92,0:45:29.72,Default,,0,0,0,,{\an8}[车停]
-Dialogue: 0,0:45:29.73,0:45:31.60,Default,,0,0,0,,还有停车牌\NWe got some stop signs
-Dialogue: 0,0:45:31.60,0:45:33.03,Default,,0,0,0,,还有 呃 绳子\Nand, uh... a rope.
-Dialogue: 0,0:45:33.04,0:45:34.30,Default,,0,0,0,,拿绳子干嘛？\NWhat's the rope for?
-Dialogue: 0,0:45:34.30,0:45:35.84,Default,,0,0,0,,装备\NSupplies.
-Dialogue: 0,0:45:35.84,0:45:37.31,Default,,0,0,0,,呵呵 看来咱们要被他绑了\NOh, great, he's gonna tie us up.
-Dialogue: 0,0:45:37.98,0:45:40.04,Default,,0,0,0,,不是我绑 是要给自己绑好\NNo, we're gonna tie ourselves up.
-Dialogue: 0,0:45:40.04,0:45:41.44,Default,,0,0,0,,唔 挺重口味的\NHmm. Kinky.
-Dialogue: 0,0:45:41.45,0:45:42.84,Default,,0,0,0,,搞什么鬼\NWhat the fuck?
-Dialogue: 0,0:45:42.85,0:45:44.01,Default,,0,0,0,,呃 你还没说清楚\NUh, you still haven't told us
-Dialogue: 0,0:45:44.01,0:45:45.05,Default,,0,0,0,,我们来这儿干嘛？\Nwhat we're doing here, man.
-Dialogue: 0,0:45:45.05,0:45:47.02,Default,,0,0,0,,我说了 做调研\NI did tell you. Research.
-Dialogue: 0,0:45:48.32,0:45:50.19,Default,,0,0,0,,这些是调研装备\NThese are supplies, and we're using them for research.
-Dialogue: 0,0:45:50.19,0:45:51.62,Default,,0,0,0,,没那么难理解吧\NIt's not that hard to understand.
-Dialogue: 0,0:45:51.62,0:45:53.72,Default,,0,0,0,,行 研究什么？\NOkay, research for what?
-Dialogue: 0,0:45:53.73,0:45:55.39,Default,,0,0,0,,你得具体点 老哥\NY-you gotta be more specific, dude.
-Dialogue: 0,0:45:58.06,0:45:59.39,Default,,0,0,0,,我要进门了\NI'm gonna go through the door.
-Dialogue: 0,0:45:59.40,0:46:00.56,Default,,0,0,0,,什么门？\NWhat door?
-Dialogue: 0,0:46:03.93,0:46:06.10,Default,,0,0,0,,这就是门\NThat's the door.
-Dialogue: 0,0:46:06.10,0:46:07.94,Default,,0,0,0,,我在另一边也贴了框\NI taped an outline on the other side, too,
-Dialogue: 0,0:46:07.94,0:46:09.37,Default,,0,0,0,,以防咱们找不到\Njust to help us find our way back.
-Dialogue: 0,0:46:10.37,0:46:12.74,Default,,0,0,0,,- 阿博？ - 怎么了？\N- Bobby? - What?
-Dialogue: 0,0:46:12.74,0:46:15.41,Default,,0,0,0,,听着 我知道这很离谱 但得听我的\NLook, I know it sounds crazy, but follow my lead.
-Dialogue: 0,0:46:16.05,0:46:17.75,Default,,0,0,0,,懂吗？\NOkay?
-Dialogue: 0,0:46:17.75,0:46:19.68,Default,,0,0,0,,我想在天亮前赶回来\NI want to be back before sunup.
-Dialogue: 0,0:46:19.68,0:46:21.18,Default,,0,0,0,,老哥 现在才晚上九点 你说什么...\NDude, it's like 9 p.m. What the fuck are you talk--
-Dialogue: 0,0:46:23.12,0:46:24.39,Default,,0,0,0,,- 什么情况 克拉克 - 卧槽\N- What the fuck! Clark?! - What the fuck?
-Dialogue: 0,0:46:24.39,0:46:26.15,Default,,0,0,0,,- 怎么做到的？ - 老哥 你...\N- How did you do that? - Dude, did you...
-Dialogue: 0,0:46:26.16,0:46:27.62,Default,,0,0,0,,你也看到了吧？他怎么会...呃...\NDid you fucking see that?! H-how did he, um...
-Dialogue: 0,0:46:27.63,0:46:29.29,Default,,0,0,0,,我就在这儿 快进来看看\NI'm right here. Come see for yourself.
-Dialogue: 0,0:46:29.29,0:46:31.06,Default,,0,0,0,,搞什么鬼 你居然真的...\NWhat the fuck? D-did you just fucking...
-Dialogue: 0,0:46:31.06,0:46:33.13,Default,,0,0,0,,什么？怎么会...\NWhat? How the f...
-Dialogue: 0,0:46:33.13,0:46:34.76,Default,,0,0,0,,你干嘛呢？阿博 快住手\NBobby, stop. What are you doing?
-Dialogue: 0,0:46:34.77,0:46:37.27,Default,,0,0,0,,- 我去 - 克拉克 你在哪儿？\N- What the fuck?! - Clark, where are you?
-Dialogue: 0,0:46:37.27,0:46:40.14,Default,,0,0,0,,哈哈 你...你看到了没？\NHa! Hey, did you... did you see that?
-Dialogue: 0,0:46:40.14,0:46:41.37,Default,,0,0,0,,- 他钻哪去了？ - 看到了 阿博 我看到了\N- Where the fuck did he go? - Yes, Bobby, I saw it!
-Dialogue: 0,0:46:41.37,0:46:43.17,Default,,0,0,0,,我去 搞什...\NOh! Where the f--
-Dialogue: 0,0:46:43.17,0:46:45.14,Default,,0,0,0,,踏进来就行 没事的\NJust step through the door, you'll be fine!
-Dialogue: 0,0:46:45.14,0:46:48.14,Default,,0,0,0,,疯了吧 你得先解释清楚\NWhat?! No! Tell us what is going on!
-Dialogue: 0,0:46:48.15,0:46:49.65,Default,,0,0,0,,管他呢 直接...\NYou know what, just...
-Dialogue: 0,0:46:49.65,0:46:51.35,Default,,0,0,0,,不 阿博 别进去 阿博 快停下 你要干什么？\NNo, Bobby, wait! Bobby! Wait, what are you doing?
-Dialogue: 0,0:46:51.35,0:46:52.05,Default,,0,0,0,,阿博\NBobby!
-Dialogue: 0,0:46:54.08,0:46:55.72,Default,,0,0,0,,我去啊\NWhat the fuck?!
-Dialogue: 0,0:46:56.55,0:46:57.95,Default,,0,0,0,,老哥\NDude!
-Dialogue: 0,0:46:57.95,0:46:59.76,Default,,0,0,0,,老哥 这怎么可能？\NDude, how is this possible?
-Dialogue: 0,0:46:59.76,0:47:02.02,Default,,0,0,0,,- 阿博 克拉克 - 行...\N- Bobby! Clark! - Okay...
-Dialogue: 0,0:47:02.03,0:47:03.63,Default,,0,0,0,,你们在哪？里面到底是什么地方？\NWhere are you? What the fuck is back there?
-Dialogue: 0,0:47:03.63,0:47:04.99,Default,,0,0,0,,没事没事 小凯 没事的\NNo, no, no, Kat, it's good, it's good.
-Dialogue: 0,0:47:05.00,0:47:06.80,Default,,0,0,0,,赶紧进来看看\NJ-just, you gotta come see this.
-Dialogue: 0,0:47:11.23,0:47:13.23,Default,,0,0,0,,我是说...对 你看...\NI mean... Right, you see...
-Dialogue: 0,0:47:13.24,0:47:14.90,Default,,0,0,0,,你看这 呃...\NYou see, it's, um...
-Dialogue: 0,0:47:14.91,0:47:16.17,Default,,0,0,0,,- 没问题 - 克拉克 这是什么地方？\N- It's fine. - Clark, what is this?
-Dialogue: 0,0:47:16.17,0:47:17.97,Default,,0,0,0,,- 我们在哪？ - 哦\N- Where are we? - Oh!
-Dialogue: 0,0:47:17.97,0:47:18.94,Default,,0,0,0,,我也正想弄明白呢\NThat's what I'm trying to figure out.
-Dialogue: 0,0:47:20.08,0:47:22.14,Default,,0,0,0,,这...这是谁的东西？\NWhose, um... Whose shit is this?
-Dialogue: 0,0:47:22.15,0:47:24.01,Default,,0,0,0,,是你...是你店里的吗？\NIs it-is it... is it part of your store?
-Dialogue: 0,0:47:24.01,0:47:25.55,Default,,0,0,0,,如果真有主的话\NIf it belongs to someone,
-Dialogue: 0,0:47:25.55,0:47:27.32,Default,,0,0,0,,- 我还没碰到那个人 - 好吧\N- I haven't met them yet. - Okay...
-Dialogue: 0,0:47:27.32,0:47:29.18,Default,,0,0,0,,自从发现这地方 我每晚都来\NI've been in here every night since I found the place,
-Dialogue: 0,0:47:29.19,0:47:31.09,Default,,0,0,0,,但也就看了个冰山一角\Nand I still barely scratched the surface.
-Dialogue: 0,0:47:31.09,0:47:32.82,Default,,0,0,0,,走 我带你们看看\NCome on. I'll show you.
-Dialogue: 0,0:47:33.46,0:47:35.16,Default,,0,0,0,,越往后越有意思\NIt only gets better.
-Dialogue: 0,0:47:35.16,0:47:37.46,Default,,0,0,0,,- 真扯... - 嘿 嘿\N- What the fuck... - Hey. Hey.
-Dialogue: 0,0:47:37.46,0:47:39.23,Default,,0,0,0,,你不觉得他给我们下药了吧？\NYou don't think he, like, dosed us or something, do you?
-Dialogue: 0,0:47:39.23,0:47:41.13,Default,,0,0,0,,哈？没那回事 咱们没磕药\NWhat? No, no, no. We're not on drugs.
-Dialogue: 0,0:47:42.30,0:47:43.60,Default,,0,0,0,,要是我嗨了 肯定能感觉到\NI think I'd be able to tell if I was high.
-Dialogue: 0,0:47:44.40,0:47:45.64,Default,,0,0,0,,你现在就嗨着呢\NYou are high!
-Dialogue: 0,0:47:46.50,0:47:47.60,Default,,0,0,0,,抽草不算\NPot doesn't count.
-Dialogue: 0,0:47:50.84,0:47:52.87,Default,,0,0,0,,所以...这就像...\NSo, um, it's like...
-Dialogue: 0,0:47:52.88,0:47:54.68,Default,,0,0,0,,像个空办公区？\Nwhat, like an empty office building?
-Dialogue: 0,0:47:54.68,0:47:57.11,Default,,0,0,0,,在这儿？算是吧 但这地方简直像是\NIn here? Sure. But it's like it was made
-Dialogue: 0,0:47:57.11,0:47:59.05,Default,,0,0,0,,一帮嗑嗨了的建筑工盖出来的\Nby a bunch of construction workers on acid.
-Dialogue: 0,0:47:59.05,0:48:00.65,Default,,0,0,0,,居然还搞了个泳池\NThere's even a pool!
-Dialogue: 0,0:48:00.65,0:48:02.12,Default,,0,0,0,,有泳池？\NThere's a pool?
-Dialogue: 0,0:48:02.12,0:48:04.02,Default,,0,0,0,,没错 算是吧\NYeah. I mean, kind of.
-Dialogue: 0,0:48:04.02,0:48:05.52,Default,,0,0,0,,快跟上\NKeep up.
-Dialogue: 0,0:48:06.36,0:48:08.09,Default,,0,0,0,,“车停”什么鬼？\N"Pots." What the fuck?
-Dialogue: 0,0:48:16.53,0:48:18.07,Default,,0,0,0,,不不不 那是我上次走的路\NYeah, no, no, that's the way I went last time.
-Dialogue: 0,0:48:19.47,0:48:21.50,Default,,0,0,0,,当时我想找个楼梯下去什么的\NYeah, when I was looking for a staircase down or something.
-Dialogue: 0,0:48:23.57,0:48:25.44,Default,,0,0,0,,结果只发现了个...\NOnly thing I found so far is basically more of a...
-Dialogue: 0,0:48:25.44,0:48:27.28,Default,,0,0,0,,好的...\NOkay...
-Dialogue: 0,0:48:27.28,0:48:28.68,Default,,0,0,0,,怎么说呢 其实就是个斜坡\NI don't know, it's like a ramp, really.
-Dialogue: 0,0:48:28.68,0:48:30.15,Default,,0,0,0,,就在这儿 呃...前面\NIt's, uh... It's up here.
-Dialogue: 0,0:48:31.92,0:48:33.05,Default,,0,0,0,,马上就到了\NWe'll be at it in a minute.
-Dialogue: 0,0:48:33.05,0:48:35.15,Default,,0,0,0,,好吧\NOkay...
-Dialogue: 0,0:48:37.99,0:48:39.29,Default,,0,0,0,,这下面总共有多少层？\NHow many floors does it go down?
-Dialogue: 0,0:48:39.29,0:48:40.62,Default,,0,0,0,,这不能用楼层来...\NIs this not technically...
-Dialogue: 0,0:48:42.86,0:48:44.59,Default,,0,0,0,,行了 开始拍了吗？\NOkay. All right, you filming?
-Dialogue: 0,0:48:44.60,0:48:46.26,Default,,0,0,0,,- 拍了  - 行\N- Yeah. - All right.
-Dialogue: 0,0:48:46.26,0:48:48.13,Default,,0,0,0,,为什么非得让阿博下去？\NI don't see why Bobby has to be the one to go.
-Dialogue: 0,0:48:48.13,0:48:49.70,Default,,0,0,0,,- 我想去 - 摄像机在他手上\N- I want to. - He's the one with the camera.
-Dialogue: 0,0:48:49.70,0:48:51.07,Default,,0,0,0,,相机又没长在他身上\NWell, it's not like it's attached.
-Dialogue: 0,0:48:51.07,0:48:52.64,Default,,0,0,0,,它挂在我学生证上的\NYeah, well, I mean,
-Dialogue: 0,0:48:52.64,0:48:54.57,Default,,0,0,0,,所以就算长在身上了\Nto my student ID, yeah, it kinda is.
-Dialogue: 0,0:48:54.57,0:48:56.40,Default,,0,0,0,,要是觉得不对劲 就拽一下 我把你拉上来 明白吧？\NAny trouble, just give a tug, and I'll pull you up, okay?
-Dialogue: 0,0:48:56.41,0:48:57.94,Default,,0,0,0,,不对劲？克拉克 下面有什么不对劲？\NTrouble? Clark, what fucking trouble?
-Dialogue: 0,0:48:57.94,0:48:59.21,Default,,0,0,0,,不会有事的\NThere's not going to be any trouble.
-Dialogue: 0,0:48:59.21,0:49:00.54,Default,,0,0,0,,宝贝 宝贝 没事\NBabe, babe, babe, it's good.
-Dialogue: 0,0:49:00.55,0:49:02.01,Default,,0,0,0,,- 别下... - 真的没事 我没问题\N- No, hey-- - It's good. I'm good.
-Dialogue: 0,0:49:02.01,0:49:03.71,Default,,0,0,0,,亲爱的 你不用下去\NBaby, you don't have to do this.
-Dialogue: 0,0:49:03.71,0:49:05.41,Default,,0,0,0,,没事 我就是想看看下面有什么\NNo, it's cool. I-I just want to see what's down there.
-Dialogue: 0,0:49:05.42,0:49:07.72,Default,,0,0,0,,- 你不好奇吗？ - 简直是疯了\N- Are you not curious? - This is stupid!
-Dialogue: 0,0:49:07.72,0:49:09.45,Default,,0,0,0,,- 能走多远就走多远 - 没事 你看 你看\N- Just go as far as you can. - No, look, look, look!
-Dialogue: 0,0:49:09.45,0:49:11.12,Default,,0,0,0,,其实不用绳子也能走下去\NYou can basically walk down without a rope.
-Dialogue: 0,0:49:11.12,0:49:12.35,Default,,0,0,0,,没什么 一点也不陡\NIt's fine, and it's not even steep.
-Dialogue: 0,0:49:12.36,0:49:14.12,Default,,0,0,0,,行吧\NOkay.
-Dialogue: 0,0:49:14.12,0:49:15.83,Default,,0,0,0,,好 但有一件事\NOkay, just don't... just one thing.
-Dialogue: 0,0:49:15.83,0:49:18.03,Default,,0,0,0,,万一我回不来 记得告诉我妈我爱她哦\NIf I don't come back, you'll tell my mom I love her, right?
-Dialogue: 0,0:49:20.13,0:49:21.70,Default,,0,0,0,,- 行 - 那么 走吧\N- Okay. - All right, okay.
-Dialogue: 0,0:49:21.70,0:49:22.80,Default,,0,0,0,,好 慢慢来\NAll right, just take it slow.
-Dialogue: 0,0:49:27.30,0:49:28.97,Default,,0,0,0,,行\NOkay.
-Dialogue: 0,0:49:28.97,0:49:30.67,Default,,0,0,0,,哦 实际上还挺陡的\NOh, it is actually kind of steep.
-Dialogue: 0,0:49:31.37,0:49:33.11,Default,,0,0,0,,- 没事吧？ - 没事\N- You good? - Yeah.
-Dialogue: 0,0:49:33.11,0:49:35.08,Default,,0,0,0,,- 拉紧点 别把我摔了 - 放心\N- Just, uh... try not to drop me. - All right.
-Dialogue: 0,0:49:38.05,0:49:39.11,Default,,0,0,0,,需要放绳子告诉我\NTell me how much you need.
-Dialogue: 0,0:49:44.35,0:49:46.12,Default,,0,0,0,,喔...慢点\NWhoa... Careful!
-Dialogue: 0,0:49:48.29,0:49:50.63,Default,,0,0,0,,搞什么...喔 喔 喔 操 啊\NWhat the... Whoa! Whoa! Whoa! Fuck! Aah...
-Dialogue: 0,0:49:51.66,0:49:53.26,Default,,0,0,0,,你上面怎么拉的绳子？\NWhat the fuck are you guys doing up there?
-Dialogue: 0,0:49:53.26,0:49:55.06,Default,,0,0,0,,对不起 对不起\NSorry, sorry!
-Dialogue: 0,0:49:55.07,0:49:56.67,Default,,0,0,0,,绳子卡在床腿上了\NIt was stuck around the leg of the bed!
-Dialogue: 0,0:49:56.67,0:49:58.97,Default,,0,0,0,,- 你没事吧？ - 行 没事\N- Are you okay? - Yeah. Yeah, I'm fine.
-Dialogue: 0,0:49:58.97,0:50:00.30,Default,,0,0,0,,真是绝了\NJesus fucking Christ...
-Dialogue: 0,0:50:00.30,0:50:02.14,Default,,0,0,0,,继续放绳子\NJust keep letting me down!
-Dialogue: 0,0:50:02.14,0:50:04.07,Default,,0,0,0,,好的 来了\NAll right. Here we go.
-Dialogue: 0,0:50:19.96,0:50:21.76,Default,,0,0,0,,好了 我下来了\NOkay, I'm in.
-Dialogue: 0,0:50:25.80,0:50:26.83,Default,,0,0,0,,看到什么没？\NSee anything?
-Dialogue: 0,0:50:28.13,0:50:29.20,Default,,0,0,0,,呃...\NUgh...
-Dialogue: 0,0:50:29.20,0:50:30.87,Default,,0,0,0,,呃 就是...\NUh, it's just...
-Dialogue: 0,0:50:31.67,0:50:33.10,Default,,0,0,0,,就是一堆脏衣服和垃圾\NIt's a bunch of laundry and shit.
-Dialogue: 0,0:50:34.51,0:50:35.84,Default,,0,0,0,,什么意思？衣服？\NWhat do you mean? Clothes?
-Dialogue: 0,0:50:37.58,0:50:39.18,Default,,0,0,0,,对 这下面真是臭死了\NYeah, it just fucking stinks down here.
-Dialogue: 0,0:50:40.11,0:50:41.25,Default,,0,0,0,,还有什么吗？\NSee anything else?
-Dialogue: 0,0:50:42.48,0:50:43.78,Default,,0,0,0,,有 呃...给我点时间\NYeah, just, uh... Just give me a minute.
-Dialogue: 0,0:50:44.21,0:50:45.62,Default,,0,0,0,,好的\NOkay.
-Dialogue: 0,0:50:53.85,0:50:54.98,Default,,0,0,0,,天呐\NOh, god...
-Dialogue: 0,0:50:57.66,0:50:59.59,Default,,0,0,0,,[结束南非种族隔离]
-Dialogue: 0,0:50:59.60,0:51:00.90,Default,,0,0,0,,搞什么鬼？\NWhat the fuck?
-Dialogue: 0,0:51:00.00,0:51:01.80,Default,,0,0,0,,{\an8}[【结束南非种族隔离：是80年代盛行的现实世界口号】]
-Dialogue: 0,0:51:06.04,0:51:07.10,Default,,0,0,0,,阿博？\NBobby?
-Dialogue: 0,0:51:08.54,0:51:09.64,Default,,0,0,0,,怎么了\NYeah.
-Dialogue: 0,0:51:10.37,0:51:12.18,Default,,0,0,0,,就想确认下你没事\NJust checking that you're okay.
-Dialogue: 0,0:51:13.14,0:51:14.68,Default,,0,0,0,,嗯 我没事 只是 呃...\NYeah, I'm fine. Just, um...
-Dialogue: 0,0:51:15.95,0:51:17.15,Default,,0,0,0,,好吧\NOkay...
-Dialogue: 0,0:51:18.08,0:51:19.22,Default,,0,0,0,,嗯\NYeah.
-Dialogue: 0,0:51:20.02,0:51:21.19,Default,,0,0,0,,没问题\NOkay.
-Dialogue: 0,0:51:29.33,0:51:30.63,Default,,0,0,0,,搞什么鬼？\NWhat the fuck...?
-Dialogue: 0,0:51:38.94,0:51:41.34,Default,,0,0,0,,阿博？快上来\NBobby? Come back up!
-Dialogue: 0,0:51:41.34,0:51:43.20,Default,,0,0,0,,我心里发毛\NI don't like this!
-Dialogue: 0,0:51:43.21,0:51:44.87,Default,,0,0,0,,嘿 呃...再多放点绳子\NHey! Uh... Let some more line out!
-Dialogue: 0,0:51:45.64,0:51:47.68,Default,,0,0,0,,不行 已经到头了\NI can't! It's as far as it goes.
-Dialogue: 0,0:51:47.68,0:51:48.85,Default,,0,0,0,,该死\NFuck...
-Dialogue: 0,0:51:58.02,0:52:00.22,Default,,0,0,0,,我操 快拉我上去\NFuck! Pull me up!
-Dialogue: 0,0:52:00.22,0:52:01.76,Default,,0,0,0,,阿博 怎么了？\NBobby! What is it?
-Dialogue: 0,0:52:01.76,0:52:03.59,Default,,0,0,0,,- 操 - 你看到了什么？\N- Fuck! - What do you see?
-Dialogue: 0,0:52:03.59,0:52:05.93,Default,,0,0,0,,磨蹭什么 快把他拉上来\NWhat the fuck is it? Pull him up!
-Dialogue: 0,0:52:05.93,0:52:07.13,Default,,0,0,0,,- 我在拉啊 我的天 - 操\N- I am! Jesus Christ! -Fuck!
-Dialogue: 0,0:52:07.13,0:52:08.43,Default,,0,0,0,,拉快点\NPull harder!
-Dialogue: 0,0:52:08.43,0:52:09.77,Default,,0,0,0,,快拉 老哥 搞什么鬼\NPull, man! What the fuck!
-Dialogue: 0,0:52:09.77,0:52:11.43,Default,,0,0,0,,绳子绕到我脚上了\NIt's getting caught on my feet!
-Dialogue: 0,0:52:11.43,0:52:13.23,Default,,0,0,0,,- 绳子绕到我脚上了 - 快点使劲拉\N- I can't pull-- - Fucking pull harder!
-Dialogue: 0,0:52:13.24,0:52:15.74,Default,,0,0,0,,克拉克 快点拉\NClark, hurry up!
-Dialogue: 0,0:52:15.74,0:52:17.67,Default,,0,0,0,,快到了 快到了 宝贝 坚持住\NAlmost here! Almost here, babe, just a little more!
-Dialogue: 0,0:52:17.68,0:52:19.84,Default,,0,0,0,,- 快把他拉上来 - 你看到了什么？\N- Pull him up! - What did you see?
-Dialogue: 0,0:52:19.84,0:52:21.74,Default,,0,0,0,,下...下面有人\NThere's, uh, there's someone down there.
-Dialogue: 0,0:52:21.75,0:52:23.28,Default,,0,0,0,,- 你安全了...什么？- 操\N- We've got you. What? - Fuck.
-Dialogue: 0,0:52:23.28,0:52:24.91,Default,,0,0,0,,慢点说 深呼吸 宝贝 没事了\NSlow down, just breathe. Baby, it's okay.
-Dialogue: 0,0:52:24.92,0:52:26.68,Default,,0,0,0,,快把这破玩意儿给我解开 操 真是够了\NJust get this shit off me, man. Fuck. Jesus.
-Dialogue: 0,0:52:26.68,0:52:27.98,Default,,0,0,0,,- 没事了 没事了 - 你看到了什么？\N-I t's okay. It's okay. - What did you see?
-Dialogue: 0,0:52:27.99,0:52:30.15,Default,,0,0,0,,- 来 深呼吸 - 这打的什么破结？\N- Here. Hey, deep breath. - What kind of knot is this?
-Dialogue: 0,0:52:30.15,0:52:31.49,Default,,0,0,0,,深呼吸...\NDeep breath--
-Dialogue: 0,0:52:31.49,0:52:33.02,Default,,0,0,0,,- 卧槽？！ - 哎 哎 哎\N- What the fuck?! - Whoa, whoa, whoa!
-Dialogue: 0,0:52:33.02,0:52:34.89,Default,,0,0,0,,- 快救命 克拉克 - 抓紧我\N- Help us! Clark! - Hold on!
-Dialogue: 0,0:52:34.89,0:52:36.56,Default,,0,0,0,,- 来了 来了 来了 - 救人啊 你个混蛋\N- Okay, okay, okay! - Help, you fucking asshole!
-Dialogue: 0,0:52:36.56,0:52:38.63,Default,,0,0,0,,- 让我解 - 快给我解开 老哥\N- Let me get it! - Untie me, man!
-Dialogue: 0,0:52:38.63,0:52:40.13,Default,,0,0,0,,克拉克 你特么在磨蹭什么？\NWhat the hell are you doing, Clark?
-Dialogue: 0,0:52:40.13,0:52:41.33,Default,,0,0,0,,- 我解不开 - 快点 克拉克\N- I can't! - Hurry, Clark!
-Dialogue: 0,0:52:41.33,0:52:42.67,Default,,0,0,0,,- 我在弄了 我在弄了 - 操！\N- I'm trying, I'm trying! - FUCK!
-Dialogue: 0,0:52:42.67,0:52:44.60,Default,,0,0,0,,别松手 别松手\NDon't let go! Don't let go!
-Dialogue: 0,0:52:44.60,0:52:46.50,Default,,0,0,0,,- 坚持住 - 操 千万别放手\N- Hold on! - Fuck! Don't let me go!
-Dialogue: 0,0:52:46.50,0:52:47.57,Default,,0,0,0,,- 千万别放手 - 我去拿...\N- Don't let me go! - Let me get at--
-Dialogue: 0,0:52:47.57,0:52:49.14,Default,,0,0,0,,阿博！\NBOBBY!
-Dialogue: 0,0:52:49.14,0:52:50.14,Default,,0,0,0,,不 小凯 不\NNO! KAT, NO!
-Dialogue: 0,0:52:51.54,0:52:52.64,Default,,0,0,0,,阿博\NBobby!
-Dialogue: 0,0:52:52.64,0:52:54.31,Default,,0,0,0,,阿博！\NBOBBY!
-Dialogue: 0,0:52:54.31,0:52:56.48,Default,,0,0,0,,阿博\NBobby!
-Dialogue: 0,0:52:56.48,0:52:57.68,Default,,0,0,0,,怎么回事 我们得...克拉克\NWhat are we doing? We need to... Clark!
-Dialogue: 0,0:53:05.42,0:53:08.26,Default,,0,0,0,,阿博 别 别 别\NBobby! No! No! No!
-Dialogue: 0,0:53:08.26,0:53:10.26,Default,,0,0,0,,别 小凯 小凯\NOw... KAT! Kat...
-Dialogue: 0,0:53:10.26,0:53:12.09,Default,,0,0,0,,阿博\NBobby!
-Dialogue: 0,0:53:12.10,0:53:13.53,Default,,0,0,0,,阿博 不\NBobby! No!
-Dialogue: 0,0:53:13.53,0:53:16.20,Default,,0,0,0,,阿博 不\NBobby! No!
-Dialogue: 0,0:53:16.20,0:53:17.53,Default,,0,0,0,,小凯\NKat!
-Dialogue: 0,0:53:17.54,0:53:19.37,Default,,0,0,0,,哦 该死\NOh, fuck...
-Dialogue: 0,0:53:21.04,0:53:23.84,Default,,0,0,0,,哦 不 不 不 不 不 不\NOh, no, no, no, no, no! No!
-Dialogue: 0,0:54:07.69,0:54:08.99,Default,,0,0,0,,小凯？\NKat?!
-Dialogue: 0,0:54:14.76,0:54:16.19,Default,,0,0,0,,小凯？\NKat?
-Dialogue: 0,0:55:44.45,0:55:45.95,Default,,0,0,0,,有人吗？\NHello?
-Dialogue: 0,0:55:52.62,0:55:54.02,Default,,0,0,0,,别过来 滚开\NStay back! Get away from me!
+Dialogue: 0,0:01:23.08,0:01:24.98,Default,,0,0,0,,好 好 好\NOkay, okay, okay, okay...
+Dialogue: 0,0:01:27.09,0:01:28.76,Default,,0,0,0,,没事的\NOkay...
+Dialogue: 0,0:02:05.79,0:02:07.89,Default,,0,0,0,,对 对\NYes... Yes...
+Dialogue: 0,0:02:07.90,0:02:11.73,Default,,0,0,0,,对 对 快点 快点 没错 没错\NYes, yes, come on... Come on, yes! Yes, yes!
+Dialogue: 0,0:02:11.73,0:02:13.57,Default,,0,0,0,,到了 到了 到了\NOkay. Okay. Okay.
+Dialogue: 0,0:02:52.81,0:02:54.44,Default,,0,0,0,,找到了 找到了\NHere we go, here we go.
+Dialogue: 0,0:02:55.28,0:02:57.81,Default,,0,0,0,,好 好 该死\NOkay. Okay. Fuck.
+Dialogue: 0,0:02:58.28,0:03:00.75,Default,,0,0,0,,能用 能用 一定得能用\NWork. Work. Work.
+Dialogue: 0,0:03:01.92,0:03:04.48,Default,,0,0,0,,标准组... 好...\NStandard... Okay...
+Dialogue: 0,0:03:04.48,0:03:06.05,Default,,0,0,0,,标准组 你们...你们能收到吗？\NStandard, can you- can you hear me?
+Dialogue: 0,0:03:06.99,0:03:08.65,Default,,0,0,0,,我是纳伦\NThis is Naren.
+Dialogue: 0,0:03:08.66,0:03:10.46,Default,,0,0,0,,我 呃...\NAnd I've, um...
+Dialogue: 0,0:03:10.46,0:03:11.86,Default,,0,0,0,,我跟其他人走散了\NI've been separated, uh, from the others.
+Dialogue: 0,0:03:11.86,0:03:13.19,Default,,0,0,0,,我应该没事\NAnd I think I'm okay,
+Dialogue: 0,0:03:13.19,0:03:14.40,Default,,0,0,0,,我不知道我现在到底在哪儿\Nbut I'm not sure where I, uh...
+Dialogue: 0,0:03:15.70,0:03:17.16,Default,,0,0,0,,我从来没走到过那么深 所以我也...\NI've never been out this far before, so I don't...
+Dialogue: 0,0:03:19.27,0:03:21.40,Default,,0,0,0,,刚才有个...\NThere was this, uh...
+Dialogue: 0,0:03:21.40,0:03:23.04,Default,,0,0,0,,我没看清 可是 呃...\NI didn't get a good look at it, but there was, um...
+Dialogue: 0,0:03:24.04,0:03:25.21,Default,,0,0,0,,这里还有别的东西\Nthere's something else in here.
+Dialogue: 0,0:03:27.41,0:03:28.84,Default,,0,0,0,,你们快来\NI need you guys.
+Dialogue: 0,0:03:29.74,0:03:31.31,Default,,0,0,0,,明白吗？快来接我 求你们了\NOkay? I need you guys to get me, please.
+Dialogue: 0,0:03:32.98,0:03:35.88,Default,,0,0,0,,该死 快来把我弄出去\NFuck, I need you guys to come out and get me.
+Dialogue: 0,0:03:35.88,0:03:37.95,Default,,0,0,0,,麻烦来接我 求你们了 标准组\NCan you... can you come, please, standard?
+Dialogue: 0,0:03:38.72,0:03:40.45,Default,,0,0,0,,收到了吗？\NStandard?
+Dialogue: 0,0:03:41.32,0:03:42.76,Default,,0,0,0,,完了\NOh, fuck!
+Dialogue: 0,0:03:46.73,0:03:48.06,Default,,0,0,0,,完了\NFuck...
+Dialogue: 0,0:03:55.60,0:03:57.17,Default,,0,0,0,,该死 该死\NFuck! Fuck...
+Dialogue: 0,0:04:09.35,0:04:10.95,Default,,0,0,0,,该死 搞什么鬼？\NOh, shit... What the fuck?
+Dialogue: 0,0:05:14.24,1:04:13.81,Default,,0,0,0,,[无需信用卡]
+Dialogue: 0,0:05:43.18,0:05:44.41,Default,,0,0,0,,怎么回事？\NWhat the fuck?
+Dialogue: 0,0:06:08.67,0:06:10.44,Default,,0,0,0,,完了 完了 完了\NFuck! Fuck! Fuck!
+Dialogue: 0,0:06:16.38,0:06:17.51,Default,,0,0,0,,完了\NFuck!
+Dialogue: 0,0:06:22.02,0:06:23.25,Default,,0,0,0,,不 不 完了 完了\NFuck, fuck, fuck! Fuck!
+Dialogue: 0,0:06:47.14,0:06:56.00,Default,,0,0,0,,[后室]
+Dialogue: 0,0:07:25.00,0:07:27.75,Default,,0,0,0,,[山脊公寓]
+Dialogue: 0,0:07:50.44,0:07:53.74,Default,,0,0,0,,谁都有自己的死循环 固有的习惯...\NWe all have our loops, our habits...
+Dialogue: 0,0:07:57.08,0:07:58.88,Default,,0,0,0,,总是重蹈覆辙...\N...behaviors that keep us walking in circles...
+Dialogue: 0,0:08:01.38,0:08:04.12,Default,,0,0,0,,总是用同样的办法 一遍又一遍\N...reaching for the same solutions over and over again,
+Dialogue: 0,0:08:06.67,0:08:07.61,Default,,0,0,0,,[克船长的家具百宝库]
+Dialogue: 0,0:08:07.62,0:08:09.62,Default,,0,0,0,,却指望能走出新路\Nthinking each time they'll take you somewhere new.
+Dialogue: 0,0:08:10.83,0:08:11.99,Default,,0,0,0,,但没用\NBut they don't.
+Dialogue: 0,0:08:19.50,0:08:21.43,Default,,0,0,0,,毕竟\NAnd still,
+Dialogue: 0,0:08:21.44,0:08:23.14,Default,,0,0,0,,神经通路就爱走阻力最小的路径\Nit's the neural pathway of least resistance.
+Dialogue: 0,0:08:24.67,0:08:25.67,Default,,0,0,0,,[奸商]
+Dialogue: 0,0:08:26.44,0:08:28.34,Default,,0,0,0,,你建立了心理防线\NA path you made.
+Dialogue: 0,0:08:29.34,0:08:32.08,Default,,0,0,0,,小时候 这套防线保护了你\NIt's the one that kept you safe when you were a child.
+Dialogue: 0,0:08:37.42,0:08:38.18,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:08:38.19,0:08:39.42,Default,,0,0,0,,你学会了抢在被伤害之前\NYou learned to push people away
+Dialogue: 0,0:08:40.09,0:08:41.35,Default,,0,0,0,,把别人推开\Nbefore they could hurt you.
+Dialogue: 0,0:08:43.96,0:08:45.26,Default,,0,0,0,,现在\NAnd now,
+Dialogue: 0,0:08:45.13,0:08:46.58,Default,,0,0,0,,{\an8}[逾期账单]
+Dialogue: 0,0:08:45.26,0:08:46.93,Default,,0,0,0,,你都成年了\Nas an adult,
+Dialogue: 0,0:08:46.93,0:08:48.56,Default,,0,0,0,,还是留在原地\Nyou're still stuck right where you started.
+Dialogue: 0,0:08:54.07,0:08:55.24,Default,,0,0,0,,只有一个人\NAlone.
+Dialogue: 0,0:09:01.58,0:09:03.08,Default,,0,0,0,,我有人陪啊\NI mean, I'm not lonely.
+Dialogue: 0,0:09:04.15,0:09:08.81,Default,,0,0,0,,我有店员 还有顾客\NI have employees and... customers.
+Dialogue: 0,0:09:08.82,0:09:10.82,Default,,0,0,0,,我没说有人陪 我说的是只有一个人\NI didn't say lonely. I said alone.
+Dialogue: 0,0:09:11.69,0:09:13.15,Default,,0,0,0,,好吧 是 但是...\NYeah, well, I mean...
+Dialogue: 0,0:09:15.29,0:09:17.32,Default,,0,0,0,,我老是伤人\NI hurt people.
+Dialogue: 0,0:09:17.32,0:09:19.12,Default,,0,0,0,,我也不想 可我就这德行\NI don't want to. It's just the way I'm wired.
+Dialogue: 0,0:09:19.13,0:09:21.09,Default,,0,0,0,,可能就该把自己关起来\NSo maybe I deserve to be alone.
+Dialogue: 0,0:09:22.23,0:09:23.80,Default,,0,0,0,,谁活该把自己关着吗？\NDo you think anyone deserves to be alone?
+Dialogue: 0,0:09:25.00,0:09:27.10,Default,,0,0,0,,我说不好 但怎么说呢\NI don't know, but, you know,
+Dialogue: 0,0:09:27.10,0:09:28.54,Default,,0,0,0,,也许这样也挺好\Nmaybe it's not such a bad thing.
+Dialogue: 0,0:09:29.74,0:09:31.34,Default,,0,0,0,,自我封闭...\NBeing alone feels...
+Dialogue: 0,0:09:31.34,0:09:32.57,Default,,0,0,0,,已经刻进骨子里了\Ndeeply ingrained.
+Dialogue: 0,0:09:33.17,0:09:34.31,Default,,0,0,0,,我理解\NI understand.
+Dialogue: 0,0:09:35.38,0:09:38.78,Default,,0,0,0,,你有梦想 但老是受挫\NYou've had dreams and a lot of resistance,
+Dialogue: 0,0:09:38.78,0:09:41.91,Default,,0,0,0,,身边也没人支持你\Nnot a lot of support in realizing those dreams.
+Dialogue: 0,0:09:41.92,0:09:44.59,Default,,0,0,0,,当伤害变成了...\NAnd when we've experienced...
+Dialogue: 0,0:09:45.49,0:09:48.26,Default,,0,0,0,,一次次家常便饭\Nhurt again and again,
+Dialogue: 0,0:09:48.69,0:09:50.26,Default,,0,0,0,,就会习惯性地想\Nwe start to expect it.
+Dialogue: 0,0:09:50.26,0:09:51.62,Default,,0,0,0,,“哦 这路我熟”\NIt's like, "Oh, I know this path.
+Dialogue: 0,0:09:51.63,0:09:52.79,Default,,0,0,0,,“下场一定是一样的”\NI know where it goes."
+Dialogue: 0,0:09:54.26,0:09:55.53,Default,,0,0,0,,所以...\NSo...
+Dialogue: 0,0:09:56.83,0:09:59.03,Default,,0,0,0,,你想不想摆脱这个死循环\Nare you interested in forging a new path
+Dialogue: 0,0:09:59.03,0:10:00.37,Default,,0,0,0,,走出一条不同的路？\Nand see where that leads?
+Dialogue: 0,0:10:01.20,0:10:03.87,Default,,0,0,0,,好啊 我来都来了 就试试吧\NSure. Why not? You know, I'm here.
+Dialogue: 0,0:10:05.01,0:10:06.21,Default,,0,0,0,,很好\NGreat.
+Dialogue: 0,0:10:06.61,0:10:08.11,Default,,0,0,0,,要不咱们重温一下\NSo I want to revisit
+Dialogue: 0,0:10:08.11,0:10:10.31,Default,,0,0,0,,之前练过的那个\Nan exercise we've done before.
+Dialogue: 0,0:10:11.61,0:10:13.01,Default,,0,0,0,,角色扮演\NThe role play.
+Dialogue: 0,0:10:13.01,0:10:14.85,Default,,0,0,0,,- 哦 演戏那套？ - 对\N- Oh, the acting thing? - Yeah.
+Dialogue: 0,0:10:14.85,0:10:16.82,Default,,0,0,0,,- 我觉得太丢人了 - 我懂\N- I feel stupid doing that. - I know.
+Dialogue: 0,0:10:16.82,0:10:18.79,Default,,0,0,0,,但既然还有点时间 就....\NBut we have a few minutes. Let's, um...
+Dialogue: 0,0:10:19.92,0:10:21.56,Default,,0,0,0,,试一下吧 稍微试试\NYeah, let's try. A little bit.
+Dialogue: 0,0:10:22.09,0:10:23.52,Default,,0,0,0,,好吧\NAll right.
+Dialogue: 0,0:10:24.19,0:10:25.53,Default,,0,0,0,,咱们先定个场景\NLet's set the scene.
+Dialogue: 0,0:10:26.83,0:10:30.63,Default,,0,0,0,,回到芭芭拉离开你的那晚\NLet's go back to the night that Barbara left you.
+Dialogue: 0,0:10:32.03,0:10:34.27,Default,,0,0,0,,你是说她把我从我家给撵出去的那晚？\NYou mean the night she kicked me out of my own house?
+Dialogue: 0,0:10:34.50,0:10:36.20,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,0:10:36.67,0:10:37.77,Default,,0,0,0,,我演我自己\NI'm playing myself.
+Dialogue: 0,0:10:39.01,0:10:40.91,Default,,0,0,0,,- 我演芭芭拉 - 别忘了 那可是我的房子\N- And I'll be Barbara. - It is my house, by the way.
+Dialogue: 0,0:10:41.84,0:10:43.38,Default,,0,0,0,,房贷都是我在还\NI'm the one paying for it.
+Dialogue: 0,0:10:44.02,0:10:46.26,Default,,0,0,0,,- 我知道 - 好吧\N- I know. - All right.
+Dialogue: 0,0:10:48.62,0:10:50.38,Default,,0,0,0,,好 那...\NOkay, so, um...
+Dialogue: 0,0:10:52.25,0:10:54.75,Default,,0,0,0,,那天我回家晚了 具体几点我忘了\NI got home late. I don't know how late.
+Dialogue: 0,0:10:54.76,0:10:56.66,Default,,0,0,0,,那时候她已经睡了 应该是半夜了\NUh... She was already asleep. Maybe midnight.
+Dialogue: 0,0:10:58.26,0:11:00.16,Default,,0,0,0,,她一般睡得早...算了 这不重要\NShe usually goes to bed before... It doesn't matter.
+Dialogue: 0,0:11:00.16,0:11:02.79,Default,,0,0,0,,重点是我当时在厨房\NThe point is, I was in the kitchen, and, um...
+Dialogue: 0,0:11:02.80,0:11:05.30,Default,,0,0,0,,有个杯子 我把杯子打碎了\Nthe glass, I broke the glass,
+Dialogue: 0,0:11:05.30,0:11:08.77,Default,,0,0,0,,她听见动静跑下来 然后...\Nand she comes running down to see what happened, and...
+Dialogue: 0,0:11:09.50,0:11:10.80,Default,,0,0,0,,就闹起来了\Nthings escalated.
+Dialogue: 0,0:11:10.80,0:11:12.24,Default,,0,0,0,,那你当时什么感受？\NAnd how do you feel?
+Dialogue: 0,0:11:12.81,0:11:14.84,Default,,0,0,0,,我当时...\NWell, I was...
+Dialogue: 0,0:11:14.84,0:11:17.84,Default,,0,0,0,,我当时喝多了...\NI was drunk, and, um...
+Dialogue: 0,0:11:17.85,0:11:20.18,Default,,0,0,0,,我 我觉得自己挺蠢的 你懂吧\NI-I felt stupid, you know.
+Dialogue: 0,0:11:20.18,0:11:22.85,Default,,0,0,0,,我就火了 因为 因为我把杯子打碎了\NI was angry, because... because I broke the glass.
+Dialogue: 0,0:11:22.85,0:11:24.62,Default,,0,0,0,,你能对着我再说一遍吗？\NCan you say that to me?
+Dialogue: 0,0:11:24.62,0:11:26.49,Default,,0,0,0,,- 对着你 对着芭芭拉？ - 对\N- Uh, what, to-to Barbara? - Yeah.
+Dialogue: 0,0:11:29.62,0:11:32.89,Default,,0,0,0,,额...对不起 把你吵醒了\NUm... I'm sorry that I woke you.
+Dialogue: 0,0:11:36.20,0:11:39.00,Default,,0,0,0,,要是你能早点回家\NMaybe if you'd come home earlier,
+Dialogue: 0,0:11:39.00,0:11:40.40,Default,,0,0,0,,咱们今晚本该待在一起的\Nwe could have spent the evening together.
+Dialogue: 0,0:11:41.84,0:11:43.70,Default,,0,0,0,,我 我在加班 你懂的\NNo, I was... I was working, you know?
+Dialogue: 0,0:11:43.70,0:11:45.37,Default,,0,0,0,,下班后我就直接回来了\NI came straight home after work.
+Dialogue: 0,0:11:45.37,0:11:46.84,Default,,0,0,0,,诚实点吧\NBe honest with me, please.
+Dialogue: 0,0:11:47.88,0:11:49.38,Default,,0,0,0,,你身上那酒气我都闻得见\NI can smell it on your breath.
+Dialogue: 0,0:11:51.88,0:11:53.31,Default,,0,0,0,,我就喝了点啤酒\NI had a few beers.
+Dialogue: 0,0:11:53.55,0:11:55.18,Default,,0,0,0,,一点是多少？\NDefine a few.
+Dialogue: 0,0:11:55.18,0:11:56.35,Default,,0,0,0,,唉 今天太累了\NWell, it was a hard day.
+Dialogue: 0,0:11:57.62,0:11:59.05,Default,,0,0,0,,我得喝点放松放松\NI needed to wind down.
+Dialogue: 0,0:11:59.05,0:12:00.39,Default,,0,0,0,,你不成天在放松吗\NAll you ever do is wind down.
+Dialogue: 0,0:12:01.52,0:12:02.52,Default,,0,0,0,,成天呆在那店里\NYou're always at the store.
+Dialogue: 0,0:12:07.06,0:12:08.43,Default,,0,0,0,,你想要孩子 对吧？\NYou want kids, right?
+Dialogue: 0,0:12:10.26,0:12:11.96,Default,,0,0,0,,- 咱们都想要 - 但你要知道...\N- We both do. - Well, you know...
+Dialogue: 0,0:12:11.97,0:12:13.40,Default,,0,0,0,,养家得花钱\Nhaving a family takes money,
+Dialogue: 0,0:12:13.40,0:12:14.70,Default,,0,0,0,,总得有人去挣钱\Nwhich means someone has to work.
+Dialogue: 0,0:12:15.77,0:12:17.40,Default,,0,0,0,,除非现在当学生\NUnless being a professional student
+Dialogue: 0,0:12:17.40,0:12:19.34,Default,,0,0,0,,也能算份工作了\Nis considered a job these days.
+Dialogue: 0,0:12:19.34,0:12:21.74,Default,,0,0,0,,你不能这么说 你知道我得休学一段时间\NThat's not fair. You know I had to take time off.
+Dialogue: 0,0:12:21.74,0:12:23.21,Default,,0,0,0,,你自己跟不上 凭什么怪我\NWell, it's not my fault if you can't keep up.
+Dialogue: 0,0:12:23.21,0:12:24.41,Default,,0,0,0,,连法学院都搞不定\NHow are you going to be a lawyer
+Dialogue: 0,0:12:24.41,0:12:25.61,Default,,0,0,0,,还想怎么当律师？\Nif you can't even handle law school?
+Dialogue: 0,0:12:27.78,0:12:29.35,Default,,0,0,0,,当你这个三十岁的大一新生\NWho do you think pays for everything
+Dialogue: 0,0:12:29.35,0:12:30.62,Default,,0,0,0,,在学校里到处瞎逛时\Nwhile you're gallivanting around campus
+Dialogue: 0,0:12:30.62,0:12:31.85,Default,,0,0,0,,也不想想谁在供你上学？\Nlike a 30-year-old freshman?
+Dialogue: 0,0:12:32.65,0:12:34.32,Default,,0,0,0,,我给你个提示 就是我\NI'll give you a hint: it's me.
+Dialogue: 0,0:12:35.59,0:12:37.72,Default,,0,0,0,,你上学是我供 休学是我供\NI pay for your school, I pay for your time off school,
+Dialogue: 0,0:12:37.73,0:12:38.86,Default,,0,0,0,,房子还是我供\NI pay for the roof over your head.
+Dialogue: 0,0:12:38.86,0:12:40.79,Default,,0,0,0,,- 我能说句话吗？ - 不 没门[也许闭嘴？]\N- Can I talk now? - No! No.
+Dialogue: 0,0:12:40.79,0:12:42.19,Default,,0,0,0,,要是你真混到毕业了\NBecause I'd like to know, what do you think happens
+Dialogue: 0,0:12:42.20,0:12:44.30,Default,,0,0,0,,我倒想知道结果会怎样？\Nif you do manage to graduate?
+Dialogue: 0,0:12:44.30,0:12:46.47,Default,,0,0,0,,生个娃账单继续甩给我？\NYou know, you pop out a kid, then leave me with the bill.
+Dialogue: 0,0:12:46.47,0:12:49.54,Default,,0,0,0,,还是你终于成大忙人了\NOr am I stuck at home changing diapers because
+Dialogue: 0,0:12:49.54,0:12:51.40,Default,,0,0,0,,我就得天天在家给娃换屎尿？\Nyou're too busy working for the first time in your life?
+Dialogue: 0,0:12:51.41,0:12:53.41,Default,,0,0,0,,- 你这话太狠了 - 我是在说实话\N- Now you're being cruel. - I'm being honest.
+Dialogue: 0,0:12:54.38,0:12:55.84,Default,,0,0,0,,我以为这就是你的追求\NI thought that's what you always wanted.
+Dialogue: 0,0:12:57.61,0:12:59.24,Default,,0,0,0,,你没考上建筑师 并不代表...\NJust because you didn't get to be an architect doesn't mean--
+Dialogue: 0,0:12:59.25,0:13:00.88,Default,,0,0,0,,老子就是建筑师！\NI am a fucking architect!
+Dialogue: 0,0:13:02.68,0:13:05.55,Default,,0,0,0,,我成天得在那破店里卖这些玩意儿\NGod damn it, I'm just stuck selling shit furniture because
+Dialogue: 0,0:13:05.55,0:13:07.72,Default,,0,0,0,,就因为某个懒猪在家混吃等死 根本不肯出力\Nsomeone won't get off their fat fucking ass and help me!
+Dialogue: 0,0:13:16.10,0:13:17.53,Default,,0,0,0,,克拉克 现在感觉怎么样？\NHow do you feel, Clark?
+Dialogue: 0,0:13:23.07,0:13:24.97,Default,,0,0,0,,我在跟谁说话呢？\NWho am I talking to?
+Dialogue: 0,0:13:24.97,0:13:26.37,Default,,0,0,0,,- 和我 此刻 此地 - 哦 你啊 好吧\N- Me, here, now. - You? Okay.
+Dialogue: 0,0:13:27.68,0:13:28.98,Default,,0,0,0,,那个...\NUm...
+Dialogue: 0,0:13:30.44,0:13:32.58,Default,,0,0,0,,对不起 我不是故意那样说...\NI'm sorry, I didn't mean to, uh...
+Dialogue: 0,0:13:32.58,0:13:34.95,Default,,0,0,0,,就是 刚才发火了\N...you know, get angry
+Dialogue: 0,0:13:34.95,0:13:36.82,Default,,0,0,0,,情绪失控了那种\Nor lose my temper or whatever.
+Dialogue: 0,0:13:36.82,0:13:37.88,Default,,0,0,0,,我知道\NI know.
+Dialogue: 0,0:13:39.05,0:13:40.92,Default,,0,0,0,,练习的目的就在这儿\NThat's the purpose of the whole exercise.
+Dialogue: 0,0:13:42.12,0:13:43.49,Default,,0,0,0,,这是一个不错的开始\NThis is a good start.
+Dialogue: 0,0:13:44.02,0:13:46.02,Default,,0,0,0,,正视你的感受\NTo feel what you feel,
+Dialogue: 0,0:13:46.03,0:13:48.03,Default,,0,0,0,,然后找出一条新路\Nand then learn to identify a new path.
+Dialogue: 0,0:13:49.60,0:13:52.40,Default,,0,0,0,,你的反应其实很正常\NYour reaction was actually quite normal.
+Dialogue: 0,0:13:54.87,0:13:56.07,Default,,0,0,0,,呵呵 我就这德行\NWell, that's me!
+Dialogue: 0,0:13:58.44,0:14:00.94,Default,,0,0,0,,哟 伙计们 瞧瞧这儿啊！\NWell, ahoy there, mateys!
+Dialogue: 0,0:14:00.94,0:14:04.98,Default,,0,0,0,,还打算把金币全砸在那些冤大头家具上？ \NTired of spending your hard-earned doubloons on overpriced furniture?
+Dialogue: 0,0:14:04.98,0:14:07.15,Default,,0,0,0,,想买惊掉下巴的跳海价吗？\NLooking for deals that'll shiver your timbers?
+Dialogue: 0,0:14:07.15,0:14:11.05,Default,,0,0,0,,赶快来克船长的家具百宝库！\NThen come on down to Cap'n Clark's Ottoman Empire,
+Dialogue: 0,0:14:11.05,0:14:15.29,Default,,0,0,0,,圣克拉拉谷的头号家具大卖场\Nthe Santa Clara Valley's favorite warehouse and showrooms.
+Dialogue: 0,0:14:15.29,0:14:17.36,Default,,0,0,0,,卧室 客厅 餐厅 书房 浴室\NYou'll find bedrooms, living rooms,
+Dialogue: 0,0:14:17.36,0:14:20.36,Default,,0,0,0,,全屋家具 应有尽有！\Ndinettes, dens and bathrooms aplenty.
+Dialogue: 0,0:14:20.36,0:14:23.13,Default,,0,0,0,,刚买房的？来这儿就对了！[拆分]\NFirst-time homeowners? We've got ya.
+Dialogue: 0,0:14:23.13,0:14:24.86,Default,,0,0,0,,新当爹妈的？\NNew parents looking for Billy's first crib?
+Dialogue: 0,0:14:24.87,0:14:26.43,Default,,0,0,0,,来这就对了！\NWe've got ya!
+Dialogue: 0,0:14:26.43,0:14:28.37,Default,,0,0,0,,时髦现代样样全\NFrom the latest in modern design
+Dialogue: 0,0:14:28.37,0:14:30.70,Default,,0,0,0,,经典复古通通有\Nto the classic styles of yesteryear,
+Dialogue: 0,0:14:30.71,0:14:32.74,Default,,0,0,0,,价格低到没对手\Nit's all here and it's all a steal.
+Dialogue: 0,0:14:33.27,0:14:34.81,Default,,0,0,0,,怎么啦 波莉？\NWhat's that, Polly?
+Dialogue: 0,0:14:34.81,0:14:36.61,Default,,0,0,0,,信用卡里钱不够？\NYou're worried about credit?
+Dialogue: 0,0:14:36.61,0:14:40.61,Default,,0,0,0,,哈哈！在克船长这儿 钱不够 没问题！\NHa! Cap'n Clark says no credit, no problem!
+Dialogue: 0,0:14:40.62,0:14:42.95,Default,,0,0,0,,快来潜入顶级家具海洋\NSail the high seas of high quality,
+Dialogue: 0,0:14:42.95,0:14:44.88,Default,,0,0,0,,把钱的问题统统抛在脑后\Nand leave your money problems at the door.
+Dialogue: 0,0:14:44.89,0:14:46.52,Default,,0,0,0,,今天就来店里\NWalk in today
+Dialogue: 0,0:14:46.52,0:14:48.55,Default,,0,0,0,,把梦想直接搬回家！\Nand get your dream sectional lounger,
+Dialogue: 0,0:14:48.56,0:14:51.56,Default,,0,0,0,,桌椅板凳 灯具摆件随便挑！\Nkitchen table, floor lamp, and bed frame here
+Dialogue: 0,0:14:51.56,0:14:54.56,Default,,0,0,0,,克船长的家具百宝库\Nat Cap'n Clark's Ottoman Empire,
+Dialogue: 0,0:14:54.56,0:14:57.36,Default,,0,0,0,,就在680号公路 凯皮托与麦基路口\Nlocated at Capitol and McKee, just off the 680.
+Dialogue: 0,0:14:57.36,0:14:59.00,Default,,0,0,0,,嘿吼！赶紧过来...\NArr! Walk in today...
+Dialogue: 0,0:15:00.33,0:15:02.13,Default,,0,0,0,,翘起二郎腿\N...kick your feet back,
+Dialogue: 0,0:15:02.14,0:15:04.37,Default,,0,0,0,,当你的家具大王！\Nand enjoy an empire of your own!
+Dialogue: 0,0:15:04.37,0:15:07.21,Default,,0,0,0,,毕竟 国王得有王座\NFor every sultan deserves a throne,
+Dialogue: 0,0:15:07.21,0:15:08.64,Default,,0,0,0,,而你的专属王座 就在这儿等着你\Nand we've got one with your name on it,
+Dialogue: 0,0:15:08.64,0:15:10.01,Default,,0,0,0,,就在克船长的...\Nhere at Cap'n Clark's--
+Dialogue: 0,0:15:11.21,0:15:12.11,Default,,0,0,0,,卧槽\NNo way!
+Dialogue: 0,0:15:13.38,0:15:15.01,Default,,0,0,0,,- 克拉克 没事吧？ - 快把相机关了\N- Clark, you good? - Turn the camera off.
+Dialogue: 0,0:15:15.02,0:15:16.88,Default,,0,0,0,,不不 拍得好 这种花絮才有趣\NNo, no, it's good. It's outtake stuff, dude.
+Dialogue: 0,0:15:16.89,0:15:18.85,Default,,0,0,0,,- 赶紧给老子关掉 - 好吧...我的天\N- Turn the fucking camera off. - Okay... Jesus...
+Dialogue: 0,0:15:20.76,0:15:22.25,Default,,0,0,0,,那个 要帮忙吗？\NYou, uh, you need help?
+Dialogue: 0,0:15:22.26,0:15:23.99,Default,,0,0,0,,不用 我自己来\NNo, I got it, I got it.
+Dialogue: 0,0:15:24.89,0:15:26.56,Default,,0,0,0,,那个...\NUm...
+Dialogue: 0,0:15:26.56,0:15:28.56,Default,,0,0,0,,- 还要重拍吗？ - 不拍了\N- Are we going again, or...? - No.
+Dialogue: 0,0:15:28.56,0:15:30.43,Default,,0,0,0,,小凯 去开门开业吧\NKat, you can open the store now.
+Dialogue: 0,0:15:30.43,0:15:32.17,Default,,0,0,0,,早就开了\NWe've been open.
+Dialogue: 0,0:15:32.41,0:15:33.41,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:15:35.00,0:15:37.24,Default,,0,0,0,,老哥 我还是没搞懂\NYou know, dude, I still don't get it.
+Dialogue: 0,0:15:37.24,0:15:40.37,Default,,0,0,0,,你演的是海盗还是国王？\NAre you, like, a pirate or a sultan?
+Dialogue: 0,0:15:40.37,0:15:42.71,Default,,0,0,0,,- 最好还是明确一下 - 我是个...闭嘴\N- Just be good to establish it. - I'm a... Shut up.
+Dialogue: 0,0:15:42.71,0:15:45.68,Default,,0,0,0,,刨花板做的破椅子\NPiece of cheap particleboard bullshit.
+Dialogue: 0,0:15:46.38,0:15:47.91,Default,,0,0,0,,快把这东西弄走 听到没？\NClear this stuff up, will you?
+Dialogue: 0,0:15:48.75,0:15:49.92,Default,,0,0,0,,给你\NHere.
+Dialogue: 0,0:15:50.62,0:15:52.85,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,0:16:08.07,0:16:09.00,Default,,0,0,0,,抱歉\NSorry about that.
+Dialogue: 0,0:16:10.00,0:16:11.40,Default,,0,0,0,,怎么样 查出来没？\NHow's it looking?
+Dialogue: 0,0:16:11.41,0:16:13.27,Default,,0,0,0,,电表没问题\NMeter reads fine.
+Dialogue: 0,0:16:13.27,0:16:15.11,Default,,0,0,0,,电费要是高 只能是你自己用得多\NIf your bill's coming in high, that's on you.
+Dialogue: 0,0:16:16.61,0:16:18.21,Default,,0,0,0,,那跳电的事怎么说 打烊后就出现\NWhat about the outages? That happens after hours.
+Dialogue: 0,0:16:19.58,0:16:22.01,Default,,0,0,0,,没准是荧光灯出问题 导致跳闸了\NDon't know. Fluorescents must be tripping a breaker.
+Dialogue: 0,0:16:24.18,0:16:26.95,Default,,0,0,0,,一打烊我就把顶灯都关了\NI turn the overheads off when the store closes,
+Dialogue: 0,0:16:26.96,0:16:28.26,Default,,0,0,0,,还没闪之前就关了\Nbefore the power gets weird.
+Dialogue: 0,0:16:29.59,0:16:30.92,Default,,0,0,0,,而且 这样电费不该少点吗？\NAnyway, wouldn't that just make the bills go down?
+Dialogue: 0,0:16:34.36,0:16:35.63,Default,,0,0,0,,配电箱在哪儿？\NWhere's your breaker box?
+Dialogue: 0,0:16:37.23,0:16:38.80,Default,,0,0,0,,虽然我不是专家\NI'm no expert,
+Dialogue: 0,0:16:38.80,0:16:41.90,Default,,0,0,0,,但我之前看过了 没看出什么问题\Nbut I checked earlier, and everything looks okay.
+Dialogue: 0,0:16:41.90,0:16:44.04,Default,,0,0,0,,- 你说灯会闪 - 对 整个店都闪\N- You said the lights flicker. - Yeah, the whole store does.
+Dialogue: 0,0:16:44.04,0:16:45.74,Default,,0,0,0,,- 是吗？ - 只是不一起闪\N- Huh. - Just not at the same time.
+Dialogue: 0,0:16:45.74,0:16:47.44,Default,,0,0,0,,有一晚是楼上\NOne night, I lose the power upstairs.
+Dialogue: 0,0:16:47.44,0:16:49.78,Default,,0,0,0,,下一晚就变成了楼下 完全没规律\NNext night, it's down here. There's no rhyme or...
+Dialogue: 0,0:16:57.22,0:16:58.65,Default,,0,0,0,,谁装的这鬼东西？\NWho the hell installed this thing?
+Dialogue: 0,0:16:59.52,0:17:01.45,Default,,0,0,0,,这房子买来就布好线了\NWell, the building came wired.
+Dialogue: 0,0:17:01.46,0:17:02.92,Default,,0,0,0,,虽然有点年头 但也不至于不能用\NI mean, it's dated, but it's not that old.
+Dialogue: 0,0:17:10.10,0:17:10.96,Default,,0,0,0,,你来看看这个\NTake a look at this.
+Dialogue: 0,0:17:15.74,0:17:16.84,Default,,0,0,0,,之前没这东西\NThat wasn't there before.
+Dialogue: 0,0:17:17.94,0:17:22.34,Default,,0,0,0,,也许是我没注意到 我不是专家\NOr... maybe I didn't notice. Like I say, I'm no expert.
+Dialogue: 0,0:17:22.34,0:17:24.34,Default,,0,0,0,,为什么 为什么是斜着的？\NWhy-why is it... why is it going that way?
+Dialogue: 0,0:17:24.34,0:17:26.05,Default,,0,0,0,,应该问问\NBetter question:
+Dialogue: 0,0:17:27.18,0:17:28.88,Default,,0,0,0,,这东西到底接到哪儿了\Nwhat is it even connected to?
+Dialogue: 0,0:17:29.92,0:17:31.12,Default,,0,0,0,,懂吗？\NHuh?
+Dialogue: 0,0:17:39.16,0:17:40.93,Default,,0,0,0,,小凯 楼上灯怎么样？\NKat! How's the power?
+Dialogue: 0,0:17:41.86,0:17:43.06,Default,,0,0,0,,干嘛？\NWhat?
+Dialogue: 0,0:17:43.06,0:17:44.90,Default,,0,0,0,,上面有反应吗？\NAnything happen up there?
+Dialogue: 0,0:17:45.33,0:17:46.53,Default,,0,0,0,,搞什么鬼\NWhat the hell?
+Dialogue: 0,0:17:46.53,0:17:47.87,Default,,0,0,0,,老鼠回来了\NThe rat's back.
+Dialogue: 0,0:17:48.54,0:17:50.07,Default,,0,0,0,,- 灯还正常吧 - 正常\N- But the power's on. - Yeah.
+Dialogue: 0,0:17:50.07,0:17:51.74,Default,,0,0,0,,我还以为咱们把老鼠给干掉了\NI thought we killed the rat.
+Dialogue: 0,0:17:51.74,0:17:52.84,Default,,0,0,0,,咱们才杀了一只\NWe killed  a  rat.
+Dialogue: 0,0:17:54.78,0:17:57.64,Default,,0,0,0,,- 这就是问题原因吗？ - 没道理啊\N- So is this the problem? - Don't see how.
+Dialogue: 0,0:17:57.65,0:17:59.15,Default,,0,0,0,,电路根本不走这里\NPower can't even go through this part of the circuit.
+Dialogue: 0,0:17:59.58,0:18:00.78,Default,,0,0,0,,它纯粹是...\NIt's just...
+Dialogue: 0,0:18:00.78,0:18:02.05,Default,,0,0,0,,摆设\Nthere.
+Dialogue: 0,0:18:03.05,0:18:05.38,Default,,0,0,0,,被哪个笨蛋随便塞进去的\NLike some schmo just stuck it in there.
+Dialogue: 0,0:18:05.39,0:18:07.55,Default,,0,0,0,,没错\NYeah.
+Dialogue: 0,0:18:16.26,0:18:19.40,Default,,0,0,0,,你是否觉得生活像被隔在了一层玻璃之后？\NDo you ever feel like you're living behind glass?
+Dialogue: 0,0:18:19.40,0:18:21.63,Default,,0,0,0,,看着世界在眼前上演\NWatching life happen,
+Dialogue: 0,0:18:21.64,0:18:23.67,Default,,0,0,0,,自己却只能旁观？\Nbut never really stepping into it?
+Dialogue: 0,0:18:24.84,0:18:27.87,Default,,0,0,0,,现在 是时候打开心灵之窗了\NMaybe it's time to open the window within.
+Dialogue: 0,0:18:29.34,0:18:31.64,Default,,0,0,0,,你可以重新定义自己的人生\NYou can be the author of your own design
+Dialogue: 0,0:18:31.65,0:18:33.18,Default,,0,0,0,,我们每个人 都值得拥有另一次机会\Nbecause we all deserve another chance
+Dialogue: 0,0:18:33.18,0:18:34.65,Default,,0,0,0,,让梦想重新启航\Nto fulfill our dreams.
+Dialogue: 0,0:18:35.88,0:18:37.52,Default,,0,0,0,,只要你相信改变是可能的\NThe moment you believe change is possible,
+Dialogue: 0,0:18:37.52,0:18:38.75,Default,,0,0,0,,你就已经开始了这段旅程\Nyou've already begun.
+Dialogue: 0,0:18:39.21,0:18:39.74,Default,,0,0,0,,[《心灵之窗》]
+Dialogue: 0,0:18:39.75,0:18:41.82,Default,,0,0,0,,立即订购《心灵之窗》\NOrder The Window Within
+Dialogue: 0,0:18:41.82,0:18:43.69,Default,,0,0,0,,以及配套的三辑音频课程\Nand the companion three-part audio program,
+Dialogue: 0,0:18:43.69,0:18:47.49,Default,,0,0,0,,《引导之门》 均由玛丽·克莱因医生倾力呈现\NGuided Openings, by Dr. Mary Klein.
+Dialogue: 0,0:18:47.49,0:18:49.33,Default,,0,0,0,,现价24.95美元 运费另计\NAvailable now for $24.95 plus shipping.
+Dialogue: 0,0:18:50.53,0:18:54.90,Default,,0,0,0,,请拨打1-800-555-0199\NCall 1-800-555-0199.
+Dialogue: 0,0:18:56.74,0:18:58.84,Default,,0,0,0,,开辟一条新路 永远不晚\NIt's never too late to forge a new path.
+Dialogue: 0,0:19:01.71,0:19:03.78,Default,,0,0,0,,你居然还在信任纸质文件夹\NSo, you're still trusting paper folders,
+Dialogue: 0,0:19:03.78,0:19:06.01,Default,,0,0,0,,贴错标签的磁带 还有个谁拿把钥匙\Nmislabeled tapes, and a locked filing cabinet
+Dialogue: 0,0:19:06.01,0:19:07.61,Default,,0,0,0,,就能开的文件柜？\Nthat anyone with a spare key can open?
+Dialogue: 0,0:19:07.62,0:19:09.95,Default,,0,0,0,,信息决定企业的生死\NYour business runs on information,
+Dialogue: 0,0:19:09.95,0:19:12.55,Default,,0,0,0,,但大多数公司却把数据当成了堆杂物...\Nyet most companies treat their data like clutter...
+Dialogue: 0,0:19:16.72,0:19:18.86,Default,,0,0,0,,那个信号不是小行星\NThat small blip is not an asteroid.
+Dialogue: 0,0:19:18.86,0:19:21.03,Default,,0,0,0,,是一艘飞船 它咬住我们了\NIt's a spaceship, and it's on our tail.
+Dialogue: 0,0:19:21.03,0:19:23.46,Default,,0,0,0,,- 它在靠近 - 不可能 里格娜\N- It's getting closer. - Impossible, Rigna.
+Dialogue: 0,0:19:23.46,0:19:26.23,Default,,0,0,0,,他们不可能发现我们 雷达隐身还开着呢\NThey couldn't have spotted us. We have our radar shield on.
+Dialogue: 0,0:19:26.23,0:19:28.77,Default,,0,0,0,,我知道 长官 但他们追上来了\NI know that, sir, but they are gaining on us.
+Dialogue: 0,0:19:28.77,0:19:30.70,Default,,0,0,0,,难道地球人有某种秘密设备\NIs it possible Earth has a secret device
+Dialogue: 0,0:19:30.71,0:19:32.54,Default,,0,0,0,,能穿透我们的雷达隐身罩？\Nthat can penetrate our radar shield?
+Dialogue: 0,0:20:02.21,0:20:03.49,Default,,0,0,0,,[（1970年圣克鲁斯现代主义建筑设计论坛）]
+Dialogue: 0,0:20:08.04,0:20:09.48,Default,,0,0,0,,垃圾\NPiece of shit.
+Dialogue: 0,0:20:57.23,0:21:00.03,Default,,0,0,0,,为什么 你要这样对待自己？\NWhy did you do this to yourself?
+Dialogue: 0,0:21:03.77,0:21:05.13,Default,,0,0,0,,你是怎么来到这里的？\NHow did you get here?
+Dialogue: 0,0:21:09.14,0:21:12.64,Default,,0,0,0,,你的意识 就像一个装满记忆的房间\NYour consciousness is a room full of memories
+Dialogue: 0,0:21:12.64,0:21:15.11,Default,,0,0,0,,它在时刻重构 在无限演变\Nthat is constantly evolving.
+Dialogue: 0,0:21:17.38,0:21:18.85,Default,,0,0,0,,在现实生活中\NBut as you walk through life,
+Dialogue: 0,0:21:20.11,0:21:22.45,Default,,0,0,0,,缺乏引导的心灵会开始筑墙\Nthe untrained mind can start to build walls,
+Dialogue: 0,0:21:23.95,0:21:25.19,Default,,0,0,0,,建立屏障\Nput up barriers
+Dialogue: 0,0:21:26.99,0:21:28.49,Default,,0,0,0,,隔绝外界\Nto protect itself from the outside world.
+Dialogue: 0,0:21:30.36,0:21:32.09,Default,,0,0,0,,这是本能反应\NIt's a natural response.
+Dialogue: 0,0:21:33.66,0:21:35.19,Default,,0,0,0,,我们常常对此毫无察觉\NSomething we are often unaware of.
+Dialogue: 0,0:21:36.50,0:21:38.63,Default,,0,0,0,,但久而久之\NBut if gone unchecked,
+Dialogue: 0,0:21:38.63,0:21:40.13,Default,,0,0,0,,你会发现 自己被囚禁了\Nit can leave you feeling trapped.
+Dialogue: 0,0:21:42.37,0:21:44.44,Default,,0,0,0,,你会说服自己\NYou can become convinced that the world outside
+Dialogue: 0,0:21:44.44,0:21:46.07,Default,,0,0,0,,外面的世界不需要你\Nis better off without you.
+Dialogue: 0,0:21:47.54,0:21:49.18,Default,,0,0,0,,你会告诉自己 自己不配被爱\NThat you never deserve the relationships you've had.
+Dialogue: 0,0:21:50.81,0:21:53.21,Default,,0,0,0,,于是 你只能蜷缩在窗后\NResigned to watch your life unfold
+Dialogue: 0,0:21:53.21,0:21:54.98,Default,,0,0,0,,当个旁观者 静静地看着生活上演\Nfrom behind a lone window.
+Dialogue: 0,0:21:57.38,0:21:59.09,Default,,0,0,0,,但我能帮你\NI can help you open it now
+Dialogue: 0,0:22:00.99,0:22:02.39,Default,,0,0,0,,因为窗户 并没有锁上\Nbecause the window isn't locked.
+Dialogue: 0,0:22:04.66,0:22:06.53,Default,,0,0,0,,插销也可以被打开\NThe latch was never broken.
+Dialogue: 0,0:22:10.23,0:22:11.86,Default,,0,0,0,,准备好跨过去了吗？\NAre you ready to step through?
+Dialogue: 0,0:22:15.17,0:22:17.50,Default,,0,0,0,,去夺回属于你的东西\NSo that you can reclaim that which was once yours...
+Dialogue: 0,0:22:19.77,0:22:22.21,Default,,0,0,0,,去重新主宰你的生命\Nand take back control of your life.
+Dialogue: 0,0:22:24.21,0:22:25.71,Default,,0,0,0,,去过你想过的人生\NThe life you want to be living.
+Dialogue: 0,0:22:28.08,0:22:30.35,Default,,0,0,0,,卸下过去的沉重\NUnburdened by the traumas of the past.
+Dialogue: 0,0:22:31.75,0:22:34.12,Default,,0,0,0,,走出那些你亲手打造的围墙\NFree of the confines you had built.
+Dialogue: 0,0:22:34.12,0:22:36.19,Default,,0,0,0,,...所以我想...\N...to leave, and so I decided...
+Dialogue: 0,0:22:36.19,0:22:39.26,Default,,0,0,0,,开辟一条属于你自己的路\NAnd free to choose a path of your own design.
+Dialogue: 0,0:23:07.96,0:23:08.96,Default,,0,0,0,,[店铺名称需要翻译]
+Dialogue: 0,0:23:10.58,0:23:11.58,Default,,0,0,0,,[停车]
+Dialogue: 0,0:23:16.13,0:23:18.70,Default,,0,0,0,,嘿 牛仔们 快瞧这边！\NWell, hey there, cowboys and cowgirls!
+Dialogue: 0,0:23:18.70,0:23:19.93,Default,,0,0,0,,想在里奥格兰德河这块地盘\NAre you looking to rustle up the best deals
+Dialogue: 0,0:23:19.93,0:23:21.27,Default,,0,0,0,,抢到最便宜的家具吗？\Nthis side of the Rio Grande?
+Dialogue: 0,0:23:21.27,0:23:22.43,Default,,0,0,0,,刺\NPrick.
+Dialogue: 0,0:23:22.44,0:23:25.44,Default,,0,0,0,,咿吼！快来大韦恩家具店！\NWell, yeehaw, I say yeehaw!
+Dialogue: 0,0:23:25.44,0:23:27.81,Default,,0,0,0,,买了我们的餐厅套装\NHere at Big Wayne's, our dining room sets
+Dialogue: 0,0:23:27.81,0:23:30.31,Default,,0,0,0,,就跟挖到金矿一样！\Nare gonna make you feel like you just struck gold.
+Dialogue: 0,0:23:30.31,0:23:32.68,Default,,0,0,0,,别去管那些破店\NSo don't even think about going anyplace else.
+Dialogue: 0,0:23:31.26,0:23:32.26,Default,,0,0,0,,{\an8}[大韦恩家具店]
+Dialogue: 0,0:23:32.68,0:23:34.61,Default,,0,0,0,,认准大韦恩 认准金色招...\NBig Wayne's, just look for the golden--
+Dialogue: 0,0:23:50.10,0:23:51.37,Default,,0,0,0,,垃圾\NWhat the...
+Dialogue: 0,0:24:08.52,0:24:11.62,Default,,0,0,0,,该死 看我怎么修理你\NStupid... Fuck! Piece of shit!
+Dialogue: 0,0:29:08.19,0:29:09.19,Default,,0,0,0,,[车停]
+Dialogue: 0,0:29:51.90,0:29:55.99,Default,,0,0,0,,（粤语）各位好吗？祝各位平安健康快乐
+Dialogue: 0,0:29:56.48,0:29:58.90,Default,,0,0,0,,（阿卡德语）愿一切都很好
+Dialogue: 0,0:29:59.88,0:30:02.51,Default,,0,0,0,,（俄语）你好 欢迎你们
+Dialogue: 0,0:30:02.91,0:30:05.76,Default,,0,0,0,,（泰语）远方土地的朋友们 你们好
+Dialogue: 0,0:30:05.78,0:30:09.50,Default,,0,0,0,,（泰语）在这片土地上的我们 向你们所有人致以诚挚的问候
+Dialogue: 0,0:30:09.85,0:30:12.97,Default,,0,0,0,,（阿拉伯语）我们向星际中的朋友们致以问候
+Dialogue: 0,0:30:13.15,0:30:15.94,Default,,0,0,0,,（阿拉伯语）但愿时间能让我们相聚
+Dialogue: 0,0:30:15.95,0:30:18.22,Default,,0,0,0,,（罗马尼亚语）向大家问好
+Dialogue: 0,0:30:19.35,0:30:21.19,Default,,0,0,0,,（法语）大家好
+Dialogue: 0,0:30:22.46,0:30:24.02,Default,,0,0,0,,（缅甸语）你们好吗？
+Dialogue: 0,0:30:25.87,0:30:27.07,Default,,0,0,0,,（希伯来语）你好
+Dialogue: 0,0:30:27.98,0:30:30.04,Default,,0,0,0,,（西班牙语）你好 向大家致敬
+Dialogue: 0,0:30:31.49,0:30:33.04,Default,,0,0,0,,（印尼语）女士们先生们 晚上好
+Dialogue: 0,0:30:33.05,0:30:34.35,Default,,0,0,0,,（印尼语）再见...
+Dialogue: 0,0:30:34.35,0:30:36.96,Default,,0,0,0,,- 有人吗？ - （印尼语）期待下次再见\NHello?
+Dialogue: 0,0:30:36.98,0:30:39.07,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
+Dialogue: 0,0:30:39.09,0:30:41.86,Default,,0,0,0,,（克丘亚语）每一个人问好
+Dialogue: 0,0:30:41.87,0:30:43.10,Default,,0,0,0,,（旁遮普语）欢迎你们
+Dialogue: 0,0:30:44.81,0:30:45.81,Default,,0,0,0,,（赫梯语）你们好
+Dialogue: 0,0:30:45.85,0:30:48.62,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
+Dialogue: 0,0:30:48.69,0:30:51.09,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
+Dialogue: 0,0:30:51.28,0:30:54.08,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
+Dialogue: 0,0:30:54.26,0:30:56.87,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
+Dialogue: 0,0:30:56.93,0:30:58.07,Default,,0,0,0,,（亚兰语）你好
+Dialogue: 0,0:30:59.50,0:31:01.76,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
+Dialogue: 0,0:31:01.77,0:31:03.43,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
+Dialogue: 0,0:31:04.85,0:31:06.98,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
+Dialogue: 0,0:31:06.99,0:31:10.89,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
+Dialogue: 0,0:31:10.90,0:31:13.64,Default,,0,0,0,,（乌尔都语）欢迎你们
+Dialogue: 0,0:31:13.66,0:31:17.19,Default,,0,0,0,,- 搞什么鬼？ - （越南语）诚挚地向你们致以友好的问候\NWhat the fuck?
+Dialogue: 0,0:31:17.29,0:31:19.86,Default,,0,0,0,,（土耳其语）亲爱的说土耳其语的朋友们
+Dialogue: 0,0:31:19.88,0:31:22.43,Default,,0,0,0,,（土耳其语）祝你们有个美好的早晨
+Dialogue: 0,0:31:22.63,0:31:24.58,Default,,0,0,0,,（日语）你好 你们好吗？
+Dialogue: 0,0:31:25.53,0:31:28.67,Default,,0,0,0,,（印地语）来自地球居民的问候
+Dialogue: 0,0:31:28.72,0:31:31.86,Default,,0,0,0,,（威尔士语）祝你们现在及未来健康
+Dialogue: 0,0:31:31.90,0:31:33.86,Default,,0,0,0,,（意大利语）致以最美好的祝愿和问候
+Dialogue: 0,0:31:34.71,0:31:35.83,Default,,0,0,0,,（僧伽罗语）健康长寿
+Dialogue: 0,0:31:37.56,0:31:39.68,Default,,0,0,0,,（恩古尼语）向伟大的你们致意
+Dialogue: 0,0:31:39.69,0:31:42.51,Default,,0,0,0,,（恩古尼语）祝你们永恒繁荣
+Dialogue: 0,0:31:42.53,0:31:44.40,Default,,0,0,0,,（塞索托语）向伟大的你们致以问候
+Dialogue: 0,0:31:45.92,0:31:47.75,Default,,0,0,0,,（吴语）祝大家好
+Dialogue: 0,0:31:49.14,0:31:51.91,Default,,0,0,0,,（亚美尼亚语）向宇宙中存在的
+Dialogue: 0,0:31:51.92,0:31:56.19,Default,,0,0,0,,（亚美尼亚语）所有生命致以问候
+Dialogue: 0,0:31:56.57,0:31:57.93,Default,,0,0,0,,（朝鲜语）你们好
+Dialogue: 0,0:31:59.62,0:32:02.65,Default,,0,0,0,,（波兰语）欢迎 来自异世界的生命
+Dialogue: 0,0:32:02.77,0:32:06.64,Default,,0,0,0,,（尼泊尔语）地球人祝愿你们拥有一个和平的未来
+Dialogue: 0,0:32:06.82,0:32:10.04,Default,,0,0,0,,（汉语）各位都好吧？我们都很想念你们
+Dialogue: 0,0:32:10.05,0:32:12.18,Default,,0,0,0,,（汉语）有空请到这儿来玩
+Dialogue: 0,0:32:12.19,0:32:14.72,Default,,0,0,0,,（伊拉族语）祝愿你们一切都好
+Dialogue: 0,0:32:15.32,0:32:17.79,Default,,0,0,0,,（瑞典语）来自地球
+Dialogue: 0,0:32:17.80,0:32:21.99,Default,,0,0,0,,（瑞典语）伊萨卡小镇一名程序员的问候
+Dialogue: 0,0:32:22.59,0:32:25.13,Default,,0,0,0,,（齐切瓦语）其他星球的朋友们 你们好吗？
+Dialogue: 0,0:32:25.90,0:32:29.33,Default,,0,0,0,,（古加拉特语）地球人类向宇宙各处
+Dialogue: 0,0:32:29.34,0:32:33.46,Default,,0,0,0,,（古加拉特语）致以诚挚问候
+Dialogue: 0,0:32:33.48,0:32:39.88,Default,,0,0,0,,（古加拉特语）期待着收到你们的回复
+Dialogue: 0,0:32:40.40,0:32:44.21,Default,,0,0,0,,（乌克兰语）来自我们世界的问候
+Dialogue: 0,0:32:44.21,0:32:46.73,Default,,0,0,0,,（乌克兰语）祝愿你们幸福健康 长久繁荣
+Dialogue: 0,0:32:46.92,0:32:59.17,Default,,0,0,0,,（波斯语）向遥远天际的居民致意
+Dialogue: 0,0:32:59.58,0:33:02.42,Default,,0,0,0,,（塞尔维亚语）来自我们星球的诚挚祝愿
+Dialogue: 0,0:33:02.80,0:33:07.29,Default,,0,0,0,,（奥里亚语）来自太阳系第三颗行星
+Dialogue: 0,0:33:07.31,0:33:11.23,Default,,0,0,0,,（奥里亚语）地球的问候
+Dialogue: 0,0:33:11.31,0:33:13.77,Default,,0,0,0,,（干达语）向宇宙所有族群致意
+Dialogue: 0,0:33:13.78,0:33:15.87,Default,,0,0,0,,（干达语）愿和平永远伴随你们
+Dialogue: 0,0:33:15.89,0:33:24.34,Default,,0,0,0,,（马拉地语）地球人民向你们传递美好的祝愿
+Dialogue: 0,0:33:24.56,0:33:28.41,Default,,0,0,0,,（台语）太空的朋友们 你们好
+Dialogue: 0,0:33:28.42,0:33:32.11,Default,,0,0,0,,（台语）吃过饭没？来我们这儿坐坐
+Dialogue: 0,0:33:29.91,0:33:30.91,Default,,0,0,0,,{\an8}[工作牌]
+Dialogue: 0,0:33:32.42,0:33:38.01,Default,,0,0,0,,（匈牙利语）用匈牙利语向宇宙中所有热爱和平的生命致意
+Dialogue: 0,0:33:38.41,0:33:42.33,Default,,0,0,0,,（泰卢固语）说泰卢固语的人们向你们致以美好的祝愿
+Dialogue: 0,0:33:40.79,0:33:42.22,Default,,0,0,0,,你好？\NHello?
+Dialogue: 0,0:33:42.40,0:33:45.52,Default,,0,0,0,,（捷克语）亲爱的朋友们 祝你们万事如意
+Dialogue: 0,0:33:45.70,0:33:49.28,Default,,0,0,0,,（卡纳达语）代表说卡纳达语的人们 向你们致以美好祝愿
+Dialogue: 0,0:33:49.39,0:33:53.75,Default,,0,0,0,,（拉贾斯坦语）大家好 我们这里很幸福
+Dialogue: 0,0:33:53.76,0:33:55.96,Default,,0,0,0,,（拉贾斯坦语）愿你们那里也同样幸福
+Dialogue: 0,0:33:55.97,0:33:59.05,Default,,0,0,0,,（英语）来自地球儿童的问候\NHello from the children of planet Earth.
+Dialogue: 0,0:33:59.08,0:34:00.76,Default,,0,0,0,,{\an8}[【多国语问候：源自1977年旅行者号金唱片】]
+Dialogue: 0,0:34:04.71,0:34:06.88,Default,,0,0,0,,（古希腊语）你们好 无论你们是谁 我们带着友谊 拜访朋友
+Dialogue: 0,0:34:11.82,0:34:14.79,Default,,0,0,0,,（葡萄牙语）愿所有人平安幸福
+Dialogue: 0,0:34:14.79,0:34:17.06,Default,,0,0,0,,（粤语）各位好吗？祝各位平安健康快乐
+Dialogue: 0,0:34:24.13,0:34:25.63,Default,,0,0,0,,哦...\NOoh...
+Dialogue: 0,0:34:27.88,0:34:29.97,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
+Dialogue: 0,0:34:29.99,0:34:32.76,Default,,0,0,0,,（克丘亚语）每一个人问好
+Dialogue: 0,0:34:32.77,0:34:34.00,Default,,0,0,0,,（旁遮普语）欢迎你们
+Dialogue: 0,0:34:35.71,0:34:36.71,Default,,0,0,0,,（赫梯语）你们好
+Dialogue: 0,0:34:36.75,0:34:39.52,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
+Dialogue: 0,0:34:39.59,0:34:41.99,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
+Dialogue: 0,0:34:42.18,0:34:44.98,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
+Dialogue: 0,0:34:45.16,0:34:47.77,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
+Dialogue: 0,0:34:47.83,0:34:48.97,Default,,0,0,0,,（亚兰语）你好
+Dialogue: 0,0:34:50.40,0:34:52.66,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
+Dialogue: 0,0:34:52.67,0:34:54.33,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
+Dialogue: 0,0:34:55.75,0:34:57.88,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
+Dialogue: 0,0:34:57.89,0:35:01.79,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
+Dialogue: 0,0:35:01.80,0:35:04.54,Default,,0,0,0,,（乌尔都语）欢迎你们
+Dialogue: 0,0:35:04.56,0:35:08.09,Default,,0,0,0,,（越南语）诚挚地向你们致以友好的问候
+Dialogue: 0,0:35:08.19,0:35:10.76,Default,,0,0,0,,（土耳其语）亲爱的说土耳其语的朋友们
+Dialogue: 0,0:35:10.78,0:35:13.33,Default,,0,0,0,,（土耳其语）祝你们有个美好的早晨
+Dialogue: 0,0:35:13.53,0:35:15.48,Default,,0,0,0,,（日语）你好 你们好吗？
+Dialogue: 0,0:35:16.43,0:35:19.57,Default,,0,0,0,,（印地语）来自地球居民的问候
+Dialogue: 0,0:35:19.62,0:35:22.76,Default,,0,0,0,,（威尔士语）祝你们现在及未来健康
+Dialogue: 0,0:35:22.80,0:35:24.76,Default,,0,0,0,,（意大利语）致以最美好的祝愿和问候
+Dialogue: 0,0:35:25.61,0:35:26.73,Default,,0,0,0,,（僧伽罗语）健康长寿
+Dialogue: 0,0:35:28.46,0:35:30.58,Default,,0,0,0,,（恩古尼语）向伟大的你们致意
+Dialogue: 0,0:35:30.59,0:35:33.41,Default,,0,0,0,,（恩古尼语）祝你们永恒繁荣
+Dialogue: 0,0:35:33.43,0:35:35.30,Default,,0,0,0,,（塞索托语）向伟大的你们致以问候
+Dialogue: 0,0:35:36.82,0:35:38.65,Default,,0,0,0,,（吴语）祝大家好
+Dialogue: 0,0:35:40.04,0:35:42.81,Default,,0,0,0,,（亚美尼亚语）向宇宙中存在的
+Dialogue: 0,0:35:42.82,0:35:47.09,Default,,0,0,0,,（亚美尼亚语）所有生命致以问候
+Dialogue: 0,0:35:47.47,0:35:48.83,Default,,0,0,0,,（朝鲜语）你们好
+Dialogue: 0,0:35:50.52,0:35:53.55,Default,,0,0,0,,（波兰语）欢迎 来自异世界的生命
+Dialogue: 0,0:35:53.67,0:35:57.54,Default,,0,0,0,,（尼泊尔语）地球人祝愿你们拥有一个和平的未来
+Dialogue: 0,0:35:57.72,0:36:00.94,Default,,0,0,0,,（汉语）各位都好吧？我们都很想念你们
+Dialogue: 0,0:36:00.95,0:36:03.08,Default,,0,0,0,,（汉语）有空请到这儿来玩
+Dialogue: 0,0:36:03.09,0:36:05.62,Default,,0,0,0,,（伊拉族语）祝愿你们一切都好
+Dialogue: 0,0:36:06.22,0:36:08.69,Default,,0,0,0,,（瑞典语）来自地球
+Dialogue: 0,0:36:08.70,0:36:12.89,Default,,0,0,0,,（瑞典语）伊萨卡小镇一名程序员的问候
+Dialogue: 0,0:36:13.49,0:36:16.03,Default,,0,0,0,,（齐切瓦语）其他星球的朋友们 你们好吗？
+Dialogue: 0,0:36:16.30,0:36:17.90,Default,,0,0,0,,是谁啊？\NAnyone there?
+Dialogue: 0,0:36:58.69,0:37:00.12,Default,,0,0,0,,哦 该死...\NOh, fuck...
+Dialogue: 0,0:37:16.95,0:37:17.95,Default,,0,0,0,,[车停]
+Dialogue: 0,0:37:22.51,0:37:24.48,Default,,0,0,0,,好 好\NOkay, Okay...
+Dialogue: 0,0:39:02.15,0:39:03.99,Default,,0,0,0,,（法语）大家好
+Dialogue: 0,0:39:05.26,0:39:06.82,Default,,0,0,0,,（缅甸语）你们好吗？
+Dialogue: 0,0:39:08.67,0:39:09.87,Default,,0,0,0,,（希伯来语）你好
+Dialogue: 0,0:39:10.78,0:39:12.84,Default,,0,0,0,,（西班牙语）你好 向大家致敬
+Dialogue: 0,0:39:14.29,0:39:15.84,Default,,0,0,0,,（印尼语）女士们先生们 晚上好
+Dialogue: 0,0:39:15.85,0:39:19.76,Default,,0,0,0,,（印尼语）再见期待下次再见
+Dialogue: 0,0:39:19.78,0:39:21.87,Default,,0,0,0,,（克丘亚语）用克丘亚语向你们
+Dialogue: 0,0:39:21.89,0:39:24.66,Default,,0,0,0,,（克丘亚语）每一个人问好
+Dialogue: 0,0:39:24.67,0:39:25.90,Default,,0,0,0,,（旁遮普语）欢迎你们
+Dialogue: 0,0:39:27.61,0:39:28.61,Default,,0,0,0,,（赫梯语）你们好
+Dialogue: 0,0:39:28.65,0:39:31.42,Default,,0,0,0,,（孟加拉语）你好 愿到处都有和平
+Dialogue: 0,0:39:31.49,0:39:33.89,Default,,0,0,0,,（拉丁语）无论你们是谁 你们好
+Dialogue: 0,0:39:34.08,0:39:36.88,Default,,0,0,0,,（拉丁语）我们对你们心怀善意
+Dialogue: 0,0:39:37.06,0:39:39.67,Default,,0,0,0,,（拉丁语）并带着和平穿梭星际
+Dialogue: 0,0:39:37.80,0:39:38.80,Default,,0,0,0,,{\an8}[左声道 右声道]
+Dialogue: 0,0:39:39.73,0:39:40.87,Default,,0,0,0,,（亚兰语）你好
+Dialogue: 0,0:39:42.30,0:39:44.56,Default,,0,0,0,,（荷兰语）向每个人致以诚挚的问候
+Dialogue: 0,0:39:44.57,0:39:46.23,Default,,0,0,0,,（德语）向所有人致以诚挚的问候
+Dialogue: 0,0:39:47.65,0:39:49.78,Default,,0,0,0,,（乌尔都语）愿和平与你们同在
+Dialogue: 0,0:39:49.79,0:39:53.69,Default,,0,0,0,,（乌尔都语）我们代表地球的居民
+Dialogue: 0,0:39:51.76,0:39:52.96,Default,,0,0,0,,{\an8}[（基洛纳区-监视点J3 1990年6月29日）]
+Dialogue: 0,0:39:53.70,0:39:56.44,Default,,0,0,0,,（乌尔都语）欢迎你们
+Dialogue: 0,0:40:10.58,0:40:11.58,Default,,0,0,0,,抱歉来晚了\NSorry I'm late.
+Dialogue: 0,0:40:13.25,0:40:15.05,Default,,0,0,0,,路上堵死了 我又没法早点走\NTraffic was hell, and I couldn't leave early.
+Dialogue: 0,0:40:15.05,0:40:16.55,Default,,0,0,0,,没关系 趁还有时间聊聊吧\NLet's just use the time we have.
+Dialogue: 0,0:40:20.22,0:40:21.42,Default,,0,0,0,,今天感觉怎么样 克拉克？\NHow are you today, Clark?
+Dialogue: 0,0:40:21.42,0:40:23.42,Default,,0,0,0,,你看得我怎么样？\NHow do I look?
+Dialogue: 0,0:40:24.69,0:40:26.36,Default,,0,0,0,,挺好的 可能有点累吧\NFine. A little tired, maybe.
+Dialogue: 0,0:40:26.36,0:40:27.53,Default,,0,0,0,,我简直糟糕透了\NI look like shit.
+Dialogue: 0,0:40:28.43,0:40:29.80,Default,,0,0,0,,我想确认一下\NCan I ask, and there is
+Dialogue: 0,0:40:29.80,0:40:31.23,Default,,0,0,0,,放心回答 没什么对错\Nno wrong answer here, you know that...
+Dialogue: 0,0:40:31.77,0:40:33.43,Default,,0,0,0,,你现在是不是受到酒精影响？\NAre you intoxicated right now?
+Dialogue: 0,0:40:34.47,0:40:35.50,Default,,0,0,0,,你干嘛这么问？\NWhy you say it like that?
+Dialogue: 0,0:40:36.94,0:40:38.07,Default,,0,0,0,,怎么问了？\NLike what?
+Dialogue: 0,0:40:39.84,0:40:41.71,Default,,0,0,0,,我从周五起就没碰过一滴酒\NI haven't had a drink since Friday.
+Dialogue: 0,0:40:41.71,0:40:42.68,Default,,0,0,0,,没准儿我这副鬼样子就是因为没喝酒\NIt's probably why I look like shit.
+Dialogue: 0,0:40:44.05,0:40:45.65,Default,,0,0,0,,- 我能问你个事吗？ - 请说\N- Can I ask you something? - Sure.
+Dialogue: 0,0:40:46.28,0:40:47.58,Default,,0,0,0,,你把人强制关精神病院过吗？\NYou ever 5150'd someone?
+Dialogue: 0,0:40:46.28,0:40:48.08,Default,,0,0,0,,{\an8}[【加州法律5150条：强制将危险精神病人送院观察】]
+Dialogue: 0,0:40:50.45,0:40:53.62,Default,,0,0,0,,这么多年确实有过几次 只要情况需要\NA few times over the years, when it was necessary.
+Dialogue: 0,0:40:54.66,0:40:55.92,Default,,0,0,0,,那...那...那什么样的情况才算需要？\NWh-wha-what makes it necessary?
+Dialogue: 0,0:40:58.16,0:41:01.49,Default,,0,0,0,,只要我认为对方有伤人自残的风险\NIf I believe that the person is a danger to themselves or others,
+Dialogue: 0,0:41:01.49,0:41:03.56,Default,,0,0,0,,或者无法自理\Nor they're gravely disabled.
+Dialogue: 0,0:41:04.37,0:41:07.00,Default,,0,0,0,,行 行 \NOkay. Okay.
+Dialogue: 0,0:41:10.54,0:41:11.94,Default,,0,0,0,,那个...\NUm...
+Dialogue: 0,0:41:11.94,0:41:13.34,Default,,0,0,0,,我在店里发现了点情况\NI found something in the store.
+Dialogue: 0,0:41:15.44,0:41:17.98,Default,,0,0,0,,好 什么情况\NOkay. What did you find?
+Dialogue: 0,0:41:19.05,0:41:20.35,Default,,0,0,0,,呃...\NUh...
+Dialogue: 0,0:41:20.72,0:41:22.65,Default,,0,0,0,,是个地方 我...\NA place. I f...
+Dialogue: 0,0:41:23.42,0:41:25.05,Default,,0,0,0,,我发现了个地方\NI found a place.
+Dialogue: 0,0:41:26.09,0:41:27.39,Default,,0,0,0,,地方？\NA place?
+Dialogue: 0,0:41:28.39,0:41:30.16,Default,,0,0,0,,嗯 感觉...\NYeah. It's like, um...
+Dialogue: 0,0:41:30.93,0:41:32.66,Default,,0,0,0,,感觉店就那样...\NIt's like the store just, uh...
+Dialogue: 0,0:41:33.66,0:41:36.00,Default,,0,0,0,,往外扩了\Ncontinues, I guess.
+Dialogue: 0,0:41:36.00,0:41:37.90,Default,,0,0,0,,你知道吧...店有墙\NIt's like... you know, like there's a wall
+Dialogue: 0,0:41:37.90,0:41:39.23,Default,,0,0,0,,墙后头居然还是店\Nand on the other side of the wall,
+Dialogue: 0,0:41:39.23,0:41:41.03,Default,,0,0,0,,没完没了地往外扩\Nthe store just keeps going, you know,
+Dialogue: 0,0:41:41.04,0:41:43.34,Default,,0,0,0,,就像 就像 像个克隆的 \Nlike-like a... like a copy of itself.
+Dialogue: 0,0:41:43.34,0:41:45.10,Default,,0,0,0,,我...我猜入口是用镜子什么的给挡住的\NI-I-I figure they're using mirrors or something
+Dialogue: 0,0:41:45.11,0:41:46.01,Default,,0,0,0,,我不确定\Nto hide the entrance, I don't know.
+Dialogue: 0,0:41:46.01,0:41:47.84,Default,,0,0,0,,不好意思 我没听明白\NSorry, I'm not following you.
+Dialogue: 0,0:41:47.84,0:41:48.97,Default,,0,0,0,,你是说找到了个之前没发现的房间？\NIs this a room you didn't know about before?
+Dialogue: 0,0:41:48.98,0:41:50.68,Default,,0,0,0,,不是\NNo.
+Dialogue: 0,0:41:50.68,0:41:53.71,Default,,0,0,0,,就是...就是你一进去后\NOkay, so y-y-you go in and, uh, at first
+Dialogue: 0,0:41:53.71,0:41:55.75,Default,,0,0,0,,看着像个...像个写字楼\Nit just looks like a- like an office building.
+Dialogue: 0,0:41:55.75,0:41:58.72,Default,,0,0,0,,一个巨大的办公室 你懂吧？\NLike a... like a huge office building, you know?
+Dialogue: 0,0:41:58.72,0:42:00.75,Default,,0,0,0,,然后...你 你继续往里走\NAnd then, uh... But then you-you keep going,
+Dialogue: 0,0:42:00.76,0:42:02.89,Default,,0,0,0,,接着...接着你就发现\Nand then-then you realize
+Dialogue: 0,0:42:02.89,0:42:05.36,Default,,0,0,0,,所...所有东西都不对劲\Nth-th-that none of it makes any sense.
+Dialogue: 0,0:42:05.36,0:42:07.93,Default,,0,0,0,,怎么说呢...嗯...想象一下\NIt's-it's like, um... Imagine describing a dog
+Dialogue: 0,0:42:07.93,0:42:09.13,Default,,0,0,0,,你给个没见过狗的人描述狗\Nto someone who's never seen one before
+Dialogue: 0,0:42:09.13,0:42:10.80,Default,,0,0,0,,然后让那人把狗画出来\Nand then asking them to draw it.
+Dialogue: 0,0:42:10.80,0:42:12.80,Default,,0,0,0,,可能会画对几个地方\NThey might get some things right, you know,
+Dialogue: 0,0:42:12.80,0:42:14.57,Default,,0,0,0,,但绝不可能全画对\Nbut there's no way they'd get everything right.
+Dialogue: 0,0:42:14.57,0:42:15.83,Default,,0,0,0,,你知道 诡异的在于细节\NYou know, the devil's in the details.
+Dialogue: 0,0:42:15.84,0:42:17.50,Default,,0,0,0,,所以远看像只狗\NSo from a distance, you look at it,
+Dialogue: 0,0:42:17.51,0:42:19.14,Default,,0,0,0,,但凑近一看...\Nyou think you're seeing a dog, but then you look clos--
+Dialogue: 0,0:42:19.94,0:42:21.11,Default,,0,0,0,,干嘛那样看我？\NWhy are you looking at me like that?
+Dialogue: 0,0:42:22.78,0:42:24.21,Default,,0,0,0,,我只是在试着理解\NI'm just trying to understand.
+Dialogue: 0,0:42:24.21,0:42:25.48,Default,,0,0,0,,呵\NOh.
+Dialogue: 0,0:42:27.05,0:42:29.18,Default,,0,0,0,,你不像个心理医生 怎么表情都写在脸上\NYou know, for a shrink, you got a terrible poker face.
+Dialogue: 0,0:42:31.59,0:42:33.72,Default,,0,0,0,,你说的这些听起来很离奇\NWhat you're saying might sound fantastical,
+Dialogue: 0,0:42:33.72,0:42:35.29,Default,,0,0,0,,但并不危险\Nbut not dangerous.
+Dialogue: 0,0:42:38.59,0:42:40.63,Default,,0,0,0,,那些办公室里有人吗？\NAre there any people in these offices?
+Dialogue: 0,0:42:42.63,0:42:44.60,Default,,0,0,0,,没见过 但我能听到\NNot that I've seen. You know, I hear, um...
+Dialogue: 0,0:42:45.90,0:42:47.73,Default,,0,0,0,,听到脚步声 而且...而且我一转眼\NThere's footsteps, an-an-and stuff gets moved around
+Dialogue: 0,0:42:47.74,0:42:49.84,Default,,0,0,0,,东西就被挪了位置\Nwhen I'm not looking.
+Dialogue: 0,0:42:49.84,0:42:51.30,Default,,0,0,0,,我知道这听起来很离谱 但你得明白\NI know how this sounds, but you've got to understand,
+Dialogue: 0,0:42:51.31,0:42:52.94,Default,,0,0,0,,那地方太大了\Nit's massive in there.
+Dialogue: 0,0:42:52.94,0:42:55.14,Default,,0,0,0,,简直像纽约地铁那么大 懂吧\NLike New-York's-subway-system massive, you know.
+Dialogue: 0,0:42:55.14,0:42:56.68,Default,,0,0,0,,没准儿里面有好几百人\NFor all I know, there's hundreds of people.
+Dialogue: 0,0:42:56.68,0:42:58.31,Default,,0,0,0,,我只是没看到\NI just haven't seen them.
+Dialogue: 0,0:43:03.15,0:43:04.52,Default,,0,0,0,,看\NLook.
+Dialogue: 0,0:43:04.52,0:43:06.12,Default,,0,0,0,,你看 这就像个...\NYou see? It's like a...
+Dialogue: 0,0:43:06.12,0:43:08.25,Default,,0,0,0,,就像个迷宫\NIt's like a maze.
+Dialogue: 0,0:43:08.26,0:43:10.59,Default,,0,0,0,,根本没尽头\NIt just goes on and on and on.
+Dialogue: 0,0:43:10.59,0:43:12.09,Default,,0,0,0,,我有时候真怕自己会迷路\NSometimes I'm scared I'll get lost.
+Dialogue: 0,0:43:16.53,0:43:18.13,Default,,0,0,0,,那为什么除了你 没人发现这地方？\NWhy do you think no one else has found this place?
+Dialogue: 0,0:43:19.50,0:43:20.87,Default,,0,0,0,,我哪知道\NI don't know.
+Dialogue: 0,0:43:20.87,0:43:21.97,Default,,0,0,0,,但入口在负一层\NThe entrance is on the subfloor,
+Dialogue: 0,0:43:21.97,0:43:23.97,Default,,0,0,0,,所以整个结构\Nso the whole structure is
+Dialogue: 0,0:43:23.97,0:43:25.00,Default,,0,0,0,,估计都在地下 懂吧\Nprobably underground, you know?
+Dialogue: 0,0:43:25.01,0:43:26.87,Default,,0,0,0,,地图上根本没这个地方\NIt's not on any city maps.
+Dialogue: 0,0:43:26.87,0:43:28.74,Default,,0,0,0,,入口根本看不出来 谁会想到去找？\NThe entrances are hidden, so who'd think to look?
+Dialogue: 0,0:43:31.71,0:43:32.88,Default,,0,0,0,,我没说不信你...\NI'm not saying I don't believe you...
+Dialogue: 0,0:43:33.81,0:43:35.68,Default,,0,0,0,,不过 你跟我说\Nbut you told me yourself
+Dialogue: 0,0:43:35.68,0:43:37.55,Default,,0,0,0,,你周五就开始戒酒了\Nyou haven't had a drink since Friday.
+Dialogue: 0,0:43:37.55,0:43:38.65,Default,,0,0,0,,- 这会不会导致幻.... - 行了\N- Do you think there is a-- - Okay.
+Dialogue: 0,0:43:39.29,0:43:40.95,Default,,0,0,0,,- 克拉克 - 停 停\N- Clark-- - No, no.
+Dialogue: 0,0:43:40.96,0:43:42.25,Default,,0,0,0,,- 如果这是真的... - 行 我懂了 多谢您啊\N- If this is true-- - Yeah, I get it. Thank you.
+Dialogue: 0,0:43:44.46,0:43:47.83,Default,,0,0,0,,我迟早会带着证据回来\NYou know, I'm gonna come back here with proof
+Dialogue: 0,0:43:49.03,0:43:50.93,Default,,0,0,0,,到时候你得给我好好道歉\Nand you're gonna owe me a serious fucking apology.
+Dialogue: 0,0:44:42.58,0:44:43.92,Default,,0,0,0,,小凯\NKat!
+Dialogue: 0,0:44:47.92,0:44:50.52,Default,,0,0,0,,谁呀 来了 来了\NJesus, goddamn, I'm coming! I'm coming!
+Dialogue: 0,0:44:50.53,0:44:52.42,Default,,0,0,0,,- 嘿 - 克船长？\N- Hey. - Cap'n Clark?
+Dialogue: 0,0:44:52.43,0:44:53.76,Default,,0,0,0,,- 额... - 等等 等等 小凯 快来\N- Um... - Wait, wait, wait, wait. Kat?
+Dialogue: 0,0:44:54.53,0:44:55.89,Default,,0,0,0,,- 我来了 - 快点\N- I'm coming. - Kat!
+Dialogue: 0,0:44:55.90,0:44:57.33,Default,,0,0,0,,行了 我来了\NOkay, I'm coming!
+Dialogue: 0,0:44:57.33,0:44:59.00,Default,,0,0,0,,- 是这样的... - 搞什么鬼\N- Look-- -What the fuck?
+Dialogue: 0,0:44:59.00,0:45:00.60,Default,,0,0,0,,抱歉 那个...\NYeah, I'm sorry, uh...
+Dialogue: 0,0:45:00.60,0:45:02.23,Default,,0,0,0,,你们明天有空吗？\NWhat are you guys doing tomorrow?
+Dialogue: 0,0:45:02.24,0:45:04.00,Default,,0,0,0,,你在说什么呢？\NWhat are you talking about?
+Dialogue: 0,0:45:04.00,0:45:05.94,Default,,0,0,0,,我给钱 算加班 顶多两个小时 很快的\NI'll pay you. Two hours. Overtime. Tops.
+Dialogue: 0,0:45:05.94,0:45:07.51,Default,,0,0,0,,行 给钱干什么？\NOkay, pay us for what?
+Dialogue: 0,0:45:08.78,0:45:09.98,Default,,0,0,0,,做调研\NResearch.
+Dialogue: 0,0:45:12.75,0:45:14.08,Default,,0,0,0,,摄像机还在你们那儿吧？\NYou got the camera, right?
+Dialogue: 0,0:45:14.08,0:45:15.35,Default,,0,0,0,,你们能...能再帮我拍点东西吗？\NYou can-you can borrow it again...
+Dialogue: 0,0:45:16.69,0:45:18.22,Default,,0,0,0,,行不行？\NRight?
+Dialogue: 0,0:45:25.96,0:45:27.99,Default,,0,0,0,,好了 开始拍了\NOkay, we are rolling.
+Dialogue: 0,0:45:29.66,0:45:32.73,Default,,0,0,0,,这儿摆了些东西\NWe got, um, some shit over here.
+Dialogue: 0,0:45:31.92,0:45:32.72,Default,,0,0,0,,{\an8}[车停]
+Dialogue: 0,0:45:32.73,0:45:34.60,Default,,0,0,0,,还有停车牌\NWe got some stop signs
+Dialogue: 0,0:45:34.60,0:45:36.03,Default,,0,0,0,,还有 呃 绳子\Nand, uh... a rope.
+Dialogue: 0,0:45:36.04,0:45:37.30,Default,,0,0,0,,拿绳子干嘛？\NWhat's the rope for?
+Dialogue: 0,0:45:37.30,0:45:38.84,Default,,0,0,0,,装备\NSupplies.
+Dialogue: 0,0:45:38.84,0:45:40.31,Default,,0,0,0,,呵呵 看来咱们要被他绑了\NOh, great, he's gonna tie us up.
+Dialogue: 0,0:45:40.98,0:45:43.04,Default,,0,0,0,,不是我绑 是要给自己绑好\NNo, we're gonna tie ourselves up.
+Dialogue: 0,0:45:43.04,0:45:44.44,Default,,0,0,0,,唔 挺重口味的\NHmm. Kinky.
+Dialogue: 0,0:45:44.45,0:45:45.84,Default,,0,0,0,,搞什么鬼\NWhat the fuck?
+Dialogue: 0,0:45:45.85,0:45:47.01,Default,,0,0,0,,呃 你还没说清楚\NUh, you still haven't told us
+Dialogue: 0,0:45:47.01,0:45:48.05,Default,,0,0,0,,我们来这儿干嘛？\Nwhat we're doing here, man.
+Dialogue: 0,0:45:48.05,0:45:50.02,Default,,0,0,0,,我说了 做调研\NI did tell you. Research.
+Dialogue: 0,0:45:51.32,0:45:53.19,Default,,0,0,0,,这些是调研装备\NThese are supplies, and we're using them for research.
+Dialogue: 0,0:45:53.19,0:45:54.62,Default,,0,0,0,,没那么难理解吧\NIt's not that hard to understand.
+Dialogue: 0,0:45:54.62,0:45:56.72,Default,,0,0,0,,行 研究什么？\NOkay, research for what?
+Dialogue: 0,0:45:56.73,0:45:58.39,Default,,0,0,0,,你得具体点 老哥\NY-you gotta be more specific, dude.
+Dialogue: 0,0:46:01.06,0:46:02.39,Default,,0,0,0,,我要进门了\NI'm gonna go through the door.
+Dialogue: 0,0:46:02.40,0:46:03.56,Default,,0,0,0,,什么门？\NWhat door?
+Dialogue: 0,0:46:06.93,0:46:09.10,Default,,0,0,0,,这就是门\NThat's the door.
+Dialogue: 0,0:46:09.10,0:46:10.94,Default,,0,0,0,,我在另一边也贴了框\NI taped an outline on the other side, too,
+Dialogue: 0,0:46:10.94,0:46:12.37,Default,,0,0,0,,以防咱们找不到\Njust to help us find our way back.
+Dialogue: 0,0:46:13.37,0:46:15.74,Default,,0,0,0,,- 阿博？ - 怎么了？\N- Bobby? - What?
+Dialogue: 0,0:46:15.74,0:46:18.41,Default,,0,0,0,,听着 我知道这很离谱 但得听我的\NLook, I know it sounds crazy, but follow my lead.
+Dialogue: 0,0:46:19.05,0:46:20.75,Default,,0,0,0,,懂吗？\NOkay?
+Dialogue: 0,0:46:20.75,0:46:22.68,Default,,0,0,0,,我想在天亮前赶回来\NI want to be back before sunup.
+Dialogue: 0,0:46:22.68,0:46:24.18,Default,,0,0,0,,老哥 现在才晚上九点 你说什么...\NDude, it's like 9 p.m. What the fuck are you talk--
+Dialogue: 0,0:46:26.12,0:46:27.39,Default,,0,0,0,,- 什么情况 克拉克 - 卧槽\N- What the fuck! Clark?! - What the fuck?
+Dialogue: 0,0:46:27.39,0:46:29.15,Default,,0,0,0,,- 怎么做到的？ - 老哥 你...\N- How did you do that? - Dude, did you...
+Dialogue: 0,0:46:29.16,0:46:30.62,Default,,0,0,0,,你也看到了吧？他怎么会...呃...\NDid you fucking see that?! H-how did he, um...
+Dialogue: 0,0:46:30.63,0:46:32.29,Default,,0,0,0,,我就在这儿 快进来看看\NI'm right here. Come see for yourself.
+Dialogue: 0,0:46:32.29,0:46:34.06,Default,,0,0,0,,搞什么鬼 你居然真的...\NWhat the fuck? D-did you just fucking...
+Dialogue: 0,0:46:34.06,0:46:36.13,Default,,0,0,0,,什么？怎么会...\NWhat? How the f...
+Dialogue: 0,0:46:36.13,0:46:37.76,Default,,0,0,0,,你干嘛呢？阿博 快住手\NBobby, stop. What are you doing?
+Dialogue: 0,0:46:37.77,0:46:40.27,Default,,0,0,0,,- 我去 - 克拉克 你在哪儿？\N- What the fuck?! - Clark, where are you?
+Dialogue: 0,0:46:40.27,0:46:43.14,Default,,0,0,0,,哈哈 你...你看到了没？\NHa! Hey, did you... did you see that?
+Dialogue: 0,0:46:43.14,0:46:44.37,Default,,0,0,0,,- 他钻哪去了？ - 看到了 阿博 我看到了\N- Where the fuck did he go? - Yes, Bobby, I saw it!
+Dialogue: 0,0:46:44.37,0:46:46.17,Default,,0,0,0,,我去 搞什...\NOh! Where the f--
+Dialogue: 0,0:46:46.17,0:46:48.14,Default,,0,0,0,,踏进来就行 没事的\NJust step through the door, you'll be fine!
+Dialogue: 0,0:46:48.14,0:46:51.14,Default,,0,0,0,,疯了吧 你得先解释清楚\NWhat?! No! Tell us what is going on!
+Dialogue: 0,0:46:51.15,0:46:52.65,Default,,0,0,0,,管他呢 直接...\NYou know what, just...
+Dialogue: 0,0:46:52.65,0:46:54.35,Default,,0,0,0,,不 阿博 别进去 阿博 快停下 你要干什么？\NNo, Bobby, wait! Bobby! Wait, what are you doing?
+Dialogue: 0,0:46:54.35,0:46:55.05,Default,,0,0,0,,阿博\NBobby!
+Dialogue: 0,0:46:57.08,0:46:58.72,Default,,0,0,0,,我去啊\NWhat the fuck?!
+Dialogue: 0,0:46:59.55,0:47:00.95,Default,,0,0,0,,老哥\NDude!
+Dialogue: 0,0:47:00.95,0:47:02.76,Default,,0,0,0,,老哥 这怎么可能？\NDude, how is this possible?
+Dialogue: 0,0:47:02.76,0:47:05.02,Default,,0,0,0,,- 阿博 克拉克 - 行...\N- Bobby! Clark! - Okay...
+Dialogue: 0,0:47:05.03,0:47:06.63,Default,,0,0,0,,你们在哪？里面到底是什么地方？\NWhere are you? What the fuck is back there?
+Dialogue: 0,0:47:06.63,0:47:07.99,Default,,0,0,0,,没事没事 小凯 没事的\NNo, no, no, Kat, it's good, it's good.
+Dialogue: 0,0:47:08.00,0:47:09.80,Default,,0,0,0,,赶紧进来看看\NJ-just, you gotta come see this.
+Dialogue: 0,0:47:14.23,0:47:16.23,Default,,0,0,0,,我是说...对 你看...\NI mean... Right, you see...
+Dialogue: 0,0:47:16.24,0:47:17.90,Default,,0,0,0,,你看这 呃...\NYou see, it's, um...
+Dialogue: 0,0:47:17.91,0:47:19.17,Default,,0,0,0,,- 没问题 - 克拉克 这是什么地方？\N- It's fine. - Clark, what is this?
+Dialogue: 0,0:47:19.17,0:47:20.97,Default,,0,0,0,,- 我们在哪？ - 哦\N- Where are we? - Oh!
+Dialogue: 0,0:47:20.97,0:47:21.94,Default,,0,0,0,,我也正想弄明白呢\NThat's what I'm trying to figure out.
+Dialogue: 0,0:47:23.08,0:47:25.14,Default,,0,0,0,,这...这是谁的东西？\NWhose, um... Whose shit is this?
+Dialogue: 0,0:47:25.15,0:47:27.01,Default,,0,0,0,,是你...是你店里的吗？\NIs it-is it... is it part of your store?
+Dialogue: 0,0:47:27.01,0:47:28.55,Default,,0,0,0,,如果真有主的话\NIf it belongs to someone,
+Dialogue: 0,0:47:28.55,0:47:30.32,Default,,0,0,0,,- 我还没碰到那个人 - 好吧\N- I haven't met them yet. - Okay...
+Dialogue: 0,0:47:30.32,0:47:32.18,Default,,0,0,0,,自从发现这地方 我每晚都来\NI've been in here every night since I found the place,
+Dialogue: 0,0:47:32.19,0:47:34.09,Default,,0,0,0,,但也就看了个冰山一角\Nand I still barely scratched the surface.
+Dialogue: 0,0:47:34.09,0:47:35.82,Default,,0,0,0,,走 我带你们看看\NCome on. I'll show you.
+Dialogue: 0,0:47:36.46,0:47:38.16,Default,,0,0,0,,越往后越有意思\NIt only gets better.
+Dialogue: 0,0:47:38.16,0:47:40.46,Default,,0,0,0,,- 真扯... - 嘿 嘿\N- What the fuck... - Hey. Hey.
+Dialogue: 0,0:47:40.46,0:47:42.23,Default,,0,0,0,,你不觉得他给我们下药了吧？\NYou don't think he, like, dosed us or something, do you?
+Dialogue: 0,0:47:42.23,0:47:44.13,Default,,0,0,0,,哈？没那回事 咱们没磕药\NWhat? No, no, no. We're not on drugs.
+Dialogue: 0,0:47:45.30,0:47:46.60,Default,,0,0,0,,要是我嗨了 肯定能感觉到\NI think I'd be able to tell if I was high.
+Dialogue: 0,0:47:47.40,0:47:48.64,Default,,0,0,0,,你现在就嗨着呢\NYou are high!
+Dialogue: 0,0:47:49.50,0:47:50.60,Default,,0,0,0,,抽草不算\NPot doesn't count.
+Dialogue: 0,0:47:53.84,0:47:55.87,Default,,0,0,0,,所以...这就像...\NSo, um, it's like...
+Dialogue: 0,0:47:55.88,0:47:57.68,Default,,0,0,0,,像个空办公区？\Nwhat, like an empty office building?
+Dialogue: 0,0:47:57.68,0:48:00.11,Default,,0,0,0,,在这儿？算是吧 但这地方简直像是\NIn here? Sure. But it's like it was made
+Dialogue: 0,0:48:00.11,0:48:02.05,Default,,0,0,0,,一帮嗑嗨了的建筑工盖出来的\Nby a bunch of construction workers on acid.
+Dialogue: 0,0:48:02.05,0:48:03.65,Default,,0,0,0,,居然还搞了个泳池\NThere's even a pool!
+Dialogue: 0,0:48:03.65,0:48:05.12,Default,,0,0,0,,有泳池？\NThere's a pool?
+Dialogue: 0,0:48:05.12,0:48:07.02,Default,,0,0,0,,没错 算是吧\NYeah. I mean, kind of.
+Dialogue: 0,0:48:07.02,0:48:08.52,Default,,0,0,0,,快跟上\NKeep up.
+Dialogue: 0,0:48:09.36,0:48:11.09,Default,,0,0,0,,“车停”什么鬼？\N"Pots." What the fuck?
+Dialogue: 0,0:48:19.53,0:48:21.07,Default,,0,0,0,,不不不 那是我上次走的路\NYeah, no, no, that's the way I went last time.
+Dialogue: 0,0:48:22.47,0:48:24.50,Default,,0,0,0,,当时我想找个楼梯下去什么的\NYeah, when I was looking for a staircase down or something.
+Dialogue: 0,0:48:26.57,0:48:28.44,Default,,0,0,0,,结果只发现了个...\NOnly thing I found so far is basically more of a...
+Dialogue: 0,0:48:28.44,0:48:30.28,Default,,0,0,0,,好的...\NOkay...
+Dialogue: 0,0:48:30.28,0:48:31.68,Default,,0,0,0,,怎么说呢 其实就是个斜坡\NI don't know, it's like a ramp, really.
+Dialogue: 0,0:48:31.68,0:48:33.15,Default,,0,0,0,,就在这儿 呃...前面\NIt's, uh... It's up here.
+Dialogue: 0,0:48:34.92,0:48:36.05,Default,,0,0,0,,马上就到了\NWe'll be at it in a minute.
+Dialogue: 0,0:48:36.05,0:48:38.15,Default,,0,0,0,,好吧\NOkay...
+Dialogue: 0,0:48:40.99,0:48:42.29,Default,,0,0,0,,这下面总共有多少层？\NHow many floors does it go down?
+Dialogue: 0,0:48:42.29,0:48:43.62,Default,,0,0,0,,这不能用楼层来...\NIs this not technically...
+Dialogue: 0,0:48:45.86,0:48:47.59,Default,,0,0,0,,行了 开始拍了吗？\NOkay. All right, you filming?
+Dialogue: 0,0:48:47.60,0:48:49.26,Default,,0,0,0,,- 拍了  - 行\N- Yeah. - All right.
+Dialogue: 0,0:48:49.26,0:48:51.13,Default,,0,0,0,,为什么非得让阿博下去？\NI don't see why Bobby has to be the one to go.
+Dialogue: 0,0:48:51.13,0:48:52.70,Default,,0,0,0,,- 我想去 - 摄像机在他手上\N- I want to. - He's the one with the camera.
+Dialogue: 0,0:48:52.70,0:48:54.07,Default,,0,0,0,,相机又没长在他身上\NWell, it's not like it's attached.
+Dialogue: 0,0:48:54.07,0:48:55.64,Default,,0,0,0,,它挂在我学生证上的\NYeah, well, I mean,
+Dialogue: 0,0:48:55.64,0:48:57.57,Default,,0,0,0,,所以就算长在身上了\Nto my student ID, yeah, it kinda is.
+Dialogue: 0,0:48:57.57,0:48:59.40,Default,,0,0,0,,要是觉得不对劲 就拽一下 我把你拉上来 明白吧？\NAny trouble, just give a tug, and I'll pull you up, okay?
+Dialogue: 0,0:48:59.41,0:49:00.94,Default,,0,0,0,,不对劲？克拉克 下面有什么不对劲？\NTrouble? Clark, what fucking trouble?
+Dialogue: 0,0:49:00.94,0:49:02.21,Default,,0,0,0,,不会有事的\NThere's not going to be any trouble.
+Dialogue: 0,0:49:02.21,0:49:03.54,Default,,0,0,0,,宝贝 宝贝 没事\NBabe, babe, babe, it's good.
+Dialogue: 0,0:49:03.55,0:49:05.01,Default,,0,0,0,,- 别下... - 真的没事 我没问题\N- No, hey-- - It's good. I'm good.
+Dialogue: 0,0:49:05.01,0:49:06.71,Default,,0,0,0,,亲爱的 你不用下去\NBaby, you don't have to do this.
+Dialogue: 0,0:49:06.71,0:49:08.41,Default,,0,0,0,,没事 我就是想看看下面有什么\NNo, it's cool. I-I just want to see what's down there.
+Dialogue: 0,0:49:08.42,0:49:10.72,Default,,0,0,0,,- 你不好奇吗？ - 简直是疯了\N- Are you not curious? - This is stupid!
+Dialogue: 0,0:49:10.72,0:49:12.45,Default,,0,0,0,,- 能走多远就走多远 - 没事 你看 你看\N- Just go as far as you can. - No, look, look, look!
+Dialogue: 0,0:49:12.45,0:49:14.12,Default,,0,0,0,,其实不用绳子也能走下去\NYou can basically walk down without a rope.
+Dialogue: 0,0:49:14.12,0:49:15.35,Default,,0,0,0,,没什么 一点也不陡\NIt's fine, and it's not even steep.
+Dialogue: 0,0:49:15.36,0:49:17.12,Default,,0,0,0,,行吧\NOkay.
+Dialogue: 0,0:49:17.12,0:49:18.83,Default,,0,0,0,,好 但有一件事\NOkay, just don't... just one thing.
+Dialogue: 0,0:49:18.83,0:49:21.03,Default,,0,0,0,,万一我回不来 记得告诉我妈我爱她哦\NIf I don't come back, you'll tell my mom I love her, right?
+Dialogue: 0,0:49:23.13,0:49:24.70,Default,,0,0,0,,- 行 - 那么 走吧\N- Okay. - All right, okay.
+Dialogue: 0,0:49:24.70,0:49:25.80,Default,,0,0,0,,好 慢慢来\NAll right, just take it slow.
+Dialogue: 0,0:49:30.30,0:49:31.97,Default,,0,0,0,,行\NOkay.
+Dialogue: 0,0:49:31.97,0:49:33.67,Default,,0,0,0,,哦 实际上还挺陡的\NOh, it is actually kind of steep.
+Dialogue: 0,0:49:34.37,0:49:36.11,Default,,0,0,0,,- 没事吧？ - 没事\N- You good? - Yeah.
+Dialogue: 0,0:49:36.11,0:49:38.08,Default,,0,0,0,,- 拉紧点 别把我摔了 - 放心\N- Just, uh... try not to drop me. - All right.
+Dialogue: 0,0:49:41.05,0:49:42.11,Default,,0,0,0,,需要放绳子告诉我\NTell me how much you need.
+Dialogue: 0,0:49:47.35,0:49:49.12,Default,,0,0,0,,喔...慢点\NWhoa... Careful!
+Dialogue: 0,0:49:51.29,0:49:53.63,Default,,0,0,0,,搞什么...喔 喔 喔 操 啊\NWhat the... Whoa! Whoa! Whoa! Fuck! Aah...
+Dialogue: 0,0:49:54.66,0:49:56.26,Default,,0,0,0,,你上面怎么拉的绳子？\NWhat the fuck are you guys doing up there?
+Dialogue: 0,0:49:56.26,0:49:58.06,Default,,0,0,0,,对不起 对不起\NSorry, sorry!
+Dialogue: 0,0:49:58.07,0:49:59.67,Default,,0,0,0,,绳子卡在床腿上了\NIt was stuck around the leg of the bed!
+Dialogue: 0,0:49:59.67,0:50:01.97,Default,,0,0,0,,- 你没事吧？ - 行 没事\N- Are you okay? - Yeah. Yeah, I'm fine.
+Dialogue: 0,0:50:01.97,0:50:03.30,Default,,0,0,0,,真是绝了\NJesus fucking Christ...
+Dialogue: 0,0:50:03.30,0:50:05.14,Default,,0,0,0,,继续放绳子\NJust keep letting me down!
+Dialogue: 0,0:50:05.14,0:50:07.07,Default,,0,0,0,,好的 来了\NAll right. Here we go.
+Dialogue: 0,0:50:22.96,0:50:24.76,Default,,0,0,0,,好了 我下来了\NOkay, I'm in.
+Dialogue: 0,0:50:28.80,0:50:29.83,Default,,0,0,0,,看到什么没？\NSee anything?
+Dialogue: 0,0:50:31.13,0:50:32.20,Default,,0,0,0,,呃...\NUgh...
+Dialogue: 0,0:50:32.20,0:50:33.87,Default,,0,0,0,,呃 就是...\NUh, it's just...
+Dialogue: 0,0:50:34.67,0:50:36.10,Default,,0,0,0,,就是一堆脏衣服和垃圾\NIt's a bunch of laundry and shit.
+Dialogue: 0,0:50:37.51,0:50:38.84,Default,,0,0,0,,什么意思？衣服？\NWhat do you mean? Clothes?
+Dialogue: 0,0:50:40.58,0:50:42.18,Default,,0,0,0,,对 这下面真是臭死了\NYeah, it just fucking stinks down here.
+Dialogue: 0,0:50:43.11,0:50:44.25,Default,,0,0,0,,还有什么吗？\NSee anything else?
+Dialogue: 0,0:50:45.48,0:50:46.78,Default,,0,0,0,,有 呃...给我点时间\NYeah, just, uh... Just give me a minute.
+Dialogue: 0,0:50:47.21,0:50:48.62,Default,,0,0,0,,好的\NOkay.
+Dialogue: 0,0:50:56.85,0:50:57.98,Default,,0,0,0,,天呐\NOh, god...
+Dialogue: 0,0:51:00.66,0:51:02.59,Default,,0,0,0,,[结束南非种族隔离]
+Dialogue: 0,0:51:02.60,0:51:03.90,Default,,0,0,0,,搞什么鬼？\NWhat the fuck?
+Dialogue: 0,0:51:03.00,0:51:04.80,Default,,0,0,0,,{\an8}[【结束南非种族隔离：是80年代盛行的现实世界口号】]
+Dialogue: 0,0:51:09.04,0:51:10.10,Default,,0,0,0,,阿博？\NBobby?
+Dialogue: 0,0:51:11.54,0:51:12.64,Default,,0,0,0,,怎么了\NYeah.
+Dialogue: 0,0:51:13.37,0:51:15.18,Default,,0,0,0,,就想确认下你没事\NJust checking that you're okay.
+Dialogue: 0,0:51:16.14,0:51:17.68,Default,,0,0,0,,嗯 我没事 只是 呃...\NYeah, I'm fine. Just, um...
+Dialogue: 0,0:51:18.95,0:51:20.15,Default,,0,0,0,,好吧\NOkay...
+Dialogue: 0,0:51:21.08,0:51:22.22,Default,,0,0,0,,嗯\NYeah.
+Dialogue: 0,0:51:23.02,0:51:24.19,Default,,0,0,0,,没问题\NOkay.
+Dialogue: 0,0:51:32.33,0:51:33.63,Default,,0,0,0,,搞什么鬼？\NWhat the fuck...?
+Dialogue: 0,0:51:41.94,0:51:44.34,Default,,0,0,0,,阿博？快上来\NBobby? Come back up!
+Dialogue: 0,0:51:44.34,0:51:46.20,Default,,0,0,0,,我心里发毛\NI don't like this!
+Dialogue: 0,0:51:46.21,0:51:47.87,Default,,0,0,0,,嘿 呃...再多放点绳子\NHey! Uh... Let some more line out!
+Dialogue: 0,0:51:48.64,0:51:50.68,Default,,0,0,0,,不行 已经到头了\NI can't! It's as far as it goes.
+Dialogue: 0,0:51:50.68,0:51:51.85,Default,,0,0,0,,该死\NFuck...
+Dialogue: 0,0:52:01.02,0:52:03.22,Default,,0,0,0,,我操 快拉我上去\NFuck! Pull me up!
+Dialogue: 0,0:52:03.22,0:52:04.76,Default,,0,0,0,,阿博 怎么了？\NBobby! What is it?
+Dialogue: 0,0:52:04.76,0:52:06.59,Default,,0,0,0,,- 操 - 你看到了什么？\N- Fuck! - What do you see?
+Dialogue: 0,0:52:06.59,0:52:08.93,Default,,0,0,0,,磨蹭什么 快把他拉上来\NWhat the fuck is it? Pull him up!
+Dialogue: 0,0:52:08.93,0:52:10.13,Default,,0,0,0,,- 我在拉啊 我的天 - 操\N- I am! Jesus Christ! -Fuck!
+Dialogue: 0,0:52:10.13,0:52:11.43,Default,,0,0,0,,拉快点\NPull harder!
+Dialogue: 0,0:52:11.43,0:52:12.77,Default,,0,0,0,,快拉 老哥 搞什么鬼\NPull, man! What the fuck!
+Dialogue: 0,0:52:12.77,0:52:14.43,Default,,0,0,0,,绳子绕到我脚上了\NIt's getting caught on my feet!
+Dialogue: 0,0:52:14.43,0:52:16.23,Default,,0,0,0,,- 绳子绕到我脚上了 - 快点使劲拉\N- I can't pull-- - Fucking pull harder!
+Dialogue: 0,0:52:16.24,0:52:18.74,Default,,0,0,0,,克拉克 快点拉\NClark, hurry up!
+Dialogue: 0,0:52:18.74,0:52:20.67,Default,,0,0,0,,快到了 快到了 宝贝 坚持住\NAlmost here! Almost here, babe, just a little more!
+Dialogue: 0,0:52:20.68,0:52:22.84,Default,,0,0,0,,- 快把他拉上来 - 你看到了什么？\N- Pull him up! - What did you see?
+Dialogue: 0,0:52:22.84,0:52:24.74,Default,,0,0,0,,下...下面有人\NThere's, uh, there's someone down there.
+Dialogue: 0,0:52:24.75,0:52:26.28,Default,,0,0,0,,- 你安全了...什么？- 操\N- We've got you. What? - Fuck.
+Dialogue: 0,0:52:26.28,0:52:27.91,Default,,0,0,0,,慢点说 深呼吸 宝贝 没事了\NSlow down, just breathe. Baby, it's okay.
+Dialogue: 0,0:52:27.92,0:52:29.68,Default,,0,0,0,,快把这破玩意儿给我解开 操 真是够了\NJust get this shit off me, man. Fuck. Jesus.
+Dialogue: 0,0:52:29.68,0:52:30.98,Default,,0,0,0,,- 没事了 没事了 - 你看到了什么？\N-I t's okay. It's okay. - What did you see?
+Dialogue: 0,0:52:30.99,0:52:33.15,Default,,0,0,0,,- 来 深呼吸 - 这打的什么破结？\N- Here. Hey, deep breath. - What kind of knot is this?
+Dialogue: 0,0:52:33.15,0:52:34.49,Default,,0,0,0,,深呼吸...\NDeep breath--
+Dialogue: 0,0:52:34.49,0:52:36.02,Default,,0,0,0,,- 卧槽？！ - 哎 哎 哎\N- What the fuck?! - Whoa, whoa, whoa!
+Dialogue: 0,0:52:36.02,0:52:37.89,Default,,0,0,0,,- 快救命 克拉克 - 抓紧我\N- Help us! Clark! - Hold on!
+Dialogue: 0,0:52:37.89,0:52:39.56,Default,,0,0,0,,- 来了 来了 来了 - 救人啊 你个混蛋\N- Okay, okay, okay! - Help, you fucking asshole!
+Dialogue: 0,0:52:39.56,0:52:41.63,Default,,0,0,0,,- 让我解 - 快给我解开 老哥\N- Let me get it! - Untie me, man!
+Dialogue: 0,0:52:41.63,0:52:43.13,Default,,0,0,0,,克拉克 你特么在磨蹭什么？\NWhat the hell are you doing, Clark?
+Dialogue: 0,0:52:43.13,0:52:44.33,Default,,0,0,0,,- 我解不开 - 快点 克拉克\N- I can't! - Hurry, Clark!
+Dialogue: 0,0:52:44.33,0:52:45.67,Default,,0,0,0,,- 我在弄了 我在弄了 - 操！\N- I'm trying, I'm trying! - FUCK!
+Dialogue: 0,0:52:45.67,0:52:47.60,Default,,0,0,0,,别松手 别松手\NDon't let go! Don't let go!
+Dialogue: 0,0:52:47.60,0:52:49.50,Default,,0,0,0,,- 坚持住 - 操 千万别放手\N- Hold on! - Fuck! Don't let me go!
+Dialogue: 0,0:52:49.50,0:52:50.57,Default,,0,0,0,,- 千万别放手 - 我去拿...\N- Don't let me go! - Let me get at--
+Dialogue: 0,0:52:50.57,0:52:52.14,Default,,0,0,0,,阿博！\NBOBBY!
+Dialogue: 0,0:52:52.14,0:52:53.14,Default,,0,0,0,,不 小凯 不\NNO! KAT, NO!
+Dialogue: 0,0:52:54.54,0:52:55.64,Default,,0,0,0,,阿博\NBobby!
+Dialogue: 0,0:52:55.64,0:52:57.31,Default,,0,0,0,,阿博！\NBOBBY!
+Dialogue: 0,0:52:57.31,0:52:59.48,Default,,0,0,0,,阿博\NBobby!
+Dialogue: 0,0:52:59.48,0:53:00.68,Default,,0,0,0,,怎么回事 我们得...克拉克\NWhat are we doing? We need to... Clark!
+Dialogue: 0,0:53:08.42,0:53:11.26,Default,,0,0,0,,阿博 别 别 别\NBobby! No! No! No!
+Dialogue: 0,0:53:11.26,0:53:13.26,Default,,0,0,0,,别 小凯 小凯\NOw... KAT! Kat...
+Dialogue: 0,0:53:13.26,0:53:15.09,Default,,0,0,0,,阿博\NBobby!
+Dialogue: 0,0:53:15.10,0:53:16.53,Default,,0,0,0,,阿博 不\NBobby! No!
+Dialogue: 0,0:53:16.53,0:53:19.20,Default,,0,0,0,,阿博 不\NBobby! No!
+Dialogue: 0,0:53:19.20,0:53:20.53,Default,,0,0,0,,小凯\NKat!
+Dialogue: 0,0:53:20.54,0:53:22.37,Default,,0,0,0,,哦 该死\NOh, fuck...
+Dialogue: 0,0:53:24.04,0:53:26.84,Default,,0,0,0,,哦 不 不 不 不 不 不\NOh, no, no, no, no, no! No!
+Dialogue: 0,0:54:10.69,0:54:11.99,Default,,0,0,0,,小凯？\NKat?!
+Dialogue: 0,0:54:17.76,0:54:19.19,Default,,0,0,0,,小凯？\NKat?
+Dialogue: 0,0:55:47.45,0:55:48.95,Default,,0,0,0,,有人吗？\NHello?
+Dialogue: 0,0:55:55.62,0:55:57.02,Default,,0,0,0,,别过来 滚开\NStay back! Get away from me!
+Dialogue: 0,0:56:57.55,0:56:59.52,Default,,0,0,0,,克拉克 克拉克 我在在这...\NClark? CLARK! I'm here...
+Dialogue: 0,0:57:01.06,0:57:02.72,Default,,0,0,0,,就在这 那东西要回来了\NI'm here! It's gonna come back.
+Dialogue: 0,0:57:02.72,0:57:04.52,Default,,0,0,0,,快让我进去 克拉克 求你让我进去\NPlease, Clark, please let me in!
+Dialogue: 0,0:57:04.53,0:57:05.93,Default,,0,0,0,,- 小凯？ - 让我进去\N- Kat? - Let me in!
+Dialogue: 0,0:57:07.40,0:57:10.13,Default,,0,0,0,,你...你在在哪？\NWh-wh-where are you?
+Dialogue: 0,0:57:10.13,0:57:12.00,Default,,0,0,0,,我们得赶紧走 克拉克 没时间了\NWe have to go now, Clark! We have to go.
+Dialogue: 0,0:57:12.00,0:57:14.03,Default,,0,0,0,,那东西要回来了 它会找到我的\NIt's gonna come back, it's gonna find me!
+Dialogue: 0,0:57:14.04,0:57:17.17,Default,,0,0,0,,小凯 小凯？额...等等 我没搞明白 你到底在哪？\NKat! Kat? Uh... Wait, I don't understand. Wh-where are you?
+Dialogue: 0,0:57:17.17,0:57:19.10,Default,,0,0,0,,妈的 快让我进去\NPlease, let me the fuck in!
+Dialogue: 0,0:57:20.98,0:57:22.34,Default,,0,0,0,,但这...这是堵墙啊\NBut it's a... it's-it's a wall!
+Dialogue: 0,0:57:22.34,0:57:23.68,Default,,0,0,0,,你怎么能看到我？\NHow can-how can you see me?
+Dialogue: 0,0:57:25.55,0:57:27.21,Default,,0,0,0,,我在玻璃的另一边\NI'm on the other side of the glass.
+Dialogue: 0,0:57:27.21,0:57:29.28,Default,,0,0,0,,- 你怎么看得见...？ - 你怎么看不见我？\N- How can you see...? - How can you not see me?
+Dialogue: 0,0:57:29.28,0:57:31.12,Default,,0,0,0,,什么玻璃？你在说什么鬼话？\NWhat glass?! What the fuck are you talking about?
+Dialogue: 0,0:57:32.89,0:57:35.02,Default,,0,0,0,,你在...在说什...？\NWh-what are you talk--
+Dialogue: 0,0:57:35.02,0:57:37.39,Default,,0,0,0,,好吧 你那边能看到什么吗？\NOkay, can you see anything on your side?
+Dialogue: 0,0:57:37.39,0:57:40.13,Default,,0,0,0,,有门把手吗 还是有门？有没有入口之类的东西？\NCan you see a handle, a door? Is there a hatch, anything?
+Dialogue: 0,0:57:40.13,0:57:43.00,Default,,0,0,0,,没有 没有 没有...\NNo, no, no, no...
+Dialogue: 0,0:57:43.00,0:57:46.30,Default,,0,0,0,,呃...好吧 让我想想办法 好吗？等一下\NUh... Okay. Let me figure this out, okay? Just hold on.
+Dialogue: 0,0:57:47.00,0:57:49.13,Default,,0,0,0,,坚持住 行吗？只是...\NHold on, okay? It's just...
+Dialogue: 0,0:57:51.07,0:57:53.01,Default,,0,0,0,,- 克拉克？ - 别急 别急 让我试...\N- Clark? - No, no, just let me...
+Dialogue: 0,0:57:53.01,0:57:54.64,Default,,0,0,0,,- 克拉克 - 别急\N- Clark! - Just hold on!
+Dialogue: 0,0:57:54.64,0:57:56.11,Default,,0,0,0,,- 我找找看 - 克拉克\N- Let me figure this out! - CLARK!
+Dialogue: 0,0:57:56.11,0:57:57.21,Default,,0,0,0,,- 别催我 我在想办法 - 克拉克 快跑\N- Let me figure this out... - Clark! Clark!
+Dialogue: 0,0:57:57.21,0:57:58.24,Default,,0,0,0,,克拉克 它就在你身后\NClark, behind you!
+Dialogue: 0,0:58:12.59,0:58:14.25,Default,,0,0,0,,[诺拉·克莱...\N氯丙...]
+Dialogue: 0,0:58:14.27,0:58:15.95,Default,,0,0,0,,[【氯丙嗪：抗精神病药物】]
+Dialogue: 0,0:59:15.69,0:59:16.82,Default,,0,0,0,,玛丽 住手\NMary!
+Dialogue: 0,0:59:28.14,0:59:29.34,Default,,0,0,0,,玛丽\NMary...
+Dialogue: 0,0:59:30.40,0:59:31.64,Default,,0,0,0,,你疯了吗？\Nwhat were you thinking?
+Dialogue: 0,0:59:33.17,0:59:35.11,Default,,0,0,0,,我说过绝对 绝对\NI never, ever,
+Dialogue: 0,0:59:35.11,0:59:36.81,Default,,0,0,0,,绝对不能出门\Never said you could go outside.
+Dialogue: 0,0:59:39.08,0:59:40.11,Default,,0,0,0,,绝对不行\NIt's no good.
+Dialogue: 0,0:59:41.72,0:59:43.42,Default,,0,0,0,,外面到处都是\NThey're all over the place.
+Dialogue: 0,1:01:00.86,1:01:02.96,Default,,0,0,0,,您拨打的是玛丽·克莱因医生的电话\NHi, you've reached Dr. Mary Klein.
+Dialogue: 0,1:01:02.96,1:01:04.06,Default,,0,0,0,,我目前不便接听\NI'm not able to answer the call,
+Dialogue: 0,1:01:04.06,1:01:06.00,Default,,0,0,0,,请留言\Nso please leave a message,
+Dialogue: 0,1:01:06.00,1:01:07.40,Default,,0,0,0,,我会尽快给您回电\Nand I'll get back to you as soon as I can.
+Dialogue: 0,1:01:10.44,1:01:11.44,Default,,0,0,0,,玛丽...\NMary...
+Dialogue: 0,1:01:14.58,1:01:15.78,Default,,0,0,0,,我打开那扇窗了\NI opened the window.
+Dialogue: 0,1:01:19.85,1:01:21.82,Default,,0,0,0,,我不会再回来了\NI won't be coming back.
+Dialogue: 0,1:01:58.84,1:02:04.40,Default,,0,0,0,,[克船长的家具百宝库]
+Dialogue: 0,1:02:07.09,1:02:07.89,Default,,0,0,0,,“...求你了”\N"...Please!"
+Dialogue: 0,1:02:09.53,1:02:11.36,Default,,0,0,0,,“救救我们”\N"Save us!"
+Dialogue: 0,1:02:08.70,1:02:12.15,Default,,0,0,0,,{\an8}[（1983年 异相研究所获得120万美元联邦资助开发下一代核磁共振设备）]
+Dialogue: 0,1:02:11.37,1:02:13.60,Default,,0,0,0,,“好 我照作”\N"All right! I'll do it!
+Dialogue: 0,1:02:13.60,1:02:15.90,Default,,0,0,0,,“我会救你们 我会照作”\NI'll save you! I will do it!"
+Dialogue: 0,1:02:27.28,1:02:29.11,Default,,0,0,0,,“梦翠儿！”\N"Moon Child!"
+Dialogue: 0,1:02:29.13,1:02:31.33,Default,,0,0,0,,{\an8}[电影《大魔域》1984：讲述一个男孩通过想象力重建世界的奇幻故事]
+Dialogue: 0,1:02:31.42,1:02:32.62,Default,,0,0,0,,谁知道你手之前碰过什么\NI don't know where that hand's been.
+Dialogue: 0,1:02:32.67,1:02:35.01,Default,,0,0,0,,{\an8}[【《大魔域》英文片名：直译为“永不结束的故事”】]
+Dialogue: 0,1:02:38.06,1:02:40.03,Default,,0,0,0,,“哟 伙计们 瞧瞧这儿啊！”\N"Well, ahoy there, mateys!"
+Dialogue: 0,1:02:40.03,1:02:42.46,Default,,0,0,0,,“按照这藏宝图”\N"Now, according to me map,
+Dialogue: 0,1:02:42.46,1:02:46.10,Default,,0,0,0,,“咱们现在已经登上了这片宝地”\N"we've landed on the crystal shores of a bountiful land,
+Dialogue: 0,1:02:46.10,1:02:49.00,Default,,0,0,0,,“这里的折扣简直是在倒贴啊！”\N"a land filled with great deals."
+Dialogue: 0,1:02:47.63,1:02:53.61,Default,,0,0,0,,{\an8}[（全市最低价）]
+Dialogue: 0,1:02:49.00,1:02:51.24,Default,,0,0,0,,“你也赶紧赶紧抛锚靠岸！”\N"So drop your anchors and come on down
+Dialogue: 0,1:02:51.24,1:02:54.04,Default,,0,0,0,,“快来克船长的家具百宝库！”\N"to Cap'n Clark's Ottoman Empire."
+Dialogue: 0,1:02:54.04,1:02:56.68,Default,,0,0,0,,“潜入这场顶级家具海洋吧”\N"Get lost in an endless sea
+Dialogue: 0,1:02:56.68,1:03:00.35,Default,,0,0,0,,“桌椅沙发 卧室全套 样样齐全！”\N"of quality tables, chairs, couches, and bedroom sets."
+Dialogue: 0,1:03:00.35,1:03:02.95,Default,,0,0,0,,“想给小海盗配上下铺？”\N"Need bed bunks for the scallywagses quarters?
+Dialogue: 0,1:03:02.95,1:03:04.12,Default,,0,0,0,,“来这儿就对了！”\N"W've got it all!"
+Dialogue: 0,1:03:04.12,1:03:06.29,Default,,0,0,0,,“价格低到...”\N"And at prices so low
+Dialogue: 0,1:03:06.29,1:03:07.95,Default,,0,0,0,,“你都觉得在抢钱啊！”\N"you'll think that yo're robbing me!"
+Dialogue: 0,1:03:37.55,1:03:38.69,Default,,0,0,0,,有人吗？\NHello?
+Dialogue: 0,1:03:38.80,1:03:41.55,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,1:03:50.40,1:03:51.57,Default,,0,0,0,,有人吗？\NHello?
+Dialogue: 0,1:03:54.27,1:04:05.92,Default,,0,0,0,,[大促销 大降价]
+Dialogue: 0,1:03:59.37,1:04:00.51,Default,,0,0,0,,克拉克？\NClark?
+Dialogue: 0,1:04:06.06,1:04:25.40,Default,,0,0,0,,[无需信用卡]
+Dialogue: 0,1:04:13.89,1:04:15.46,Default,,0,0,0,,克拉克 你在哪儿？\NClark, can you hear me?
+Dialogue: 0,1:04:25.64,1:04:29.21,Default,,0,0,0,,[楼下更精彩]
+Dialogue: 0,1:04:53.93,1:04:55.56,Default,,0,0,0,,克拉克？\NClark?
+Dialogue: 0,1:05:14.94,1:05:15.94,Default,,0,0,0,,[车停]
+Dialogue: 0,1:05:28.19,1:05:30.17,Default,,0,0,0,,[家具店 和 入口]
+Dialogue: 0,1:07:50.04,1:07:51.21,Default,,0,0,0,,克拉克？\NClark?
+Dialogue: 0,1:09:42.29,1:09:48.22,Default,,0,0,0,,{\an8}[（平面图又变了 屋顶不对 屋顶绝对不对 这图纸是谁签的名？但这笔迹 像我的）]
+Dialogue: 0,1:09:52.77,1:09:55.79,Default,,0,0,0,,[（管他的什么超自然 理智点吧）]
+Dialogue: 0,1:09:55.80,1:09:59.04,Default,,0,0,0,,[（此刻和此地是相通的）]
+Dialogue: 0,1:10:34.07,1:10:35.24,Default,,0,0,0,,克拉克？\NClark?
+Dialogue: 0,1:10:38.67,1:10:39.51,Default,,0,0,0,,你总算发现了\NYou found it.
+Dialogue: 0,1:10:48.55,1:10:50.05,Default,,0,0,0,,你为什么躲起来？\NWhy are you hiding?
+Dialogue: 0,1:10:52.52,1:10:54.09,Default,,0,0,0,,你太吵了\NYou were being too loud.
+Dialogue: 0,1:11:06.07,1:11:07.40,Default,,0,0,0,,我们在哪？\NWhere are we?
+Dialogue: 0,1:11:10.74,1:11:12.34,Default,,0,0,0,,这里...\NIt's...
+Dialogue: 0,1:11:14.51,1:11:16.48,Default,,0,0,0,,是所有存在过的地方\N...every place that ever was.
+Dialogue: 0,1:11:24.45,1:11:26.12,Default,,0,0,0,,你在这儿多久了？\NHow long have you been here?
+Dialogue: 0,1:11:32.49,1:11:34.03,Default,,0,0,0,,那是什么声音？\NWhat was that?
+Dialogue: 0,1:11:39.67,1:11:41.04,Default,,0,0,0,,别紧张\NStay calm.
+Dialogue: 0,1:11:45.81,1:11:47.07,Default,,0,0,0,,这里没别人\NIt's only me.
+Dialogue: 0,1:11:49.78,1:11:51.21,Default,,0,0,0,,你是了解我的\NYou know me.
+Dialogue: 0,1:12:21.71,1:12:23.14,Default,,0,0,0,,抱歉了\NI'm sorry.
+Dialogue: 0,1:12:24.51,1:12:26.51,Default,,0,0,0,,都是为了你好\NThis is for your own good.
+Dialogue: 0,1:14:30.84,1:14:32.34,Default,,0,0,0,,在现实生活中\NAs you walk through life,
+Dialogue: 0,1:14:33.37,1:14:38.55,Default,,0,0,0,,缺乏引导的心灵 总会走入死循环 养成固有的习惯\Nthe untrained mind accumulates loops, habits...
+Dialogue: 0,1:14:41.08,1:14:44.55,Default,,0,0,0,,总是重蹈覆辙\N...behaviors that keep you drifting in circles,
+Dialogue: 0,1:14:45.69,1:14:47.69,Default,,0,0,0,,陷入相同的问题\Ncreating the same problems,
+Dialogue: 0,1:14:49.06,1:14:51.16,Default,,0,0,0,,总是用同样的办法\Nreaching for the same solutions
+Dialogue: 0,1:14:52.69,1:14:54.76,Default,,0,0,0,,一遍又一遍\Nover and over again.
+Dialogue: 0,1:14:57.40,1:15:01.50,Default,,0,0,0,,毕竟神经通路就爱走阻力最小的路径\NStill, it's the neural pathway of least resistance.
+Dialogue: 0,1:15:05.91,1:15:07.21,Default,,0,0,0,,这条路径是我自己铺的\NThe one I made.
+Dialogue: 0,1:15:07.74,1:15:09.18,Default,,0,0,0,,小时候\NThe one that kept me safe...
+Dialogue: 0,1:15:09.71,1:15:11.14,Default,,0,0,0,,这套防线保护了我\Nwhen I was a child.
+Dialogue: 0,1:15:13.05,1:15:14.65,Default,,0,0,0,,你看...\NYou know...
+Dialogue: 0,1:15:16.92,1:15:18.65,Default,,0,0,0,,我学会了抢在被伤害之前 把别人推开\NI learned to push people away before they could hurt me.
+Dialogue: 0,1:15:20.25,1:15:23.19,Default,,0,0,0,,而现在 我都成年了\NAnd, now, as an adult,
+Dialogue: 0,1:15:24.09,1:15:27.76,Default,,0,0,0,,还是留在原地\NI'm still stuck right where I started.
+Dialogue: 0,1:15:30.93,1:15:32.43,Default,,0,0,0,,只有一个人\NAlone.
