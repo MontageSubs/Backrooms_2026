@@ -17,7 +17,7 @@ Style: Credit,Microsoft YaHei,60,&H00E7E7E8,&HF0000000,&H00000000,&H32000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.42,0:00:07.86,Credit,,0,0,0,,
+Dialogue: 0,0:00:04.42,0:00:07.86,Credit,,0,0,0,,{\an2}（A24影业）
 Dialogue: 0,0:00:10.68,0:00:15.91,Credit,,0,0,0,,{\an2}（切宁娱乐）
 Dialogue: 0,0:00:20.94,0:00:23.93,Credit,,0,0,0,,{\an2}（21 Laps娱乐公司）
 Dialogue: 0,0:00:26.75,0:00:32.01,Credit,,0,0,0,,{\an2}（原子怪兽影业）
@@ -1006,7 +1006,7 @@ Dialogue: 0,1:19:58.62,1:20:00.42,Default,,0,0,0,,那天 嗯...很晚了\N{\rEng
 Dialogue: 0,1:20:01.84,1:20:03.41,Default,,0,0,0,,屋里很暗\N{\rEng}A lot darker.
 Dialogue: 0,1:20:04.24,1:20:05.05,Default,,0,0,0,,呃...\N{\rEng}Uh...
 Dialogue: 0,1:20:07.72,1:20:08.81,Default,,0,0,0,,关下灯\N{\rEng}Lights, please.
-Dialogue: 0,1:20:19.33,1:20:20.55,Default,,0,0,0,,之前跟她试过 =\N{\rEng}I tried this exercise with her before.
+Dialogue: 0,1:20:19.33,1:20:20.55,Default,,0,0,0,,之前跟她试过\N{\rEng}I tried this exercise with her before.
 Dialogue: 0,1:20:20.56,1:20:22.78,Default,,0,0,0,,她根不会动 结果都一样\N{\rEng}It doesn't go anywhere.
 Dialogue: 0,1:20:24.21,1:20:25.26,Default,,0,0,0,,行\N{\rEng}Fine!
 Dialogue: 0,1:20:25.74,1:20:27.26,Default,,0,0,0,,我自己来\N{\rEng}I'll do it myself.
