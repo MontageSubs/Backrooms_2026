@@ -8,15 +8,6 @@ ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: E:/BD-Raw/后室/Backrooms.2026.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BYNDR.mkv
-Video File: E:/BD-Raw/后室/Backrooms.2026.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BYNDR.mkv
-Video AR Mode: 4
-Video AR Value: 1.781481
-Video Zoom Percent: 1.125000
-Active Line: 4448
-Video Position: 158864
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
