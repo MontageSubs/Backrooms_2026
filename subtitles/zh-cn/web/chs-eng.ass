@@ -506,8 +506,8 @@ Dialogue: 0,0:40:58.43,0:41:00.50,Default,,0,0,0,,或者无法自理\N{\rEng}or 
 Dialogue: 0,0:41:01.72,0:41:02.73,Default,,0,0,0,,行\N{\rEng}Okay.
 Dialogue: 0,0:41:03.60,0:41:04.60,Default,,0,0,0,,行\N{\rEng}Okay.
 Dialogue: 0,0:41:07.81,0:41:08.84,Default,,0,0,0,,那个...\N{\rEng}Um...
-Dialogue: 0,0:41:08.86,0:41:10.26,Default,,0,0,0,,我在店里发现了点情况\N{\rEng}I found something in the store.
-Dialogue: 0,0:41:12.67,0:41:15.21,Default,,0,0,0,,好 什么情况\N{\rEng}Okay. What did you find?
+Dialogue: 0,0:41:08.86,0:41:10.26,Default,,0,0,0,,我在店里有了点发现\N{\rEng}I found something in the store.
+Dialogue: 0,0:41:12.67,0:41:15.21,Default,,0,0,0,,好 发现了什么？\N{\rEng}Okay. What did you find?
 Dialogue: 0,0:41:16.31,0:41:17.61,Default,,0,0,0,,呃...\N{\rEng}Uh...
 Dialogue: 0,0:41:17.96,0:41:19.89,Default,,0,0,0,,是个地方 我...\N{\rEng}A place. I f...
 Dialogue: 0,0:41:20.81,0:41:22.44,Default,,0,0,0,,我发现了个地方\N{\rEng}I found a place.
@@ -556,7 +556,7 @@ Dialogue: 0,0:42:53.43,0:42:55.06,Default,,0,0,0,,我只是没看到\N{\rEng}I j
 Dialogue: 0,0:43:00.15,0:43:01.48,Default,,0,0,0,,看\N{\rEng}Look.
 Dialogue: 0,0:43:01.49,0:43:02.99,Default,,0,0,0,,你看 这就像个...\N{\rEng}You see? It's like a...
 Dialogue: 0,0:43:03.01,0:43:04.78,Default,,0,0,0,,就像个迷宫\N{\rEng}It's like a maze.
-Dialogue: 0,0:43:04.79,0:43:07.25,Default,,0,0,0,,根本没尽头\N{\rEng}It just goes on and on and on.
+Dialogue: 0,0:43:04.79,0:43:07.25,Default,,0,0,0,,根本没完没了 看不到尽头\N{\rEng}It just goes on and on and on.
 Dialogue: 0,0:43:07.27,0:43:08.93,Default,,0,0,0,,我有时候真怕自己会迷路\N{\rEng}Sometimes I'm scared I'll get lost.
 Dialogue: 0,0:43:13.14,0:43:15.42,Default,,0,0,0,,那为什么除了你 没人发现这地方？\N{\rEng}Why do you think no one else has found this place?
 Dialogue: 0,0:43:16.31,0:43:17.65,Default,,0,0,0,,我哪知道\N{\rEng}I don't know.
