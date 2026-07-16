@@ -229,17 +229,17 @@ Fuck, fuck, fuck! Fuck!
 
 48
 00:07:49,210 --> 00:07:53,110
-谁都有自己的死循环 固有的习惯...
+谁都有自己的死循环 甩不掉的习惯...
 We all have our loops, our habits...
 
 49
 00:07:55,530 --> 00:07:58,190
-总是重蹈覆辙...
+我们总是重蹈覆辙...
 ...behaviors that keep us walking in circles...
 
 50
 00:08:00,160 --> 00:08:03,200
-总是用同样的办法 一遍又一遍
+一遍遍地尝试老路
 ...reaching for the same solutions over and over again,
 
 51
@@ -248,7 +248,7 @@ We all have our loops, our habits...
 
 52
 00:08:06,260 --> 00:08:09,320
-却指望能走出新路
+却指望能走出一条新路
 thinking each time they'll take you somewhere new.
 
 53
@@ -263,7 +263,7 @@ And still,
 
 55
 00:08:20,030 --> 00:08:23,290
-神经通路就爱走阻力最小的路径
+神经回路总是走阻力最小的路
 it's the neural pathway of least resistance.
 
 56
@@ -272,7 +272,7 @@ it's the neural pathway of least resistance.
 
 57
 00:08:25,760 --> 00:08:28,150
-你建立了心理防线
+你给自己铺了一条心理防线
 A path you made.
 
 58
@@ -286,22 +286,22 @@ It's the one that kept you safe when you were a child.
 
 60
 00:08:36,670 --> 00:08:39,020
-你学会了抢在被伤害之前
+你学会了在被伤害之前
 You learned to push people away
 
 61
 00:08:39,210 --> 00:08:41,140
-把别人推开
+抢先一步把别人推开
 before they could hurt you.
 
 62
 00:08:42,910 --> 00:08:44,100
-现在
+但现在
 And now,
 
 63
 00:08:44,110 --> 00:08:45,380
-你都成年了
+你成年了
 as an adult,
 
 64
@@ -310,12 +310,12 @@ as an adult,
 
 65
 00:08:45,390 --> 00:08:47,560
-还是留在原地
+你依然留在原地
 you're still stuck right where you started.
 
 66
 00:08:53,290 --> 00:08:54,460
-只有一个人
+就你一个人
 Alone.
 
 67
@@ -330,7 +330,7 @@ I have employees and... customers.
 
 69
 00:09:07,460 --> 00:09:10,220
-我没说有人陪 我说的是只有一个人
+我没说有人陪 我说的是就你一个人
 I didn't say lonely. I said alone.
 
 70
@@ -1533,12 +1533,12 @@ Piece of shit.
 
 312
 00:21:15,550 --> 00:21:17,160
-“在现实生活中”
+“在普通人的生活中”
 "But as you walk through life,
 
 313
 00:21:17,930 --> 00:21:20,720
-“缺乏引导的心灵会开始筑墙”
+“不自知的人会开始筑墙”
 "the untrained mind can start to build walls,
 
 314
@@ -4299,7 +4299,7 @@ It's only me.
 
 898
 01:11:45,220 --> 01:11:46,740
-你认得我
+你了解我
 You know me.
 
 899
@@ -4314,42 +4314,42 @@ This is for your own good.
 
 901
 01:14:25,830 --> 01:14:27,640
-在现实生活中
+你说过 在普通人的生活中
 As you walk through life,
 
 902
 01:14:28,130 --> 01:14:33,960
-缺乏引导的心灵 总会走入死循环 养成固有的习惯
+不自知的人总会走入死循环 养成甩不掉的习惯
 the untrained mind accumulates loops, habits...
 
 903
 01:14:35,500 --> 01:14:40,110
-总是重蹈覆辙
+重蹈覆辙
 ...behaviors that keep you drifting in circles,
 
 904
 01:14:41,040 --> 01:14:43,510
-陷入相同的问题
+面对相同的问题
 creating the same problems,
 
 905
 01:14:44,160 --> 01:14:46,830
-总是用同样的办法
+却还是一遍遍地
 reaching for the same solutions
 
 906
 01:14:47,830 --> 01:14:50,250
-一遍又一遍
+尝试老路
 over and over again.
 
 907
 01:14:52,030 --> 01:14:56,760
-毕竟神经通路就爱走阻力最小的路径
+毕竟 神经回路总是走阻力最小的路
 Still, it's the neural pathway of least resistance.
 
 908
 01:15:01,000 --> 01:15:02,650
-这条路径是我自己铺的
+可我的路 是我亲手铺的
 The one I made.
 
 909
@@ -4364,27 +4364,27 @@ when I was a child.
 
 911
 01:15:08,900 --> 01:15:10,500
-你看...
+你知道...
 You know...
 
 912
 01:15:11,120 --> 01:15:13,890
-我学会了抢在被伤害之前 把别人推开
+我学会了在被伤害之前 抢先一步把别人推开
 I learned to push people away before they could hurt me.
 
 913
 01:15:15,240 --> 01:15:18,270
-而现在 我都成年了
+而现在 我成年了
 And, now, as an adult,
 
 914
 01:15:18,950 --> 01:15:23,100
-还是留在原地
+我依然留在原地
 I'm still stuck right where I started.
 
 915
 01:15:26,050 --> 01:15:27,550
-只有一个人
+就我一个人
 Alone.
 
 916
@@ -5029,7 +5029,7 @@ You attack me and tie me up?
 
 1044
 01:24:02,060 --> 01:24:03,280
-就去赖你的脑子！
+居然还敢赖在脑子上
 Blame your brain!
 
 1045
@@ -5669,7 +5669,7 @@ and-and-and get on the same page.
 
 1179
 01:42:00,150 --> 01:42:04,520
-现在到处都有门在打开
+现在 到处都在出现开启的门
 There are doors opening everywhere.
 
 1180
