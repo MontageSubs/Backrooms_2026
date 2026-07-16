@@ -1,4228 +1,5846 @@
-﻿1
-00:01:23,083 --> 00:01:24,984
-Okay, okay, okay, okay...
+1
+00:00:04,420 --> 00:00:07,860
+{\an2}（A24影业）
 
 2
-00:01:27,087 --> 00:01:28,755
-Okay...
+00:00:10,680 --> 00:00:15,910
+{\an2}（切宁娱乐）
 
 3
-00:02:05,793 --> 00:02:07,893
-Yes... Yes...
+00:00:20,940 --> 00:00:23,930
+{\an2}（21 Laps娱乐公司）
 
 4
-00:02:07,895 --> 00:02:11,731
-Yes, yes, come on... Come on, yes! Yes, yes!
+00:00:26,750 --> 00:00:32,010
+{\an2}（原子怪兽影业）
 
 5
-00:02:11,733 --> 00:02:13,566
-Okay. Okay. Okay.
+00:00:36,830 --> 00:00:39,750
+{\an8}出品公司
+北路影业
+A24影业
 
 6
-00:02:52,807 --> 00:02:54,441
-Here we go, here we go.
+00:00:40,740 --> 00:00:43,670
+{\an8}制作公司
+21 Laps娱乐公司
 
 7
-00:02:55,275 --> 00:02:57,810
-Okay. Okay. Fuck.
+00:00:44,700 --> 00:00:47,580
+{\an8}制作公司
+原子怪兽影业
 
 8
-00:02:58,278 --> 00:03:00,746
-Work. Work. Work.
+00:00:48,660 --> 00:00:51,530
+{\an8}制作公司
+福波斯
 
 9
-00:03:01,916 --> 00:03:04,482
-Standard... Okay...
+00:00:52,610 --> 00:00:55,710
+{\an8}原创译制
+蒙太奇字幕组
 
 10
-00:03:04,484 --> 00:03:06,053
-Standard, can you- can you hear me?
+00:00:59,900 --> 00:01:04,260
+{\an8}（异步研究所）
 
 11
-00:03:06,988 --> 00:03:08,654
-This is Naren.
+00:01:06,950 --> 00:01:10,450
+{\an8}（基洛纳区调查：档案446 — 纳伦·沃恩
+1990年6月19日
+美国能源部）
 
 12
-00:03:08,656 --> 00:03:10,455
-And I've, um...
+00:01:22,380 --> 00:01:24,280
+好 好 好
+Okay, okay, okay, okay...
 
 13
-00:03:10,457 --> 00:03:11,857
-I've been separated, uh, from the others.
+00:01:26,730 --> 00:01:28,400
+没事的
+Okay...
 
 14
-00:03:11,859 --> 00:03:13,191
-And I think I'm okay,
+00:02:04,770 --> 00:02:06,820
+对 对
+Yes... Yes...
 
 15
-00:03:13,193 --> 00:03:14,395
-but I'm not sure where I, uh...
+00:02:06,840 --> 00:02:11,050
+对 对 快点 快点 没错 没错
+Yes, yes, come on... Come on, yes! Yes, yes!
 
 16
-00:03:15,697 --> 00:03:17,163
-I've never been out this far before, so I don't...
+00:02:11,060 --> 00:02:12,900
+到了 到了 到了
+Okay. Okay. Okay.
 
 17
-00:03:17,165 --> 00:03:19,264
-Um...
+00:02:52,490 --> 00:02:54,470
+找到了 找到了
+Here we go, here we go.
 
 18
-00:03:19,266 --> 00:03:21,399
-There was this, uh...
+00:02:54,610 --> 00:02:57,240
+好 好 该死
+Okay. Okay. Fuck.
 
 19
-00:03:21,401 --> 00:03:23,037
-I didn't get a good look at it, but there was, um...
+00:02:57,350 --> 00:03:00,160
+能用 能用 一定得能用
+Work. Work. Work.
 
 20
-00:03:24,038 --> 00:03:25,206
-there's something else in here.
+00:03:01,340 --> 00:03:03,720
+基准组... 好...
+Standard... Okay...
 
 21
-00:03:27,407 --> 00:03:28,841
-I need you guys.
+00:03:03,740 --> 00:03:05,940
+基准组 你们...你们能收到吗？
+Standard, can you- can you hear me?
 
 22
-00:03:29,744 --> 00:03:31,312
-Okay? I need you guys to get me, please.
+00:03:06,330 --> 00:03:08,030
+我是纳伦
+This is Naren.
 
 23
-00:03:32,980 --> 00:03:35,881
-Fuck, I need you guys to come out and get me.
+00:03:08,050 --> 00:03:09,360
+我 呃...
+And I've, um...
 
 24
-00:03:35,883 --> 00:03:37,951
-Can you... can you come, please, standard?
+00:03:09,380 --> 00:03:11,490
+我跟其他人走散了
+I've been separated, uh, from the others.
 
 25
-00:03:38,720 --> 00:03:40,452
-Standard?
+00:03:11,510 --> 00:03:12,610
+我应该没事
+And I think I'm okay,
 
 26
-00:03:41,321 --> 00:03:42,755
-Oh, fuck!
+00:03:12,630 --> 00:03:13,840
+我不知道我现在到底在哪儿
+but I'm not sure where I, uh...
 
 27
-00:03:46,728 --> 00:03:48,062
-Fuck...
+00:03:14,680 --> 00:03:17,210
+我从来没走到过这么深 所以我也...
+I've never been out this far before, so I don't...
 
 28
-00:03:55,603 --> 00:03:57,171
-Fuck! Fuck...
+00:03:18,950 --> 00:03:20,280
+刚才有个...
+There was this, uh...
 
 29
-00:04:09,349 --> 00:04:10,950
-Oh, shit... What the fuck?
+00:03:20,290 --> 00:03:22,940
+我没看清 可是 呃...
+I didn't get a good look at it, but there was, um...
 
 30
-00:05:43,177 --> 00:05:44,411
-What the fuck?
+00:03:23,130 --> 00:03:25,010
+这里还有别的东西
+there's something else in here.
 
 31
-00:06:08,669 --> 00:06:10,437
-Fuck! Fuck! Fuck!
+00:03:26,810 --> 00:03:28,240
+你们快来
+I need you guys.
 
 32
-00:06:16,376 --> 00:06:17,509
-Fuck!
+00:03:28,700 --> 00:03:31,190
+明白吗？快来接我 求你们了
+Okay? I need you guys to get me, please.
 
 33
-00:06:22,016 --> 00:06:23,249
-Fuck, fuck, fuck! Fuck!
+00:03:32,200 --> 00:03:35,030
+该死 快来把我弄出去
+Fuck, I need you guys to come out and get me.
 
 34
-00:07:50,438 --> 00:07:53,739
-<i>We all have our loops, our habits...</i>
+00:03:35,040 --> 00:03:37,250
+麻烦来接我 求你们了 基准组
+Can you... can you come, please, standard?
 
 35
-00:07:57,078 --> 00:07:58,877
-<i>...behaviors that keep us walking in circles...</i>
+00:03:38,050 --> 00:03:39,780
+收到了吗？
+Standard?
 
 36
-00:08:01,382 --> 00:08:02,648
-<i>...reaching for the same solutions</i>
+00:03:40,600 --> 00:03:42,040
+完了
+Oh, fuck!
 
 37
-00:08:02,650 --> 00:08:04,117
-<i>over and over again,</i>
-
-38
-00:08:07,621 --> 00:08:09,623
-<i>thinking each time they'll take you somewhere new.</i>
-
-39
-00:08:10,825 --> 00:08:11,991
-<i>But they don't.</i>
-
-40
-00:08:19,499 --> 00:08:21,433
-<i>And still,</i>
-
-41
-00:08:21,435 --> 00:08:23,136
-<i>it's the neural pathway of least resistance.</i>
-
-42
-00:08:26,440 --> 00:08:28,342
-<i>A path you made.</i>
-
-43
-00:08:29,343 --> 00:08:30,776
-<i>It's the one that kept you safe</i>
-
-44
-00:08:30,778 --> 00:08:32,079
-<i>when you were a child.</i>
-
-45
-00:08:38,185 --> 00:08:39,419
-<i>You learned to push people away</i>
-
-46
-00:08:40,087 --> 00:08:41,353
-<i>before they could hurt you.</i>
-
-47
-00:08:43,958 --> 00:08:45,257
-<i>And now,</i>
-
-48
-00:08:45,259 --> 00:08:46,925
-<i>as an adult,</i>
-
-49
-00:08:46,927 --> 00:08:48,562
-<i>you're still stuck right where you started.</i>
-
-50
-00:08:54,068 --> 00:08:55,235
-Alone.
-
-51
-00:09:01,575 --> 00:09:03,076
-I mean, I'm not lonely.
-
-52
-00:09:04,145 --> 00:09:08,814
-I have employees and... customers.
-
-53
-00:09:08,816 --> 00:09:10,817
-I didn't say lonely. I said alone.
-
-54
-00:09:11,685 --> 00:09:13,152
-Yeah, well, I mean...
-
-55
-00:09:15,289 --> 00:09:17,322
-I hurt people.
-
-56
-00:09:17,324 --> 00:09:19,124
-I don't want to. It's just the way I'm wired.
-
-57
-00:09:19,126 --> 00:09:21,094
-So maybe I deserve to be alone.
-
-58
-00:09:22,229 --> 00:09:23,797
-Do you think anyone deserves to be alone?
-
-59
-00:09:24,999 --> 00:09:27,099
-I don't know, but, you know,
-
-60
-00:09:27,101 --> 00:09:28,535
-maybe it's not such a bad thing.
-
-61
-00:09:29,737 --> 00:09:31,336
-Being alone feels...
-
-62
-00:09:31,338 --> 00:09:32,573
-deeply ingrained.
-
-63
-00:09:33,174 --> 00:09:34,308
-I understand.
-
-64
-00:09:35,376 --> 00:09:38,777
-You've had dreams and a lot of resistance,
-
-65
-00:09:38,779 --> 00:09:41,914
-not a lot of support in realizing those dreams.
-
-66
-00:09:41,916 --> 00:09:44,585
-And when we've experienced...
-
-67
-00:09:45,486 --> 00:09:48,255
-hurt again and again,
-
-68
-00:09:48,689 --> 00:09:50,255
-we start to expect it.
-
-69
-00:09:50,257 --> 00:09:51,623
-It's like, "Oh, I know this path.
-
-70
-00:09:51,625 --> 00:09:52,793
-I know where it goes."
-
-71
-00:09:54,261 --> 00:09:55,529
-So...
-
-72
-00:09:56,831 --> 00:09:59,031
-are you interested in forging a new path
-
-73
-00:09:59,033 --> 00:10:00,367
-and see where that leads?
-
-74
-00:10:01,202 --> 00:10:03,870
-Sure. Why not? You know, I'm here.
-
-75
-00:10:05,005 --> 00:10:06,206
-Great.
-
-76
-00:10:06,607 --> 00:10:08,107
-So I want to revisit
-
-77
-00:10:08,109 --> 00:10:10,310
-an exercise we've done before.
-
-78
-00:10:11,612 --> 00:10:13,011
-The role play.
-
-79
-00:10:13,013 --> 00:10:14,847
--Oh, the acting thing? -Yeah.
-
-80
-00:10:14,849 --> 00:10:16,815
--I feel stupid doing that. -I know.
-
-81
-00:10:16,817 --> 00:10:18,785
-But we have a few minutes. Let's, um...
-
-82
-00:10:19,920 --> 00:10:21,555
-Yeah, let's try. A little bit.
-
-83
-00:10:22,089 --> 00:10:23,523
-All right.
-
-84
-00:10:24,191 --> 00:10:25,525
-Let's set the scene.
-
-85
-00:10:26,827 --> 00:10:30,631
-Let's go back to the night that Barbara left you.
-
-86
-00:10:32,032 --> 00:10:33,165
-You mean the night she kicked me out
-
-87
-00:10:33,167 --> 00:10:34,267
-of my own house?
-
-88
-00:10:34,503 --> 00:10:36,203
-Yeah.
-
-89
-00:10:36,670 --> 00:10:37,771
-I'm playing myself.
-
-90
-00:10:39,006 --> 00:10:40,907
--And I'll be Barbara. -It is my house, by the way.
-
-91
-00:10:41,842 --> 00:10:43,377
-I'm the one paying for it.
-
-92
-00:10:44,011 --> 00:10:46,246
--I know. -All right.
-
-93
-00:10:48,617 --> 00:10:50,382
-Okay, so, um...
-
-94
-00:10:52,253 --> 00:10:54,753
-I got home late. I don't know how late.
-
-95
-00:10:54,755 --> 00:10:56,657
-Uh... She was already asleep. Maybe midnight.
-
-96
-00:10:58,259 --> 00:11:00,159
-She usually goes to bed before... It doesn't matter.
-
-97
-00:11:00,161 --> 00:11:02,794
-The point is, I was in the kitchen, and, um...
-
-98
-00:11:02,796 --> 00:11:05,297
-the glass, I broke the glass,
-
-99
-00:11:05,299 --> 00:11:08,769
-and she comes running down to see what happened, and...
-
-100
-00:11:09,504 --> 00:11:10,802
-things escalated.
-
-101
-00:11:10,804 --> 00:11:12,239
-And how do you feel?
-
-102
-00:11:12,806 --> 00:11:14,840
-Well, I was...
-
-103
-00:11:14,842 --> 00:11:17,843
-I was drunk, and, um...
-
-104
-00:11:17,845 --> 00:11:20,179
-I-I felt stupid, you know.
-
-105
-00:11:20,181 --> 00:11:22,848
-I was angry, because... because I broke the glass.
-
-106
-00:11:22,850 --> 00:11:24,617
-Can you say that to me?
-
-107
-00:11:24,619 --> 00:11:26,486
--Uh, what, to-to Barbara? -Yeah.
-
-108
-00:11:29,624 --> 00:11:32,893
-Um... I'm sorry that I woke you.
-
-109
-00:11:36,197 --> 00:11:38,997
-Maybe if you'd come home earlier,
-
-110
-00:11:38,999 --> 00:11:40,400
-we could have spent the evening together.
-
-111
-00:11:41,835 --> 00:11:43,702
-No, I was... I was working, you know?
-
-112
-00:11:43,704 --> 00:11:45,370
-I came straight home after work.
-
-113
-00:11:45,372 --> 00:11:46,840
-Be honest with me, please.
-
-114
-00:11:47,875 --> 00:11:49,376
-I can smell it on your breath.
-
-115
-00:11:51,879 --> 00:11:53,313
-I had a few beers.
-
-116
-00:11:53,548 --> 00:11:55,180
-Define a few.
-
-117
-00:11:55,182 --> 00:11:56,349
-Well, it was a hard day.
-
-118
-00:11:57,619 --> 00:11:59,051
-I needed to wind down.
-
-119
-00:11:59,053 --> 00:12:00,387
-All you ever do is wind down.
-
-120
-00:12:01,523 --> 00:12:02,522
-You're always at the store.
-
-121
-00:12:07,061 --> 00:12:08,428
-You want kids, right?
-
-122
-00:12:10,264 --> 00:12:11,964
--We both do. -Well, you know...
-
-123
-00:12:11,966 --> 00:12:13,398
-having a family takes money,
-
-124
-00:12:13,400 --> 00:12:14,701
-which means someone has to work.
-
-125
-00:12:15,769 --> 00:12:17,402
-Unless being a professional student
-
-126
-00:12:17,404 --> 00:12:19,338
-is considered a job these days.
-
-127
-00:12:19,340 --> 00:12:21,740
-That's not fair. You know I had to take time off.
-
-128
-00:12:21,742 --> 00:12:23,208
-Well, it's not my fault if you can't keep up.
-
-129
-00:12:23,210 --> 00:12:24,409
-How are you going to be a lawyer
-
-130
-00:12:24,411 --> 00:12:25,612
-if you can't even handle law school?
-
-131
-00:12:27,781 --> 00:12:29,348
-Who do you think pays for everything
-
-132
-00:12:29,350 --> 00:12:30,617
-while you're gallivanting around campus
-
-133
-00:12:30,619 --> 00:12:31,852
-like a 30-year-old freshman?
-
-134
-00:12:32,654 --> 00:12:34,321
-I'll give you a hint: it's me.
-
-135
-00:12:35,590 --> 00:12:37,724
-I pay for your school, I pay for your time off school,
-
-136
-00:12:37,726 --> 00:12:38,857
-I pay for the roof over your head.
-
-137
-00:12:38,859 --> 00:12:40,792
--Can I talk now? -No! No.
-
-138
-00:12:40,794 --> 00:12:42,194
-Because I'd like to know, what do you think happens
-
-139
-00:12:42,196 --> 00:12:44,296
-if you do manage to graduate?
-
-140
-00:12:44,298 --> 00:12:46,465
-You know, you pop out a kid, then leave me with the bill.
-
-141
-00:12:46,467 --> 00:12:49,535
-Or am I stuck at home changing diapers because
-
-142
-00:12:49,537 --> 00:12:51,403
-you're too busy working for the first time in your life?
-
-143
-00:12:51,405 --> 00:12:53,406
--Now you're being cruel. -I'm being honest.
-
-144
-00:12:54,375 --> 00:12:55,842
-I thought that's what you always wanted.
-
-145
-00:12:57,612 --> 00:12:59,244
-Just because you didn't get to be an architect doesn't mean--
-
-146
-00:12:59,246 --> 00:13:00,881
-I am a fucking architect!
-
-147
-00:13:02,684 --> 00:13:05,551
-God damn it, I'm just stuck selling shit furniture because
-
-148
-00:13:05,553 --> 00:13:07,721
-someone won't get off their fat fucking ass and help me!
-
-149
-00:13:16,096 --> 00:13:17,531
-How do you feel, Clark?
-
-150
-00:13:23,070 --> 00:13:24,970
-Who am I talking to?
-
-151
-00:13:24,972 --> 00:13:26,373
--Me, here, now. -You? Okay.
-
-152
-00:13:27,676 --> 00:13:28,975
-Um...
-
-153
-00:13:30,444 --> 00:13:32,578
-I'm sorry, I didn't mean to, uh...
-
-154
-00:13:32,580 --> 00:13:34,946
-...you know, get angry
-
-155
-00:13:34,948 --> 00:13:36,815
-or lose my temper or whatever.
-
-156
-00:13:36,817 --> 00:13:37,884
-I know.
-
-157
-00:13:39,053 --> 00:13:40,919
-That's the purpose of the whole exercise.
-
-158
-00:13:42,122 --> 00:13:43,490
-This is a good start.
-
-159
-00:13:44,024 --> 00:13:46,024
-To feel what you feel,
-
-160
-00:13:46,026 --> 00:13:48,029
-and then learn to identify a new path.
-
-161
-00:13:49,597 --> 00:13:52,399
-Your reaction was actually quite normal.
-
-162
-00:13:54,868 --> 00:13:56,068
-Well, that's me!
-
-163
-00:13:58,439 --> 00:14:00,939
-<i>Well, ahoy there, mateys!</i>
-
-164
-00:14:00,941 --> 00:14:02,642
-<i>Tired of spending your hard-earned doubloons</i>
-
-165
-00:14:02,644 --> 00:14:04,976
-<i>on overpriced furniture?</i>
-
-166
-00:14:04,978 --> 00:14:07,145
-<i>Looking for deals that'll shiver your timbers?</i>
-
-167
-00:14:07,147 --> 00:14:09,047
-<i>Then come on down</i>
-
-168
-00:14:09,049 --> 00:14:11,049
-<i>to Cap'n Clark's Ottoman Empire,</i>
-
-169
-00:14:11,051 --> 00:14:13,018
-<i>the Santa Clara Valley's</i>
-
-170
-00:14:13,020 --> 00:14:15,287
-<i>favorite warehouse and showrooms.</i>
-
-171
-00:14:15,289 --> 00:14:17,356
-<i>You'll find bedrooms, living rooms,</i>
-
-172
-00:14:17,358 --> 00:14:20,359
-<i>dinettes, dens and bathrooms aplenty.</i>
-
-173
-00:14:20,361 --> 00:14:23,128
-<i>First-time homeowners? We've got ya.</i>
-
-174
-00:14:23,130 --> 00:14:24,863
-<i>New parents looking for Billy's first crib?</i>
-
-175
-00:14:24,865 --> 00:14:26,431
-<i>We've got ya!</i>
-
-176
-00:14:26,433 --> 00:14:28,367
-<i>From the latest in modern design</i>
-
-177
-00:14:28,369 --> 00:14:30,703
-<i>to the classic styles of yesteryear,</i>
-
-178
-00:14:30,705 --> 00:14:32,739
-<i>it's all here and it's all a steal.</i>
-
-179
-00:14:33,273 --> 00:14:34,807
-<i>What's that, Polly?</i>
-
-180
-00:14:34,809 --> 00:14:36,609
-<i>You're worried about credit?</i>
-
-181
-00:14:36,611 --> 00:14:40,613
-<i>Ha! Cap'n Clark says no credit, no problem!</i>
-
-182
-00:14:40,615 --> 00:14:42,948
-<i>Sail the high seas of high quality,</i>
-
-183
-00:14:42,950 --> 00:14:44,883
-<i>and leave your money problems at the door.</i>
-
-184
-00:14:44,885 --> 00:14:46,519
-<i>Walk in today</i>
-
-185
-00:14:46,521 --> 00:14:48,554
-<i>and get your dream sectional lounger,</i>
-
-186
-00:14:48,556 --> 00:14:51,557
-<i>kitchen table, floor lamp, and bed frame here</i>
-
-187
-00:14:51,559 --> 00:14:54,560
-<i>at Cap'n Clark's Ottoman Empire,</i>
-
-188
-00:14:54,562 --> 00:14:57,362
-<i>located at Capitol and McKee, just off the 680.</i>
-
-189
-00:14:57,364 --> 00:14:58,997
-<i>Arr! Walk in today...</i>
-
-190
-00:15:00,334 --> 00:15:02,134
-<i>...kick your feet back,</i>
-
-191
-00:15:02,136 --> 00:15:04,369
-<i>and enjoy an empire of your own!</i>
-
-192
-00:15:04,371 --> 00:15:07,205
-<i>For every sultan deserves a throne,</i>
-
-193
-00:15:07,207 --> 00:15:08,641
-<i>and we've got one with your name on it,</i>
-
-194
-00:15:08,643 --> 00:15:10,008
-<i>here at Cap'n Clark's--</i>
-
-195
-00:15:11,211 --> 00:15:12,113
-<i>No way!</i>
-
-196
-00:15:13,380 --> 00:15:15,013
-<i>-Clark, you good? -Turn the camera off.</i>
-
-197
-00:15:15,015 --> 00:15:16,883
-<i>No, no, it's good. It's outtake stuff, dude.</i>
-
-198
-00:15:16,885 --> 00:15:18,851
-<i>-Turn the fucking camera off. -Okay... Jesus...</i>
-
-199
-00:15:20,755 --> 00:15:22,254
-You, uh, you need help?
-
-200
-00:15:22,256 --> 00:15:23,990
-No, I got it, I got it.
-
-201
-00:15:24,893 --> 00:15:26,559
-Um...
-
-202
-00:15:26,561 --> 00:15:28,561
--Are we going again, or...? -No.
-
-203
-00:15:28,563 --> 00:15:30,429
-Kat, you can open the store now.
-
-204
-00:15:30,431 --> 00:15:32,166
-We've been open.
-
-205
-00:15:35,002 --> 00:15:37,235
-You know, dude, I still don't get it.
-
-206
-00:15:37,237 --> 00:15:40,372
-Are you, like, a pirate or a sultan?
-
-207
-00:15:40,374 --> 00:15:42,708
--Just be good to establish it. -I'm a... Shut up.
-
-208
-00:15:42,710 --> 00:15:45,679
-Piece of cheap particleboard bullshit.
-
-209
-00:15:46,380 --> 00:15:47,914
-Clear this stuff up, will you?
-
-210
-00:15:48,750 --> 00:15:49,916
-Here.
-
-211
-00:16:08,068 --> 00:16:09,003
-Sorry about that.
-
-212
-00:16:10,003 --> 00:16:11,403
-How's it looking?
-
-213
-00:16:11,405 --> 00:16:13,271
-Meter reads fine.
-
-214
-00:16:13,273 --> 00:16:15,109
-If your bill's coming in high, that's on you.
-
-215
-00:16:16,611 --> 00:16:18,212
-What about the outages? That happens after hours.
-
-216
-00:16:19,581 --> 00:16:22,013
-Don't know. Fluorescents must be tripping a breaker.
-
-217
-00:16:24,184 --> 00:16:26,953
-I turn the overheads off when the store closes,
-
-218
-00:16:26,955 --> 00:16:28,255
-before the power gets weird.
-
-219
-00:16:29,591 --> 00:16:30,924
-Anyway, wouldn't that just make the bills go down?
-
-220
-00:16:34,361 --> 00:16:35,628
-Where's your breaker box?
-
-221
-00:16:37,231 --> 00:16:38,798
-I'm no expert,
-
-222
-00:16:38,800 --> 00:16:41,901
-but I checked earlier, and everything looks okay.
-
-223
-00:16:41,903 --> 00:16:44,035
--You said the lights flicker. -Yeah, the whole store does.
-
-224
-00:16:44,037 --> 00:16:45,738
--Huh. -Just not at the same time.
-
-225
-00:16:45,740 --> 00:16:47,439
-One night, I lose the power upstairs.
-
-226
-00:16:47,441 --> 00:16:49,776
-Next night, it's down here. There's no rhyme or...
-
-227
-00:16:57,217 --> 00:16:58,651
-Who the hell installed this thing?
-
-228
-00:16:59,521 --> 00:17:01,453
-Well, the building came wired.
-
-229
-00:17:01,455 --> 00:17:02,922
-I mean, it's dated, but it's not that old.
-
-230
-00:17:10,097 --> 00:17:10,964
-Take a look at this.
-
-231
-00:17:15,737 --> 00:17:16,836
-That wasn't there before.
-
-232
-00:17:17,939 --> 00:17:22,340
-Or... maybe I didn't notice. Like I say, I'm no expert.
-
-233
-00:17:22,342 --> 00:17:24,342
-Why-why is it... why is it going that way?
-
-234
-00:17:24,344 --> 00:17:26,047
-Better question:
-
-235
-00:17:27,180 --> 00:17:28,882
-what is it even connected to?
-
-236
-00:17:29,918 --> 00:17:31,118
-Huh?
-
-237
-00:17:39,159 --> 00:17:40,927
-Kat! How's the power?
-
-238
-00:17:41,863 --> 00:17:43,061
-What?
-
-239
-00:17:43,063 --> 00:17:44,898
-Anything happen up there?
-
-240
-00:17:45,332 --> 00:17:46,532
-Damn...
-
-241
-00:17:46,534 --> 00:17:47,867
-The rat's back.
-
-242
-00:17:48,536 --> 00:17:50,068
--But the power's on. -Yeah.
-
-243
-00:17:50,070 --> 00:17:51,737
-I thought we killed the rat.
-
-244
-00:17:51,739 --> 00:17:52,839
-We killed  <i>a </i> rat.
-
-245
-00:17:54,776 --> 00:17:57,643
--So is this the problem? -Don't see how.
-
-246
-00:17:57,645 --> 00:17:59,146
-Power can't even go through this part of the circuit.
-
-247
-00:17:59,581 --> 00:18:00,780
-It's just...
-
-248
-00:18:00,782 --> 00:18:02,049
-there.
-
-249
-00:18:03,051 --> 00:18:05,383
-Like some schmo just stuck it in there.
-
-250
-00:18:05,385 --> 00:18:07,553
-Yeah.
-
-251
-00:18:16,263 --> 00:18:17,697
-<i>Do you ever feel</i>
-
-252
-00:18:17,699 --> 00:18:19,397
-<i>like you're living behind glass?</i>
-
-253
-00:18:19,399 --> 00:18:20,667
-<i>Watching life happen,</i>
-
-254
-00:18:21,636 --> 00:18:23,670
-<i>but never really stepping into it?</i>
-
-255
-00:18:24,839 --> 00:18:27,874
-<i>Maybe it's time to open the window within.</i>
-
-256
-00:18:29,343 --> 00:18:31,644
-<i>You can be the author of your own design</i>
-
-257
-00:18:31,646 --> 00:18:33,178
-<i>because we all deserve another chance</i>
-
-258
-00:18:33,180 --> 00:18:34,647
-<i>to fulfill our dreams.</i>
-
-259
-00:18:35,883 --> 00:18:37,516
-<i>The moment you believe change is possible,</i>
-
-260
-00:18:37,518 --> 00:18:38,751
-<i>you've already begun.</i>
-
-261
-00:18:39,754 --> 00:18:41,821
-<i>Order </i> The Window Within
-
-262
-00:18:41,823 --> 00:18:43,689
-<i>and the companion three-part audio program,</i>
-
-263
-00:18:43,691 --> 00:18:47,492
-Guided Openings, <i>by Dr. Mary Klein.</i>
-
-264
-00:18:47,494 --> 00:18:49,330
-<i>Available now for $24.95 plus shipping.</i>
-
-265
-00:18:50,531 --> 00:18:54,901
-<i>Call 1-800-555-0199.</i>
-
-266
-00:18:56,738 --> 00:18:58,838
-<i>It's never too late to forge a new path.</i>
-
-267
-00:19:01,709 --> 00:19:03,776
-<i>So, you're still trusting paper folders,</i>
-
-268
-00:19:03,778 --> 00:19:06,012
-<i>mislabeled tapes, and a locked filing cabinet</i>
-
-269
-00:19:06,014 --> 00:19:07,613
-<i>that anyone with a spare key can open?</i>
-
-270
-00:19:07,615 --> 00:19:09,949
-<i>Your business runs on information,</i>
-
-271
-00:19:09,951 --> 00:19:12,551
-<i>yet most companies treat their data like clutter...</i>
-
-272
-00:19:16,724 --> 00:19:18,858
-<i>That small blip is not an asteroid.</i>
-
-273
-00:19:18,860 --> 00:19:21,027
-<i>It's a spaceship, and it's on our tail.</i>
-
-274
-00:19:21,029 --> 00:19:23,461
-<i>-It's getting closer. -Impossible, Rigna.</i>
-
-275
-00:19:23,463 --> 00:19:26,231
-<i>They couldn't have spotted us. We have our radar shield on.</i>
-
-276
-00:19:26,233 --> 00:19:28,768
-<i>I know that, sir, but they are gaining on us.</i>
-
-277
-00:19:28,770 --> 00:19:30,703
-<i>Is it possible Earth has a secret device</i>
-
-278
-00:19:30,705 --> 00:19:32,538
-<i>that can penetrate our radar shield?</i>
-
-279
-00:20:08,042 --> 00:20:09,476
-Piece of shit.
-
-280
-00:20:57,225 --> 00:21:00,027
-<i>Why did you do this to yourself?</i>
-
-281
-00:21:03,765 --> 00:21:05,132
-<i>How did you get here?</i>
-
-282
-00:21:09,137 --> 00:21:12,638
-<i>Your consciousness is a room full of memories</i>
-
-283
-00:21:12,640 --> 00:21:15,109
-<i>that is constantly evolving.</i>
-
-284
-00:21:17,377 --> 00:21:18,845
-<i>But as you walk through life,</i>
-
-285
-00:21:20,114 --> 00:21:22,449
-<i>the untrained mind can start to build walls,</i>
-
-286
-00:21:23,951 --> 00:21:25,185
-<i>put up barriers</i>
-
-287
-00:21:26,988 --> 00:21:28,486
-<i>to protect itself from the outside world.</i>
-
-288
-00:21:30,357 --> 00:21:32,092
-<i>It's a natural response.</i>
-
-289
-00:21:33,661 --> 00:21:35,194
-<i>Something we are often unaware of.</i>
-
-290
-00:21:36,496 --> 00:21:38,631
-<i>But if gone unchecked,</i>
-
-291
-00:21:38,633 --> 00:21:40,134
-<i>it can leave you feeling trapped.</i>
-
-292
-00:21:42,369 --> 00:21:44,435
-<i>You can become convinced that the world outside</i>
-
-293
-00:21:44,437 --> 00:21:46,073
-<i>is better off without you.</i>
-
-294
-00:21:47,542 --> 00:21:49,175
-<i>That you never deserve the relationships you've had.</i>
-
-295
-00:21:50,812 --> 00:21:53,212
-<i>Resigned to watch your life unfold</i>
-
-296
-00:21:53,214 --> 00:21:54,980
-<i>from behind a lone window.</i>
-
-297
-00:21:57,384 --> 00:21:59,086
-<i>I can help you open it now</i>
-
-298
-00:22:00,988 --> 00:22:02,389
-<i>because the window isn't locked.</i>
-
-299
-00:22:04,659 --> 00:22:06,527
-<i>The latch was never broken.</i>
-
-300
-00:22:10,231 --> 00:22:11,864
-<i>Are you ready to step through?</i>
-
-301
-00:22:15,169 --> 00:22:17,504
-<i>So that you can reclaim that which was once yours...</i>
-
-302
-00:22:19,774 --> 00:22:22,209
-<i>and take back control of your life.</i>
-
-303
-00:22:24,212 --> 00:22:25,711
-<i>The life you want to be living.</i>
-
-304
-00:22:28,082 --> 00:22:30,351
-<i>Unburdened by the traumas of the past.</i>
-
-305
-00:22:31,752 --> 00:22:34,119
-<i>Free of the confines you had built.</i>
-
-306
-00:22:34,121 --> 00:22:36,188
-...to leave, and so I decided...
-
-307
-00:22:36,190 --> 00:22:39,259
-<i>And free to choose a path of your own design.</i>
-
-308
-00:23:16,130 --> 00:23:18,697
-<i>Well, hey there, cowboys and cowgirls!</i>
-
-309
-00:23:18,699 --> 00:23:19,932
-<i>Are you looking to rustle up the best deals</i>
-
-310
-00:23:19,934 --> 00:23:21,267
-<i>this side of the Rio Grande?</i>
-
-311
-00:23:21,269 --> 00:23:22,433
-Prick.
-
-312
-00:23:22,435 --> 00:23:25,436
-<i>Well, yeehaw, I say yeehaw!</i>
-
-313
-00:23:25,438 --> 00:23:27,806
-<i>Here at Big Wayne's, our dining room sets</i>
-
-314
-00:23:27,808 --> 00:23:30,309
-<i>are gonna make you feel like you just struck gold.</i>
-
-315
-00:23:30,311 --> 00:23:32,678
-<i>So don't even think about going anyplace else.</i>
-
-316
-00:23:32,680 --> 00:23:34,613
-<i>Big Wayne's, just look for the golden--</i>
-
-317
-00:23:50,097 --> 00:23:51,365
-What the...
-
-318
-00:24:08,516 --> 00:24:11,618
-Stupid... Fuck! Piece of shit!
-
-319
-00:29:52,059 --> 00:29:53,726
-<i>Gok wai hou maa?</i>
-
-320
-00:29:53,728 --> 00:29:54,826
-<i>Zuk gok wai ping on gin hong faai lok.</i>
-
-321
-00:29:59,099 --> 00:30:01,734
-<i>Zdrávstvuyte! Privétstvuyu Vas!</i>
-
-322
-00:30:18,753 --> 00:30:20,587
-<i>Bonjour tout le monde.</i>
-
-323
-00:30:22,022 --> 00:30:23,356
-<i>Naykaungg parsalarr?</i>
-
-324
-00:30:25,259 --> 00:30:26,093
-<i>Shalom.</i>
-
-325
-00:30:27,328 --> 00:30:29,096
-<i>Hola y saludos a todos.</i>
-
-326
-00:30:30,831 --> 00:30:32,197
-<i>Selamat malam hadirin sekalian,</i>
-
-327
-00:30:32,199 --> 00:30:33,498
-<i>selamat berpisah...</i>
-
-328
-00:30:33,500 --> 00:30:34,734
-Hello?
-
-329
-00:30:34,736 --> 00:30:36,636
-<i>...dilain waktu.</i>
-
-330
-00:30:36,638 --> 00:30:38,638
-<i>Kay pachamamta niytapas maytapas</i>
-
-331
-00:30:38,640 --> 00:30:41,406
-<i>rimapallasta runasimipi.</i>
-
-332
-00:30:41,408 --> 00:30:42,642
-<i>Aao ji, jee aya nu.</i>
-
-333
-00:30:48,148 --> 00:30:50,550
-<i>Salvete quicumque estis;</i>
-
-334
-00:30:50,552 --> 00:30:53,352
-<i>bonam erga vos voluntatem habemus,</i>
-
-335
-00:30:53,354 --> 00:30:56,388
-<i>et pacem per astra ferimus.</i>
-
-336
-00:30:58,793 --> 00:31:01,293
-<i>Hartelijke groeten aan iedereen.</i>
-
-337
-00:31:01,295 --> 00:31:02,863
-<i>Herzliche Gü e an alle.</i>
-
-338
-00:31:04,298 --> 00:31:06,298
-<i>Assalamu alaikum.</i>
-
-339
-00:31:06,300 --> 00:31:10,235
-<i>Hum zameen ke rehne waalon ki taraf se</i>
-
-340
-00:31:10,237 --> 00:31:12,638
-<i>aap ko khush aamdeed kehte hain.</i>
-
-341
-00:31:12,640 --> 00:31:14,906
-What the fuck?
-
-342
-00:31:22,416 --> 00:31:23,783
-<i>Konnichiwa. O genki desu ka?</i>
-
-343
-00:31:25,152 --> 00:31:26,118
-<i>Dharati ke waasiyon ki</i>
-
-344
-00:31:26,120 --> 00:31:28,353
-<i>or se namaskar.</i>
-
-345
-00:31:28,355 --> 00:31:29,555
-<i>Lechyd da i chi yn awr,</i>
-
-346
-00:31:29,557 --> 00:31:31,490
-<i>ac yn oesoedd.</i>
-
-347
-00:31:31,492 --> 00:31:32,959
-<i>Tanti auguri e saluti.</i>
-
-348
-00:31:37,097 --> 00:31:39,030
-<i>Siya nibingelela maqhawe</i>
-
-349
-00:31:39,032 --> 00:31:42,200
-<i>sinifisela inkonzo ende.</i>
-
-350
-00:31:42,202 --> 00:31:44,071
-<i>Reani lumelisa marela.</i>
-
-351
-00:31:45,372 --> 00:31:46,740
-<i>Tsoh na da ka hoa.</i>
-
-352
-00:31:48,777 --> 00:31:51,276
-<i>Bolor anonts' vor ky gtnuin</i>
-
-353
-00:31:51,278 --> 00:31:53,979
-<i>tiezergi migamatsut'iwnen andin,</i>
-
-354
-00:31:53,981 --> 00:31:55,715
-<i>voghjoynner.</i>
-
-355
-00:31:55,717 --> 00:31:57,082
-<i>Annyeong haseyo.</i>
-
-356
-00:32:11,599 --> 00:32:12,832
-<i>Mypone kaboutu noose.</i>
-
-357
-00:32:21,743 --> 00:32:22,809
-<i>Mulibwanji imwe boonse</i>
-
-358
-00:32:22,811 --> 00:32:24,111
-<i>bantu bakumwamba.</i>
-
-359
-00:32:39,561 --> 00:32:41,059
-<i>Peresylayemo pryvit</i>
-
-360
-00:32:41,061 --> 00:32:43,361
-<i>iz nashoho svitu,</i>
-
-361
-00:32:43,363 --> 00:32:45,531
-<i>bazhayemo shchastya, zdorov'ya I mnohaya lita.</i>
-
-362
-00:33:10,792 --> 00:33:12,925
-<i>Musulayo mutya abantu</i>
-
-363
-00:33:12,927 --> 00:33:15,661
-<i>bensi eno mukama abawe emirembe bulijo.</i>
-
-364
-00:33:24,037 --> 00:33:26,940
-<i>Thài-khong pêng-iú, lín-hó.</i>
-
-365
-00:33:39,787 --> 00:33:41,219
-Hello?
-
-366
-00:33:56,004 --> 00:33:58,772
-<i>Hello from the children of Planet Earth.</i>
-
-367
-00:34:04,712 --> 00:34:06,879
-<i>Hoitines pot'este chairete!</i>
-
-368
-00:34:11,819 --> 00:34:14,787
-<i>Paz e felicidade a todos.</i>
-
-369
-00:34:14,789 --> 00:34:17,055
-<i>Gok wai hou maa? Zuk gok wai...</i>
-
-370
-00:34:23,130 --> 00:34:24,631
-Ooh...
-
-371
-00:34:26,868 --> 00:34:29,434
-<i>Kay pachamamta niytapas</i>
-
-372
-00:34:29,436 --> 00:34:31,604
-<i>maytapas rimapallasta runasimipi.</i>
-
-373
-00:34:31,606 --> 00:34:33,074
-<i>Aao ji, jee aya nu.</i>
-
-374
-00:34:38,613 --> 00:34:41,279
-<i>Salvete quicumque estis;</i>
-
-375
-00:34:41,281 --> 00:34:44,115
-<i>bonam erga vos voluntatem habemus,</i>
-
-376
-00:34:44,117 --> 00:34:46,484
-<i>et pacem per astra ferimus.</i>
-
-377
-00:34:49,991 --> 00:34:51,757
-<i>Hartelijke groeten aan iedereen.</i>
-
-378
-00:34:51,759 --> 00:34:53,294
-<i>Herzliche Gü e an alle.</i>
-
-379
-00:34:54,729 --> 00:34:56,161
-<i>Assalamu alaikum.</i>
-
-380
-00:34:56,163 --> 00:34:59,865
-<i>Hum zameen ke rehne waalon ki</i>
-
-381
-00:34:59,867 --> 00:35:02,802
-<i>taraf se aap ko khush aamdeed kehte hain.</i>
-
-382
-00:35:12,780 --> 00:35:15,347
-<i>Konnichiwa. O genki desu ka?</i>
-
-383
-00:35:15,349 --> 00:35:19,051
-<i>Dharati ke waasiyon ki or se namaskar.</i>
-
-384
-00:35:19,053 --> 00:35:21,921
-<i>Lechyd da i chi yn awr, ac yn oesoedd.</i>
-
-385
-00:35:21,923 --> 00:35:24,356
-<i>Tanti auguri e saluti.</i>
-
-386
-00:35:27,895 --> 00:35:30,029
-<i>Siya nibingelela maqhawe sinifisela</i>
-
-387
-00:35:30,031 --> 00:35:32,632
-<i>inkonzo ende.</i>
-
-388
-00:35:32,634 --> 00:35:34,232
-<i>Reani lumelisa marela.</i>
-
-389
-00:35:36,704 --> 00:35:38,938
-<i>Tsoh na da ka hoa. Tsoh na da ka hoa.</i>
-
-390
-00:35:41,208 --> 00:35:43,308
-<i>Bolor anont' vor ky gtnuin</i>
-
-391
-00:35:43,310 --> 00:35:45,811
-<i>tiezergi migamatsu'iwnen andin,</i>
-
-392
-00:35:45,813 --> 00:35:47,913
-<i>voghjoynner.</i>
-
-393
-00:35:47,915 --> 00:35:49,749
-<i>Annyeong haseyo.</i>
-
-394
-00:36:03,931 --> 00:36:05,366
-<i>Mypone kaboutu noose.</i>
-
-395
-00:36:07,501 --> 00:36:09,101
-<i>Hälsningar fån</i>
-
-396
-00:36:09,103 --> 00:36:11,771
-<i>en dataprogrammerare i den lilla universitetsstaden</i>
-
-397
-00:36:11,773 --> 00:36:14,272
-<i>Ithaca å planeten Jorden.</i>
-
-398
-00:36:14,274 --> 00:36:15,875
-<i>Mulibwanji imwe boonse bantu...</i>
-
-399
-00:36:15,877 --> 00:36:17,475
-Anyone there?
-
-400
-00:36:58,686 --> 00:37:00,120
-Oh, fuck...
-
-401
-00:37:22,510 --> 00:37:24,478
-Okay, Okay...
-
-402
-00:39:02,543 --> 00:39:04,345
-<i>Bonjour tout le monde.</i>
-
-403
-00:39:05,813 --> 00:39:07,214
-<i>Naykaungg parsalarr?</i>
-
-404
-00:39:08,783 --> 00:39:10,150
-<i>Shalom.</i>
-
-405
-00:39:11,185 --> 00:39:13,087
-<i>Hola y saludos a todos.</i>
-
-406
-00:39:14,889 --> 00:39:16,956
-<i>Selamat malam hadirin sekalian,</i>
-
-407
-00:39:16,958 --> 00:39:19,859
-<i>selamat berpisah dan sampai bertemu lagi dilain waktu.</i>
-
-408
-00:39:19,861 --> 00:39:21,627
-<i>Kay pachamamta</i>
-
-409
-00:39:21,629 --> 00:39:25,130
-<i>niytapas maytapas rimapallasta runasimipi.</i>
-
-410
-00:39:25,132 --> 00:39:26,500
-<i>Aao ji, jee aya nu.</i>
-
-411
-00:39:32,006 --> 00:39:34,206
-<i>Salvete quicumque estis;</i>
-
-412
-00:39:34,208 --> 00:39:37,543
-<i>bonam erga vos voluntatem habemus,</i>
-
-413
-00:39:37,545 --> 00:39:39,879
-<i>et pacem per astra ferimus.</i>
-
-414
-00:39:42,884 --> 00:39:45,084
-<i>Hartelijke groeten aan iedereen.</i>
-
-415
-00:39:45,086 --> 00:39:46,487
-<i>Herzliche Gü e an alle.</i>
-
-416
-00:39:48,155 --> 00:39:49,622
-<i>Assalamu alaikum.</i>
-
-417
-00:39:49,624 --> 00:39:53,359
-<i>Hum zameen ke rehne waalon ki</i>
-
-418
-00:39:53,361 --> 00:39:56,563
-<i>taraf se aap ko khush aamdeed kehte hain.</i>
-
-419
-00:40:10,578 --> 00:40:11,577
-<i>Sorry I'm late.</i>
-
-420
-00:40:13,247 --> 00:40:15,047
-Traffic was hell, and I couldn't leave early.
-
-421
-00:40:15,049 --> 00:40:16,550
-Let's just use the time we have.
-
-422
-00:40:20,221 --> 00:40:21,419
-How are you today, Clark?
-
-423
-00:40:21,421 --> 00:40:23,424
-How do I look?
-
-424
-00:40:24,692 --> 00:40:26,358
-Fine. A little tired, maybe.
-
-425
-00:40:26,360 --> 00:40:27,528
-I look like shit.
-
-426
-00:40:28,428 --> 00:40:29,795
-Can I ask, and there is
-
-427
-00:40:29,797 --> 00:40:31,231
-no wrong answer here, you know that...
-
-428
-00:40:31,766 --> 00:40:33,434
-Are you intoxicated right now?
-
-429
-00:40:34,467 --> 00:40:35,502
-Why you say it like that?
-
-430
-00:40:36,938 --> 00:40:38,071
-Like what?
-
-431
-00:40:39,840 --> 00:40:41,707
-I haven't had a drink since Friday.
-
-432
-00:40:41,709 --> 00:40:42,675
-It's probably why I look like shit.
-
-433
-00:40:44,045 --> 00:40:45,646
--Can I ask you something? -Sure.
-
-434
-00:40:46,280 --> 00:40:47,581
-You ever 5150'd someone?
-
-435
-00:40:50,450 --> 00:40:53,620
-A few times over the years, when it was necessary.
-
-436
-00:40:54,655 --> 00:40:55,923
-Wh-wha-what makes it necessary?
-
-437
-00:40:58,159 --> 00:41:00,092
-If I believe that the person is a danger
-
-438
-00:41:00,094 --> 00:41:01,492
-to themselves or others,
-
-439
-00:41:01,494 --> 00:41:03,564
-or they're gravely disabled.
-
-440
-00:41:04,365 --> 00:41:06,999
-Okay. Okay.
-
-441
-00:41:10,538 --> 00:41:11,937
-Um...
-
-442
-00:41:11,939 --> 00:41:13,340
-I found something in the store.
-
-443
-00:41:15,443 --> 00:41:17,977
-Okay. What did you find?
-
-444
-00:41:19,046 --> 00:41:20,347
-Uh...
-
-445
-00:41:20,715 --> 00:41:22,649
-A place. I f...
-
-446
-00:41:23,417 --> 00:41:25,052
-I found a place.
-
-447
-00:41:26,087 --> 00:41:27,387
-A place?
-
-448
-00:41:28,389 --> 00:41:30,157
-Yeah. It's like, um...
-
-449
-00:41:30,925 --> 00:41:32,659
-It's like the store just, uh...
-
-450
-00:41:33,661 --> 00:41:35,995
-continues, I guess.
-
-451
-00:41:35,997 --> 00:41:37,896
-It's like... you know, like there's a wall
-
-452
-00:41:37,898 --> 00:41:39,231
-and on the other side of the wall,
-
-453
-00:41:39,233 --> 00:41:41,033
-the store just keeps going, you know,
-
-454
-00:41:41,035 --> 00:41:43,335
-like-like a... like a copy of itself.
-
-455
-00:41:43,337 --> 00:41:45,104
-I-I-I figure they're using mirrors or something
-
-456
-00:41:45,106 --> 00:41:46,005
-to hide the entrance, I don't know.
-
-457
-00:41:46,007 --> 00:41:47,840
-Sorry, I'm not following you.
-
-458
-00:41:47,842 --> 00:41:48,974
-Is this a room you didn't know about before?
-
-459
-00:41:48,976 --> 00:41:50,676
-No.
-
-460
-00:41:50,678 --> 00:41:53,712
-Okay, so y-y-you go in and, uh, at first
-
-461
-00:41:53,714 --> 00:41:55,748
-it just looks like a- like an office building.
-
-462
-00:41:55,750 --> 00:41:58,717
-Like a... like a huge office building, you know?
-
-463
-00:41:58,719 --> 00:42:00,753
-And then, uh... But then you-you keep going,
-
-464
-00:42:00,755 --> 00:42:02,888
-and then-then you realize
-
-465
-00:42:02,890 --> 00:42:05,357
-th-th-that none of it makes any sense.
-
-466
-00:42:05,359 --> 00:42:07,926
-It's-it's like, um... Imagine describing a dog
-
-467
-00:42:07,928 --> 00:42:09,128
-to someone who's never seen one before
-
-468
-00:42:09,130 --> 00:42:10,796
-and then asking them to draw it.
-
-469
-00:42:10,798 --> 00:42:12,798
-They might get some things right, you know,
-
-470
-00:42:12,800 --> 00:42:14,566
-but there's no way they'd get everything right.
-
-471
-00:42:14,568 --> 00:42:15,834
-You know, the devil's in the details.
-
-472
-00:42:15,836 --> 00:42:17,504
-So from a distance, you look at it,
-
-473
-00:42:17,506 --> 00:42:19,139
-you think you're seeing a dog, but then you look clos--
-
-474
-00:42:19,940 --> 00:42:21,108
-Why are you looking at me like that?
-
-475
-00:42:22,777 --> 00:42:24,209
-I'm just trying to understand.
-
-476
-00:42:24,211 --> 00:42:25,479
-Oh.
-
-477
-00:42:27,048 --> 00:42:29,182
-You know, for a shrink, you got a terrible poker face.
-
-478
-00:42:31,585 --> 00:42:33,719
-What you're saying might sound fantastical,
-
-479
-00:42:33,721 --> 00:42:35,289
-but not dangerous.
-
-480
-00:42:38,592 --> 00:42:40,627
-Are there any people in these offices?
-
-481
-00:42:42,630 --> 00:42:44,598
-Not that I've seen. You know, I hear, um...
-
-482
-00:42:45,900 --> 00:42:47,733
-There's footsteps, an-an-and stuff gets moved around
-
-483
-00:42:47,735 --> 00:42:49,835
-when I'm not looking.
-
-484
-00:42:49,837 --> 00:42:51,303
-I know how this sounds, but you've got to understand,
-
-485
-00:42:51,305 --> 00:42:52,938
-it's massive in there.
-
-486
-00:42:52,940 --> 00:42:55,140
-Like New-York's-subway-system massive, you know.
-
-487
-00:42:55,142 --> 00:42:56,675
-For all I know, there's hundreds of people.
-
-488
-00:42:56,677 --> 00:42:58,312
-I just haven't seen them.
-
-489
-00:43:03,150 --> 00:43:04,517
-Look.
-
-490
-00:43:04,519 --> 00:43:06,118
-You see? It's like a...
-
-491
-00:43:06,120 --> 00:43:08,253
-It's like a maze.
-
-492
-00:43:08,255 --> 00:43:10,589
-It just goes on and on and on.
-
-493
-00:43:10,591 --> 00:43:12,092
-Sometimes I'm scared I'll get lost.
-
-494
-00:43:16,531 --> 00:43:18,131
-Why do you think no one else has found this place?
-
-495
-00:43:19,500 --> 00:43:20,866
-I don't know.
-
-496
-00:43:20,868 --> 00:43:21,967
-The entrance is on the subfloor,
-
-497
-00:43:21,969 --> 00:43:23,969
-so the whole structure is
-
-498
-00:43:23,971 --> 00:43:25,003
-probably underground, you know?
-
-499
-00:43:25,005 --> 00:43:26,872
-It's not on any city maps.
-
-500
-00:43:26,874 --> 00:43:28,742
-The entrances are hidden, so who'd think to look?
-
-501
-00:43:31,712 --> 00:43:32,879
-I'm not saying I don't believe you...
-
-502
-00:43:33,814 --> 00:43:35,681
-but you told me yourself
-
-503
-00:43:35,683 --> 00:43:37,550
-you haven't had a drink since Friday.
-
-504
-00:43:37,552 --> 00:43:38,652
--Do you think there is a-- -Okay.
-
-505
-00:43:39,286 --> 00:43:40,953
--Clark-- -No, no.
-
-506
-00:43:40,955 --> 00:43:42,254
--If this is true-- -Yeah, I get it. Thank you.
-
-507
-00:43:44,458 --> 00:43:47,828
-You know, I'm gonna come back here with proof
-
-508
-00:43:49,029 --> 00:43:50,929
-and you're gonna owe me a serious fucking apology.
-
-509
-00:44:42,584 --> 00:44:43,917
-Kat!
-
-510
-00:44:47,922 --> 00:44:50,523
-Jesus, goddamn, I'm coming! I'm coming!
-
-511
-00:44:50,525 --> 00:44:52,424
--Hey. -Cap'n Clark?
-
-512
-00:44:52,426 --> 00:44:53,760
--Um... -Wait, wait, wait, wait. Kat?
-
-513
-00:44:54,529 --> 00:44:55,894
--I'm coming. -Kat!
-
-514
-00:44:55,896 --> 00:44:57,329
-Okay, I'm coming!
-
-515
-00:44:57,331 --> 00:44:58,997
-Look-- -What the fuck?
-
-516
-00:44:58,999 --> 00:45:00,600
-Yeah, I'm sorry, uh...
-
-517
-00:45:00,602 --> 00:45:02,234
-What are you guys doing tomorrow?
-
-518
-00:45:02,236 --> 00:45:04,002
-What are you talking about?
-
-519
-00:45:04,004 --> 00:45:05,938
-I'll pay you. Two hours. Overtime. Tops.
-
-520
-00:45:05,940 --> 00:45:07,507
-Okay, pay us for what?
-
-521
-00:45:08,776 --> 00:45:09,976
-Research.
-
-522
-00:45:12,746 --> 00:45:14,079
-You got the camera, right?
-
-523
-00:45:14,081 --> 00:45:15,348
-You can-you can borrow it again...
-
-524
-00:45:16,685 --> 00:45:18,218
-Right?
-
-525
-00:45:25,960 --> 00:45:27,994
-Okay, we are rolling.
-
-526
-00:45:29,664 --> 00:45:32,731
-We got, um, some shit over here.
-
-527
-00:45:32,733 --> 00:45:34,601
-We got some stop signs
-
-528
-00:45:34,603 --> 00:45:36,034
-and, uh... a rope.
-
-529
-00:45:36,036 --> 00:45:37,302
-What's the rope for?
-
-530
-00:45:37,304 --> 00:45:38,837
-Supplies.
-
-531
-00:45:38,839 --> 00:45:40,307
-Oh, great, he's gonna tie us up.
-
-532
-00:45:40,975 --> 00:45:43,041
-No, we're gonna tie ourselves up.
-
-533
-00:45:43,043 --> 00:45:44,443
-Hmm. Kinky.
-
-534
-00:45:44,445 --> 00:45:45,844
-What the fuck?
-
-535
-00:45:45,846 --> 00:45:47,012
-Uh, you still haven't told us
-
-536
-00:45:47,014 --> 00:45:48,046
-what we're doing here, man.
-
-537
-00:45:48,048 --> 00:45:50,017
-I did tell you. Research.
-
-538
-00:45:51,318 --> 00:45:53,185
-These are supplies, and we're using them for research.
-
-539
-00:45:53,187 --> 00:45:54,621
-It's not that hard to understand.
-
-540
-00:45:54,623 --> 00:45:56,723
-Okay, research for what?
-
-541
-00:45:56,725 --> 00:45:58,391
-Y-you gotta be more specific, dude.
-
-542
-00:46:01,061 --> 00:46:02,394
-I'm gonna go through the door.
-
-543
-00:46:02,396 --> 00:46:03,563
-What door?
-
-544
-00:46:06,934 --> 00:46:09,101
-That's the door.
-
-545
-00:46:09,103 --> 00:46:10,936
-I taped an outline on the other side, too,
-
-546
-00:46:10,938 --> 00:46:12,372
-just to help us find our way back.
-
-547
-00:46:13,374 --> 00:46:15,742
--Bobby? -What?
-
-548
-00:46:15,744 --> 00:46:18,411
-Look, I know it sounds crazy, but follow my lead.
-
-549
-00:46:19,046 --> 00:46:20,747
-Okay?
-
-550
-00:46:20,749 --> 00:46:22,682
-I want to be back before sunup.
-
-551
-00:46:22,684 --> 00:46:24,182
-Dude, it's like 9 p.m. What the fuck are you talk--
-
-552
-00:46:26,120 --> 00:46:27,386
--What the fuck! Clark?! -What the fuck?
-
-553
-00:46:27,388 --> 00:46:29,154
--How did you do that? -Dude, did you...
-
-554
-00:46:29,156 --> 00:46:30,623
-Did you fucking see that?! H-how did he, um...
-
-555
-00:46:30,625 --> 00:46:32,291
-I'm right here. Come see for yourself.
-
-556
-00:46:32,293 --> 00:46:34,059
-What the fuck? D-did you just fucking...
-
-557
-00:46:34,061 --> 00:46:36,128
-What? How the f...
-
-558
-00:46:36,130 --> 00:46:37,764
-Bobby, stop. What are you doing?
-
-559
-00:46:37,766 --> 00:46:40,265
--What the fuck?! -Clark, where are you?
-
-560
-00:46:40,267 --> 00:46:43,135
-Ha! Hey, did you... did you see that?
-
-561
-00:46:43,137 --> 00:46:44,369
--Where the fuck did he go? -Yes, Bobby, I saw it!
-
-562
-00:46:44,371 --> 00:46:46,171
-Oh! Where the f--
-
-563
-00:46:46,173 --> 00:46:48,140
-Just step through the door, you'll be fine!
-
-564
-00:46:48,142 --> 00:46:51,143
-What?! No! Tell us what is going on!
-
-565
-00:46:51,145 --> 00:46:52,645
-You know what, just...
-
-566
-00:46:52,647 --> 00:46:54,346
-No, Bobby, wait! Bobby! Wait, what are you doing?
-
-567
-00:46:54,348 --> 00:46:55,047
-Bobby!
-
-568
-00:46:57,084 --> 00:46:58,718
-What the fuck?!
-
-569
-00:46:59,554 --> 00:47:00,952
-Dude!
-
-570
-00:47:00,954 --> 00:47:02,755
-Dude, how is this possible?
-
-571
-00:47:02,757 --> 00:47:05,023
--Bobby! Clark! -Okay...
-
-572
-00:47:05,025 --> 00:47:06,626
-Where are you? What the fuck is back there?
-
-573
-00:47:06,628 --> 00:47:07,993
-No, no, no, Kat, it's good, it's good.
-
-574
-00:47:07,995 --> 00:47:09,796
-J-just, you gotta come see this.
-
-575
-00:47:14,234 --> 00:47:16,234
-I mean... Right, you see...
-
-576
-00:47:16,236 --> 00:47:17,903
-You see, it's, um...
-
-577
-00:47:17,905 --> 00:47:19,171
--It's fine. -Clark, what is this?
-
-578
-00:47:19,173 --> 00:47:20,972
--Where are we? -Oh!
-
-579
-00:47:20,974 --> 00:47:21,942
-That's what I'm trying to figure out.
-
-580
-00:47:23,077 --> 00:47:25,143
-Whose, um... Whose shit is this?
-
-581
-00:47:25,145 --> 00:47:27,012
-Is it-is it... is it part of your store?
-
-582
-00:47:27,014 --> 00:47:28,548
-If it belongs to someone,
-
-583
-00:47:28,550 --> 00:47:30,315
--I haven't met them yet. -Okay...
-
-584
-00:47:30,317 --> 00:47:32,184
-I've been in here every night since I found the place,
-
-585
-00:47:32,186 --> 00:47:34,086
-and I still barely scratched the surface.
-
-586
-00:47:34,088 --> 00:47:35,822
-Come on. I'll show you.
-
-587
-00:47:36,457 --> 00:47:38,156
-It only gets better.
-
-588
-00:47:38,158 --> 00:47:40,459
--What the fuck... -Hey. Hey.
-
-589
-00:47:40,461 --> 00:47:42,227
-You don't think he, like, dosed us or something, do you?
-
-590
-00:47:42,229 --> 00:47:44,131
-What? No, no, no. We're not on drugs.
-
-591
-00:47:45,299 --> 00:47:46,600
-I think I'd be able to tell if I was high.
-
-592
-00:47:47,401 --> 00:47:48,635
-You are high!
-
-593
-00:47:49,504 --> 00:47:50,604
-Pot doesn't count.
-
-594
-00:47:53,842 --> 00:47:55,874
-So, um, it's like...
-
-595
-00:47:55,876 --> 00:47:57,677
-what, like an empty office building?
-
-596
-00:47:57,679 --> 00:48:00,112
-In here? Sure. But it's like it was made
-
-597
-00:48:00,114 --> 00:48:02,047
-by a bunch of construction workers on acid.
-
-598
-00:48:02,049 --> 00:48:03,649
-There's even a pool!
-
-599
-00:48:03,651 --> 00:48:05,117
-There's a pool?
-
-600
-00:48:05,119 --> 00:48:07,018
-Yeah. I mean, kind of.
-
-601
-00:48:07,020 --> 00:48:08,521
-Keep up.
-
-602
-00:48:09,356 --> 00:48:11,092
-"Pots." What the fuck?
-
-603
-00:48:19,534 --> 00:48:21,068
-Yeah, no, no, that's the way I went last time.
-
-604
-00:48:22,469 --> 00:48:24,504
-Yeah, when I was looking for a staircase down or something.
-
-605
-00:48:26,574 --> 00:48:28,440
-Only thing I found so far is basically more of a...
-
-606
-00:48:28,442 --> 00:48:30,275
-Okay...
-
-607
-00:48:30,277 --> 00:48:31,677
-I don't know, it's like a ramp, really.
-
-608
-00:48:31,679 --> 00:48:33,145
-It's, uh... It's up here.
-
-609
-00:48:34,915 --> 00:48:36,047
-We'll be at it in a minute.
-
-610
-00:48:36,049 --> 00:48:38,150
-Okay...
-
-611
-00:48:40,988 --> 00:48:42,287
-How many floors does it go down?
-
-612
-00:48:42,289 --> 00:48:43,623
-Is this not technically...
-
-613
-00:48:45,860 --> 00:48:47,593
-Okay. All right, you filming?
-
-614
-00:48:47,595 --> 00:48:49,261
--Yeah. -All right.
-
-615
-00:48:49,263 --> 00:48:51,129
-I don't see why Bobby has to be the one to go.
-
-616
-00:48:51,131 --> 00:48:52,698
--I want to. -He's the one with the camera.
-
-617
-00:48:52,700 --> 00:48:54,065
-Well, it's not like it's attached.
-
-618
-00:48:54,067 --> 00:48:55,635
-Yeah, well, I mean,
-
-619
-00:48:55,637 --> 00:48:57,570
-to my student ID, yeah, it kinda is.
-
-620
-00:48:57,572 --> 00:48:59,404
-Any trouble, just give a tug, and I'll pull you up, okay?
-
-621
-00:48:59,406 --> 00:49:00,939
-Trouble? Clark, what fucking trouble?
-
-622
-00:49:00,941 --> 00:49:02,207
-There's not going to be any trouble.
-
-623
-00:49:02,209 --> 00:49:03,543
-Babe, babe, babe, it's good.
-
-624
-00:49:03,545 --> 00:49:05,010
--No, hey-- -It's good. I'm good.
-
-625
-00:49:05,012 --> 00:49:06,712
-Baby, you don't have to do this.
-
-626
-00:49:06,714 --> 00:49:08,413
-No, it's cool. I-I just want to see what's down there.
-
-627
-00:49:08,415 --> 00:49:10,716
--Are you not curious? -This is stupid!
-
-628
-00:49:10,718 --> 00:49:12,451
--Just go as far as you can. -No, look, look, look!
-
-629
-00:49:12,453 --> 00:49:14,119
-You can basically walk down without a rope.
-
-630
-00:49:14,121 --> 00:49:15,353
-It's fine, and it's not even steep.
-
-631
-00:49:15,355 --> 00:49:17,122
-Okay.
-
-632
-00:49:17,124 --> 00:49:18,825
-Okay, just don't... just one thing.
-
-633
-00:49:18,827 --> 00:49:21,026
-If I don't come back, you'll tell my mom I love her, right?
-
-634
-00:49:23,130 --> 00:49:24,697
--Okay. -All right, okay.
-
-635
-00:49:24,699 --> 00:49:25,799
-All right, just take it slow.
-
-636
-00:49:30,304 --> 00:49:31,970
-Okay.
-
-637
-00:49:31,972 --> 00:49:33,673
-Oh, it is actually kind of steep.
-
-638
-00:49:34,374 --> 00:49:36,107
--You good? -Yeah.
-
-639
-00:49:36,109 --> 00:49:38,079
--Just, uh... try not to drop me. -All right.
-
-640
-00:49:41,048 --> 00:49:42,113
-Tell me how much you need.
-
-641
-00:49:47,354 --> 00:49:49,120
-Whoa... Careful!
-
-642
-00:49:51,291 --> 00:49:53,626
-What the... Whoa! Whoa! Whoa! Fuck! Aah...
-
-643
-00:49:54,662 --> 00:49:56,261
-What the fuck are you guys doing up there?
-
-644
-00:49:56,263 --> 00:49:58,063
-Sorry, sorry!
-
-645
-00:49:58,065 --> 00:49:59,665
-It was stuck around the leg of the bed!
-
-646
-00:49:59,667 --> 00:50:01,968
--Are you okay? -Yeah. Yeah, I'm fine.
-
-647
-00:50:01,970 --> 00:50:03,301
-Jesus fucking Christ...
-
-648
-00:50:03,303 --> 00:50:05,136
-Just keep letting me down!
-
-649
-00:50:05,138 --> 00:50:07,074
-All right. Here we go.
-
-650
-00:50:22,957 --> 00:50:24,757
-Okay, I'm in.
-
-651
-00:50:28,796 --> 00:50:29,829
-See anything?
-
-652
-00:50:31,131 --> 00:50:32,197
-Ugh...
-
-653
-00:50:32,199 --> 00:50:33,867
-Uh, it's just...
-
-654
-00:50:34,669 --> 00:50:36,103
-It's a bunch of laundry and shit.
-
-655
-00:50:37,505 --> 00:50:38,838
-What do you mean? Clothes?
-
-656
-00:50:40,575 --> 00:50:42,176
-Yeah, it just fucking stinks down here.
-
-657
-00:50:43,110 --> 00:50:44,245
-See anything else?
-
-658
-00:50:45,479 --> 00:50:46,780
-Yeah, just, uh... Just give me a minute.
-
-659
-00:50:47,214 --> 00:50:48,615
-Okay.
-
-660
-00:50:56,858 --> 00:50:57,991
-Oh, god...
-
-661
-00:51:02,597 --> 00:51:03,897
-What the fuck?
-
-662
-00:51:09,037 --> 00:51:10,104
-Bobby?
-
-663
-00:51:11,539 --> 00:51:12,639
-Yeah.
-
-664
-00:51:13,373 --> 00:51:15,176
-Just checking that you're okay.
-
-665
-00:51:16,143 --> 00:51:17,677
-Yeah, I'm fine. Just, um...
-
-666
-00:51:18,947 --> 00:51:20,147
-Okay...
-
-667
-00:51:21,081 --> 00:51:22,216
-Yeah.
-
-668
-00:51:23,017 --> 00:51:24,185
-Okay.
-
-669
-00:51:32,326 --> 00:51:33,626
-What the fuck...?
-
-670
-00:51:41,936 --> 00:51:44,336
-Bobby? Come back up!
-
-671
-00:51:44,338 --> 00:51:46,204
-I don't like this!
-
-672
-00:51:46,206 --> 00:51:47,874
-Hey! Uh... Let some more line out!
-
-673
-00:51:48,643 --> 00:51:50,676
-I can't! It's as far as it goes.
-
-674
-00:51:50,678 --> 00:51:51,845
+00:03:46,340 --> 00:03:47,670
+完了
 Fuck...
 
-675
-00:52:01,022 --> 00:52:03,221
-Fuck! Pull me up!
-
-676
-00:52:03,223 --> 00:52:04,757
-Bobby! What is it?
-
-677
-00:52:04,759 --> 00:52:06,592
--Fuck! -What do you see?
-
-678
-00:52:06,594 --> 00:52:08,928
-What the fuck is it? Pull him up!
-
-679
-00:52:08,930 --> 00:52:10,128
--I am! Jesus Christ! -Fuck!
-
-680
-00:52:10,130 --> 00:52:11,429
-Pull harder!
-
-681
-00:52:11,431 --> 00:52:12,765
-Pull, man! What the fuck!
-
-682
-00:52:12,767 --> 00:52:14,432
-It's getting caught on my feet!
-
-683
-00:52:14,434 --> 00:52:16,234
--I can't pull-- -Fucking pull harder!
-
-684
-00:52:16,236 --> 00:52:18,738
-Clark, hurry up!
-
-685
-00:52:18,740 --> 00:52:20,673
-Almost here! Almost here, babe, just a little more!
-
-686
-00:52:20,675 --> 00:52:22,842
--Pull him up! -What did you see?
-
-687
-00:52:22,844 --> 00:52:24,744
-There's, uh, there's someone down there.
-
-688
-00:52:24,746 --> 00:52:26,277
--We've got you. What? -Fuck.
-
-689
-00:52:26,279 --> 00:52:27,913
-Slow down, just breathe. Baby, it's okay.
-
-690
-00:52:27,915 --> 00:52:29,682
-Just get this shit off me, man. Fuck. Jesus.
-
-691
-00:52:29,684 --> 00:52:30,983
--It's okay. It's okay. -What did you see?
-
-692
-00:52:30,985 --> 00:52:33,151
--Here. Hey, deep breath. -What kind of knot is this?
-
-693
-00:52:33,153 --> 00:52:34,486
-Deep breath--
-
-694
-00:52:34,488 --> 00:52:36,022
--What the fuck?! -Whoa, whoa, whoa!
-
-695
-00:52:36,024 --> 00:52:37,890
--Help us! Clark! -Hold on!
-
-696
-00:52:37,892 --> 00:52:39,558
--Okay, okay, okay! -Help, you fucking asshole!
-
-697
-00:52:39,560 --> 00:52:41,627
--Let me get it! -Untie me, man!
-
-698
-00:52:41,629 --> 00:52:43,129
-What the hell are you doing, Clark?
-
-699
-00:52:43,131 --> 00:52:44,329
--I can't! -Hurry, Clark!
-
-700
-00:52:44,331 --> 00:52:45,665
--I'm trying, I'm trying! -FUCK!
-
-701
-00:52:45,667 --> 00:52:47,600
-Don't let go!
-
-702
-00:52:47,602 --> 00:52:49,502
--Hold on! -Fuck! Don't let me go!
-
-703
-00:52:49,504 --> 00:52:50,569
--Don't let me go! -Let me get at--
-
-704
-00:52:50,571 --> 00:52:52,138
-BOBBY!
-
-705
-00:52:52,140 --> 00:52:53,139
-NO! KAT, NO!
-
-706
-00:52:54,542 --> 00:52:55,641
-Bobby!
-
-707
-00:52:55,643 --> 00:52:57,308
-BOBBY!
-
-708
-00:52:57,310 --> 00:52:59,477
-Bobby!
-
-709
-00:52:59,479 --> 00:53:00,680
-What are we doing? We need to... Clark!
-
-710
-00:53:08,422 --> 00:53:11,256
-Bobby! No! No! No!
-
-711
-00:53:11,258 --> 00:53:13,258
-Ow... KAT! Kat...
-
-712
-00:53:13,260 --> 00:53:15,094
-Bobby!
-
-713
-00:53:15,096 --> 00:53:16,529
-Bobby! No!
-
-714
-00:53:16,531 --> 00:53:19,197
-Bobby! No!
-
-715
-00:53:19,199 --> 00:53:20,533
-Kat!
-
-716
-00:53:20,535 --> 00:53:22,367
-Oh, fuck...
-
-717
-00:53:24,038 --> 00:53:26,839
-Oh, no, no, no, no, no! No!
-
-718
-00:54:10,685 --> 00:54:11,985
-Kat?!
-
-719
-00:54:17,759 --> 00:54:19,191
-Kat?
-
-720
-00:55:47,447 --> 00:55:48,948
-Hello?
-
-721
-00:55:55,623 --> 00:55:57,022
-Stay back! Get away from me!
-
-722
-00:56:57,551 --> 00:56:59,518
-Clark? CLARK! I'm here...
-
-723
-00:57:01,055 --> 00:57:02,721
-I'm here! It's gonna come back.
-
-724
-00:57:02,723 --> 00:57:04,523
-Please, Clark, please let me in!
-
-725
-00:57:04,525 --> 00:57:05,925
--Kat? -Let me in!
-
-726
-00:57:07,395 --> 00:57:10,129
-Wh-wh-where are you?
-
-727
-00:57:10,131 --> 00:57:11,997
-We have to go now, Clark! We have to go.
-
-728
-00:57:11,999 --> 00:57:14,033
-It's gonna come back, it's gonna find me!
-
-729
-00:57:14,035 --> 00:57:17,169
-Kat! Kat? Uh... Wait, I don't understand. Wh-where are you?
-
-730
-00:57:17,171 --> 00:57:19,104
-Please, let me the fuck in!
-
-731
-00:57:20,975 --> 00:57:22,341
-But it's a... it's-it's a wall!
-
-732
-00:57:22,343 --> 00:57:23,677
-How can-how can you see me?
-
-733
-00:57:25,546 --> 00:57:27,212
-I'm on the other side of the glass.
-
-734
-00:57:27,214 --> 00:57:29,281
--How can you see...? -How can you not see me?
-
-735
-00:57:29,283 --> 00:57:31,116
-What glass?! What the fuck are you talking about?
-
-736
-00:57:32,887 --> 00:57:35,020
-Wh-what are you talk--
-
-737
-00:57:35,022 --> 00:57:37,389
-Okay, can you see anything on your side?
-
-738
-00:57:37,391 --> 00:57:40,125
-Can you see a handle, a door? Is there a hatch, anything?
-
-739
-00:57:40,127 --> 00:57:42,995
-No, no, no, no...
-
-740
-00:57:42,997 --> 00:57:46,300
-Uh... Okay. Let me figure this out, okay? Just hold on.
-
-741
-00:57:47,001 --> 00:57:49,134
-Hold on, okay? It's just...
-
-742
-00:57:51,072 --> 00:57:53,005
--Clark? -No, no, just let me...
-
-743
-00:57:53,007 --> 00:57:54,640
--Clark! -Just hold on!
-
-744
-00:57:54,642 --> 00:57:56,108
--Let me figure this out! -CLARK!
-
-745
-00:57:56,110 --> 00:57:57,209
--Let me figure this out... -Clark! Clark!
-
-746
-00:57:57,211 --> 00:57:58,243
-Clark, behind you!
-
-747
-00:59:15,689 --> 00:59:16,823
-Mary!
-
-748
-00:59:28,135 --> 00:59:29,336
-Mary...
-
-749
-00:59:30,404 --> 00:59:31,638
-what were you thinking?
-
-750
-00:59:33,174 --> 00:59:35,107
-I never, ever,
-
-751
-00:59:35,109 --> 00:59:36,810
-ever said you could go outside.
-
-752
-00:59:39,080 --> 00:59:40,113
-It's no good.
-
-753
-00:59:41,715 --> 00:59:43,415
-They're all over the place.
-
-754
-01:01:00,861 --> 01:01:02,961
-<i>Hi, you've reached Dr. Mary Klein.</i>
-
-755
-01:01:02,963 --> 01:01:04,062
-<i>I'm not able to answer the call,</i>
-
-756
-01:01:04,064 --> 01:01:05,998
-<i>so please leave a message,</i>
-
-757
-01:01:06,000 --> 01:01:07,401
-<i>and I'll get back to you as soon as I can.</i>
-
-758
-01:01:10,437 --> 01:01:11,438
-<i>Mary...</i>
-
-759
-01:01:14,576 --> 01:01:15,776
-<i>I opened the window.</i>
-
-760
-01:01:19,847 --> 01:01:21,815
-<i>I won't be coming back.</i>
-
-761
-01:02:07,094 --> 01:02:07,893
-<i>Please!</i>
-
-762
-01:02:09,531 --> 01:02:11,363
-<i>Save us!</i>
-
-763
-01:02:11,365 --> 01:02:13,600
-<i>All right! I'll do it!</i>
-
-764
-01:02:13,602 --> 01:02:15,901
-<i>I'll save you! I will do it!</i>
-
-765
-01:02:27,281 --> 01:02:29,114
-<i>Don't die!</i>
-
-766
-01:02:31,418 --> 01:02:32,619
-I don't know where that hand's been.
-
-767
-01:02:38,058 --> 01:02:40,025
-<i>Well, ahoy there, mateys!</i>
-
-768
-01:02:40,027 --> 01:02:42,461
-<i>Now, according to me map,</i>
-
-769
-01:02:42,463 --> 01:02:43,996
-<i>we've landed on the crystal shores</i>
-
-770
-01:02:43,998 --> 01:02:46,098
-<i>of a bountiful land,</i>
-
-771
-01:02:46,100 --> 01:02:49,001
-<i>a land filled with great deals.</i>
-
-772
-01:02:49,003 --> 01:02:51,236
-<i>So drop your anchors and come on down</i>
-
-773
-01:02:51,238 --> 01:02:54,039
-<i>to Cap'n Clark's Ottoman Empire.</i>
-
-774
-01:02:54,041 --> 01:02:56,676
-<i>Get lost in an endless sea</i>
-
-775
-01:02:56,678 --> 01:03:00,345
-<i>of quality tables, chairs, couches, and bedroom sets.</i>
-
-776
-01:03:00,347 --> 01:03:02,948
-<i>Need bed bunks for the scallywagses quarters?</i>
-
-777
-01:03:02,950 --> 01:03:04,116
-<i>W've got it all!</i>
-
-778
-01:03:04,118 --> 01:03:06,285
-<i>And at prices so low</i>
-
-779
-01:03:06,287 --> 01:03:07,953
-<i>you'll think that yo're robbing me!</i>
-
-780
-01:03:37,552 --> 01:03:38,685
-Hello?
-
-781
-01:03:50,397 --> 01:03:51,565
-Hello?
-
-782
-01:03:59,373 --> 01:04:00,507
-Clark?
-
-783
-01:04:13,887 --> 01:04:15,455
-Clark, can you hear me?
-
-784
-01:04:53,927 --> 01:04:55,562
-Clark?
-
-785
-01:07:50,038 --> 01:07:51,205
-Clark?
-
-786
-01:10:34,068 --> 01:10:35,236
-Clark?
-
-787
-01:10:38,673 --> 01:10:39,506
-You found it.
-
-788
-01:10:48,549 --> 01:10:50,050
-Why are you hiding?
-
-789
-01:10:52,520 --> 01:10:54,088
-You were being too loud.
-
-790
-01:11:06,067 --> 01:11:07,401
-Where are we?
-
-791
-01:11:10,738 --> 01:11:12,339
-It's...
-
-792
-01:11:14,509 --> 01:11:16,477
-...every place that ever was.
-
-793
-01:11:24,451 --> 01:11:26,120
-How long have you been here?
-
-794
-01:11:32,492 --> 01:11:34,026
-What was that?
-
-795
-01:11:39,667 --> 01:11:41,035
-Stay calm.
-
-796
-01:11:45,807 --> 01:11:47,072
-It's only me.
-
-797
-01:11:49,777 --> 01:11:51,211
-You know me.
-
-798
-01:12:21,709 --> 01:12:23,143
-I'm sorry.
-
-799
-01:12:24,512 --> 01:12:26,513
-This is for your own good.
-
-800
-01:14:30,838 --> 01:14:32,339
-As you walk through life,
-
-801
-01:14:33,374 --> 01:14:38,545
-the untrained mind accumulates loops, habits...
-
-802
-01:14:41,082 --> 01:14:44,551
-...behaviors that keep you drifting in circles,
-
-803
-01:14:45,686 --> 01:14:47,688
-creating the same problems,
-
-804
-01:14:49,056 --> 01:14:51,158
-reaching for the same solutions
-
-805
-01:14:52,693 --> 01:14:54,761
-over and over again.
-
-806
-01:14:57,398 --> 01:15:01,499
-Still, it's the neural pathway of least resistance.
-
-807
-01:15:05,906 --> 01:15:07,207
-The one I made.
-
-808
-01:15:07,742 --> 01:15:09,176
-The one that kept me safe...
-
-809
-01:15:09,710 --> 01:15:11,144
-when I was a child.
-
-810
-01:15:13,047 --> 01:15:14,646
-You know...
-
-811
-01:15:16,917 --> 01:15:18,652
-I learned to push people away before they could hurt me.
-
-812
-01:15:20,254 --> 01:15:23,190
-And, now, as an adult,
-
-813
-01:15:24,091 --> 01:15:27,760
-I'm still stuck right where I started.
-
-814
-01:15:30,931 --> 01:15:32,431
+38
+00:03:55,080 --> 00:03:56,650
+该死 该死
+Fuck! Fuck...
+
+39
+00:04:08,690 --> 00:04:10,290
+该死 搞什么鬼？
+Oh, shit... What the fuck?
+
+40
+00:05:14,010 --> 00:05:17,190
+{\an8}（需无用信...）
+
+41
+00:05:42,480 --> 00:05:43,710
+怎么回事？
+What the fuck?
+
+42
+00:06:07,910 --> 00:06:09,680
+完了 完了 完了
+Fuck! Fuck! Fuck!
+
+43
+00:06:13,940 --> 00:06:15,220
+该死
+Shit.
+
+44
+00:06:15,470 --> 00:06:16,600
+完了
+Fuck!
+
+45
+00:06:21,110 --> 00:06:22,890
+不 不 完了 完了
+Fuck, fuck, fuck! Fuck!
+
+46
+00:06:44,600 --> 00:06:55,090
+{\an8}《后室》
+
+47
+00:07:22,950 --> 00:07:33,660
+{\an8}（山脊公寓楼盘）
+
+48
+00:07:49,210 --> 00:07:53,110
+谁都有自己的死循环 固有的习惯...
+We all have our loops, our habits...
+
+49
+00:07:55,530 --> 00:07:58,190
+总是重蹈覆辙...
+...behaviors that keep us walking in circles...
+
+50
+00:08:00,160 --> 00:08:03,200
+总是用同样的办法 一遍又一遍
+...reaching for the same solutions over and over again,
+
+51
+00:08:05,370 --> 00:08:12,900
+{\an8}（克船长的家具帝国）
+
+52
+00:08:06,260 --> 00:08:09,320
+却指望能走出新路
+thinking each time they'll take you somewhere new.
+
+53
+00:08:10,130 --> 00:08:11,290
+但没用
+But they don't.
+
+54
+00:08:18,770 --> 00:08:20,010
+毕竟
+And still,
+
+55
+00:08:20,030 --> 00:08:23,290
+神经通路就爱走阻力最小的路径
+it's the neural pathway of least resistance.
+
+56
+00:08:23,300 --> 00:08:25,750
+{\an8}（奸商）
+
+57
+00:08:25,760 --> 00:08:28,150
+你建立了心理防线
+A path you made.
+
+58
+00:08:28,160 --> 00:08:31,310
+小时候 这套防线保护了你
+It's the one that kept you safe when you were a child.
+
+59
+00:08:36,120 --> 00:08:39,020
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+60
+00:08:36,670 --> 00:08:39,020
+你学会了抢在被伤害之前
+You learned to push people away
+
+61
+00:08:39,210 --> 00:08:41,140
+把别人推开
+before they could hurt you.
+
+62
+00:08:42,910 --> 00:08:44,100
+现在
+And now,
+
+63
+00:08:44,110 --> 00:08:45,380
+你都成年了
+as an adult,
+
+64
+00:08:44,110 --> 00:08:46,690
+{\an8}（逾期通知）
+
+65
+00:08:45,390 --> 00:08:47,560
+还是留在原地
+you're still stuck right where you started.
+
+66
+00:08:53,290 --> 00:08:54,460
+只有一个人
 Alone.
 
-815
-01:15:34,235 --> 01:15:35,469
-What is this?
-
-816
-01:15:38,005 --> 01:15:40,606
-It's a real mess. Am I right?
-
-817
-01:15:40,608 --> 01:15:42,007
-Clark...
-
-818
-01:15:43,477 --> 01:15:44,645
-...let me help you...
-
-819
-01:15:47,148 --> 01:15:48,714
-before you do anything you can't take back.
-
-820
-01:15:48,716 --> 01:15:50,183
-Answer the question.
-
-821
-01:15:51,419 --> 01:15:53,820
-Yes, it's a real mess.
-
-822
-01:15:56,757 --> 01:15:59,358
-But also beautiful in a way.
-
-823
-01:15:59,360 --> 01:16:00,727
-No?
-
-824
-01:16:08,636 --> 01:16:09,836
-Who are these people?
-
-825
-01:16:11,906 --> 01:16:13,507
-This place builds them.
-
-826
-01:16:14,742 --> 01:16:17,476
-Oh, actually, more like it remembers them.
-
-827
-01:16:19,213 --> 01:16:21,514
-And the more times it remembers something,
-
-828
-01:16:21,516 --> 01:16:22,816
-the less it does.
-
-829
-01:16:24,952 --> 01:16:28,387
-Somewhere out there is a guy in a striped shirt,
-
-830
-01:16:28,389 --> 01:16:30,190
-but, in here, he's...
-
-831
-01:16:31,625 --> 01:16:32,859
-remembered.
-
-832
-01:16:33,694 --> 01:16:36,195
-Just slightly wrong.
-
-833
-01:16:37,798 --> 01:16:39,832
-Somewhere out there is a man
-
-834
-01:16:39,834 --> 01:16:42,135
-in a wheelchair, and a lamp.
-
-835
-01:16:51,378 --> 01:16:53,180
-I'm pretty sure that's how you get all of this.
-
-836
-01:16:53,681 --> 01:16:55,582
-You know, all these places
-
-837
-01:16:55,584 --> 01:16:58,285
-and rooms and buildings
-
-838
-01:16:59,521 --> 01:17:00,953
-misremembering themselves.
-
-839
-01:17:00,955 --> 01:17:02,289
-Clark...
-
-840
-01:17:02,756 --> 01:17:04,157
-let's talk this through.
-
-841
-01:17:05,226 --> 01:17:06,526
-In some ways...
-
-842
-01:17:07,761 --> 01:17:10,263
-they're an improvement on the originals.
-
-843
-01:17:11,799 --> 01:17:13,166
-For starters,
-
-844
-01:17:14,068 --> 01:17:15,602
-they can't feel anything.
-
-845
-01:17:27,214 --> 01:17:28,715
-Can you imagine how good that must feel?
-
-846
-01:17:31,485 --> 01:17:32,784
-I mean...
-
-847
-01:17:34,523 --> 01:17:39,693
-...there's no thoughts or pain, no ego, no fear.
-
-848
-01:17:40,794 --> 01:17:42,329
-They simply...
-
-849
-01:17:43,430 --> 01:17:44,765
-exist.
-
-850
-01:17:45,900 --> 01:17:48,502
-Like... like furniture!
-
-851
-01:17:51,972 --> 01:17:54,406
-Look at this. The best part.
-
-852
-01:17:58,445 --> 01:17:59,479
-You can eat them!
-
-853
-01:18:41,690 --> 01:18:42,956
-That's my, uh...
-
-854
-01:18:43,525 --> 01:18:45,157
-assistant manager.
-
-855
-01:18:47,861 --> 01:18:49,596
-I tried to help her, but she just, uh...
-
-856
-01:18:50,197 --> 01:18:51,465
-Clark!
-
-857
-01:18:52,534 --> 01:18:55,702
-If you untie me, we can talk this through,
-
-858
-01:18:55,704 --> 01:18:57,369
-get you feeling better.
-
-859
-01:18:57,371 --> 01:18:58,937
-Yeah, well, what if I did untie you?
-
-860
-01:18:58,939 --> 01:19:00,407
-You know, what then?
-
-861
-01:19:00,841 --> 01:19:02,407
-You'd run around here
-
-862
-01:19:02,409 --> 01:19:03,742
-like a chicken with its head cut off,
-
-863
-01:19:03,744 --> 01:19:04,743
-looking for a way out.
-
-864
-01:19:06,615 --> 01:19:07,813
-But you'd end up in the same place you are now.
-
-865
-01:19:10,050 --> 01:19:12,419
-Like the path thing you're always talking about.
-
-866
-01:19:12,687 --> 01:19:14,021
-Clark!
-
-867
-01:19:15,222 --> 01:19:17,390
-I just want to help you. Just tell me what you need.
-
-868
-01:19:18,025 --> 01:19:19,659
-I'll-I'll-I'll do it.
-
-869
-01:19:21,362 --> 01:19:22,595
-Yeah?
-
-870
-01:19:22,597 --> 01:19:24,431
-Yeah. Yes, please.
-
-871
-01:19:26,834 --> 01:19:28,335
-Okay.
-
-872
-01:19:30,938 --> 01:19:32,538
-Well, I want you to tell me
-
-873
-01:19:32,540 --> 01:19:34,206
-that I didn't do anything wrong, you know,
-
-874
-01:19:34,208 --> 01:19:36,108
-that-that you were wrong about me.
-
-875
-01:19:36,110 --> 01:19:39,044
-I was wrong about you! I was.
-
-876
-01:19:39,046 --> 01:19:40,647
--I was wrong about you. -No, no, not-not like that.
-
-877
-01:19:42,116 --> 01:19:43,984
-Not... not so fast, okay?
-
-878
-01:19:45,986 --> 01:19:47,520
-I mean, I wanna... I want to set the scene first!
-
-879
-01:19:51,660 --> 01:19:54,262
-Let's start, um...
-
-880
-01:19:54,962 --> 01:19:56,429
-well, the night that, uh...
-
-881
-01:19:57,364 --> 01:19:58,732
-that I got kicked out of my own house.
-
-882
-01:19:59,601 --> 01:20:00,899
-Yeah?
-
-883
-01:20:03,971 --> 01:20:05,672
-It was, um... It was late.
-
-884
-01:20:06,907 --> 01:20:08,475
-A lot darker.
-
-885
-01:20:09,343 --> 01:20:10,510
-Uh...
-
-886
-01:20:12,747 --> 01:20:14,347
-Lights, please.
-
-887
-01:20:24,825 --> 01:20:26,091
-I tried this exercise with her before.
-
-888
-01:20:26,093 --> 01:20:27,459
-It doesn't go anywhere.
-
-889
-01:20:28,763 --> 01:20:30,430
-Fine!
-
-890
-01:20:31,265 --> 01:20:32,931
-I'll do it myself.
-
-891
-01:20:32,933 --> 01:20:34,768
-It's still my house after all.
-
-892
-01:20:38,540 --> 01:20:39,673
-Yeah.
-
-893
-01:20:41,141 --> 01:20:43,376
-Thank you. Much better.
-
-894
-01:20:44,845 --> 01:20:46,047
-But there's...
-
-895
-01:20:46,748 --> 01:20:48,115
-still...
-
-896
-01:20:48,982 --> 01:20:50,483
-something off.
-
-897
-01:21:08,068 --> 01:21:10,071
-Clark, please...
-
-898
-01:21:42,269 --> 01:21:44,804
-No, please, don't, don't...!
-
-899
-01:22:02,990 --> 01:22:04,524
-I'm sorry.
-
-900
-01:22:07,094 --> 01:22:08,495
-I'm sorry, I...
-
-901
-01:22:09,997 --> 01:22:12,999
-broke the glass and woke you up.
-
-902
-01:22:15,637 --> 01:22:16,937
-I know how you like to sleep early.
-
-903
-01:22:21,975 --> 01:22:23,210
-I was at the store late.
-
-904
-01:22:25,613 --> 01:22:27,480
-I guess I lost track of the time.
-
-905
-01:22:30,417 --> 01:22:31,851
-I was checking inventory.
-
-906
-01:22:32,520 --> 01:22:33,753
-But...
-
-907
-01:22:34,388 --> 01:22:36,321
-I stopped off for a few beers.
-
-908
-01:22:36,323 --> 01:22:37,857
--Clark-- -Barbara!
-
-909
-01:22:39,694 --> 01:22:41,661
-I was checking inventory.
-
-910
-01:22:43,631 --> 01:22:45,765
-Then I stopped off for a few beers.
-
-911
-01:22:50,572 --> 01:22:52,337
-Defi-define a few.
-
-912
-01:22:52,339 --> 01:22:53,840
-As many as I wanted.
-
-913
-01:22:55,409 --> 01:22:56,776
-Because this is my house.
-
-914
-01:22:58,245 --> 01:22:59,913
-I pay for it.
-
-915
-01:23:01,549 --> 01:23:03,850
-I pay for everything. I pay for you to go to school.
-
-916
-01:23:05,152 --> 01:23:06,786
-I pay for your time off school!
-
-917
-01:23:07,589 --> 01:23:09,522
-I pay for the roof over your head!
-
-918
-01:23:11,091 --> 01:23:12,492
-You want kids, right?
-
-919
-01:23:13,093 --> 01:23:14,694
-Well, that takes money.
-
-920
-01:23:14,696 --> 01:23:16,063
-So someone has to work around here.
-
-921
-01:23:18,031 --> 01:23:19,632
-I said someone has
-
-922
-01:23:19,634 --> 01:23:21,168
-to get off her fat ass and work around here!
-
-923
-01:23:22,637 --> 01:23:24,469
-Just because you didn't get to be an architect don--
-
-924
-01:23:24,471 --> 01:23:26,204
-I am a fucking architect.
-
-925
-01:23:28,008 --> 01:23:30,442
-I'm just stuck selling shit furniture because someone
-
-926
-01:23:30,444 --> 01:23:33,345
-won't get off her fat fucking ass and help me!
-
-927
-01:23:33,347 --> 01:23:35,413
--I'm not your wife! -Stay in character.
-
-928
-01:23:35,415 --> 01:23:37,249
-Stay in character!
-
-929
-01:23:37,251 --> 01:23:39,017
--I've never even met her! -STAY IN CHARACTER!
-
-930
-01:23:39,019 --> 01:23:40,720
-FUCK YOU!
-
-931
-01:23:43,591 --> 01:23:45,490
-What did you say?
-
-932
-01:23:45,492 --> 01:23:47,259
-You wanna know the real reason your wife left you?
-
-933
-01:23:47,261 --> 01:23:49,461
-It wasn't the drinking,
-
-934
-01:23:49,463 --> 01:23:52,665
-or the stumbling home at all hours, or the rage.
-
-935
-01:23:52,667 --> 01:23:54,667
-It was the whining!
-
-936
-01:23:54,669 --> 01:23:56,270
-Nothing's ever your fault, is it?
-
-937
-01:23:57,237 --> 01:23:59,304
-You drink too much? Blame your job.
-
-938
-01:23:59,306 --> 01:24:02,173
-You hate your job? Blame the world.
-
-939
-01:24:02,175 --> 01:24:03,174
-You get kicked out of the house?
-
-940
-01:24:03,176 --> 01:24:04,977
-Blame your wife.
-
-941
-01:24:04,979 --> 01:24:07,245
-You attack me and tie me up?
-
-942
-01:24:07,247 --> 01:24:09,214
-Blame your brain!
-
-943
-01:24:09,216 --> 01:24:11,751
-You are your fucking brain, you dipshit!
-
-944
-01:24:16,156 --> 01:24:18,456
--You're saying it's my fault? -Yes!
-
-945
-01:24:18,458 --> 01:24:20,027
-But it's just the way you're wired, isn't it?
-
-946
-01:24:20,494 --> 01:24:21,761
-ISN'T IT?!
-
-947
-01:24:30,337 --> 01:24:32,073
-How do I stop doing that?
-
-948
-01:24:33,173 --> 01:24:35,076
-Honestly, I have no fucking idea.
-
-949
-01:24:38,312 --> 01:24:39,746
-I can't help you, Clark.
-
-950
-01:24:40,414 --> 01:24:42,083
-As much as I tried.
-
-951
-01:24:43,450 --> 01:24:45,152
-It's just not up to me.
-
-952
-01:24:48,856 --> 01:24:50,224
-I can't save anyone.
-
-953
-01:25:00,167 --> 01:25:01,701
-You know...
-
-954
-01:25:04,438 --> 01:25:06,040
-I don't think I want to change.
-
-955
-01:25:09,010 --> 01:25:10,044
-Then don't.
-
-956
-01:25:17,719 --> 01:25:18,952
-I like it in here.
-
-957
-01:25:23,591 --> 01:25:25,323
-For the first time in a long time,
-
-958
-01:25:25,325 --> 01:25:26,759
-I feel like I'm...
-
-959
-01:25:30,598 --> 01:25:32,133
-like I'm right where I'm supposed to be.
-
-960
-01:25:36,104 --> 01:25:37,770
-Then stay.
-
-961
-01:25:39,507 --> 01:25:40,974
-Right where you are.
-
-962
-01:25:44,812 --> 01:25:46,646
-But let me go.
-
-963
-01:26:16,077 --> 01:26:17,278
-I'm sorry.
-
-964
-01:26:21,348 --> 01:26:22,449
-About what?
-
-965
-01:26:53,346 --> 01:26:54,948
-What are you doing in here?
-
-966
-01:27:01,421 --> 01:27:03,123
-This is Mary.
-
-967
-01:27:04,491 --> 01:27:06,227
-She's our therapist.
-
-968
-01:27:07,494 --> 01:27:09,263
-She was just leaving.
-
-969
-01:27:11,298 --> 01:27:12,899
-No, no.
-
-970
-01:27:13,601 --> 01:27:15,135
-You don't have to worry.
-
-971
-01:27:17,205 --> 01:27:19,139
-She says we don't need to change.
-
-972
-01:27:31,418 --> 01:27:32,519
-It's okay.
-
-973
-01:27:34,488 --> 01:27:36,222
-It's just the way we're wired.
-
-974
-01:31:31,491 --> 01:31:32,992
-<i>Musulayo mutya abantu bensi eno</i>
-
-975
-01:31:32,994 --> 01:31:35,127
-<i>mukama abawe emirembe bulijo.</i>
-
-976
-01:31:51,445 --> 01:31:53,078
-<i>Üdözletet ülünk magyar...</i>
-
-977
-01:31:53,080 --> 01:31:55,748
-No...
-
-978
-01:32:15,569 --> 01:32:18,170
-<i>Hello from the children of Planet Earth.</i>
-
-979
-01:32:30,317 --> 01:32:32,786
-<i>Paz e felicidade a todos.</i>
-
-980
-01:32:42,897 --> 01:32:44,797
-<i>Zdrávstvuyte! Privétstvuyu Vas!</i>
-
-981
-01:33:02,917 --> 01:33:03,449
-<i>Bonjour tout le monde.</i>
-
-982
-01:35:22,089 --> 01:35:23,956
-Are you okay?
-
-983
-01:35:23,958 --> 01:35:25,057
-Who the fuck is that?
-
-984
-01:35:25,059 --> 01:35:26,358
-Who is it?
-
-985
-01:35:27,596 --> 01:35:28,827
-What happened?
-
-986
-01:35:32,534 --> 01:35:34,667
-What about the pirate? Can you still see the pirate?
-
-987
-01:35:34,669 --> 01:35:36,403
-And the other guys? Still going out the back?
-
-988
-01:36:36,564 --> 01:36:38,665
-<i>Musulayo mutya abantu bensi eno</i>
-
-989
-01:36:38,667 --> 01:36:40,932
-<i>mukama abawe emirembe bulijo.</i>
-
-990
-01:36:49,810 --> 01:36:51,476
-<i>Thài-khong pêng-iú, lín-hó.</i>
-
-991
-01:36:56,050 --> 01:36:58,383
-<i>Üdözletet ülünk magyar</i>
-
-992
-01:36:58,385 --> 01:37:02,321
-<i>nyelven minden békét szereö lénynek aVilágegyetemen.</i>
-
-993
-01:37:19,674 --> 01:37:21,675
-<i>Hello from the children of Planet Earth.</i>
-
-994
-01:38:04,619 --> 01:38:06,153
-Hello, my name is Phil.
-
-995
-01:38:08,656 --> 01:38:10,557
-And you're Mary, yeah?
-
-996
-01:38:13,394 --> 01:38:17,530
-Uh... I was hoping to ask you a few questions, just for...
-
-997
-01:38:19,333 --> 01:38:22,502
-some clarification on our end,
-
-998
-01:38:22,871 --> 01:38:23,937
-if that's okay.
-
-999
-01:38:30,277 --> 01:38:33,513
-Uh, first thing, um...
-
-1000
-01:38:33,515 --> 01:38:35,782
-could you establish how you, uh...
-
-1001
-01:38:36,751 --> 01:38:37,918
-got in here?
-
-1002
-01:38:41,155 --> 01:38:42,656
-I walked through a wall
-
-1003
-01:38:44,091 --> 01:38:45,759
-in the basement of a furniture store.
-
-1004
-01:38:47,695 --> 01:38:48,862
-Hmm.
-
-1005
-01:38:53,802 --> 01:38:56,436
-Can you confirm that this is the location in question?
-
-1006
-01:39:05,780 --> 01:39:08,515
-Okay, good. So you were shopping, or...
-
-1007
-01:39:10,885 --> 01:39:12,485
-I was looking for someone.
-
-1008
-01:39:17,391 --> 01:39:18,959
-Um...
-
-1009
-01:39:24,398 --> 01:39:25,799
-were you looking for this man,
-
-1010
-01:39:26,133 --> 01:39:27,534
-right here?
-
-1011
-01:39:31,606 --> 01:39:32,905
-Where am I right now?
-
-1012
-01:39:32,907 --> 01:39:34,808
-Could you just confirm for me?
-
-1013
-01:39:35,910 --> 01:39:37,643
-Is this man right here the man you were looking for?
-
-1014
-01:39:37,645 --> 01:39:39,211
-Please.
-
-1015
-01:39:39,213 --> 01:39:40,714
--Sorry, what was your name? -Phil.
-
-1016
-01:39:42,349 --> 01:39:44,684
-Please, Phil. Where am I?
-
-1017
-01:39:45,520 --> 01:39:46,753
-I'm not...
-
-1018
-01:39:54,328 --> 01:39:57,195
-I make, um... Sorry, my...
-
-1019
-01:39:57,197 --> 01:39:59,532
-Our company, we make...
-
-1020
-01:40:00,535 --> 01:40:02,069
-MRI machines.
-
-1021
-01:40:02,737 --> 01:40:05,136
-Or... I should say, um,
-
-1022
-01:40:05,138 --> 01:40:07,574
-we used to make MRI machines.
-
-1023
-01:40:09,009 --> 01:40:10,111
-Not anymore.
-
-1024
-01:40:11,345 --> 01:40:12,612
-That was before we...
-
-1025
-01:40:15,415 --> 01:40:16,950
--Before we found-- -You've been there.
-
-1026
-01:40:24,491 --> 01:40:26,693
-Yes, I have.
-
-1027
-01:40:29,229 --> 01:40:32,066
-And now, it's my job.
-
-1028
-01:40:33,500 --> 01:40:37,570
-Every day, I-I go in there and I just try to f...
-
-1029
-01:40:38,606 --> 01:40:40,241
-try to find out ev-even a little bit more.
-
-1030
-01:40:41,375 --> 01:40:44,111
-I-I map out areas to the best of my ability.
-
-1031
-01:40:45,045 --> 01:40:46,880
-And more and more, I'm convinced
-
-1032
-01:40:48,348 --> 01:40:52,518
-that nothing in our lifetime, Mary,
-
-1033
-01:40:52,520 --> 01:40:55,189
-n-nothing in-in maybe all of recorded history
-
-1034
-01:40:56,456 --> 01:40:59,659
-means more than this.
-
-1035
-01:41:01,495 --> 01:41:03,796
-But I don't understand it. I don't...
-
-1036
-01:41:03,798 --> 01:41:05,232
-I-I can't even describe it.
-
-1037
-01:41:05,833 --> 01:41:07,034
-It...
-
-1038
-01:41:07,535 --> 01:41:09,067
-It's like describing a dog
-
-1039
-01:41:09,069 --> 01:41:10,204
-to someone who's never seen a dog.
-
-1040
-01:41:12,172 --> 01:41:13,706
-And then asking them to draw it.
-
-1041
-01:41:20,147 --> 01:41:22,749
-Now you want me to... describe it.
-
-1042
-01:41:25,452 --> 01:41:28,486
-And then you'll write it down, and then what?
-
-1043
-01:41:28,488 --> 01:41:30,388
--Mary-- -You'll let me go?
-
-1044
-01:41:30,390 --> 01:41:31,857
-We all want the same thing here.
-
-1045
-01:41:31,859 --> 01:41:33,593
-We do.
-
-1046
-01:41:33,595 --> 01:41:37,764
-We just want to find out even a little bit more.
-
-1047
-01:41:39,266 --> 01:41:40,767
-What's gonna happen to me, Phil?
-
-1048
-01:41:46,941 --> 01:41:48,275
-That decision's not up to me.
-
-1049
-01:41:49,577 --> 01:41:51,011
+67
+00:09:00,620 --> 00:09:02,120
+我有人陪啊
+I mean, I'm not lonely.
+
+68
+00:09:03,070 --> 00:09:07,440
+我有店员 还有顾客
+I have employees and... customers.
+
+69
+00:09:07,460 --> 00:09:10,220
+我没说有人陪 我说的是只有一个人
+I didn't say lonely. I said alone.
+
+70
+00:09:11,090 --> 00:09:12,550
+好吧 是 但是...
+Yeah, well, I mean...
+
+71
+00:09:14,380 --> 00:09:16,080
+我老是伤人
+I hurt people.
+
+72
+00:09:16,090 --> 00:09:17,940
+我也不想 可我脑回路就是这样接的
+I don't want to. It's just the way I'm wired.
+
+73
+00:09:17,950 --> 00:09:20,110
+可能就该把自己关起来
+So maybe I deserve to be alone.
+
+74
+00:09:20,800 --> 00:09:22,990
+谁活该把自己关着吗？
+Do you think anyone deserves to be alone?
+
+75
+00:09:24,090 --> 00:09:25,930
+我说不好 但怎么说呢
+I don't know, but, you know,
+
+76
+00:09:25,950 --> 00:09:27,390
+也许这样也挺好
+maybe it's not such a bad thing.
+
+77
+00:09:28,550 --> 00:09:30,490
+自我封闭...
+Being alone feels...
+
+78
+00:09:30,500 --> 00:09:31,730
+已经刻进骨子里了
+deeply ingrained.
+
+79
+00:09:32,050 --> 00:09:33,380
+我理解
+I understand.
+
+80
+00:09:34,110 --> 00:09:37,340
+你有梦想 但老是受挫
+You've had dreams and a lot of resistance,
+
+81
+00:09:37,360 --> 00:09:40,490
+身边也没人支持你
+not a lot of support in realizing those dreams.
+
+82
+00:09:41,010 --> 00:09:43,680
+当伤害变成了...
+And when we've experienced...
+
+83
+00:09:44,410 --> 00:09:47,180
+一次次家常便饭
+hurt again and again,
+
+84
+00:09:47,700 --> 00:09:49,040
+你就会习惯性地想
+we start to expect it.
+
+85
+00:09:49,050 --> 00:09:50,610
+“哦 这路我熟”
+It's like, "Oh, I know this path.
+
+86
+00:09:50,620 --> 00:09:52,310
+“下场一定是一样的”
+I know where it goes."
+
+87
+00:09:53,580 --> 00:09:54,850
+所以...
 So...
 
+88
+00:09:55,470 --> 00:09:58,110
+你想不想摆脱这个死循环
+are you interested in forging a new path
+
+89
+00:09:58,120 --> 00:09:59,870
+走出一条不同的路？
+and see where that leads?
+
+90
+00:09:59,960 --> 00:10:01,400
+好啊
+Sure.
+
+91
+00:10:01,570 --> 00:10:03,440
+我来都来了 就试试吧
+Why not? You know, I'm here.
+
+92
+00:10:04,070 --> 00:10:05,270
+很好
+Great.
+
+93
+00:10:05,580 --> 00:10:07,380
+要不咱们重温一下...
+So I want to revisit
+
+94
+00:10:07,390 --> 00:10:09,590
+之前练过的那个...
+an exercise we've done before.
+
+95
+00:10:10,860 --> 00:10:11,790
+角色扮演
+The role play.
+
+96
+00:10:11,800 --> 00:10:13,450
+- 哦 演戏那套？ - 对
+- Oh, the acting thing? - Yeah.
+
+97
+00:10:13,460 --> 00:10:15,430
+- 我觉得太丢人了 - 我懂
+- I feel stupid doing that. - I know.
+
+98
+00:10:15,540 --> 00:10:17,510
+但既然还有点时间 就....
+But we have a few minutes. Let's, um...
+
+99
+00:10:18,880 --> 00:10:20,520
+试一下吧 稍微试试
+Yeah, let's try. A little bit.
+
+100
+00:10:21,080 --> 00:10:22,510
+好吧
+All right.
+
+101
+00:10:23,150 --> 00:10:24,490
+咱们先定个场景
+Let's set the scene.
+
+102
+00:10:25,440 --> 00:10:29,560
+回到芭芭拉离开你的那晚
+Let's go back to the night that Barbara left you.
+
+103
+00:10:30,680 --> 00:10:33,680
+你是说她把我从我自己家给撵出去的那晚？
+You mean the night she kicked me out of my own house?
+
+104
+00:10:33,690 --> 00:10:35,390
+对
+Yeah.
+
+105
+00:10:35,720 --> 00:10:37,320
+我演我自己
+I'm playing myself.
+
+106
+00:10:37,340 --> 00:10:38,380
+我演芭芭拉
+And I'll be Barbara.
+
+107
+00:10:38,400 --> 00:10:40,190
+别忘了 那可是我的房子
+It is my house, by the way.
+
+108
+00:10:40,860 --> 00:10:42,650
+房贷都是我在还
+I'm the one paying for it.
+
+109
+00:10:42,780 --> 00:10:45,020
+- 我知道 - 好吧
+- I know. - All right.
+
+110
+00:10:47,800 --> 00:10:49,910
+好 那...
+Okay, so, um...
+
+111
+00:10:50,910 --> 00:10:53,560
+那天我回家晚了 具体几点我忘了
+I got home late. I don't know how late.
+
+112
+00:10:53,920 --> 00:10:55,820
+那时候她已经睡了 应该是半夜了
+Uh... She was already asleep. Maybe midnight.
+
+113
+00:10:56,800 --> 00:10:58,750
+她一般睡得早... 算了 这不重要
+She usually goes to bed before... It doesn't matter.
+
+114
+00:10:58,760 --> 00:11:01,610
+重点是我当时在厨房 额...
+The point is, I was in the kitchen, and, um...
+
+115
+00:11:01,630 --> 00:11:04,130
+有个杯子 我把杯子打碎了
+the glass, I broke the glass, and...
+
+116
+00:11:04,390 --> 00:11:07,860
+她听见动静跑下来 然后...
+she comes running down to see what happened, and...
+
+117
+00:11:08,460 --> 00:11:09,880
+就闹起来了
+things escalated.
+
+118
+00:11:09,890 --> 00:11:11,330
+那你当时什么感受？
+And how do you feel?
+
+119
+00:11:12,370 --> 00:11:13,870
+我当时...
+Well, I was...
+
+120
+00:11:13,880 --> 00:11:16,600
+我当时喝多了...
+I was drunk, and, um...
+
+121
+00:11:16,650 --> 00:11:18,810
+我 我觉得自己挺蠢的 你懂吧
+I-I felt stupid, you know.
+
+122
+00:11:18,830 --> 00:11:21,830
+我就火了 因为...因为我把杯子打碎了
+I was angry, because... because I broke the glass.
+
+123
+00:11:21,840 --> 00:11:23,450
+你能对着我再说一遍吗？
+Can you say that to me?
+
+124
+00:11:23,470 --> 00:11:25,610
+- 对着你 对着芭芭拉？ - 对
+- Uh, what, to-to Barbara? - Yeah.
+
+125
+00:11:29,280 --> 00:11:32,550
+对不起 把你吵醒了
+Um... I'm sorry that I woke you.
+
+126
+00:11:34,960 --> 00:11:37,410
+要是你能早点回家
+Maybe if you'd come home earlier,
+
+127
+00:11:37,430 --> 00:11:39,300
+咱们今晚本该待在一起的
+we could have spent the evening together.
+
+128
+00:11:40,470 --> 00:11:42,350
+我 我在加班 你懂的
+No, I was... I was working, you know?
+
+129
+00:11:42,370 --> 00:11:44,110
+下班后我就直接回来了
+I came straight home after work.
+
+130
+00:11:44,120 --> 00:11:45,680
+诚实点吧
+Be honest with me, please.
+
+131
+00:11:46,690 --> 00:11:48,190
+你身上那酒气我都闻得见
+I can smell it on your breath.
+
+132
+00:11:50,940 --> 00:11:52,750
+我就去喝了一点啤酒
+I had a few beers.
+
+133
+00:11:52,770 --> 00:11:54,040
+一点是多少？
+Define a few.
+
+134
+00:11:54,050 --> 00:11:55,520
+唉 今天太累了
+Well, it was a hard day.
+
+135
+00:11:56,470 --> 00:11:57,670
+我得喝点放松放松
+I needed to wind down.
+
+136
+00:11:57,680 --> 00:11:59,720
+你不成天在放松吗？
+All you ever do is wind down.
+
+137
+00:12:00,190 --> 00:12:01,990
+成天呆在那店里
+You're always at the store.
+
+138
+00:12:06,150 --> 00:12:07,560
+你想要孩子 对吧？
+You want kids, right?
+
+139
+00:12:09,000 --> 00:12:10,700
+- 咱们都想要 - 但你要知道...
+- We both do. - Well, you know...
+
+140
+00:12:10,710 --> 00:12:12,040
+养孩子得花钱
+having a family takes money,
+
+141
+00:12:12,050 --> 00:12:13,630
+总得有人去挣钱
+which means someone has to work.
+
+142
+00:12:14,360 --> 00:12:15,990
+除非现在当学生
+Unless being a professional student
+
+143
+00:12:16,010 --> 00:12:17,780
+也能算份工作了
+is considered a job these days.
+
+144
+00:12:17,790 --> 00:12:20,100
+你不能这么说 你知道我得休学一段时间
+That's not fair. You know I had to take time off.
+
+145
+00:12:20,120 --> 00:12:21,730
+你自己跟不上 凭什么怪我
+Well, it's not my fault if you can't keep up.
+
+146
+00:12:21,740 --> 00:12:22,940
+连法学院都搞不定
+How are you going to be a lawyer
+
+147
+00:12:22,960 --> 00:12:24,910
+还想怎么当律师？
+if you can't even handle law school?
+
+148
+00:12:26,360 --> 00:12:27,880
+当你这个三十岁的“大一新生”
+Who do you think pays for everything
+
+149
+00:12:27,900 --> 00:12:29,170
+在学校里到处瞎逛时
+while you're gallivanting around campus
+
+150
+00:12:29,180 --> 00:12:30,930
+也不想想谁在供你上学？
+like a 30-year-old freshman?
+
+151
+00:12:31,480 --> 00:12:33,150
+提示你一下 那就是我
+I'll give you a hint: it's me.
+
+152
+00:12:34,050 --> 00:12:36,180
+你上学是我供 休学也是我供
+I pay for your school, I pay for your time off school,
+
+153
+00:12:36,190 --> 00:12:37,670
+连住这儿都还是我在供
+I pay for the roof over your head.
+
+154
+00:12:37,690 --> 00:12:39,130
+- 我能说句话吗？ - 不 我还没说完
+- Can I talk now? - No! No.
+
+155
+00:12:39,150 --> 00:12:41,040
+我倒想知道 要是你真混到毕业了
+Because I'd like to know, what do you think happens
+
+156
+00:12:41,060 --> 00:12:42,380
+又会发生什么？
+if you do manage to graduate?
+
+157
+00:12:42,400 --> 00:12:44,810
+生个娃 然后继续把账单甩给我吗？
+You know, you pop out a kid, then leave me with the bill.
+
+158
+00:12:45,560 --> 00:12:48,030
+还是你天天忙你的第一份工作
+Or am I stuck at home changing diapers because
+
+159
+00:12:48,040 --> 00:12:50,160
+让我在家里给娃换屎尿？
+you're too busy working for the first time in your life?
+
+160
+00:12:50,180 --> 00:12:52,340
+- 你这话太过分了 - 我只是说实话
+- Now you're being cruel. - I'm being honest.
+
+161
+00:12:52,840 --> 00:12:54,720
+在我看来这就是你的追求
+I thought that's what you always wanted.
+
+162
+00:12:56,010 --> 00:12:57,900
+你没考上建筑师 并不代表...
+Just because you didn't get to be an architect doesn't mean--
+
+163
+00:12:57,910 --> 00:12:59,540
+老子就是建筑师！
+I am a fucking architect!
+
+164
+00:13:00,950 --> 00:13:03,850
+我之所以得成天在那破店里卖这些玩意儿
+God damn it, I'm just stuck selling shit furniture because
+
+165
+00:13:03,870 --> 00:13:07,040
+就是因为某个懒猪在家混吃等死 根本不肯出力
+someone won't get off their fat fucking ass and help me!
+
+166
+00:13:15,140 --> 00:13:16,570
+克拉克 现在感觉怎么样？
+How do you feel, Clark?
+
+167
+00:13:21,970 --> 00:13:23,560
+我在跟谁说话呢？
+Who am I talking to?
+
+168
+00:13:23,580 --> 00:13:25,340
+- 和我 此刻 此地 - 哦 你啊 好吧
+- Me, here, now. - You? Okay.
+
+169
+00:13:26,600 --> 00:13:27,900
+那个...
+Um...
+
+170
+00:13:29,050 --> 00:13:31,190
+对不起 我不是有意说...
+I'm sorry, I didn't mean to, uh...
+
+171
+00:13:31,300 --> 00:13:33,150
+就是 刚才发火了
+...you know, get angry
+
+172
+00:13:33,170 --> 00:13:35,520
+情绪失控了那种
+or lose my temper or whatever.
+
+173
+00:13:35,900 --> 00:13:36,960
+我知道
+I know.
+
+174
+00:13:37,500 --> 00:13:39,700
+练习的目的就在这儿
+That's the purpose of the whole exercise.
+
+175
+00:13:40,880 --> 00:13:42,250
+这是一个不错的开始
+This is a good start.
+
+176
+00:13:42,770 --> 00:13:44,460
+正视你的感受
+To feel what you feel,
+
+177
+00:13:44,470 --> 00:13:46,630
+然后慢慢找出一条新路
+and then learn to identify a new path.
+
+178
+00:13:48,050 --> 00:13:50,850
+你的反应其实很正常
+Your reaction was actually quite normal.
+
+179
+00:13:53,850 --> 00:13:55,290
+呵呵 我就这德行
+Well, that's me!
+
+180
+00:13:56,230 --> 00:13:59,030
+哟 伙计们 瞧瞧这儿啊！
+Well, ahoy there, mateys!
+
+181
+00:13:59,040 --> 00:14:03,080
+还打算把金币全砸在那些冤大头家具上？
+Tired of spending your hard-earned doubloons on overpriced furniture?
+
+182
+00:14:03,100 --> 00:14:05,990
+想买惊掉下巴的跳海价吗？
+Looking for deals that'll shiver your timbers?
+
+183
+00:14:06,000 --> 00:14:09,750
+赶快来克船长的家具帝国！
+Then come on down to Cap'n Clark's Ottoman Empire,
+
+184
+00:14:09,770 --> 00:14:13,580
+圣克拉拉谷的头号家具大卖场
+the Santa Clara Valley's favorite warehouse and showrooms.
+
+185
+00:14:09,770 --> 00:14:13,590
+{\an8}【圣克拉拉谷：位于美国西部】
+
+186
+00:14:13,590 --> 00:14:15,660
+卧室 客厅 餐厅 书房 浴室
+You'll find bedrooms, living rooms,
+
+187
+00:14:15,680 --> 00:14:18,680
+全屋家具 应有尽有！
+dinettes, dens and bathrooms aplenty.
+
+188
+00:14:18,690 --> 00:14:21,210
+刚买房的？来这儿就对了！
+First-time homeowners? We've got ya.
+
+189
+00:14:21,230 --> 00:14:23,620
+新当爹妈的？
+New parents looking for Billy's first crib?
+
+190
+00:14:23,630 --> 00:14:24,880
+来这就对了！
+We've got ya!
+
+191
+00:14:24,890 --> 00:14:26,830
+时髦现代样样全
+From the latest in modern design
+
+192
+00:14:26,850 --> 00:14:28,970
+经典复古通通有
+to the classic styles of yesteryear,
+
+193
+00:14:28,980 --> 00:14:31,440
+价格低到没对手
+it's all here and it's all a steal.
+
+194
+00:14:32,000 --> 00:14:33,300
+怎么啦 波莉？
+What's that, Polly?
+
+195
+00:14:33,320 --> 00:14:34,890
+信用卡里钱不够？
+You're worried about credit?
+
+196
+00:14:34,910 --> 00:14:38,910
+哈哈！在克船长这儿 钱不够 没问题！
+Ha! Cap'n Clark says no credit, no problem!
+
+197
+00:14:38,920 --> 00:14:41,010
+快来畅游顶级家具海洋
+Sail the high seas of high quality,
+
+198
+00:14:41,020 --> 00:14:43,660
+把钱的问题统统抛在脑后
+and leave your money problems at the door.
+
+199
+00:14:43,670 --> 00:14:44,830
+今天就来店里
+Walk in today
+
+200
+00:14:44,840 --> 00:14:46,870
+把梦想直接搬回家！
+and get your dream sectional lounger,
+
+201
+00:14:46,890 --> 00:14:49,890
+桌椅板凳 灯具摆件随便挑！
+kitchen table, floor lamp, and bed frame here
+
+202
+00:14:49,900 --> 00:14:52,670
+克船长的家具帝国
+at Cap'n Clark's Ottoman Empire,
+
+203
+00:14:52,690 --> 00:14:55,490
+就在680号公路出口 国会路和麦基路口
+located at Capitol and McKee, just off the 680.
+
+204
+00:14:56,200 --> 00:14:57,840
+嘿吼！赶紧过来...
+Arr! Walk in today...
+
+205
+00:14:58,980 --> 00:15:00,310
+翘起二郎腿
+...kick your feet back,
+
+206
+00:15:00,330 --> 00:15:02,780
+当你的家具大王！
+and enjoy an empire of your own!
+
+207
+00:15:02,790 --> 00:15:05,200
+毕竟 国王得有王座
+For every sultan deserves a throne,
+
+208
+00:15:05,210 --> 00:15:07,200
+而你的专属王座 就在这儿等着你
+and we've got one with your name on it,
+
+209
+00:15:07,210 --> 00:15:08,970
+就在克船长的...
+here at Cap'n Clark's--
+
+210
+00:15:09,800 --> 00:15:10,700
+卧槽
+No way!
+
+211
+00:15:11,300 --> 00:15:13,140
+- 克拉克 没事吧？ - 快把相机关了
+- Clark, you good? - Turn the camera off.
+
+212
+00:15:13,150 --> 00:15:14,860
+不不 拍得好 这种花絮才有趣
+No, no, it's good. It's outtake stuff, dude.
+
+213
+00:15:14,880 --> 00:15:17,260
+- 赶紧给老子关掉 - 好吧...我的天
+- Turn the fucking camera off. - Okay... Jesus...
+
+214
+00:15:19,520 --> 00:15:21,010
+那个 要帮忙吗？
+You, uh, you need help?
+
+215
+00:15:21,030 --> 00:15:22,760
+不用 我自己来
+No, I got it, I got it.
+
+216
+00:15:23,890 --> 00:15:25,010
+那个...
+Um...
+
+217
+00:15:25,030 --> 00:15:27,390
+- 还要重拍吗？ - 不拍了
+- Are we going again, or...? - No.
+
+218
+00:15:27,400 --> 00:15:29,270
+小凯 去开门营业吧
+Kat, you can open the store now.
+
+219
+00:15:29,590 --> 00:15:31,330
+早就开了
+We've been open.
+
+220
+00:15:30,730 --> 00:15:34,200
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+221
+00:15:33,370 --> 00:15:35,640
+老哥 我还是没搞懂
+You know, dude, I still don't get it.
+
+222
+00:15:34,270 --> 00:15:38,590
+{\an8}（结束南非种族隔离）
+
+223
+00:15:35,660 --> 00:15:38,570
+你演的是海盗还是国王？
+Are you, like, a pirate or a sultan?
+
+224
+00:15:38,590 --> 00:15:40,930
+- 最好还是明确一下 - 我是个...闭嘴
+- Just be good to establish it. - I'm a... Shut up.
+
+225
+00:15:40,950 --> 00:15:41,790
+{\an8}（结束南非种族隔离）
+
+226
+00:15:41,800 --> 00:15:44,770
+刨花板做的破椅子
+Piece of cheap particleboard bullshit.
+
+227
+00:15:45,210 --> 00:15:46,740
+快把这东西弄走 听到没？
+Clear this stuff up, will you?
+
+228
+00:15:47,670 --> 00:15:48,840
+拿着
+Here.
+
+229
+00:15:49,790 --> 00:15:52,820
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+230
+00:15:59,110 --> 00:16:04,220
+{\an8}（1990年 6月）
+
+231
+00:16:05,400 --> 00:16:06,400
+该死
+Shit.
+
+232
+00:16:06,890 --> 00:16:07,820
+抱歉
+Sorry about that.
+
+233
+00:16:08,690 --> 00:16:10,030
+怎么样 查出来没？
+How's it looking?
+
+234
+00:16:10,050 --> 00:16:11,610
+电表没问题
+Meter reads fine.
+
+235
+00:16:11,630 --> 00:16:14,100
+电费要是高 只能是你自己用得多
+If your bill's coming in high, that's on you.
+
+236
+00:16:14,770 --> 00:16:17,300
+那跳电的事怎么说 打烊后就出现
+What about the outages? That happens after hours.
+
+237
+00:16:17,880 --> 00:16:21,080
+没准是荧光灯出问题 导致跳闸了
+Don't know. Fluorescents must be tripping a breaker.
+
+238
+00:16:22,180 --> 00:16:25,600
+但是一打烊我就把顶灯都关了
+I turn the overheads off when the store closes,
+
+239
+00:16:25,610 --> 00:16:26,910
+还没闪之前就关了
+before the power gets weird.
+
+240
+00:16:27,730 --> 00:16:29,770
+而且如果真是那样 电费不该更少吗？
+Anyway, wouldn't that just make the bills go down?
+
+241
+00:16:32,920 --> 00:16:34,430
+配电箱在哪儿？
+Where's your breaker box?
+
+242
+00:16:36,050 --> 00:16:37,000
+虽然我不是专家
+I'm no expert,
+
+243
+00:16:37,010 --> 00:16:39,990
+但我之前看过了 没看出什么问题
+but I checked earlier, and everything looks okay.
+
+244
+00:16:40,010 --> 00:16:42,500
+- 你说灯会闪 - 对 整个店都闪
+- You said the lights flicker. - Yeah, the whole store does.
+
+245
+00:16:42,510 --> 00:16:43,920
+- 是吗？ - 只是不一起闪
+- Huh. - Just not at the same time.
+
+246
+00:16:43,930 --> 00:16:45,240
+有一晚是楼上
+One night, I lose the power upstairs.
+
+247
+00:16:45,250 --> 00:16:48,190
+下一晚就变成了楼下 完全没规律
+Next night, it's down here. There's no rhyme or...
+
+248
+00:16:55,530 --> 00:16:56,960
+谁装的这鬼东西？
+Who the hell installed this thing?
+
+249
+00:16:57,710 --> 00:16:59,730
+这房子买来时 回路就这样接的
+Well, the building came wired.
+
+250
+00:17:00,130 --> 00:17:02,110
+虽然有点年头 但也不至于不能用
+I mean, it's dated, but it's not that old.
+
+251
+00:17:00,470 --> 00:17:03,350
+{\an8}（克拉克）
+
+252
+00:17:08,360 --> 00:17:09,420
+你来看看这个
+Take a look at this.
+
+253
+00:17:14,160 --> 00:17:15,260
+之前没这东西
+That wasn't there before.
+
+254
+00:17:16,050 --> 00:17:17,050
+也许...
+Or...
+
+255
+00:17:17,970 --> 00:17:20,420
+是我没注意到 我不是专家
+maybe I didn't notice. Like I say, I'm no expert.
+
+256
+00:17:20,430 --> 00:17:23,170
+为...为什么是斜着的？
+Why-why is it... why is it going that way?
+
+257
+00:17:23,380 --> 00:17:25,090
+应该问问
+Better question:
+
+258
+00:17:25,660 --> 00:17:27,360
+这东西到底连到哪儿了
+what is it even connected to?
+
+259
+00:17:28,830 --> 00:17:30,030
+懂吗？
+Huh?
+
+260
+00:17:37,220 --> 00:17:39,490
+小凯 楼上灯怎么样？
+Kat! How's the power?
+
+261
+00:17:40,510 --> 00:17:41,530
+干嘛？
+What?
+
+262
+00:17:41,540 --> 00:17:43,380
+上面有反应吗？
+Anything happen up there?
+
+263
+00:17:43,400 --> 00:17:44,600
+怎么搞的
+What the hell?
+
+264
+00:17:45,210 --> 00:17:46,550
+老鼠又来了
+The rat's back.
+
+265
+00:17:46,820 --> 00:17:48,720
+- 灯还正常吧 - 正常
+- But the power's on. - Yeah.
+
+266
+00:17:48,730 --> 00:17:50,220
+我还以为咱们已经把老鼠给干掉了
+I thought we killed the rat.
+
+267
+00:17:50,240 --> 00:17:51,560
+咱们才干掉了一只
+We killed  "a"  rat.
+
+268
+00:17:53,140 --> 00:17:55,630
+- 这就是问题原因吗？ - 没道理啊
+- So is this the problem? - Don't see how.
+
+269
+00:17:55,650 --> 00:17:57,510
+电路根本不走这里
+Power can't even go through this part of the circuit.
+
+270
+00:17:58,220 --> 00:17:59,420
+它纯粹是...
+It's just...
+
+271
+00:17:59,730 --> 00:18:01,000
+莫名其妙出现在这
+there.
+
+272
+00:18:01,140 --> 00:18:04,500
+像被哪个笨蛋随便塞进去的
+Like some schmo just stuck it in there.
+
+273
+00:18:05,480 --> 00:18:06,740
+没错
+Yeah.
+
+274
+00:18:14,650 --> 00:18:17,780
+你是否觉得生活像被隔在了一层玻璃之后？
+Do you ever feel like you're living behind glass?
+
+275
+00:18:17,790 --> 00:18:19,610
+看着世界在眼前上演
+Watching life happen,
+
+276
+00:18:19,630 --> 00:18:21,900
+自己却只能旁观？
+but never really stepping into it?
+
+277
+00:18:22,990 --> 00:18:26,490
+现在 是时候打开心灵之窗了
+Maybe it's time to open the window within.
+
+278
+00:18:27,130 --> 00:18:29,640
+你可以重新定义自己的人生
+You can be the author of your own design
+
+279
+00:18:29,660 --> 00:18:31,640
+我们每个人 都值得拥有另一次机会
+because we all deserve another chance
+
+280
+00:18:31,650 --> 00:18:33,560
+让梦想重新启航
+to fulfill our dreams.
+
+281
+00:18:33,640 --> 00:18:36,120
+只要你相信改变是可能的
+The moment you believe change is possible,
+
+282
+00:18:36,130 --> 00:18:37,910
+你就已经开始了这段旅程
+you've already begun.
+
+283
+00:18:37,920 --> 00:18:39,580
+立即订购《心灵之窗》
+Order The Window Within
+
+284
+00:18:38,880 --> 00:18:39,580
+{\an8}(《心灵之窗》)
+
+285
+00:18:39,600 --> 00:18:42,180
+以及配套的三辑音频课程
+and the companion three-part audio program,
+
+286
+00:18:39,600 --> 00:18:42,190
+{\an8}（突破障碍 掌控人生
+打破那扇窗）
+
+287
+00:18:42,190 --> 00:18:45,490
+《引导之门》 均由玛丽·克莱因医生倾力呈现
+Guided Openings, by Dr. Mary Klein.
+
+288
+00:18:43,780 --> 00:18:47,870
+{\an8}（三辑音频课程）
+
+289
+00:18:45,510 --> 00:18:48,100
+现价24.95美元 运费另计
+Available now for $24.95 plus shipping.
+
+290
+00:18:48,920 --> 00:18:53,290
+请拨打1-800-555-0199
+Call 1-800-555-0199.
+
+291
+00:18:54,350 --> 00:18:55,220
+{\an8}（克里斯·弗格森公司出品）
+
+292
+00:18:54,760 --> 00:18:57,320
+开辟一条新路 永远不晚
+It's never too late to forge a new path.
+
+293
+00:18:55,240 --> 00:18:58,430
+{\an8}【克里斯·弗格森：《后室》电影制片人】
+
+294
+00:18:59,350 --> 00:19:01,720
+“你居然还在信任纸质文件夹”
+"So, you're still trusting paper folders,
+
+295
+00:19:01,740 --> 00:19:04,050
+“贴错标签的磁带 还有个谁拿把钥匙”
+"mislabeled tapes, and a locked filing cabinet
+
+296
+00:19:04,070 --> 00:19:06,000
+“都能开的文件柜？”
+"that anyone with a spare key can open?"
+
+297
+00:19:06,010 --> 00:19:08,250
+“信息决定企业的生死”
+"Your business runs on information,
+
+298
+00:19:08,260 --> 00:19:10,860
+“但大多数公司却把数据当成了堆杂物...”
+"yet most companies treat their data like clutter..."
+
+299
+00:19:14,920 --> 00:19:17,060
+那个信号不是小行星
+That small blip is not an asteroid.
+
+300
+00:19:17,070 --> 00:19:18,950
+是一艘飞船 它咬住我们了
+It's a spaceship, and it's on our tail.
+
+301
+00:19:18,620 --> 00:19:28,910
+{\an8}（1970年圣克鲁斯现代主义建筑设计论坛）
+
+302
+00:19:18,970 --> 00:19:21,270
+- 它在靠近 - 不可能 里格娜
+- It's getting closer. - Impossible, Rigna.
+
+303
+00:19:21,290 --> 00:19:23,810
+他们不可能发现我们 雷达隐身还开着呢
+They couldn't have spotted us. We have our radar shield on.
+
+304
+00:19:23,830 --> 00:19:26,370
+我知道 长官 但他们追上来了
+I know that, sir, but they are gaining on us.
+
+305
+00:19:26,700 --> 00:19:28,960
+难道地球人有某种秘密设备
+Is it possible Earth has a secret device
+
+306
+00:19:28,980 --> 00:19:30,520
+能穿透我们的雷达隐身罩？
+that can penetrate our radar shield?
+
+307
+00:20:06,430 --> 00:20:08,070
+垃圾
+Piece of shit.
+
+308
+00:20:55,270 --> 00:20:58,070
+“为什么 你要这样对待自己？”
+"Why did you do this to yourself?"
+
+309
+00:21:02,030 --> 00:21:03,390
+“你是怎么来到这里的？”
+"How did you get here?"
+
+310
+00:21:06,940 --> 00:21:10,860
+“你的意识 就像一个装满记忆的房间”
+"Your consciousness is a room full of memories
+
+311
+00:21:10,880 --> 00:21:13,350
+“它在时刻重构 在无限演变”
+"that is constantly evolving."
+
+312
+00:21:12,640 --> 00:21:15,070
+{\an8}（收音机 磁带）
+
+313
+00:21:15,550 --> 00:21:17,160
+“在现实生活中”
+"But as you walk through life,
+
+314
+00:21:17,930 --> 00:21:20,720
+“缺乏引导的心灵会开始筑墙”
+"the untrained mind can start to build walls,
+
+315
+00:21:22,190 --> 00:21:23,700
+“建立屏障”
+"put up barriers
+
+316
+00:21:24,750 --> 00:21:27,160
+“隔绝外界”
+"to protect itself from the outside world."
+
+317
+00:21:28,540 --> 00:21:30,500
+“这是本能反应”
+"It's a natural response."
+
+318
+00:21:31,520 --> 00:21:33,830
+“我们常常对此毫无察觉”
+"Something we are often unaware of."
+
+319
+00:21:34,750 --> 00:21:36,720
+“但久而久之”
+"But if gone unchecked,
+
+320
+00:21:36,730 --> 00:21:38,640
+“你会发现 自己被囚禁了”
+"it can leave you feeling trapped."
+
+321
+00:21:40,350 --> 00:21:42,660
+“你会说服自己”
+"You can become convinced that the world outside
+
+322
+00:21:42,670 --> 00:21:44,730
+“外面的世界不需要你”
+"is better off without you."
+
+323
+00:21:45,130 --> 00:21:47,720
+“你会告诉自己 自己不配被爱”
+"That you never deserve the relationships you've had."
+
+324
+00:21:48,610 --> 00:21:51,240
+“于是 你只能蜷缩在窗后”
+"Resigned to watch your life unfold
+
+325
+00:21:51,250 --> 00:21:53,350
+“当个旁观者 静静地看着生活上演”
+"from behind a lone window."
+
+326
+00:21:55,450 --> 00:21:57,790
+“让我来帮你打开”
+"I can help you open it now
+
+327
+00:21:58,910 --> 00:22:00,910
+“因为窗户根本没锁”
+"because the window isn't locked."
+
+328
+00:22:02,830 --> 00:22:04,890
+“门也没有封死”
+"The latch was never broken."
+
+329
+00:22:08,180 --> 00:22:09,980
+“准备好跨过去了吗？”
+"Are you ready to step through?"
+
+330
+00:22:12,740 --> 00:22:15,810
+“去夺回属于你的东西”
+"So that you can reclaim that which was once yours...
+
+331
+00:22:17,510 --> 00:22:20,470
+“去重新主宰你的生命”
+"and take back control of your life."
+
+332
+00:22:22,350 --> 00:22:24,220
+“去过你想过的人生”
+"The life you want to be living."
+
+333
+00:22:25,820 --> 00:22:28,370
+“卸下过去的重负”
+"Unburdened by the traumas of the past."
+
+334
+00:22:29,450 --> 00:22:32,170
+“走出那些你亲手打造的围墙”
+"Free of the confines you had built."
+
+335
+00:22:32,180 --> 00:22:33,780
+...所以我想...
+...to leave, and so I decided...
+
+336
+00:22:33,810 --> 00:22:37,330
+“开辟一条属于你自己的路”
+"And free to choose a path of your own design."
+
+337
+00:23:06,960 --> 00:23:10,490
+{\an8}（家庭牙科诊所 米莱服饰）
+
+338
+00:23:10,500 --> 00:23:13,560
+{\an8}（停）
+
+339
+00:23:14,130 --> 00:23:16,440
+“嘿 牛仔们 快瞧这边！”
+"Well, hey there, cowboys and cowgirls!"
+
+340
+00:23:16,460 --> 00:23:18,110
+“想在格兰德河这块地盘”
+"Are you looking to rustle up the best deals
+
+341
+00:23:16,460 --> 00:23:19,660
+{\an8}【格兰德河：位于美国南部】
+
+342
+00:23:18,120 --> 00:23:19,460
+“抢到最便宜的家具吗？”
+"this side of the Rio Grande?"
+
+343
+00:23:19,670 --> 00:23:20,300
+混球
+Prick.
+
+344
+00:23:20,310 --> 00:23:23,400
+“咿吼！快来大韦恩家具店！”
+"Well, yeehaw, I say yeehaw!"
+
+345
+00:23:23,420 --> 00:23:25,240
+“买了我们的餐厅套装”
+"Here at Big Wayne's, our dining room sets
+
+346
+00:23:25,260 --> 00:23:27,760
+“就跟挖到金矿一样！”
+"are gonna make you feel like you just struck gold."
+
+347
+00:23:27,770 --> 00:23:30,360
+“别去管那些破店”
+"So don't even think about going anyplace else."
+
+348
+00:23:30,370 --> 00:23:32,680
+“认准大韦恩 认准金色招...”
+"Big Wayne's, just look for the golden--"
+
+349
+00:23:30,370 --> 00:23:32,680
+{\an8}（大韦恩家具店）
+
+350
+00:23:48,490 --> 00:23:49,760
+搞什么...
+What the...
+
+351
+00:23:57,030 --> 00:23:57,770
+{\an8}（由此下楼）
+
+352
+00:23:59,810 --> 00:24:01,140
+{\an8}（由此下楼）
+
+353
+00:24:06,570 --> 00:24:07,390
+该死
+Stupid...
+
+354
+00:24:07,400 --> 00:24:09,770
+看老子怎么修理你
+Fuck! Piece of shit!
+
+355
+00:29:04,380 --> 00:29:06,800
+{\an8}（亭亻）
+
+356
+00:29:48,690 --> 00:29:52,780
+（粤语）“各位好吗？祝各位平安健康快乐”
+
+357
+00:29:53,270 --> 00:29:55,690
+（阿卡德语）“愿一切都很好”
+
+358
+00:29:56,670 --> 00:29:59,300
+（俄语）“你好 欢迎你们”
+
+359
+00:29:59,700 --> 00:30:02,550
+（泰语）“远方土地的朋友们 你们好”
+
+360
+00:30:02,570 --> 00:30:06,290
+（泰语）“在这片土地上的我们 向你们所有人致以诚挚的问候”
+
+361
+00:30:06,640 --> 00:30:09,760
+（阿拉伯语）“我们向星际中的朋友们致以问候”
+
+362
+00:30:09,940 --> 00:30:12,730
+（阿拉伯语）“但愿时间能让我们相聚”
+
+363
+00:30:12,740 --> 00:30:15,010
+（罗马尼亚语）“向大家问好”
+
+364
+00:30:16,140 --> 00:30:17,980
+（法语）“大家好”
+
+365
+00:30:19,250 --> 00:30:20,810
+（缅甸语）“你们好吗？”
+
+366
+00:30:22,660 --> 00:30:23,860
+（希伯来语）“你好”
+
+367
+00:30:24,770 --> 00:30:26,830
+（西班牙语）“你好 向大家致敬”
+
+368
+00:30:28,280 --> 00:30:29,830
+（印尼语）“女士们先生们 晚上好”
+
+369
+00:30:29,840 --> 00:30:31,140
+（印尼语）“再见...”
+
+370
+00:30:31,140 --> 00:30:33,750
+有人吗？
+Hello?
+
+371
+00:30:33,770 --> 00:30:35,860
+（克丘亚语）“用克丘亚语向你们”
+
+372
+00:30:35,880 --> 00:30:38,650
+（克丘亚语）“每一个人问好”
+
+373
+00:30:38,660 --> 00:30:39,890
+（旁遮普语）“欢迎你们”
+
+374
+00:30:41,600 --> 00:30:42,600
+（赫梯语）“你们好”
+
+375
+00:30:42,640 --> 00:30:45,410
+（孟加拉语）“你好 愿到处都有和平”
+
+376
+00:30:45,480 --> 00:30:47,880
+（拉丁语）“无论你们是谁 你们好”
+
+377
+00:30:48,070 --> 00:30:50,870
+（拉丁语）“我们对你们心怀善意”
+
+378
+00:30:51,050 --> 00:30:53,660
+（拉丁语）“并带着和平穿梭星际”
+
+379
+00:30:53,720 --> 00:30:54,860
+（亚兰语）“你好”
+
+380
+00:30:56,290 --> 00:30:58,550
+（荷兰语）“向每个人致以诚挚的问候”
+
+381
+00:30:58,560 --> 00:31:00,220
+（德语）“向所有人致以诚挚的问候”
+
+382
+00:31:01,640 --> 00:31:03,770
+（乌尔都语）“愿和平与你们同在”
+
+383
+00:31:03,780 --> 00:31:07,680
+（乌尔都语）“我们代表地球的居民”
+
+384
+00:31:07,690 --> 00:31:10,430
+（乌尔都语）“欢迎你们”
+
+385
+00:31:10,450 --> 00:31:12,320
+搞什么鬼？
+What the fuck?
+
+386
+00:31:12,360 --> 00:31:14,070
+（越南语）“...致以友好的问候”
+
+387
+00:31:14,080 --> 00:31:16,650
+（土耳其语）“亲爱的说土耳其语的朋友们”
+
+388
+00:31:16,670 --> 00:31:19,220
+（土耳其语）“祝你们有个美好的早晨”
+
+389
+00:31:19,420 --> 00:31:21,370
+（日语）“你好 你们好吗？”
+
+390
+00:31:22,320 --> 00:31:25,460
+（印地语）“来自地球居民的问候”
+
+391
+00:31:25,510 --> 00:31:28,650
+（威尔士语）“祝你们现在及未来健康”
+
+392
+00:31:28,690 --> 00:31:30,650
+（意大利语）“致以最美好的祝愿和问候”
+
+393
+00:31:31,500 --> 00:31:32,620
+（僧伽罗语）“健康长寿”
+
+394
+00:31:34,350 --> 00:31:36,470
+（恩古尼语）“向伟大的你们致意”
+
+395
+00:31:36,480 --> 00:31:39,300
+（恩古尼语）“祝你们永恒繁荣”
+
+396
+00:31:39,320 --> 00:31:41,190
+（塞索托语）“向伟大的你们致以问候”
+
+397
+00:31:42,710 --> 00:31:44,540
+（吴语）“祝大家好”
+
+398
+00:31:45,930 --> 00:31:48,700
+（亚美尼亚语）“向宇宙中存在的...”
+
+399
+00:31:48,710 --> 00:31:52,980
+（亚美尼亚语）“所有生命致以问候”
+
+400
+00:31:53,360 --> 00:31:54,720
+（朝鲜语）“你们好”
+
+401
+00:31:56,410 --> 00:31:59,440
+（波兰语）“欢迎 来自异世界的生命”
+
+402
+00:31:59,560 --> 00:32:03,430
+（尼泊尔语）“地球人祝愿你们拥有一个和平的未来”
+
+403
+00:32:03,610 --> 00:32:06,830
+（汉语）“各位都好吧？我们都很想念你们”
+
+404
+00:32:06,840 --> 00:32:08,970
+（汉语）“有空请到这儿来玩”
+
+405
+00:32:08,980 --> 00:32:11,510
+（伊拉族语）“祝愿你们一切都好”
+
+406
+00:32:12,110 --> 00:32:14,580
+（瑞典语）“来自地球...”
+
+407
+00:32:14,590 --> 00:32:18,780
+（瑞典语）“伊萨卡小镇一名程序员的问候”
+
+408
+00:32:19,380 --> 00:32:21,920
+（齐切瓦语）“其他星球的朋友们 你们好吗？”
+
+409
+00:32:22,690 --> 00:32:26,120
+（古加拉特语）“地球人类向宇宙各处”
+
+410
+00:32:26,130 --> 00:32:30,250
+（古加拉特语）“致以诚挚问候”
+
+411
+00:32:30,270 --> 00:32:36,670
+（古加拉特语）“期待着收到你们的回复”
+
+412
+00:32:37,190 --> 00:32:41,000
+（乌克兰语）“来自我们世界的问候”
+
+413
+00:32:41,000 --> 00:32:43,520
+（乌克兰语）“祝愿你们幸福健康 长久繁荣”
+
+414
+00:32:43,710 --> 00:32:48,190
+（波斯语）“向遥远天际的....”
+
+415
+00:32:59,590 --> 00:33:04,080
+（奥里亚语）“来自太阳系第三颗行星...”
+
+416
+00:33:04,100 --> 00:33:08,020
+（奥里亚语）“地球的问候”
+
+417
+00:33:08,100 --> 00:33:10,560
+（干达语）“向宇宙所有族群致意”
+
+418
+00:33:10,570 --> 00:33:12,660
+（干达语）“愿和平永远伴随你们”
+
+419
+00:33:12,680 --> 00:33:21,130
+（马拉地语）“地球人民向你们传递美好的祝愿”
+
+420
+00:33:21,350 --> 00:33:25,200
+（台语）“太空的朋友们 你们好”
+
+421
+00:33:25,210 --> 00:33:28,900
+（台语）“吃过饭没？来我们这儿坐坐”
+
+422
+00:33:26,520 --> 00:33:29,090
+{\an8}（异步研究所雇员 纳伦·沃恩）
+
+423
+00:33:29,210 --> 00:33:34,800
+（匈牙利语）“用匈牙利语向宇宙中所有热爱和平的生命致意”
+
+424
+00:33:35,200 --> 00:33:37,480
+（泰卢固语）“说泰卢固语的人们...”
+
+425
+00:33:37,580 --> 00:33:39,180
+有人吗？
+Hello?
+
+426
+00:33:39,190 --> 00:33:42,310
+（捷克语）“亲爱的朋友们 祝你们万事如意”
+
+427
+00:33:42,490 --> 00:33:46,070
+（卡纳达语）“代表说卡纳达语的人们 向你们致以美好祝愿”
+
+428
+00:33:46,180 --> 00:33:50,540
+（拉贾斯坦语）“大家好 我们这里很幸福”
+
+429
+00:33:50,550 --> 00:33:52,750
+（拉贾斯坦语）“愿你们那里也同样幸福”
+
+430
+00:33:52,760 --> 00:33:55,840
+（英语）“来自地球儿童的问候”
+"Hello from the children of planet Earth."
+
+431
+00:33:55,860 --> 00:33:58,790
+{\an8}【多国语问候：源自1977年旅行者号金唱片】
+
+432
+00:34:01,400 --> 00:34:03,570
+（古希腊语）“你们好 无论你们是谁...”
+
+433
+00:34:08,510 --> 00:34:11,480
+（葡萄牙语）“愿所有人平安幸福”
+
+434
+00:34:11,480 --> 00:34:13,750
+（粤语）“各位好吗？祝各位平...”
+
+435
+00:34:20,780 --> 00:34:22,280
+哦...
+Ooh...
+
+436
+00:34:24,020 --> 00:34:26,110
+（克丘亚语）“用克丘亚语向你们”
+
+437
+00:34:26,130 --> 00:34:28,900
+（克丘亚语）“每一个人问好”
+
+438
+00:34:28,910 --> 00:34:30,140
+（旁遮普语）“欢迎你们”
+
+439
+00:34:31,850 --> 00:34:32,850
+（赫梯语）“你们好”
+
+440
+00:34:32,890 --> 00:34:35,660
+（孟加拉语）“你好 愿到处都有和平”
+
+441
+00:34:35,730 --> 00:34:38,130
+（拉丁语）“无论你们是谁 你们好”
+
+442
+00:34:38,320 --> 00:34:41,120
+（拉丁语）“我们对你们心怀善意”
+
+443
+00:34:41,300 --> 00:34:43,910
+（拉丁语）“并带着和平穿梭星际”
+
+444
+00:34:43,970 --> 00:34:45,110
+（亚兰语）“你好”
+
+445
+00:34:46,540 --> 00:34:48,800
+（荷兰语）“向每个人致以诚挚的问候”
+
+446
+00:34:48,810 --> 00:34:50,470
+（德语）“向所有人致以诚挚的问候”
+
+447
+00:34:51,890 --> 00:34:54,020
+（乌尔都语）“愿和平与你们同在”
+
+448
+00:34:54,030 --> 00:34:57,930
+（乌尔都语）“我们代表地球的居民”
+
+449
+00:34:57,940 --> 00:35:00,680
+（乌尔都语）“欢迎你们”
+
+450
+00:35:00,700 --> 00:35:04,230
+（越南语）“诚挚地向你们致以友好的问候”
+
+451
+00:35:04,330 --> 00:35:06,900
+（土耳其语）“亲爱的说土耳其语的朋友们”
+
+452
+00:35:06,920 --> 00:35:09,470
+（土耳其语）“祝你们有个美好的早晨”
+
+453
+00:35:09,670 --> 00:35:11,620
+（日语）“你好 你们好吗？”
+
+454
+00:35:12,570 --> 00:35:15,710
+（印地语）“来自地球居民的问候”
+
+455
+00:35:15,760 --> 00:35:18,900
+（威尔士语）“祝你们现在及未来健康”
+
+456
+00:35:18,940 --> 00:35:20,900
+（意大利语）“致以最美好的祝愿和问候”
+
+457
+00:35:21,750 --> 00:35:22,870
+（僧伽罗语）“健康长寿”
+
+458
+00:35:24,600 --> 00:35:26,720
+（恩古尼语）“向伟大的你们致意”
+
+459
+00:35:26,730 --> 00:35:29,550
+（恩古尼语）“祝你们永恒繁荣”
+
+460
+00:35:29,570 --> 00:35:31,440
+（塞索托语）“向伟大的你们致以问候”
+
+461
+00:35:33,210 --> 00:35:35,040
+（吴语）“祝大家好”
+
+462
+00:35:38,080 --> 00:35:40,850
+（亚美尼亚语）“向宇宙中存在的...”
+
+463
+00:35:40,860 --> 00:35:45,130
+（亚美尼亚语）“所有生命致以问候”
+
+464
+00:35:45,510 --> 00:35:46,870
+（朝鲜语）“你们好”
+
+465
+00:35:48,560 --> 00:35:51,590
+（波兰语）“欢迎 来自异世界的生命”
+
+466
+00:35:51,710 --> 00:35:55,580
+（尼泊尔语）“地球人祝愿你们拥有一个和平的未来”
+
+467
+00:35:55,760 --> 00:35:58,980
+（汉语）“各位都好吧？我们都很想念你们”
+
+468
+00:35:58,990 --> 00:36:01,120
+（汉语）“有空请到这儿来玩”
+
+469
+00:36:01,130 --> 00:36:03,660
+（伊拉族语）“祝愿你们一切都好”
+
+470
+00:36:04,260 --> 00:36:06,730
+（瑞典语）“来自地球...”
+
+471
+00:36:06,740 --> 00:36:10,930
+（瑞典语）“伊萨卡小镇一名程序员的问候”
+
+472
+00:36:11,530 --> 00:36:13,320
+（齐切瓦语）“其他星球的朋友们...”
+
+473
+00:36:13,340 --> 00:36:14,940
+是谁啊？
+Anyone there?
+
+474
+00:36:56,200 --> 00:36:57,630
+哦 该死...
+Oh, fuck...
+
+475
+00:37:15,040 --> 00:37:17,670
+{\an8}（亭亻）
+
+476
+00:37:21,260 --> 00:37:23,230
+好 好
+Okay, Okay...
+
+477
+00:38:59,390 --> 00:39:01,230
+（法语）“大家好”
+
+478
+00:39:02,500 --> 00:39:04,060
+（缅甸语）“你们好吗？”
+
+479
+00:39:05,910 --> 00:39:07,110
+（希伯来语）“你好”
+
+480
+00:39:08,020 --> 00:39:10,080
+（西班牙语）“你好 向大家致敬”
+
+481
+00:39:11,530 --> 00:39:13,080
+（印尼语）“女士们先生们 晚上好”
+
+482
+00:39:13,090 --> 00:39:17,000
+（印尼语）“再见期待下次再见”
+
+483
+00:39:17,020 --> 00:39:19,110
+（克丘亚语）“用克丘亚语向你们”
+
+484
+00:39:19,130 --> 00:39:21,900
+（克丘亚语）“每一个人问好”
+
+485
+00:39:21,910 --> 00:39:23,140
+（旁遮普语）“欢迎你们”
+
+486
+00:39:24,850 --> 00:39:25,850
+（赫梯语）“你们好”
+
+487
+00:39:25,890 --> 00:39:28,660
+（孟加拉语）“你好 愿到处都有和平”
+
+488
+00:39:28,730 --> 00:39:31,130
+（拉丁语）“无论你们是谁 你们好”
+
+489
+00:39:31,320 --> 00:39:34,120
+（拉丁语）“我们对你们心怀善意”
+
+490
+00:39:31,750 --> 00:39:37,410
+{\an8}（左声道 右声道）
+
+491
+00:39:34,300 --> 00:39:36,910
+（拉丁语）“并带着和平穿梭星际”
+
+492
+00:39:36,970 --> 00:39:38,110
+（亚兰语）“你好”
+
+493
+00:39:37,430 --> 00:39:49,970
+{\an8}（基洛纳区-监视点J3 1990年6月29日）
+
+494
+00:39:39,540 --> 00:39:41,800
+（荷兰语）“向每个人致以诚挚的问候”
+
+495
+00:39:41,810 --> 00:39:43,470
+（德语）“向所有人致以诚挚的问候”
+
+496
+00:39:44,890 --> 00:39:47,020
+（乌尔都语）“愿和平与你们同在”
+
+497
+00:39:47,030 --> 00:39:50,930
+（乌尔都语）“我们代表地球的居民”
+
+498
+00:39:50,940 --> 00:39:53,680
+（乌尔都语）“欢迎你们”
+
+499
+00:40:07,920 --> 00:40:08,920
+抱歉来晚了
+Sorry I'm late.
+
+500
+00:40:10,150 --> 00:40:12,150
+路上堵死了 我又没法提前走
+Traffic was hell, and I couldn't leave early.
+
+501
+00:40:12,240 --> 00:40:13,740
+没关系 趁还有时间聊聊吧
+Let's just use the time we have.
+
+502
+00:40:17,350 --> 00:40:18,700
+今天感觉怎么样 克拉克？
+How are you today, Clark?
+
+503
+00:40:19,700 --> 00:40:21,080
+你觉得呢 我看起来怎么样？
+How do I look?
+
+504
+00:40:21,950 --> 00:40:23,600
+挺好的 可能有点累吧
+Fine. A little tired, maybe.
+
+505
+00:40:23,620 --> 00:40:24,790
+我简直糟糕透了
+I look like shit.
+
+506
+00:40:25,240 --> 00:40:26,610
+我想确认一下
+Can I ask, and there is
+
+507
+00:40:26,620 --> 00:40:28,050
+放心回答 没什么对错
+no wrong answer here, you know that...
+
+508
+00:40:28,930 --> 00:40:30,590
+你现在是不是有一点喝醉了？
+Are you intoxicated right now?
+
+509
+00:40:31,590 --> 00:40:32,620
+你干嘛这么问？
+Why you say it like that?
+
+510
+00:40:34,280 --> 00:40:35,410
+怎么问了？
+Like what?
+
+511
+00:40:36,800 --> 00:40:38,820
+我从周五起就没碰过一滴酒
+I haven't had a drink since Friday.
+
+512
+00:40:38,830 --> 00:40:40,000
+没准儿我这副鬼样子就是因为没喝酒
+It's probably why I look like shit.
+
+513
+00:40:40,740 --> 00:40:42,610
+- 我能问你个事吗？ - 请说
+- Can I ask you something? - Sure.
+
+514
+00:40:43,270 --> 00:40:46,060
+你把人强制关精神病院过吗？
+You ever 5150'd someone?
+
+515
+00:40:43,270 --> 00:40:47,180
+{\an8}【加州法律5150条：强制将危险精神病人送院观察】
+
+516
+00:40:47,190 --> 00:40:50,360
+这么多年确实有过几次 只要情况需要
+A few times over the years, when it was necessary.
+
+517
+00:40:51,420 --> 00:40:53,700
+那...那...那什么样的情况才算需要？
+Wh-wha-what makes it necessary?
+
+518
+00:40:54,990 --> 00:40:58,420
+只要我认为对方有伤人自残的风险
+If I believe that the person is a danger to themselves or others,
+
+519
+00:40:58,430 --> 00:41:00,500
+或者无法自理
+or they're gravely disabled.
+
+520
+00:41:01,720 --> 00:41:02,730
+行
+Okay.
+
+521
+00:41:03,600 --> 00:41:04,600
+行
+Okay.
+
+522
+00:41:07,810 --> 00:41:08,840
+那个...
+Um...
+
+523
+00:41:08,860 --> 00:41:10,260
+我在店里发现了点情况
+I found something in the store.
+
+524
+00:41:12,670 --> 00:41:15,210
+好 什么情况
+Okay. What did you find?
+
+525
+00:41:16,310 --> 00:41:17,610
+呃...
+Uh...
+
+526
+00:41:17,960 --> 00:41:19,890
+是个地方 我...
+A place. I f...
+
+527
+00:41:20,810 --> 00:41:22,440
+我发现了个地方
+I found a place.
+
+528
+00:41:23,530 --> 00:41:24,830
+地方？
+A place?
+
+529
+00:41:25,380 --> 00:41:27,150
+嗯 感觉...
+Yeah. It's like, um...
+
+530
+00:41:27,500 --> 00:41:29,950
+感觉店就那样...
+It's like the store just, uh...
+
+531
+00:41:31,010 --> 00:41:32,900
+往外扩了
+continues, I guess.
+
+532
+00:41:32,920 --> 00:41:34,750
+你知道吧...店有墙
+It's like... you know, like there's a wall
+
+533
+00:41:34,770 --> 00:41:36,010
+墙后头居然还是店
+and on the other side of the wall,
+
+534
+00:41:36,020 --> 00:41:37,570
+没完没了地往外扩
+the store just keeps going, you know,
+
+535
+00:41:37,590 --> 00:41:39,890
+就像 就像 像个克隆的
+like-like a... like a copy of itself.
+
+536
+00:41:40,070 --> 00:41:41,890
+我...我猜入口是用镜子什么的给挡住的
+I-I-I figure they're using mirrors or something
+
+537
+00:41:41,900 --> 00:41:42,930
+我不确定
+to hide the entrance, I don't know.
+
+538
+00:41:42,940 --> 00:41:44,360
+不好意思 我没听明白
+Sorry, I'm not following you.
+
+539
+00:41:44,380 --> 00:41:46,420
+你是说找到了个之前没发现的房间？
+Is this a room you didn't know about before?
+
+540
+00:41:46,430 --> 00:41:47,200
+不是
+No.
+
+541
+00:41:47,220 --> 00:41:49,810
+就是...就是你一进去后
+Okay, so y-y-you go in and, uh...
+
+542
+00:41:49,820 --> 00:41:52,310
+看着像个...像个写字楼
+at first it just looks like a- like an office building.
+
+543
+00:41:52,320 --> 00:41:55,490
+一个巨大的办公室 你懂吧？
+Like a... like a huge office building, you know?
+
+544
+00:41:55,510 --> 00:41:57,540
+然后...你 你继续往里走
+And then, uh... But then you-you keep going,
+
+545
+00:41:57,550 --> 00:41:59,520
+接着...接着你就发现
+and then-then you realize
+
+546
+00:41:59,540 --> 00:42:02,010
+所...所有东西都不对劲
+th-th-that none of it makes any sense.
+
+547
+00:42:02,160 --> 00:42:04,710
+怎..怎么说呢...想象一下
+It's-it's like, um... Imagine describing a dog
+
+548
+00:42:04,720 --> 00:42:06,000
+你给个没见过狗的人形容狗
+to someone who's never seen one before
+
+549
+00:42:06,010 --> 00:42:07,520
+然后让那人把狗画出来
+and then asking them to draw it.
+
+550
+00:42:07,530 --> 00:42:09,280
+可能会画对几个地方
+They might get some things right, you know,
+
+551
+00:42:09,290 --> 00:42:11,060
+但绝不可能全画对
+but there's no way they'd get everything right.
+
+552
+00:42:11,080 --> 00:42:12,620
+你知道 诡异的在于细节
+You know, the devil's in the details.
+
+553
+00:42:12,630 --> 00:42:14,290
+所以远看像只狗
+So from a distance, you look at it,
+
+554
+00:42:14,300 --> 00:42:16,000
+但凑近一看...
+you think you're seeing a dog, but then you look clos--
+
+555
+00:42:16,720 --> 00:42:17,890
+干嘛那样看我？
+Why are you looking at me like that?
+
+556
+00:42:19,760 --> 00:42:21,260
+我只是在试着理解
+I'm just trying to understand.
+
+557
+00:42:21,680 --> 00:42:22,950
+呵
+Oh.
+
+558
+00:42:23,720 --> 00:42:25,890
+你不像个心理医生 怎么表情都写在脸上
+You know, for a shrink, you got a terrible poker face.
+
+559
+00:42:28,290 --> 00:42:31,000
+你说的这些听起来很离奇
+What you're saying might sound fantastical,
+
+560
+00:42:31,010 --> 00:42:32,600
+但并不危险
+but not dangerous.
+
+561
+00:42:35,340 --> 00:42:37,380
+那些办公室里有人吗？
+Are there any people in these offices?
+
+562
+00:42:39,260 --> 00:42:41,230
+没见过 但我能听到
+Not that I've seen. You know, I hear, um...
+
+563
+00:42:42,370 --> 00:42:45,010
+听到脚步声 而且...而且我一转眼
+There's footsteps, an-an-and stuff gets moved around
+
+564
+00:42:45,020 --> 00:42:46,080
+东西就被挪了位置
+when I'm not looking.
+
+565
+00:42:46,100 --> 00:42:47,810
+我知道这听起来很离谱 但你得明白
+I know how this sounds, but you've got to understand,
+
+566
+00:42:47,820 --> 00:42:49,450
+那地方太大了
+it's massive in there.
+
+567
+00:42:49,470 --> 00:42:51,920
+简直像纽约地铁那么大 懂吧
+Like New-York's-subway-system massive, you know.
+
+568
+00:42:51,930 --> 00:42:53,410
+没准儿里面有好几百人
+For all I know, there's hundreds of people.
+
+569
+00:42:53,430 --> 00:42:55,060
+我只是没看到
+I just haven't seen them.
+
+570
+00:43:00,150 --> 00:43:01,480
+看
+Look.
+
+571
+00:43:01,490 --> 00:43:02,990
+你看 这就像个...
+You see? It's like a...
+
+572
+00:43:03,010 --> 00:43:04,780
+就像个迷宫
+It's like a maze.
+
+573
+00:43:04,790 --> 00:43:07,250
+根本没尽头
+It just goes on and on and on.
+
+574
+00:43:07,270 --> 00:43:08,930
+我有时候真怕自己会迷路
+Sometimes I'm scared I'll get lost.
+
+575
+00:43:13,140 --> 00:43:15,420
+那为什么除了你 没人发现这地方？
+Why do you think no one else has found this place?
+
+576
+00:43:16,310 --> 00:43:17,650
+我哪知道
+I don't know.
+
+577
+00:43:17,660 --> 00:43:19,010
+但入口在负一层
+The entrance is on the subfloor,
+
+578
+00:43:19,020 --> 00:43:21,950
+所以整个结构估计都在地下 懂吧
+so the whole structure is probably underground, you know?
+
+579
+00:43:21,970 --> 00:43:23,300
+地图上根本没这个地方
+It's not on any city maps.
+
+580
+00:43:23,320 --> 00:43:25,900
+入口根本看不出来 谁会想到去找？
+The entrances are hidden, so who'd think to look?
+
+581
+00:43:28,400 --> 00:43:30,170
+我没说不信你...
+I'm not saying I don't believe you...
+
+582
+00:43:31,020 --> 00:43:32,420
+不过 你跟我说
+but you told me yourself
+
+583
+00:43:32,430 --> 00:43:34,320
+你周五就开始戒酒了
+you haven't had a drink since Friday.
+
+584
+00:43:34,340 --> 00:43:35,440
+- 这会不会导致幻... - 行了
+- Do you think there is a-- - Okay.
+
+585
+00:43:34,340 --> 00:43:36,400
+{\an8}【译注：戒断反应可能产生幻觉】
+
+586
+00:43:36,420 --> 00:43:37,300
+- 克拉克 - 停 停
+- Clark-- - No, no.
+
+587
+00:43:37,310 --> 00:43:39,200
+- 如果这是真的... - 行 我懂了 多谢您啊
+- If this is true-- - Yeah, I get it. Thank you.
+
+588
+00:43:41,030 --> 00:43:45,070
+我迟早会带着证据回来
+You know, I'm gonna come back here with proof
+
+589
+00:43:45,580 --> 00:43:47,920
+到时候你得给我好好道歉
+and you're gonna owe me a serious fucking apology.
+
+590
+00:44:39,950 --> 00:44:41,090
+小凯
+Kat!
+
+591
+00:44:44,590 --> 00:44:47,190
+那么早谁呀 来了 来了
+Jesus, goddamn, I'm coming! I'm coming!
+
+592
+00:44:47,450 --> 00:44:49,020
+- 嘿 - 克船长？
+- Hey. - Cap'n Clark?
+
+593
+00:44:49,030 --> 00:44:50,650
+- 额... - 等等 等等 小凯 快来
+- Um... - Wait, wait, wait, wait. Kat?
+
+594
+00:44:51,280 --> 00:44:52,560
+- 我来了 - 快点
+- I'm coming. - Kat!
+
+595
+00:44:52,580 --> 00:44:54,010
+行了 我来了
+Okay, I'm coming!
+
+596
+00:44:54,020 --> 00:44:55,560
+- 是这样的... - 搞什么鬼
+- Look-- -What the fuck?
+
+597
+00:44:55,570 --> 00:44:57,170
+抱歉 那个...
+Yeah, I'm sorry, uh...
+
+598
+00:44:57,660 --> 00:44:59,020
+你们明天有空吗？
+What are you guys doing tomorrow?
+
+599
+00:44:59,030 --> 00:45:00,400
+你在说什么呢？
+What are you talking about?
+
+600
+00:45:00,410 --> 00:45:02,720
+我给钱 算加班 顶多两个小时 很快的
+I'll pay you. Two hours. Overtime. Tops.
+
+601
+00:45:02,730 --> 00:45:04,300
+行 给钱干什么？
+Okay, pay us for what?
+
+602
+00:45:06,190 --> 00:45:07,390
+做调研
+Research.
+
+603
+00:45:09,430 --> 00:45:10,860
+摄像机还在你们那儿吧？
+You got the camera, right?
+
+604
+00:45:10,870 --> 00:45:12,140
+你们能...能再帮我拍点东西吗？
+You can-you can borrow it again...
+
+605
+00:45:13,860 --> 00:45:14,880
+行不行？
+Right?
+
+606
+00:45:22,800 --> 00:45:24,900
+好了 开始拍了
+Okay, we are rolling.
+
+607
+00:45:26,300 --> 00:45:29,600
+这儿摆了些东西
+We got, um, some shit over here.
+
+608
+00:45:28,740 --> 00:45:30,620
+{\an8}（亭亻）
+
+609
+00:45:29,610 --> 00:45:31,380
+还有停车牌
+We got some stop signs
+
+610
+00:45:31,390 --> 00:45:33,070
+还有 呃 绳子
+and, uh... a rope.
+
+611
+00:45:33,090 --> 00:45:34,260
+拿绳子干嘛？
+What's the rope for?
+
+612
+00:45:34,270 --> 00:45:35,560
+装备
+Supplies.
+
+613
+00:45:35,570 --> 00:45:37,210
+呵呵 看来咱们要被他绑了
+Oh, great, he's gonna tie us up.
+
+614
+00:45:37,610 --> 00:45:39,670
+不是我绑 是要给自己绑好
+No, we're gonna tie ourselves up.
+
+615
+00:45:40,340 --> 00:45:41,230
+唔 挺重口味的
+Hmm. Kinky.
+
+616
+00:45:41,240 --> 00:45:42,150
+你胡说什么
+What the fuck?
+
+617
+00:45:42,170 --> 00:45:43,640
+呃 你还没说清楚
+Uh, you still haven't told us
+
+618
+00:45:43,650 --> 00:45:44,690
+我们来这儿干嘛？
+what we're doing here, man.
+
+619
+00:45:44,710 --> 00:45:46,970
+我说了 做调研
+I did tell you. Research.
+
+620
+00:45:47,670 --> 00:45:49,670
+这些是调研装备
+These are supplies, and we're using them for research.
+
+621
+00:45:49,680 --> 00:45:51,250
+没那么难理解吧
+It's not that hard to understand.
+
+622
+00:45:51,470 --> 00:45:53,550
+行 研究什么？
+Okay, research for what?
+
+623
+00:45:53,570 --> 00:45:55,230
+你得具体点 老哥
+Y-you gotta be more specific, dude.
+
+624
+00:45:57,850 --> 00:45:59,180
+我要进门了
+I'm gonna go through the door.
+
+625
+00:45:59,200 --> 00:46:00,360
+什么门？
+What door?
+
+626
+00:46:03,590 --> 00:46:04,990
+这就是门
+That's the door.
+
+627
+00:46:05,710 --> 00:46:07,480
+我在另一边也贴了框
+I taped an outline on the other side, too,
+
+628
+00:46:07,490 --> 00:46:09,090
+以防咱们找不到
+just to help us find our way back.
+
+629
+00:46:09,780 --> 00:46:12,110
+- 阿博？ - 怎么了？
+- Bobby? - What?
+
+630
+00:46:12,120 --> 00:46:14,990
+听着 我知道这很离谱 但得听我的
+Look, I know it sounds crazy, but follow my lead.
+
+631
+00:46:15,510 --> 00:46:16,850
+懂吗？
+Okay?
+
+632
+00:46:17,290 --> 00:46:19,260
+我想在天亮前赶回来
+I want to be back before sunup.
+
+633
+00:46:19,270 --> 00:46:20,970
+老哥 现在才晚上九点 你说什么...
+Dude, it's like 9 p.m. What the fuck are you talk--
+
+634
+00:46:22,890 --> 00:46:23,920
+- 什么情况 克拉克 - 卧槽
+- What the fuck! Clark?! - What the fuck?
+
+635
+00:46:23,930 --> 00:46:25,400
+- 怎么做到的？ - 老哥 你...
+- How did you do that? - Dude, did you...
+
+636
+00:46:25,410 --> 00:46:26,870
+你也看到了吧？他怎...怎么会...
+Did you fucking see that?! H-how did he, um...
+
+637
+00:46:26,890 --> 00:46:28,940
+我就在这儿 快进来看看
+I'm right here. Come see for yourself.
+
+638
+00:46:28,960 --> 00:46:31,000
+搞什么鬼 你居...居然真的...
+What the fuck? D-did you just fucking...
+
+639
+00:46:31,270 --> 00:46:32,920
+什么？怎么会...
+What? How the f...
+
+640
+00:46:32,920 --> 00:46:34,040
+你干嘛呢？阿博 快住手
+Bobby, stop. What are you doing?
+
+641
+00:46:34,050 --> 00:46:36,550
+- 卧槽 - 克拉克 你在哪儿？
+- What the fuck?! - Clark, where are you?
+
+642
+00:46:37,360 --> 00:46:39,120
+哈哈 你...你看到了没？
+Ha! Hey, did you... did you see that?
+
+643
+00:46:39,130 --> 00:46:41,650
+- 他钻哪去了？ - 看到了 阿博 我看到了
+- Where the fuck did he go? - Yes, Bobby, I saw it!
+
+644
+00:46:41,660 --> 00:46:42,390
+我去 搞什...
+Oh! Where the f--
+
+645
+00:46:42,410 --> 00:46:44,480
+踏进来就行 没事的
+Just step through the door, you'll be fine!
+
+646
+00:46:44,490 --> 00:46:47,490
+疯了吧 你得先解释清楚
+What?! No! Tell us what is going on!
+
+647
+00:46:47,850 --> 00:46:48,930
+管他呢 直接...
+You know what, just...
+
+648
+00:46:48,950 --> 00:46:51,130
+不 阿博 别进去 阿博 快停下 你要干什么？
+No, Bobby, wait! Bobby! Wait, what are you doing?
+
+649
+00:46:51,140 --> 00:46:51,930
+阿博
+Bobby!
+
+650
+00:46:53,410 --> 00:46:55,120
+我去啊
+What the fuck?!
+
+651
+00:46:56,430 --> 00:46:57,530
+老哥
+Dude!
+
+652
+00:46:57,550 --> 00:46:59,130
+老哥 这怎么可能？
+Dude, how is this possible?
+
+653
+00:46:59,150 --> 00:47:01,440
+- 阿博 克拉克 - 行...
+- Bobby! Clark! - Okay...
+
+654
+00:47:01,460 --> 00:47:02,980
+你们在哪？里面到底是什么地方？
+Where are you? What the fuck is back there?
+
+655
+00:47:03,000 --> 00:47:04,360
+没事没事 小凯 没事的
+No, no, no, Kat, it's good, it's good.
+
+656
+00:47:04,370 --> 00:47:06,850
+赶紧...赶紧进来看看
+J-just, you gotta come see this.
+
+657
+00:47:10,810 --> 00:47:12,900
+我是说...对 你看...
+I mean... Right, you see...
+
+658
+00:47:12,920 --> 00:47:14,290
+你看这 呃...
+You see, it's, um...
+
+659
+00:47:14,300 --> 00:47:15,650
+- 没问题 - 克拉克 这是什么地方？
+- It's fine. - Clark, what is this?
+
+660
+00:47:15,670 --> 00:47:17,470
+- 我们在哪？ - 哦
+- Where are we? - Oh!
+
+661
+00:47:17,480 --> 00:47:18,790
+我也正想弄明白呢
+That's what I'm trying to figure out.
+
+662
+00:47:19,370 --> 00:47:21,760
+这...这是谁的破烂？
+Whose, um... Whose shit is this?
+
+663
+00:47:21,780 --> 00:47:23,790
+是你...是你店里的吗？
+Is it-is it... is it part of your store?
+
+664
+00:47:23,800 --> 00:47:25,060
+如果真有主人的话
+If it belongs to someone,
+
+665
+00:47:25,070 --> 00:47:26,600
+- 我还没碰到那个人 - 好吧
+- I haven't met them yet. - Okay...
+
+666
+00:47:26,610 --> 00:47:28,470
+自从发现这地方 我每晚都来
+I've been in here every night since I found the place,
+
+667
+00:47:28,490 --> 00:47:30,390
+但也就看了个冰山一角
+and I still barely scratched the surface.
+
+668
+00:47:30,780 --> 00:47:32,510
+走 我带你们看看
+Come on. I'll show you.
+
+669
+00:47:33,250 --> 00:47:34,730
+越往后越有意思
+It only gets better.
+
+670
+00:47:34,750 --> 00:47:36,970
+- 真扯... - 嘿 嘿
+- What the fuck... - Hey. Hey.
+
+671
+00:47:36,990 --> 00:47:38,540
+他别给咱们下药了吧？
+You don't think he, like, dosed us or something, do you?
+
+672
+00:47:38,550 --> 00:47:40,820
+药？没那回事 咱们没嗑药
+What? No, no, no. We're not on drugs.
+
+673
+00:47:41,650 --> 00:47:43,390
+要是嗨了 我肯定能感觉到
+I think I'd be able to tell if I was high.
+
+674
+00:47:44,190 --> 00:47:45,430
+你现在就嗨着呢
+You are high!
+
+675
+00:47:46,290 --> 00:47:47,390
+哈草不算
+Pot doesn't count.
+
+676
+00:47:50,250 --> 00:47:52,280
+所以...这就像...
+So, um, it's like...
+
+677
+00:47:52,670 --> 00:47:54,060
+像个空办公区？
+what, like an empty office building?
+
+678
+00:47:54,080 --> 00:47:56,370
+在这儿？算是吧 但这地方简直像是
+In here? Sure. But it's like it was made
+
+679
+00:47:56,390 --> 00:47:58,430
+一帮嗑嗨了的建筑工盖出来的
+by a bunch of construction workers on acid.
+
+680
+00:47:58,840 --> 00:48:00,560
+居然还搞了个泳池
+There's even a pool!
+
+681
+00:48:00,580 --> 00:48:01,900
+有泳池？
+There's a pool?
+
+682
+00:48:01,910 --> 00:48:03,810
+没错 算是吧
+Yeah. I mean, kind of.
+
+683
+00:48:04,010 --> 00:48:05,510
+快跟上
+Keep up.
+
+684
+00:48:05,300 --> 00:48:07,460
+{\an8}（亭亻）
+
+685
+00:48:06,150 --> 00:48:07,880
+倒着的“停”什么鬼？
+"Pots." What the fuck?
+
+686
+00:48:15,650 --> 00:48:17,520
+不不不 那是我上次走的路
+Yeah, no, no, that's the way I went last time.
+
+687
+00:48:18,760 --> 00:48:21,010
+当时我想找个楼梯下去什么的
+Yeah, when I was looking for a staircase down or something.
+
+688
+00:48:22,760 --> 00:48:24,880
+结果只发现了个...
+Only thing I found so far is basically more of a...
+
+689
+00:48:25,690 --> 00:48:26,460
+好的...
+Okay...
+
+690
+00:48:26,470 --> 00:48:27,780
+怎么说呢 其实就是个斜坡
+I don't know, it's like a ramp, really.
+
+691
+00:48:27,790 --> 00:48:29,410
+就在这儿...就在前面
+It's, uh... It's up here.
+
+692
+00:48:31,110 --> 00:48:32,240
+马上就到了
+We'll be at it in a minute.
+
+693
+00:48:32,850 --> 00:48:34,010
+好吧
+Okay...
+
+694
+00:48:36,470 --> 00:48:38,470
+这下面总共有多少层？
+How many floors does it go down?
+
+695
+00:48:39,090 --> 00:48:40,420
+怎么能挖...
+Is this not technically...
+
+696
+00:48:41,990 --> 00:48:44,040
+行了 开始拍了吗？
+Okay. All right, you filming?
+
+697
+00:48:44,050 --> 00:48:45,160
+- 拍了  - 行
+- Yeah. - All right.
+
+698
+00:48:45,170 --> 00:48:47,040
+为什么非得让阿博下去？
+I don't see why Bobby has to be the one to go.
+
+699
+00:48:47,060 --> 00:48:48,630
+- 我想去 - 摄像机在他手上
+- I want to. - He's the one with the camera.
+
+700
+00:48:48,880 --> 00:48:50,250
+相机又没长在他身上
+Well, it's not like it's attached.
+
+701
+00:48:50,720 --> 00:48:53,280
+它挂在我学生证上的 所以就算长在身上了
+Yeah, well, I mean, to my student ID, yeah, it kinda is.
+
+702
+00:48:53,290 --> 00:48:55,590
+要是觉得不对劲 就拽一下 我把你拉上来 明白吧？
+Any trouble, just give a tug, and I'll pull you up, okay?
+
+703
+00:48:55,600 --> 00:48:57,260
+不对劲？克拉克 下面有什么不对劲？
+Trouble? Clark, what fucking trouble?
+
+704
+00:48:57,270 --> 00:48:58,460
+不会有事的
+There's not going to be any trouble.
+
+705
+00:48:58,480 --> 00:48:59,610
+宝贝 宝贝 没事
+Babe, babe, babe, it's good.
+
+706
+00:48:59,630 --> 00:49:01,090
+- 别下... - 真的没事 我没问题
+- No, hey-- - It's good. I'm good.
+
+707
+00:49:01,450 --> 00:49:02,900
+亲爱的 你不用下去
+Baby, you don't have to do this.
+
+708
+00:49:02,920 --> 00:49:04,680
+没事 我就是想看看下面有什么
+No, it's cool. I-I just want to see what's down there.
+
+709
+00:49:04,690 --> 00:49:06,900
+- 你不好奇吗？ - 简直是疯了
+- Are you not curious? - This is stupid!
+
+710
+00:49:06,910 --> 00:49:08,630
+- 能走多远就走多远 - 没事 你看 你看
+- Just go as far as you can. - No, look, look, look!
+
+711
+00:49:08,640 --> 00:49:10,500
+其实不用绳子也能走下去
+You can basically walk down without a rope.
+
+712
+00:49:10,510 --> 00:49:12,540
+没什么 一点也不陡
+It's fine, and it's not even steep.
+
+713
+00:49:12,560 --> 00:49:13,310
+行吧
+Okay.
+
+714
+00:49:13,330 --> 00:49:14,750
+好 但有一件事
+Okay, just don't... just one thing.
+
+715
+00:49:14,760 --> 00:49:17,460
+万一我回不来 记得告诉我妈我爱她哦
+If I don't come back, you'll tell my mom I love her, right?
+
+716
+00:49:19,640 --> 00:49:21,070
+- 行 - 那么 走吧
+- Okay. - All right, okay.
+
+717
+00:49:21,090 --> 00:49:22,190
+好 慢慢来
+All right, just take it slow.
+
+718
+00:49:26,490 --> 00:49:27,630
+行
+Okay.
+
+719
+00:49:28,340 --> 00:49:30,260
+哦 实际上还挺陡的
+Oh, it is actually kind of steep.
+
+720
+00:49:30,760 --> 00:49:32,160
+- 没问题吧？ - 没问题
+- You good? - Yeah.
+
+721
+00:49:32,170 --> 00:49:34,730
+- 拉紧点 别把我摔了 - 放心
+- Just, uh... try not to drop me. - All right.
+
+722
+00:49:37,600 --> 00:49:38,990
+要放绳子告诉我
+Tell me how much you need.
+
+723
+00:49:44,040 --> 00:49:45,810
+喔...慢点
+Whoa... Careful!
+
+724
+00:49:47,360 --> 00:49:49,700
+搞什么...喔 喔 喔 操 啊
+What the... Whoa! Whoa! Whoa! Fuck! Aah...
+
+725
+00:49:50,960 --> 00:49:53,060
+你会不会放绳子
+What the fuck are you guys doing up there?
+
+726
+00:49:53,070 --> 00:49:54,150
+对不起 对不起
+Sorry, sorry!
+
+727
+00:49:54,170 --> 00:49:55,850
+绳子绕到床腿上了
+It was stuck around the leg of the bed!
+
+728
+00:49:55,860 --> 00:49:58,320
+- 你没事吧？ - 行 没事
+- Are you okay? - Yeah. Yeah, I'm fine.
+
+729
+00:49:58,330 --> 00:49:59,870
+真是绝了
+Jesus fucking Christ...
+
+730
+00:50:00,000 --> 00:50:01,720
+继续放绳子
+Just keep letting me down!
+
+731
+00:50:01,740 --> 00:50:03,760
+好的 来了
+All right. Here we go.
+
+732
+00:50:19,450 --> 00:50:21,250
+好了 我下来了
+Okay, I'm in.
+
+733
+00:50:25,130 --> 00:50:26,160
+看到什么没？
+See anything?
+
+734
+00:50:27,580 --> 00:50:28,650
+呃...
+Ugh...
+
+735
+00:50:28,710 --> 00:50:30,380
+呃 就是...
+Uh, it's just...
+
+736
+00:50:30,860 --> 00:50:32,710
+就是一堆脏衣服和垃圾
+It's a bunch of laundry and shit.
+
+737
+00:50:34,090 --> 00:50:35,420
+什么意思？衣服？
+What do you mean? Clothes?
+
+738
+00:50:36,770 --> 00:50:38,910
+对 这下面真是臭死了
+Yeah, it just fucking stinks down here.
+
+739
+00:50:39,690 --> 00:50:40,830
+还有什么吗？
+See anything else?
+
+740
+00:50:41,610 --> 00:50:43,270
+有 呃...给我点时间
+Yeah, just, uh... Just give me a minute.
+
+741
+00:50:43,780 --> 00:50:44,660
+好的
+Okay.
+
+742
+00:50:53,150 --> 00:50:54,280
+真乱
+Oh, god...
+
+743
+00:50:59,060 --> 00:51:02,690
+{\an8}（结束南非种族隔离）
+
+744
+00:50:59,340 --> 00:51:00,640
+还撞衫了？
+What the fuck?
+
+745
+00:51:05,690 --> 00:51:06,750
+阿博？
+Bobby?
+
+746
+00:51:08,060 --> 00:51:09,160
+怎么了
+Yeah.
+
+747
+00:51:09,780 --> 00:51:11,590
+就想确认下你没事
+Just checking that you're okay.
+
+748
+00:51:12,330 --> 00:51:13,980
+嗯 我没事 只是 呃...
+Yeah, I'm fine. Just, um...
+
+749
+00:51:15,660 --> 00:51:16,860
+好吧
+Okay...
+
+750
+00:51:17,920 --> 00:51:19,060
+嗯
+Yeah.
+
+751
+00:51:19,860 --> 00:51:21,030
+没问题
+Okay.
+
+752
+00:51:29,010 --> 00:51:30,310
+搞什么鬼？
+What the fuck...?
+
+753
+00:51:38,230 --> 00:51:40,630
+阿博？快上来
+Bobby? Come back up!
+
+754
+00:51:40,650 --> 00:51:42,280
+我心里发毛
+I don't like this!
+
+755
+00:51:42,300 --> 00:51:44,740
+嘿 呃...再多放点绳子
+Hey! Uh... Let some more line out!
+
+756
+00:51:45,190 --> 00:51:47,160
+不行 已经到头了
+I can't! It's as far as it goes.
+
+757
+00:51:47,330 --> 00:51:48,200
+该死
+Fuck...
+
+758
+00:51:57,000 --> 00:51:58,080
+卧槽 卧槽 卧槽
+Fuck! Fuck! Fuck!
+
+759
+00:51:58,090 --> 00:51:59,470
+快拉我上去 拉我上去 快
+Pull me up! Pull me up! Pull me up!
+
+760
+00:51:59,510 --> 00:52:01,040
+阿博 怎么了？
+Bobby! What is it?
+
+761
+00:52:01,050 --> 00:52:02,870
+- 操 - 你看到了什么？
+- Fuck! - What do you see?
+
+762
+00:52:02,880 --> 00:52:05,210
+磨蹭什么 快把他拉上来
+What the fuck is it? Pull him up!
+
+763
+00:52:05,220 --> 00:52:06,720
+- 我在拉啊 我的天 - 操
+- I am! Jesus Christ! - Fuck!
+
+764
+00:52:06,730 --> 00:52:07,520
+拉快点
+Pull harder!
+
+765
+00:52:07,540 --> 00:52:09,050
+快拉 老哥 搞什么鬼
+Pull, man! What the fuck!
+
+766
+00:52:09,060 --> 00:52:10,710
+- 绳子绕到我脚上了 - 操
+- It's getting caught on my feet! - Fuck!
+
+767
+00:52:10,720 --> 00:52:12,520
+- 绳子绕到... - 快点使劲拉
+- I can't pull-- - Fucking pull harder!
+
+768
+00:52:12,540 --> 00:52:14,580
+克拉克 快点拉
+Clark, hurry up!
+
+769
+00:52:14,600 --> 00:52:17,090
+快到了 快到了 宝贝 坚持住
+Almost here! Almost here, babe, just a little more!
+
+770
+00:52:17,100 --> 00:52:19,320
+- 快把他拉上来 - 你看到了什么？
+- Pull him up! - What did you see?
+
+771
+00:52:19,330 --> 00:52:21,310
+- 下...下面有人 - 你安全了...
+- There's, uh, there's someone down there. - We've got you--
+
+772
+00:52:21,320 --> 00:52:22,560
+- 什么？- 操
+- What? - Fuck.
+
+773
+00:52:22,570 --> 00:52:24,080
+慢点说 深呼吸 宝贝 没事了
+Slow down, just breathe. Baby, it's okay.
+
+774
+00:52:24,090 --> 00:52:25,960
+快把这破玩意儿给我解开 操 真是够了
+Just get this shit off me, man. Fuck. Jesus.
+
+775
+00:52:25,970 --> 00:52:27,620
+- 没事了 没事了 来 - 你看到了什么？
+- It's okay. It's okay. Here. - What did you see?
+
+776
+00:52:27,630 --> 00:52:29,550
+- 深呼吸 - 这打的什么破结？
+- Hey, deep breath. - What kind of knot is this?
+
+777
+00:52:30,770 --> 00:52:32,300
+- 卧槽 - 哎 哎 哎
+- What the fuck?! - Whoa, whoa, whoa!
+
+778
+00:52:32,310 --> 00:52:33,770
+- 快救命 克拉克 - 抓紧我
+- Help us! Clark! - Hold on!
+
+779
+00:52:33,780 --> 00:52:35,840
+- 来了 来了 来了 - 救人啊 你个混蛋
+- Okay, okay, okay! - Help, you fucking asshole!
+
+780
+00:52:35,850 --> 00:52:37,920
+- 让我解 - 快给我解开 老哥
+- Let me get it! - Untie me, man!
+
+781
+00:52:37,940 --> 00:52:39,420
+克拉克 你特么在磨蹭什么？
+What the hell are you doing, Clark?
+
+782
+00:52:39,440 --> 00:52:40,420
+- 我解不开 - 快点 克拉克
+- I can't! - Hurry, Clark!
+
+783
+00:52:40,430 --> 00:52:42,190
+- 我在弄了 我在弄了 - 操
+- I'm trying, I'm trying! - FUCK!
+
+784
+00:52:42,620 --> 00:52:43,890
+别松手 别松手
+Don't let go! Don't let go!
+
+785
+00:52:43,890 --> 00:52:45,790
+- 坚持住 - 操 千万别放手
+- Hold on! - Fuck! Don't let me go!
+
+786
+00:52:45,810 --> 00:52:47,120
+- 千万别放手 - 我去拿...
+- Don't let me go! - Let me get at--
+
+787
+00:52:47,300 --> 00:52:48,380
+阿博！
+BOBBY!
+
+788
+00:52:48,430 --> 00:52:49,650
+不 小凯 不
+NO! KAT, NO!
+
+789
+00:52:50,070 --> 00:52:51,170
+阿博
+Bobby!
+
+790
+00:52:52,160 --> 00:52:53,560
+阿博！
+BOBBY!
+
+791
+00:52:54,790 --> 00:52:55,550
+阿博
+Bobby!
+
+792
+00:52:55,560 --> 00:52:57,440
+怎么回事 我们得...克拉克
+What are we doing? We need to... Clark!
+
+793
+00:53:04,990 --> 00:53:07,540
+阿博 别 别 别
+Bobby! No! No! No!
+
+794
+00:53:07,550 --> 00:53:09,550
+别 小凯 小凯
+Ow... KAT! Kat...
+
+795
+00:53:09,570 --> 00:53:11,240
+阿博
+Bobby!
+
+796
+00:53:11,260 --> 00:53:12,680
+阿博 不
+Bobby! No!
+
+797
+00:53:13,010 --> 00:53:15,010
+阿博 不
+Bobby! No!
+
+798
+00:53:15,110 --> 00:53:16,190
+小凯
+Kat!
+
+799
+00:53:16,830 --> 00:53:18,660
+哦 该死
+Oh, fuck...
+
+800
+00:53:19,700 --> 00:53:22,500
+哦 不 不 不 不 不 不
+Oh, no, no, no, no, no! No!
+
+801
+00:54:07,240 --> 00:54:08,220
+小凯？
+Kat?!
+
+802
+00:54:14,330 --> 00:54:15,300
+小凯？
+Kat?
+
+803
+00:55:43,740 --> 00:55:45,240
+有人吗？
+Hello?
+
+804
+00:55:51,860 --> 00:55:53,440
+别过来 滚开
+Stay back! Get away from me!
+
+805
+00:56:25,830 --> 00:56:27,010
+{\an8}（麦基路）
+
+806
+00:56:53,440 --> 00:56:55,410
+克拉克？克拉克
+Clark? CLARK!
+
+807
+00:56:55,420 --> 00:56:56,420
+我在这儿...
+I'm here...
+
+808
+00:56:56,990 --> 00:56:58,560
+就在这 那东西要回来了
+I'm here! It's gonna come back.
+
+809
+00:56:58,580 --> 00:57:00,740
+快让我进去 克拉克 求你让我进去
+Please, Clark, please let me in!
+
+810
+00:57:00,750 --> 00:57:02,040
+- 小凯？ - 让我进去
+- Kat? - Let me in!
+
+811
+00:57:03,890 --> 00:57:06,070
+你...你在在哪？
+Wh-wh-where are you?
+
+812
+00:57:06,090 --> 00:57:08,080
+我们得赶紧走 克拉克 没时间了
+We have to go now, Clark! We have to go.
+
+813
+00:57:08,100 --> 00:57:10,320
+- 那东西要回来了 它会找到我的 - 小凯 小凯？额...
+- It's gonna come back, it's gonna find me! - Kat! Kat? Uh...
+
+814
+00:57:10,520 --> 00:57:12,930
+等等 我没搞明白 你到底在哪？
+Wait, I don't understand. Wh-where are you?
+
+815
+00:57:13,310 --> 00:57:15,430
+求你了 赶紧让我进去
+Please, let me the fuck in!
+
+816
+00:57:16,820 --> 00:57:18,340
+但这...这是堵墙啊
+But it's a... it's-it's a wall!
+
+817
+00:57:18,360 --> 00:57:19,700
+你怎么能看到我？
+How can-how can you see me?
+
+818
+00:57:21,400 --> 00:57:23,060
+我在玻璃的另一边
+I'm on the other side of the glass.
+
+819
+00:57:23,480 --> 00:57:25,260
+你怎么看不见我？
+How can you not see me?
+
+820
+00:57:25,280 --> 00:57:27,720
+什么玻璃？你在说什么鬼话？
+What glass?! What the fuck are you talking about?
+
+821
+00:57:28,420 --> 00:57:30,550
+你在...在说什...？
+Wh-what are you talk--
+
+822
+00:57:30,600 --> 00:57:32,790
+好吧 你那边能看到什么吗？
+Okay, can you see anything on your side?
+
+823
+00:57:32,810 --> 00:57:36,020
+有门把手吗 还是有门？有没有入口之类的东西？
+Can you see a handle, a door? Is there a hatch, anything?
+
+824
+00:57:37,370 --> 00:57:38,710
+没有 没有 没有...
+No, no, no, no...
+
+825
+00:57:38,730 --> 00:57:42,590
+呃...好吧 让我想想办法 好吗？等一下
+Uh... Okay. Let me figure this out, okay? Just hold on.
+
+826
+00:57:43,140 --> 00:57:45,270
+坚持住 行吗？只是...
+Hold on, okay? It's just...
+
+827
+00:57:47,140 --> 00:57:49,080
+- 克拉克？ - 别急 别急 让我试...
+- Clark? - No, no, just let me...
+
+828
+00:57:49,300 --> 00:57:50,280
+- 克拉克 - 别急
+- Clark! - Just hold on!
+
+829
+00:57:50,300 --> 00:57:52,390
+- 我找找看 - 克拉克！
+- Let me figure this out! - CLARK!
+
+830
+00:57:52,400 --> 00:57:53,370
+- 别催我 我在想办法 - 克拉克 快跑
+- Let me figure this out... - Clark! Clark!
+
+831
+00:57:53,390 --> 00:57:54,730
+克拉克 它就在你身后
+Clark, behind you!
+
+832
+00:58:08,040 --> 00:58:11,200
+{\an8}（诺拉·克莱...
+氯丙...）
+
+833
+00:58:11,220 --> 00:58:12,870
+{\an8}【氯丙嗪：抗精神病药物】
+
+834
+00:59:11,760 --> 00:59:12,890
+玛丽 住手
+Mary!
+
+835
+00:59:24,350 --> 00:59:25,550
+玛丽
+Mary...
+
+836
+00:59:26,330 --> 00:59:27,560
+你疯了吗？
+what were you thinking?
+
+837
+00:59:29,160 --> 00:59:31,090
+我说过绝对 绝对
+I never, ever,
+
+838
+00:59:31,100 --> 00:59:32,950
+绝对不能出门
+ever said you could go outside.
+
+839
+00:59:34,970 --> 00:59:36,080
+绝对不行
+It's no good.
+
+840
+00:59:37,710 --> 00:59:39,410
+外面到处都是
+They're all over the place.
+
+841
+01:00:56,150 --> 01:00:58,400
+“您拨打的是玛丽·克莱因医生的电话”
+"Hi, you've reached Dr. Mary Klein."
+
+842
+01:00:58,410 --> 01:00:59,820
+“我目前不便接听”
+"I'm not able to answer the call,
+
+843
+01:00:59,830 --> 01:01:01,370
+“请留言”
+"so please leave a message,
+
+844
+01:01:01,380 --> 01:01:02,950
+“我会尽快给您回电”
+"and I'll get back to you as soon as I can."
+
+845
+01:01:06,080 --> 01:01:07,080
+“玛丽...”
+"Mary...
+
+846
+01:01:10,340 --> 01:01:11,540
+“我打开那扇窗了”
+"I opened the window."
+
+847
+01:01:16,090 --> 01:01:18,060
+“我不会再回来了”
+"I won't be coming back."
+
+848
+01:01:54,130 --> 01:02:01,140
+{\an8}（克船长的家具帝国）
+
+849
+01:02:03,020 --> 01:02:03,820
+“...求你了”
+"...Please!"
+
+850
+01:02:05,610 --> 01:02:06,600
+“救救我们”
+"Save us!"
+
+851
+01:02:05,360 --> 01:02:08,840
+{\an8}[（1983年 异步研究所获得120万美元联邦资助开发下一代核磁共振设备）]
+
+852
+01:02:06,960 --> 01:02:09,390
+“好 我照做”
+"All right! I'll do it!
+
+853
+01:02:09,410 --> 01:02:12,910
+“我会救你们 我会照做”
+I'll save you! I will do it!"
+
+854
+01:02:23,010 --> 01:02:26,580
+“梦翠儿！”
+"Moon Child!"
+
+855
+01:02:23,010 --> 01:02:27,010
+{\an8}【电影《大魔域》1984：讲述一个男孩通过想象力重建世界的奇幻故事】
+
+856
+01:02:27,010 --> 01:02:28,580
+谁知道你手之前碰过什么
+I don't know where that hand's been.
+
+857
+01:02:27,010 --> 01:02:30,930
+{\an8}【《大魔域》英文片名：直译为“永不结束的故事”】
+
+858
+01:02:33,130 --> 01:02:35,780
+“哟 伙计们 瞧瞧这儿啊！”
+"Well, ahoy there, mateys!"
+
+859
+01:02:35,790 --> 01:02:37,580
+“按照这藏宝图”
+"Now, according to me map,
+
+860
+01:02:37,600 --> 01:02:41,240
+“咱们现在已经登上了这片宝地”
+"we've landed on the crystal shores of a bountiful land,
+
+861
+01:02:41,250 --> 01:02:44,440
+“这里的折扣简直是在倒贴啊！”
+"a land filled with great deals."
+
+862
+01:02:44,460 --> 01:02:46,850
+“你也赶紧赶紧抛锚靠岸！”
+"So drop your anchors and come on down
+
+863
+01:02:44,460 --> 01:02:49,520
+{\an8}（圣克拉拉谷最低价
+地址国会路与麦基路口）
+
+864
+01:02:46,870 --> 01:02:49,630
+“快来克船长的家具帝国！”
+"to Cap'n Clark's Ottoman Empire."
+
+865
+01:02:49,650 --> 01:02:51,920
+“潜入这顶级家具的海洋吧”
+"Get lost in an endless sea
+
+866
+01:02:51,940 --> 01:02:55,780
+“桌椅沙发 卧室全套 样样齐全！”
+"of quality tables, chairs, couches, and bedroom sets."
+
+867
+01:02:55,370 --> 01:03:02,820
+{\an8}（地址国会路与麦基路口）
+
+868
+01:02:55,790 --> 01:02:58,530
+“想给小海盗们配上下铺？”
+"Need bed bunks for the scallywagses quarters?
+
+869
+01:02:58,540 --> 01:02:59,890
+“来这儿就对了！”
+"W've got it all!"
+
+870
+01:02:59,910 --> 01:03:01,750
+“价格低到...”
+"And at prices so low
+
+871
+01:03:01,770 --> 01:03:03,430
+“你都觉得在抢我的钱啊！”
+"you'll think that yo're robbing me!"
+
+872
+01:03:33,530 --> 01:03:34,430
+有人吗？
+Hello?
+
+873
+01:03:34,460 --> 01:03:36,980
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+874
+01:03:46,220 --> 01:03:47,390
+有人吗？
+Hello?
+
+875
+01:03:50,050 --> 01:04:02,230
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+876
+01:03:55,260 --> 01:03:56,180
+克拉克？
+Clark?
+
+877
+01:04:02,230 --> 01:04:21,780
+{\an8}（无需信用卡）
+
+878
+01:04:09,540 --> 01:04:11,050
+克拉克 你在哪儿？
+Clark, can you hear me?
+
+879
+01:04:21,780 --> 01:04:25,820
+{\an8}（由此下楼）
+
+880
+01:04:50,130 --> 01:04:51,210
+克拉克？
+Clark?
+
+881
+01:05:10,760 --> 01:05:11,760
+{\an8}（亭亻）
+
+882
+01:05:23,740 --> 01:05:26,590
+{\an8}（门 和 家具店）
+
+883
+01:07:45,930 --> 01:07:47,060
+克拉克？
+Clark?
+
+884
+01:09:33,800 --> 01:09:38,750
+{\an8}（平面图又变了 屋顶不对 屋顶绝对不对）
+
+885
+01:09:38,770 --> 01:09:44,010
+{\an8}（这图纸是谁签的名？但这笔迹 像我的）
+
+886
+01:09:48,340 --> 01:09:51,760
+{\an8}（管他的什么超自然 理智点吧）
+
+887
+01:09:51,780 --> 01:09:55,020
+{\an8}（此刻和此地是相通的）
+
+888
+01:10:29,730 --> 01:10:30,900
+克拉克？
+Clark?
+
+889
+01:10:34,060 --> 01:10:35,330
+你总算发现了
+You found it.
+
+890
+01:10:43,940 --> 01:10:45,750
+你怎么不出来？
+Why are you hiding?
+
+891
+01:10:47,830 --> 01:10:49,610
+你太刺耳了
+You were being too loud.
+
+892
+01:11:01,660 --> 01:11:03,180
+我们在哪？
+Where are we?
+
+893
+01:11:06,170 --> 01:11:07,160
+这里...
+It's...
+
+894
+01:11:09,900 --> 01:11:12,300
+是所有存在过的地方
+...every place that ever was.
+
+895
+01:11:19,840 --> 01:11:21,640
+你在这儿多久了？
+How long have you been here?
+
+896
+01:11:28,140 --> 01:11:29,680
+什么声音？
+What was that?
+
+897
+01:11:35,170 --> 01:11:36,540
+别紧张
+Stay calm.
+
+898
+01:11:41,040 --> 01:11:42,550
+这里只有我
+It's only me.
+
+899
+01:11:45,220 --> 01:11:46,740
+你认得我
+You know me.
+
+900
+01:12:16,840 --> 01:12:18,270
+抱歉了
+I'm sorry.
+
+901
+01:12:19,900 --> 01:12:22,180
+这全是为你好
+This is for your own good.
+
+902
+01:14:25,830 --> 01:14:27,640
+在现实生活中
+As you walk through life,
+
+903
+01:14:28,130 --> 01:14:33,960
+缺乏引导的心灵 总会走入死循环 养成固有的习惯
+the untrained mind accumulates loops, habits...
+
+904
+01:14:35,500 --> 01:14:40,110
+总是重蹈覆辙
+...behaviors that keep you drifting in circles,
+
+905
+01:14:41,040 --> 01:14:43,510
+陷入相同的问题
+creating the same problems,
+
+906
+01:14:44,160 --> 01:14:46,830
+总是用同样的办法
+reaching for the same solutions
+
+907
+01:14:47,830 --> 01:14:50,250
+一遍又一遍
+over and over again.
+
+908
+01:14:52,030 --> 01:14:56,760
+毕竟神经通路就爱走阻力最小的路径
+Still, it's the neural pathway of least resistance.
+
+909
+01:15:01,000 --> 01:15:02,650
+这条路径是我自己铺的
+The one I made.
+
+910
+01:15:02,830 --> 01:15:04,690
+小时候
+The one that kept me safe...
+
+911
+01:15:04,870 --> 01:15:06,480
+这套防线保护了我
+when I was a child.
+
+912
+01:15:08,900 --> 01:15:10,500
+你看...
+You know...
+
+913
+01:15:11,120 --> 01:15:13,890
+我学会了抢在被伤害之前 把别人推开
+I learned to push people away before they could hurt me.
+
+914
+01:15:15,240 --> 01:15:18,270
+而现在 我都成年了
+And, now, as an adult,
+
+915
+01:15:18,950 --> 01:15:23,100
+还是留在原地
+I'm still stuck right where I started.
+
+916
+01:15:26,050 --> 01:15:27,550
+只有一个人
+Alone.
+
+917
+01:15:29,530 --> 01:15:30,760
+怎么回事？
+What is this?
+
+918
+01:15:33,000 --> 01:15:35,760
+真是一团糟 对吧？
+It's a real mess. Am I right?
+
+919
+01:15:35,900 --> 01:15:37,300
+克拉克...
+Clark...
+
+920
+01:15:38,570 --> 01:15:39,740
+让我来帮你...
+...let me help you...
+
+921
+01:15:41,930 --> 01:15:43,760
+在你做出无法挽回的事之前
+before you do anything you can't take back.
+
+922
+01:15:43,780 --> 01:15:45,240
+回答我的问题
+Answer the question.
+
+923
+01:15:46,430 --> 01:15:49,020
+是的 真是一团糟
+Yes, it's a real mess.
+
+924
+01:15:51,690 --> 01:15:54,580
+但从某种角度看 也很美
+But also beautiful in a way.
+
+925
+01:15:55,060 --> 01:15:56,040
+不是吗？
+No?
+
+926
+01:16:03,760 --> 01:16:04,960
+这些人是谁？
+Who are these people?
+
+927
+01:16:07,170 --> 01:16:08,770
+这地方造了他们
+This place builds them.
+
+928
+01:16:09,280 --> 01:16:12,770
+哦 其实更像是在记得他们
+Oh, actually, more like it remembers them.
+
+929
+01:16:14,250 --> 01:16:16,680
+只不过记得越多
+And the more times it remembers something,
+
+930
+01:16:16,690 --> 01:16:18,180
+就越走样
+the less it does.
+
+931
+01:16:19,410 --> 01:16:23,110
+这个在外面是个穿条纹衫的家伙
+Somewhere out there is a guy in a striped shirt,
+
+932
+01:16:23,120 --> 01:16:25,030
+但在这儿...
+but, in here, he's...
+
+933
+01:16:26,980 --> 01:16:28,210
+他被记成了这样
+remembered.
+
+934
+01:16:28,950 --> 01:16:31,460
+有点走样
+Just slightly wrong.
+
+935
+01:16:32,680 --> 01:16:34,540
+这个在外面是个...
+Somewhere out there is a man
+
+936
+01:16:34,560 --> 01:16:36,990
+坐轮椅的家伙 带了盏灯
+in a wheelchair, and a lamp.
+
+937
+01:16:46,040 --> 01:16:48,220
+我敢说 这里就是这么回事
+I'm pretty sure that's how you get all of this.
+
+938
+01:16:48,480 --> 01:16:50,380
+所有这些地方啊
+You know, all these places
+
+939
+01:16:50,570 --> 01:16:53,410
+房间和建筑啊
+and rooms and buildings
+
+940
+01:16:54,310 --> 01:16:55,870
+全都记岔了
+misremembering themselves.
+
+941
+01:16:56,020 --> 01:16:57,350
+克拉克...
+Clark...
+
+942
+01:16:57,720 --> 01:16:59,120
+我们好好谈谈吧
+let's talk this through.
+
+943
+01:17:00,260 --> 01:17:01,560
+换个角度看...
+In some ways...
+
+944
+01:17:02,330 --> 01:17:04,840
+他们甚至比原件更好
+they're an improvement on the originals.
+
+945
+01:17:06,980 --> 01:17:08,350
+比如...
+For starters,
+
+946
+01:17:09,250 --> 01:17:10,780
+他们没有任何感觉
+they can't feel anything.
+
+947
+01:17:21,850 --> 01:17:23,780
+想象一下 那样得有多自在啊
+Can you imagine how good that must feel?
+
+948
+01:17:26,570 --> 01:17:27,860
+我是说...
+I mean...
+
+949
+01:17:28,550 --> 01:17:32,050
+没念头 没痛苦 没自我...
+...there's no thoughts or pain, no ego...
+
+950
+01:17:33,580 --> 01:17:34,800
+也没恐惧
+...no fear.
+
+951
+01:17:36,040 --> 01:17:37,580
+纯粹就是...
+They simply...
+
+952
+01:17:38,610 --> 01:17:39,950
+在那儿
+exist.
+
+953
+01:17:40,970 --> 01:17:43,570
+就像...就像家具一样
+Like... like furniture!
+
+954
+01:17:46,620 --> 01:17:49,060
+看这儿 最绝的来了
+Look at this. The best part.
+
+955
+01:17:53,350 --> 01:17:54,460
+他们能吃
+You can eat them!
+
+956
+01:18:36,680 --> 01:18:38,180
+这是我的 呃...
+That's my, uh...
+
+957
+01:18:38,210 --> 01:18:39,840
+助理
+assistant manager.
+
+958
+01:18:42,360 --> 01:18:44,270
+我想帮她 但她就是...
+I tried to help her, but she just, uh...
+
+959
+01:18:45,070 --> 01:18:46,340
+克拉克
+Clark!
+
+960
+01:18:47,380 --> 01:18:50,550
+你把我解开 我们可以聊聊
+If you untie me, we can talk this through,
+
+961
+01:18:50,860 --> 01:18:52,080
+让你心里好受点
+get you feeling better.
+
+962
+01:18:52,090 --> 01:18:53,840
+是吗 就算解开了
+Yeah, well, what if I did untie you?
+
+963
+01:18:53,850 --> 01:18:55,320
+那又怎样？
+You know, what then?
+
+964
+01:18:55,650 --> 01:18:57,040
+你顶多像个
+You'd run around here
+
+965
+01:18:57,050 --> 01:18:58,550
+没头苍蝇一样到处乱窜
+like a chicken with its head cut off,
+
+966
+01:18:58,570 --> 01:18:59,820
+找你的出口
+looking for a way out.
+
+967
+01:19:00,770 --> 01:19:03,250
+但你最后还是得回到这儿
+But you'd end up in the same place you are now.
+
+968
+01:19:04,530 --> 01:19:07,030
+就跟你爱说的那套路径理论一样
+Like the path thing you're always talking about.
+
+969
+01:19:07,830 --> 01:19:09,160
+克拉克
+Clark!
+
+970
+01:19:09,610 --> 01:19:12,150
+我是真的想帮你 只要告诉我你想要什么
+I just want to help you. Just tell me what you need.
+
+971
+01:19:13,150 --> 01:19:14,780
+我...我...我一定照做
+I'll-I'll-I'll do it.
+
+972
+01:19:16,670 --> 01:19:17,380
+是吗？
+Yeah?
+
+973
+01:19:17,400 --> 01:19:19,400
+是的 是的 拜托了
+Yeah. Yes, please.
+
+974
+01:19:22,500 --> 01:19:23,500
+行
+Okay.
+
+975
+01:19:25,770 --> 01:19:27,160
+我想听你亲口说
+Well, I want you to tell me
+
+976
+01:19:27,180 --> 01:19:28,850
+我没做错任何事
+that I didn't do anything wrong, you know,
+
+977
+01:19:28,860 --> 01:19:30,640
+是你之前对我看走眼了
+that-that you were wrong about me.
+
+978
+01:19:30,660 --> 01:19:33,300
+是我看走眼了 是我错了
+I was wrong about you! I was.
+
+979
+01:19:33,320 --> 01:19:35,730
+- 我真的看错你了 - 不 不 不要这样
+- I was wrong about you. - No, no, not-not like that.
+
+980
+01:19:36,980 --> 01:19:38,840
+别 别这么快 好吗？
+Not... not so fast, okay?
+
+981
+01:19:40,250 --> 01:19:42,320
+我的意思是 我想...我想先定个场景
+I mean, I wanna... I want to set the scene first!
+
+982
+01:19:46,400 --> 01:19:48,740
+咱们从...
+Let's start, um...
+
+983
+01:19:49,550 --> 01:19:51,020
+嗯...从那晚开始
+well, the night that, uh...
+
+984
+01:19:51,810 --> 01:19:54,820
+就是我被撵出我自己家的那晚
+that I got kicked out of my own house.
+
+985
+01:19:54,940 --> 01:19:55,680
+怎么样？
+Yeah?
+
+986
+01:19:58,620 --> 01:20:00,420
+那天 嗯...很晚了
+It was, um... It was late.
+
+987
+01:20:01,840 --> 01:20:03,410
+屋里很暗
+A lot darker.
+
+988
+01:20:04,240 --> 01:20:05,050
+呃...
+Uh...
+
+989
+01:20:07,720 --> 01:20:08,810
+关下灯
+Lights, please.
+
+990
+01:20:19,330 --> 01:20:20,550
+之前跟她试过
+I tried this exercise with her before.
+
+991
+01:20:20,560 --> 01:20:22,780
+她根本不会动 结果都一样
+It doesn't go anywhere.
+
+992
+01:20:24,210 --> 01:20:25,260
+行
+Fine!
+
+993
+01:20:25,740 --> 01:20:27,260
+我自己来
+I'll do it myself.
+
+994
+01:20:27,970 --> 01:20:29,810
+毕竟 这终究还是我的房子
+It's still my house after all.
+
+995
+01:20:33,470 --> 01:20:34,600
+好了
+Yeah.
+
+996
+01:20:36,340 --> 01:20:37,850
+谢谢 这样才对
+Thank you. Much better.
+
+997
+01:20:39,660 --> 01:20:40,860
+不过...
+But there's...
+
+998
+01:20:41,780 --> 01:20:42,630
+还是...
+still...
+
+999
+01:20:43,940 --> 01:20:45,320
+缺点儿什么
+something off.
+
+1000
+01:21:03,240 --> 01:21:04,840
+克拉克 求你..
+Clark, please...
+
+1001
+01:21:36,860 --> 01:21:39,390
+不 拜托 不要 不要...
+No, please, don't, don't...!
+
+1002
+01:21:57,890 --> 01:21:58,930
+对不起
+I'm sorry.
+
+1003
+01:22:02,110 --> 01:22:03,050
+对不起 我...
+I'm sorry, I...
+
+1004
+01:22:04,590 --> 01:22:07,790
+把杯子打碎了 还把你吵醒了
+broke the glass and woke you up.
+
+1005
+01:22:10,230 --> 01:22:12,240
+我知道你睡得早
+I know how you like to sleep early.
+
+1006
+01:22:16,530 --> 01:22:18,370
+我在店里忙太久了
+I was at the store late.
+
+1007
+01:22:20,190 --> 01:22:22,270
+就忘了时间
+I guess I lost track of the time.
+
+1008
+01:22:25,060 --> 01:22:26,720
+我之前在对账
+I was checking inventory.
+
+1009
+01:22:27,280 --> 01:22:28,160
+然后...
+But...
+
+1010
+01:22:28,900 --> 01:22:30,980
+顺路去喝了一点啤酒
+I stopped off for a few beers.
+
+1011
+01:22:30,990 --> 01:22:32,530
+- 克拉克 - 芭芭拉
+- Clark-- - Barbara!
+
+1012
+01:22:34,280 --> 01:22:36,250
+我之前在对账
+I was checking inventory.
+
+1013
+01:22:38,110 --> 01:22:40,250
+然后顺路去喝了一点啤酒
+Then I stopped off for a few beers.
+
+1014
+01:22:45,160 --> 01:22:47,130
+一点...一点是多少？
+Defi-define a few.
+
+1015
+01:22:47,150 --> 01:22:48,650
+我想喝多少就喝多少
+As many as I wanted.
+
+1016
+01:22:50,070 --> 01:22:51,440
+因为这房子是我的
+Because this is my house.
+
+1017
+01:22:53,110 --> 01:22:54,480
+房贷都是我在还
+I pay for it.
+
+1018
+01:22:55,670 --> 01:22:58,350
+所有的钱都是我在出 你上学是我供
+I pay for everything. I pay for you to go to school.
+
+1019
+01:22:59,530 --> 01:23:01,170
+休学也是我供
+I pay for your time off school!
+
+1020
+01:23:01,930 --> 01:23:03,860
+连住这儿都是我在供
+I pay for the roof over your head!
+
+1021
+01:23:05,600 --> 01:23:07,000
+你想要孩子 对吧？
+You want kids, right?
+
+1022
+01:23:07,720 --> 01:23:08,970
+养孩子得花钱
+Well, that takes money.
+
+1023
+01:23:08,990 --> 01:23:10,480
+总得有人去挣钱
+So someone has to work around here.
+
+1024
+01:23:12,760 --> 01:23:13,970
+我说过了这儿得有人干活
+I said someone has
+
+1025
+01:23:13,970 --> 01:23:15,970
+不能在那儿当个懒猪混吃等死
+to get off her fat ass and work around here!
+
+1026
+01:23:16,720 --> 01:23:18,930
+你没考上建筑师 并不代表...
+Just because you didn't get to be an architect don--
+
+1027
+01:23:18,940 --> 01:23:20,670
+老子就是建筑师
+I am a fucking architect.
+
+1028
+01:23:22,110 --> 01:23:24,600
+我之所以得成天在那破店里卖这些玩意儿
+I'm just stuck selling shit furniture because someone
+
+1029
+01:23:24,610 --> 01:23:27,360
+就是因为某个懒猪在家混吃等死 根本不肯出力！
+won't get off her fat fucking ass and help me!
+
+1030
+01:23:27,370 --> 01:23:29,430
+- 我才不是你老婆 - 别出戏
+- I'm not your wife! - Stay in character.
+
+1031
+01:23:30,480 --> 01:23:31,350
+继续演
+Stay in character!
+
+1032
+01:23:31,370 --> 01:23:33,580
+- 我压根就没见过她 - 继续演你的角色
+- I've never even met her! - STAY IN CHARACTER!
+
+1033
+01:23:33,590 --> 01:23:35,290
+滚你妈的蛋！
+FUCK YOU!
+
+1034
+01:23:38,210 --> 01:23:39,020
+你说什么？
+What did you say?
+
+1035
+01:23:39,030 --> 01:23:41,840
+你想知道为什么你老婆甩了你吗？
+You wanna know the real reason your wife left you?
+
+1036
+01:23:41,850 --> 01:23:43,490
+根本不是因为酗酒
+It wasn't the drinking,
+
+1037
+01:23:43,500 --> 01:23:47,110
+不是半夜烂醉回家 甚至不是你的坏脾气
+or the stumbling home at all hours, or the rage.
+
+1038
+01:23:47,120 --> 01:23:49,040
+是因为你是个巨婴
+It was the whining!
+
+1039
+01:23:49,050 --> 01:23:51,230
+你这辈子没一件事是你的错 对吧？
+Nothing's ever your fault, is it?
+
+1040
+01:23:51,400 --> 01:23:53,460
+喝多了 赖工作
+You drink too much? Blame your job.
+
+1041
+01:23:53,660 --> 01:23:56,380
+恨职业 赖世界
+You hate your job? Blame the world.
+
+1042
+01:23:56,440 --> 01:23:57,880
+被撵出家门
+You get kicked out of the house?
+
+1043
+01:23:57,900 --> 01:23:59,680
+赖老婆
+Blame your wife.
+
+1044
+01:23:59,700 --> 01:24:01,720
+现在你攻击我 绑架我
+You attack me and tie me up?
+
+1045
+01:24:02,060 --> 01:24:03,280
+就去赖你的脑子！
+Blame your brain!
+
+1046
+01:24:03,290 --> 01:24:05,920
+你这颗烂脑子 就是你本人 废物
+You are your fucking brain, you dipshit!
+
+1047
+01:24:10,400 --> 01:24:12,700
+- 所以 全都是我的错？ - 是啊
+- You're saying it's my fault? - Yes!
+
+1048
+01:24:12,720 --> 01:24:15,040
+但你肯定又要赖你的脑回路 对吧？
+But it's just the way you're wired, isn't it?
+
+1049
+01:24:15,050 --> 01:24:16,320
+对不对！
+ISN'T IT?!
+
 1050
-01:41:52,212 --> 01:41:54,914
-if we could just talk, just you and me,
+01:24:24,830 --> 01:24:26,560
+那我怎么才能停下来？
+How do I stop doing that?
 
 1051
-01:41:56,116 --> 01:41:58,385
-you know, just like... just like two regular people.
+01:24:27,470 --> 01:24:30,070
+实话实说 我一丁点的招都没有了
+Honestly, I have no fucking idea.
 
 1052
-01:42:00,088 --> 01:42:03,022
-We could unpack some of this, we've both been in there,
+01:24:32,730 --> 01:24:34,170
+我帮不了你 克拉克
+I can't help you, Clark.
 
 1053
-01:42:03,024 --> 01:42:05,259
-and-and-and get on the same page.
+01:24:35,030 --> 01:24:36,700
+能试的我都试了
+As much as I tried.
 
 1054
-01:42:06,628 --> 01:42:10,997
-There are doors opening everywhere.
+01:24:38,470 --> 01:24:39,920
+这根本不是我能左右的
+It's just not up to me.
 
 1055
-01:42:12,332 --> 01:42:15,601
-We don't know why or what's connecting them.
+01:24:43,490 --> 01:24:44,850
+我谁也救不了
+I can't save anyone.
 
 1056
-01:42:15,603 --> 01:42:17,502
-They sort of keep happening,
+01:24:54,840 --> 01:24:56,030
+你知道吗？
+You know...
 
 1057
-01:42:17,504 --> 01:42:19,772
-and we don't know how to stop them.
+01:24:58,830 --> 01:25:00,570
+我其实不想改
+I don't think I want to change.
+
+1058
+01:25:03,580 --> 01:25:04,820
+那就别改
+Then don't.
+
+1059
+01:25:11,980 --> 01:25:13,590
+我喜欢这里
+I like it in here.
+
+1060
+01:25:18,040 --> 01:25:19,770
+这么久以来
+For the first time in a long time,
+
+1061
+01:25:19,790 --> 01:25:21,310
+我第一次觉得...
+I feel like I'm...
+
+1062
+01:25:24,800 --> 01:25:27,950
+我终于找到了我的归宿
+like I'm right where I'm supposed to be.
+
+1063
+01:25:30,680 --> 01:25:32,130
+那就留下吧
+Then stay.
+
+1064
+01:25:34,140 --> 01:25:35,140
+就这么待着
+Right where you are.
+
+1065
+01:25:39,990 --> 01:25:41,000
+但你得放我走
+But let me go.
+
+1066
+01:26:10,820 --> 01:26:12,020
+对不起
+I'm sorry.
+
+1067
+01:26:15,900 --> 01:26:17,000
+对不起什么？
+About what?
+
+1068
+01:26:48,030 --> 01:26:49,630
+你来这儿干什么？
+What are you doing in here?
+
+1069
+01:26:56,020 --> 01:26:57,720
+这是玛丽
+This is Mary.
+
+1070
+01:26:58,990 --> 01:27:00,800
+她是咱们的心理治疗师
+She's our therapist.
+
+1071
+01:27:02,340 --> 01:27:03,710
+她正要离开
+She was just leaving.
+
+1072
+01:27:06,000 --> 01:27:07,390
+不 不
+No, no.
+
+1073
+01:27:08,110 --> 01:27:09,650
+你不用担心
+You don't have to worry.
+
+1074
+01:27:11,510 --> 01:27:13,550
+她说咱们不需要改变
+She says we don't need to change.
+
+1075
+01:27:25,930 --> 01:27:27,030
+没关系的
+It's okay.
+
+1076
+01:27:28,820 --> 01:27:30,890
+咱们的脑回路就是这样接的
+It's just the way we're wired.
+
+1077
+01:31:18,960 --> 01:31:21,230
+{\an8}（由此下楼）
+
+1078
+01:31:24,480 --> 01:31:26,940
+（干达语）“向宇宙所有族群致意”
+
+1079
+01:31:26,950 --> 01:31:29,040
+（干达语）“愿和平永远伴随你们”
+
+1080
+01:31:29,060 --> 01:31:37,510
+（马拉地语）“地球人民向你们传递美好的祝愿”
+
+1081
+01:31:31,700 --> 01:31:34,040
+{\an8}（全场清空 全场甩卖）
+
+1082
+01:31:37,730 --> 01:31:41,580
+（台语）“太空的朋友们 你们好”
+
+1083
+01:31:39,000 --> 01:31:41,480
+{\an8}（全场清空 全场甩卖）
+
+1084
+01:31:41,590 --> 01:31:45,280
+（台语）“吃过饭没？来我们这儿坐坐”
+
+1085
+01:31:46,920 --> 01:31:48,080
+不
+No...
+
+1086
+01:31:49,630 --> 01:31:51,360
+{\an8}（出口）
+
+1087
+01:31:55,570 --> 01:31:58,690
+（捷克语）“亲爱的朋友们 祝你们万事如意”
+
+1088
+01:31:58,870 --> 01:32:02,450
+（卡纳达语）“代表说卡纳达语的人们 向你们致以美好祝愿”
+
+1089
+01:32:00,120 --> 01:32:07,900
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+1090
+01:32:02,560 --> 01:32:06,920
+（拉贾斯坦语）“大家好 我们这里很幸福”
+
+1091
+01:32:06,930 --> 01:32:09,130
+（拉贾斯坦语）“愿你们那里也同样幸福”
+
+1092
+01:32:09,140 --> 01:32:12,220
+（英语）“来自地球儿童的问候”
+"Hello from the children of planet Earth."
+
+1093
+01:32:15,990 --> 01:32:28,040
+{\an8}（全店促销 低价保证 全场清空 全场甩卖）
+
+1094
+01:32:17,180 --> 01:32:24,160
+（古希腊语）“你们好 无论你们是谁 我们带着友谊 拜访朋友”
+
+1095
+01:32:24,290 --> 01:32:27,260
+（葡萄牙语）“愿所有人平安幸福”
+
+1096
+01:32:32,650 --> 01:32:35,070
+（阿卡德语）“愿一切都很好”
+
+1097
+01:32:36,050 --> 01:32:38,680
+（俄语）“你好 欢迎你们”
+
+1098
+01:32:39,090 --> 01:32:41,940
+（泰语）“远方土地的朋友们 你们好...”
+
+1099
+01:32:56,320 --> 01:32:58,160
+（法语）“大家好”
+
+1100
+01:35:16,210 --> 01:35:17,790
+你没事吧？没事吧？
+Are you okay? Are you okay?
+
+1101
+01:35:17,800 --> 01:35:18,900
+这女人是谁？
+Who the fuck is that?
+
+1102
+01:35:18,920 --> 01:35:20,220
+你是谁？
+Who is it?
+
+1103
+01:35:21,960 --> 01:35:23,700
+怎么回事？
+What happened?
+
+1104
+01:35:25,920 --> 01:35:27,790
+海盗呢？还在附近吗？
+What about the pirate? Can you still see the pirate?
+
+1105
+01:35:28,510 --> 01:35:30,350
+其他人呢？他们还在后撤吗？
+And the other guys? Still going out the back?
+
+1106
+01:36:18,080 --> 01:36:20,920
+（塞尔维亚语）“来自我们星球的诚挚祝愿”
+
+1107
+01:36:21,300 --> 01:36:25,790
+（奥里亚语）“来自太阳系第三颗行星”
+
+1108
+01:36:25,810 --> 01:36:29,730
+（奥里亚语）“地球的问候”
+
+1109
+01:36:29,780 --> 01:36:32,240
+（干达语）“向宇宙所有族群致意”
+
+1110
+01:36:32,250 --> 01:36:34,340
+（干达语）“愿和平永远伴随你们”
+
+1111
+01:36:34,360 --> 01:36:42,810
+（马拉地语）“地球人民向你们传递美好的祝愿”
+
+1112
+01:36:43,030 --> 01:36:45,790
+（台语）“太空的朋友们 你们好”
+
+1113
+01:36:46,060 --> 01:36:49,040
+（台语）吃过饭没？来我们这儿坐坐
+
+1114
+01:36:49,090 --> 01:36:54,680
+（匈牙利语）“用匈牙利语向宇宙中所有热爱和平的生命致意”
+
+1115
+01:36:55,080 --> 01:36:59,000
+（泰卢固语）“说泰卢固语的人们向你们致以美好的祝愿”
+
+1116
+01:36:59,070 --> 01:37:02,190
+（捷克语）“亲爱的朋友们 祝你们万事如意”
+
+1117
+01:37:02,370 --> 01:37:05,950
+（卡纳达语）“代表说卡纳达语的人们 向你们致以美好祝愿”
+
+1118
+01:37:06,060 --> 01:37:10,420
+（拉贾斯坦语）“大家好 我们这里很幸福”
+
+1119
+01:37:10,430 --> 01:37:12,630
+（拉贾斯坦语）“愿你们那里也同样幸福”
+
+1120
+01:37:12,840 --> 01:37:15,920
+（英语）“来自地球儿童的问候”
+"Hello from the children of planet Earth."
+
+1121
+01:37:58,460 --> 01:37:59,990
+你好 我叫菲尔
+Hello, my name is Phil.
+
+1122
+01:38:02,500 --> 01:38:04,400
+你是玛丽 对吧？
+And you're Mary, yeah?
+
+1123
+01:38:06,340 --> 01:38:10,990
+我想问你几个问题 主要是...
+Uh... I was hoping to ask you a few questions, just for...
+
+1124
+01:38:13,400 --> 01:38:16,340
+为了核实一些细节
+some clarification on our end,
+
+1125
+01:38:16,610 --> 01:38:17,680
+没问题吧？
+if that's okay.
+
+1126
+01:38:23,970 --> 01:38:26,900
+呃 首先...
+Uh, first thing, um...
+
+1127
+01:38:26,920 --> 01:38:29,230
+你能说说 你是怎么...
+could you establish how you, uh...
+
+1128
+01:38:30,630 --> 01:38:31,800
+进来的吗？
+got in here?
+
+1129
+01:38:34,960 --> 01:38:36,460
+我穿过了一堵墙
+I walked through a wall
+
+1130
+01:38:37,590 --> 01:38:39,260
+就在一家家具店的地下室里
+in the basement of a furniture store.
+
+1131
+01:38:47,140 --> 01:38:49,780
+你看这张照片 是这里吧？
+Can you confirm that this is the location in question?
+
+1132
+01:38:47,420 --> 01:38:49,800
+{\an8}（克船长的家具帝国）
+
+1133
+01:38:59,040 --> 01:39:01,780
+好的 你当时想购物 还是...
+Okay, good. So you were shopping, or...
+
+1134
+01:39:04,510 --> 01:39:06,110
+我当时在找人
+I was looking for someone.
+
+1135
+01:39:11,600 --> 01:39:12,510
+呃...
+Um...
+
+1136
+01:39:18,120 --> 01:39:19,710
+你找的那个人
+were you looking for this man,
+
+1137
+01:39:19,900 --> 01:39:21,300
+是他吧？
+right here?
+
+1138
+01:39:25,150 --> 01:39:26,450
+我现在在哪？
+Where am I right now?
+
+1139
+01:39:26,470 --> 01:39:28,550
+帮我确认一下行吗？
+Could you just confirm for me?
+
+1140
+01:39:29,120 --> 01:39:31,090
+这就是你要找的人吧？
+Is this man right here the man you were looking for?
+
+1141
+01:39:31,100 --> 01:39:32,350
+拜托
+Please.
+
+1142
+01:39:32,360 --> 01:39:33,860
+- 抱歉 你刚才说你叫什么？ - 菲尔
+- Sorry, what was your name? - Phil.
+
+1143
+01:39:35,960 --> 01:39:38,290
+请告诉我 菲尔 我现在在哪？
+Please, Phil. Where am I?
+
+1144
+01:39:39,250 --> 01:39:40,480
+我不...
+I'm not...
+
+1145
+01:39:47,860 --> 01:39:50,540
+我是做...呃...抱歉 我的...
+I make, um... Sorry, my...
+
+1146
+01:39:50,680 --> 01:39:53,010
+我们的公司 是生产...
+Our company, we make...
+
+1147
+01:39:54,250 --> 01:39:55,780
+核磁共振成像仪的
+MRI machines.
+
+1148
+01:39:54,250 --> 01:39:56,770
+{\an8}（异步研究所）
+
+1149
+01:39:56,310 --> 01:39:58,550
+或者...应该说
+Or... I should say, um,
+
+1150
+01:39:58,570 --> 01:40:01,000
+我们曾经是做核磁共振仪的
+we used to make MRI machines.
+
+1151
+01:40:02,680 --> 01:40:03,800
+现在不再做了
+Not anymore.
+
+1152
+01:40:05,080 --> 01:40:06,340
+那是在我们...
+That was before we...
+
+1153
+01:40:08,900 --> 01:40:10,630
+- 在我们发现那个.... - 你也进去过
+- Before we found-- - You've been there.
+
+1154
+01:40:18,150 --> 01:40:20,350
+是的 我去过
+Yes, I have.
+
+1155
+01:40:22,660 --> 01:40:25,500
+现在这成了我的工作
+And now, it's my job.
+
+1156
+01:40:26,550 --> 01:40:28,280
+我每...每天都进去
+Every day, I-I go in there
+
+1157
+01:40:28,760 --> 01:40:30,910
+试着...
+and I just try to f...
+
+1158
+01:40:31,880 --> 01:40:33,840
+试着多弄懂一点也好
+try to find out ev-even a little bit more.
+
+1159
+01:40:34,380 --> 01:40:37,580
+我在尽全力绘制地图
+I-I map out areas to the best of my ability.
+
+1160
+01:40:38,180 --> 01:40:40,140
+玛丽 我越来越坚信
+And more and more, I'm convinced
+
+1161
+01:40:41,630 --> 01:40:45,610
+在我们有生之年
+that nothing in our lifetime, Mary,
+
+1162
+01:40:45,620 --> 01:40:48,930
+甚...甚至在整个人类记录的历史中
+n-nothing in-in maybe all of recorded history
+
+1163
+01:40:50,110 --> 01:40:53,530
+没什么比这更重要了
+means more than this.
+
+1164
+01:40:54,840 --> 01:40:57,100
+可我就是没搞明白
+But I don't understand it. I don't...
+
+1165
+01:40:57,110 --> 01:40:58,830
+我...我根本说不上来
+I-I can't even describe it.
+
+1166
+01:40:59,490 --> 01:41:00,520
+这...
+It...
+
+1167
+01:41:00,880 --> 01:41:04,560
+这就好比给个没见过狗的人形容狗
+It's like describing a dog to someone who's never seen a dog.
+
+1168
+01:41:05,510 --> 01:41:07,620
+然后让那人把狗画出来
+And then asking them to draw it.
+
+1169
+01:41:13,450 --> 01:41:16,050
+现在你想让我...形容它
+Now you want me to... describe it.
+
+1170
+01:41:18,650 --> 01:41:21,820
+然后你记下来 之后呢？
+And then you'll write it down, and then what?
+
+1171
+01:41:21,830 --> 01:41:23,780
+- 玛丽... - 之后我就能走了吗？
+- Mary-- - You'll let me go?
+
+1172
+01:41:23,800 --> 01:41:25,430
+其实咱们想的一样
+We all want the same thing here.
+
+1173
+01:41:25,450 --> 01:41:26,700
+真的
+We do.
+
+1174
+01:41:26,710 --> 01:41:31,210
+咱们都只想 哪怕能多弄懂一点点
+We just want to find out even a little bit more.
+
+1175
+01:41:32,720 --> 01:41:34,320
+菲尔 我最后会怎么样？
+What's gonna happen to me, Phil?
+
+1176
+01:41:40,340 --> 01:41:41,820
+这不是我能左右的
+That decision's not up to me.
+
+1177
+01:41:43,180 --> 01:41:44,030
+那...
+So...
+
+1178
+01:41:45,290 --> 01:41:48,420
+咱们能不能就简单聊聊 就咱俩
+if we could just talk, just you and me,
+
+1179
+01:41:49,270 --> 01:41:51,730
+就像...就像普通人那样
+you know, just like... just like two regular people.
+
+1180
+01:41:53,090 --> 01:41:56,090
+咱们摊开聊聊 毕竟咱俩都进去过
+We could unpack some of this, we've both been in there,
+
+1181
+01:41:56,100 --> 01:41:58,870
+这样咱...咱们才能把话说到一块儿去
+and-and-and get on the same page.
+
+1182
+01:42:00,150 --> 01:42:04,520
+现在到处都有门在打开
+There are doors opening everywhere.
+
+1183
+01:42:05,190 --> 01:42:08,460
+我们搞不懂是啥把这些连在一起的
+We don't know why or what's connecting them.
+
+1184
+01:42:08,490 --> 01:42:10,640
+没完没了地出现
+They sort of keep happening, and...
+
+1185
+01:42:10,910 --> 01:42:13,180
+我们完全不知道怎么让它停下来...
+and we don't know how to stop them...
+
+1186
+01:42:43,430 --> 01:42:48,910
+{\an8}（山脊公寓楼盘）
+
+1187
+01:43:03,580 --> 01:43:07,860
+{\an8}（《心灵之窗》）
+
+1188
+01:43:07,880 --> 01:43:16,180
+{\an8}（寻人启事 小凯 阿博）
+
+1189
+01:43:20,560 --> 01:43:25,610
+{\an8}（庭家科牙所诊 莱米饣布服）
+
+1190
+01:43:25,610 --> 01:43:31,070
+{\an8}（长克船的具家国帝）
+
+1191
+01:43:43,610 --> 01:43:48,030
+{\an8}导演
+凯恩·帕森斯
+
+1192
+01:43:48,030 --> 01:43:52,440
+{\an8}编剧
+威尔·苏迪克
+
+1193
+01:43:52,440 --> 01:43:56,860
+{\an8}改编自凯恩·帕森斯
+系列视频
+
+1194
+01:43:56,860 --> 01:44:01,280
+{\an8}制片人
+温子仁
+迈克尔·克利尔
+罗伯托·帕蒂诺
+
+1195
+01:44:01,280 --> 01:44:05,660
+{\an8}制片人
+肖恩·利维
+丹·科恩
+丹·李文
+
+1196
+01:44:05,660 --> 01:44:10,080
+{\an8}制片人
+奥兹·柏金斯
+克里斯·费格森
+
+1197
+01:44:10,080 --> 01:44:14,500
+{\an8}制片人
+彼得·切宁
+詹诺·托平
+科里·阿德尔森
+
+1198
+01:44:23,310 --> 01:44:27,720
+{\an8}摄影
+杰里米·考克斯
+
+1199
+01:44:32,150 --> 01:44:36,560
+{\an8}剪辑
+格雷格·吴
+
+1200
+01:44:40,950 --> 01:44:45,370
+{\an8}配乐
+艾多·凡布利曼
+凯恩·帕森斯
+
+1201
+01:44:45,370 --> 01:44:49,780
+{\an8}字幕译制
+蒙太奇字幕组
+
+1202
+01:44:49,780 --> 01:44:54,210
+{\an8}字幕贡献者
+翻译/校对/时间轴： 小p
+校对：Ariel, Ke, Hypnotism, Balding
+后期：NEST, NickCollect
+
+1203
+01:44:54,210 --> 01:44:58,580
+{\an8}蒙太奇字幕组社群
+Telegram/IRC：MontageSubs
+
+1204
+01:44:58,580 --> 01:45:03,020
+{\an8}字幕许可
+CC BY-NC-SA 4.0
+
+1205
+01:45:03,020 --> 01:45:07,430
+{\an8}主演
+切瓦特·艾乔福 饰 家具店老板克拉克
+
+1206
+01:45:07,430 --> 01:45:11,850
+{\an8}主演
+雷娜特·赖因斯夫 饰 心理医生玛丽
+
+1207
+01:45:11,850 --> 01:45:16,230
+{\an8}主演
+马克·杜普拉斯 饰 异步研究员菲尔
+
+1208
+01:45:16,230 --> 01:45:20,650
+{\an8}主演
+芬恩·班尼特 饰 小凯男友阿博
+
+1209
+01:45:20,650 --> 01:45:25,070
+{\an8}主演
+卢琪塔·马克斯韦尔 饰 克拉克助理小凯
+
+1210
+01:45:25,070 --> 01:45:29,490
+{\an8}主演
+阿万·乔贾 饰 异步雇员纳伦·沃恩
+罗伯特·博布罗茨基 饰 海盗版克拉克
+
+1211
+01:45:29,490 --> 01:45:33,920
+{\an8}凯恩·帕森斯
+导演作品
+
+1212
+01:50:23,690 --> 01:50:26,680
+{\an2}（A24影业）
+
+1213
+01:50:26,680 --> 01:50:28,760
+蒙太奇字幕组 (MontageSubs)
+用爱发电 ♥ Powered by Love
 
