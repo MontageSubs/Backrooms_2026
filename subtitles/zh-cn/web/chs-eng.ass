@@ -5524,10 +5524,10 @@ Dialogue: 0,1:44:05.66,1:44:10.08,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(
 Dialogue: 0,1:44:10.08,1:44:14.50,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(360.22,715.54)}制片人\N\N{\fs80\fsp10}彼得·切宁\N詹诺·托平\N科里·阿德尔森
 Dialogue: 0,1:44:23.31,1:44:27.72,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}摄影\N{\fs80\fsp10}杰里米·考克斯
 Dialogue: 0,1:44:32.15,1:44:36.56,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}剪辑\N{\fs80\fsp10}格雷格·吴
-Dialogue: 0,1:44:40.95,1:44:45.37,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(973.31,911.09)}配乐\N{\fs80}艾多·凡布利曼\N凯恩·帕森斯
+Dialogue: 0,1:44:40.94,1:44:45.36,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(973.31,911.09)}配乐\N{\fs80}艾多·凡布利曼\N凯恩·帕森斯
 Dialogue: 0,1:44:45.37,1:44:49.80,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}字幕译制\N{\fs80\fsp10}蒙太奇字幕组
-Dialogue: 0,1:44:49.80,1:44:54.21,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(960,894.22)}字幕贡献者\N{\fs60\fsp10}翻译/校对/时间轴: 小p\N校对：Ariel, Ke, Hypnotism, Balding\N后期：NEST, NickCollect
-Dialogue: 0,1:44:54.21,1:44:58.60,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}蒙太奇字幕组社群\N{\fs60\fsp}Telegram/IRC：MontageSubs
+Dialogue: 0,1:44:49.80,1:44:54.21,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(960,830)}字幕贡献者\N{\fs60\fsp10}翻译/校对/时间轴: 小p\N校对：Ariel, Ke, Hypnotism, Balding\N后期：NEST, NickCollect
+Dialogue: 0,1:44:54.21,1:44:58.60,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,713)\c&HFCFFFC&}蒙太奇字幕组社群\N{\fs60\fsp}Telegram/IRC：MontageSubs
 Dialogue: 0,1:44:58.60,1:45:03.02,Credit,,0,0,0,,{\b1\fs50\fsp20\c&HFCFFFC&\pos(960,816.89)}字幕许可\N{\fs60\fsp}CC BY-NC-SA 4.0
 Dialogue: 0,1:45:03.02,1:45:07.43,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}主演\N{\fs80\fsp10}切瓦特·艾乔福 饰 家具店老板克拉克
 Dialogue: 0,1:45:07.43,1:45:11.85,Credit,,0,0,0,,{\b1\fs50\fsp20\pos(960,727.11)\c&HFCFFFC&}主演\N{\fs80\fsp10}雷娜特·赖因斯夫 饰 心理医生玛丽
