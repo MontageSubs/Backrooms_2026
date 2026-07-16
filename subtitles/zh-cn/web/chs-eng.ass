@@ -1159,7 +1159,7 @@ Dialogue: 0,1:39:26.47,1:39:28.55,Default,,0,0,0,,帮我确认一下行吗？\N{
 Dialogue: 0,1:39:29.12,1:39:31.09,Default,,0,0,0,,这就是你要找的人吧？\N{\rEng}Is this man right here the man you were looking for?
 Dialogue: 0,1:39:31.10,1:39:32.35,Default,,0,0,0,,拜托\N{\rEng}Please.
 Dialogue: 0,1:39:32.36,1:39:33.86,Default,,0,0,0,,- 抱歉 你刚才说你叫什么？ - 菲尔\N{\rEng}- Sorry, what was your name? - Phil.
-Dialogue: 0,1:39:35.96,1:39:38.29,Default,,0,0,0,,拜托 菲尔 告诉我我现在在哪？\N{\rEng}Please, Phil. Where am I?
+Dialogue: 0,1:39:35.96,1:39:38.29,Default,,0,0,0,,请告诉我 菲尔 我现在在哪？\N{\rEng}Please, Phil. Where am I?
 Dialogue: 0,1:39:39.25,1:39:40.48,Default,,0,0,0,,我不...\N{\rEng}I'm not...
 Dialogue: 0,1:39:47.86,1:39:50.54,Default,,0,0,0,,我是做...呃...抱歉 我的...\N{\rEng}I make, um... Sorry, my...
 Dialogue: 0,1:39:50.68,1:39:53.01,Default,,0,0,0,,我们的公司 是生产...\N{\rEng}Our company, we make...
@@ -1218,7 +1218,7 @@ Dialogue: 0,1:44:23.31,1:44:27.72,Credit,,0,0,0,,{\an8}摄影\N杰里米·考克
 Dialogue: 0,1:44:32.15,1:44:36.56,Credit,,0,0,0,,{\an8}剪辑\N格雷格·吴
 Dialogue: 0,1:44:40.95,1:44:45.37,Credit,,0,0,0,,{\an8}配乐\N艾多·凡布利曼\N凯恩·帕森斯
 Dialogue: 0,1:44:45.37,1:44:49.78,Credit,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
-Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, Ke, yan, <占位>\N后期：NEST, <占位>\N字幕反馈：
+Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, Ke, yan, Balding\N后期：NEST, <占位>\N字幕反馈：
 Dialogue: 0,1:44:54.21,1:44:58.58,Credit,,0,0,0,,{\an8}蒙太奇字幕组社群\NTelegram/IRC：MontageSubs
 Dialogue: 0,1:44:58.58,1:45:03.02,Credit,,0,0,0,,{\an8}字幕许可\NCC BY-NC-SA 4.0
 Dialogue: 0,1:45:03.02,1:45:07.43,Credit,,0,0,0,,{\an8}主演\N切瓦特·艾乔福 饰 家具店老板克拉克
