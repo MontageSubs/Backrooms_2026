@@ -349,12 +349,12 @@ Dialogue: 0,0:22:08.18,0:22:09.98,Default,,0,0,0,,“准备好跨过去了吗？
 Dialogue: 0,0:22:12.74,0:22:15.81,Default,,0,0,0,,“去夺回属于你的东西”\N{\rEng}"So that you can reclaim that which was once yours...
 Dialogue: 0,0:22:17.51,0:22:20.47,Default,,0,0,0,,“去重新主宰你的生命”\N{\rEng}"and take back control of your life."
 Dialogue: 0,0:22:22.35,0:22:24.22,Default,,0,0,0,,“去过你想过的人生”\N{\rEng}"The life you want to be living."
-Dialogue: 0,0:22:25.82,0:22:28.37,Default,,0,0,0,,“卸下过去的沉重”\N{\rEng}"Unburdened by the traumas of the past."
+Dialogue: 0,0:22:25.82,0:22:28.37,Default,,0,0,0,,“卸下过去的重负”\N{\rEng}"Unburdened by the traumas of the past."
 Dialogue: 0,0:22:29.45,0:22:32.17,Default,,0,0,0,,“走出那些你亲手打造的围墙”\N{\rEng}"Free of the confines you had built."
 Dialogue: 0,0:22:32.18,0:22:33.78,Default,,0,0,0,,...所以我想...\N{\rEng}...to leave, and so I decided...
 Dialogue: 0,0:22:33.81,0:22:37.33,Default,,0,0,0,,“开辟一条属于你自己的路”\N{\rEng}"And free to choose a path of your own design."
 Dialogue: 0,0:23:06.96,0:23:10.49,Screen,,0,0,0,,{\an8}（家庭牙科诊所 米莱服饰）
-Dialogue: 0,0:23:10.50,0:23:13.56,Screen,,0,0,0,,{\an8}（停车）
+Dialogue: 0,0:23:10.50,0:23:13.56,Screen,,0,0,0,,{\an8}（停）
 Dialogue: 0,0:23:14.13,0:23:16.44,Default,,0,0,0,,“嘿 牛仔们 快瞧这边！”\N{\rEng}"Well, hey there, cowboys and cowgirls!"
 Dialogue: 0,0:23:16.46,0:23:18.11,Default,,0,0,0,,“想在格兰德河这块地盘”\N{\rEng}"Are you looking to rustle up the best deals
 Dialogue: 0,0:23:16.46,0:23:19.66,Note,,0,0,0,,{\an8}【格兰德河：位于美国南部】
@@ -371,7 +371,7 @@ Dialogue: 0,0:23:57.03,0:23:57.77,Screen,,0,0,0,,{\an8}（由此下楼）
 Dialogue: 0,0:23:59.81,0:24:01.14,Screen,,0,0,0,,{\an8}（由此下楼）
 Dialogue: 0,0:24:06.57,0:24:07.39,Default,,0,0,0,,该死\N{\rEng}Stupid...
 Dialogue: 0,0:24:07.40,0:24:09.77,Default,,0,0,0,,看老子怎么修理你\N{\rEng}Fuck! Piece of shit!
-Dialogue: 0,0:29:04.38,0:29:06.80,Screen,,0,0,0,,{\an8}（车停）
+Dialogue: 0,0:29:04.38,0:29:06.80,Screen,,0,0,0,,{\an8}（亭亻）
 Dialogue: 0,0:29:48.69,0:29:52.78,Default,,0,0,0,,（粤语）“各位好吗？祝各位平安健康快乐”
 Dialogue: 0,0:29:53.27,0:29:55.69,Default,,0,0,0,,（阿卡德语）“愿一切都很好”
 Dialogue: 0,0:29:56.67,0:29:59.30,Default,,0,0,0,,（俄语）“你好 欢迎你们”
@@ -491,7 +491,7 @@ Dialogue: 0,0:36:06.74,0:36:10.93,Default,,0,0,0,,（瑞典语）“伊萨卡小
 Dialogue: 0,0:36:11.53,0:36:13.32,Default,,0,0,0,,（齐切瓦语）“其他星球的朋友们...”
 Dialogue: 0,0:36:13.34,0:36:14.94,Default,,0,0,0,,是谁啊？\N{\rEng}Anyone there?
 Dialogue: 0,0:36:56.20,0:36:57.63,Default,,0,0,0,,哦 该死...\N{\rEng}Oh, fuck...
-Dialogue: 0,0:37:15.04,0:37:17.67,Screen,,0,0,0,,{\an8}（车停）
+Dialogue: 0,0:37:15.04,0:37:17.67,Screen,,0,0,0,,{\an8}（亭亻）
 Dialogue: 0,0:37:21.26,0:37:23.23,Default,,0,0,0,,好 好\N{\rEng}Okay, Okay...
 Dialogue: 0,0:38:59.39,0:39:01.23,Default,,0,0,0,,（法语）“大家好”
 Dialogue: 0,0:39:02.50,0:39:04.06,Default,,0,0,0,,（缅甸语）“你们好吗？”
@@ -516,7 +516,7 @@ Dialogue: 0,0:39:44.89,0:39:47.02,Default,,0,0,0,,（乌尔都语）“愿和平
 Dialogue: 0,0:39:47.03,0:39:50.93,Default,,0,0,0,,（乌尔都语）“我们代表地球的居民”
 Dialogue: 0,0:39:50.94,0:39:53.68,Default,,0,0,0,,（乌尔都语）“欢迎你们”
 Dialogue: 0,0:40:07.92,0:40:08.92,Default,,0,0,0,,抱歉来晚了\N{\rEng}Sorry I'm late.
-Dialogue: 0,0:40:10.15,0:40:12.15,Default,,0,0,0,,路上堵死了 我又没法早点走\N{\rEng}Traffic was hell, and I couldn't leave early.
+Dialogue: 0,0:40:10.15,0:40:12.15,Default,,0,0,0,,路上堵死了 我又没法提前走\N{\rEng}Traffic was hell, and I couldn't leave early.
 Dialogue: 0,0:40:12.24,0:40:13.74,Default,,0,0,0,,没关系 趁还有时间聊聊吧\N{\rEng}Let's just use the time we have.
 Dialogue: 0,0:40:17.35,0:40:18.70,Default,,0,0,0,,今天感觉怎么样 克拉克？\N{\rEng}How are you today, Clark?
 Dialogue: 0,0:40:19.70,0:40:21.08,Default,,0,0,0,,你觉得呢 我看起来怎么样？\N{\rEng}How do I look?
@@ -624,7 +624,7 @@ Dialogue: 0,0:45:10.87,0:45:12.14,Default,,0,0,0,,你们能...能再帮我拍点
 Dialogue: 0,0:45:13.86,0:45:14.88,Default,,0,0,0,,行不行？\N{\rEng}Right?
 Dialogue: 0,0:45:22.80,0:45:24.90,Default,,0,0,0,,好了 开始拍了\N{\rEng}Okay, we are rolling.
 Dialogue: 0,0:45:26.30,0:45:29.60,Default,,0,0,0,,这儿摆了些东西\N{\rEng}We got, um, some shit over here.
-Dialogue: 0,0:45:28.74,0:45:30.62,Screen,,0,0,0,,{\an8}（车停）
+Dialogue: 0,0:45:28.74,0:45:30.62,Screen,,0,0,0,,{\an8}（亭亻）
 Dialogue: 0,0:45:29.61,0:45:31.38,Default,,0,0,0,,还有停车牌\N{\rEng}We got some stop signs
 Dialogue: 0,0:45:31.39,0:45:33.07,Default,,0,0,0,,还有 呃 绳子\N{\rEng}and, uh... a rope.
 Dialogue: 0,0:45:33.09,0:45:34.26,Default,,0,0,0,,拿绳子干嘛？\N{\rEng}What's the rope for?
@@ -700,8 +700,8 @@ Dialogue: 0,0:47:58.84,0:48:00.56,Default,,0,0,0,,居然还搞了个泳池\N{\rE
 Dialogue: 0,0:48:00.58,0:48:01.90,Default,,0,0,0,,有泳池？\N{\rEng}There's a pool?
 Dialogue: 0,0:48:01.91,0:48:03.81,Default,,0,0,0,,没错 算是吧\N{\rEng}Yeah. I mean, kind of.
 Dialogue: 0,0:48:04.01,0:48:05.51,Default,,0,0,0,,快跟上\N{\rEng}Keep up.
-Dialogue: 0,0:48:05.30,0:48:07.46,Screen,,0,0,0,,{\an8}（车停）
-Dialogue: 0,0:48:06.15,0:48:07.88,Default,,0,0,0,,“车停”什么鬼？\N{\rEng}"Pots." What the fuck?
+Dialogue: 0,0:48:05.30,0:48:07.46,Screen,,0,0,0,,{\an8}（亭亻）
+Dialogue: 0,0:48:06.15,0:48:07.88,Default,,0,0,0,,倒着的“停”什么鬼？\N{\rEng}"Pots." What the fuck?
 Dialogue: 0,0:48:15.65,0:48:17.52,Default,,0,0,0,,不不不 那是我上次走的路\N{\rEng}Yeah, no, no, that's the way I went last time.
 Dialogue: 0,0:48:18.76,0:48:21.01,Default,,0,0,0,,当时我想找个楼梯下去什么的\N{\rEng}Yeah, when I was looking for a staircase down or something.
 Dialogue: 0,0:48:22.76,0:48:24.88,Default,,0,0,0,,结果只发现了个...\N{\rEng}Only thing I found so far is basically more of a...
@@ -897,7 +897,7 @@ Dialogue: 0,1:04:02.23,1:04:21.78,Screen,,0,0,0,,{\an8}（无需信用卡）
 Dialogue: 0,1:04:09.54,1:04:11.05,Default,,0,0,0,,克拉克 你在哪儿？\N{\rEng}Clark, can you hear me?
 Dialogue: 0,1:04:21.78,1:04:25.82,Screen,,0,0,0,,{\an8}（由此下楼）
 Dialogue: 0,1:04:50.13,1:04:51.21,Default,,0,0,0,,克拉克？\N{\rEng}Clark?
-Dialogue: 0,1:05:10.76,1:05:11.76,Screen,,0,0,0,,{\an8}（车停）
+Dialogue: 0,1:05:10.76,1:05:11.76,Screen,,0,0,0,,{\an8}（亭亻）
 Dialogue: 0,1:05:23.74,1:05:26.59,Screen,,0,0,0,,{\an8}（门 和 家具店）
 Dialogue: 0,1:07:45.93,1:07:47.06,Default,,0,0,0,,克拉克？\N{\rEng}Clark?
 Dialogue: 0,1:09:33.80,1:09:38.75,Screen,,0,0,0,,{\an8}（平面图又变了 屋顶不对 屋顶绝对不对）
@@ -915,7 +915,7 @@ Dialogue: 0,1:11:19.84,1:11:21.64,Default,,0,0,0,,你在这儿多久了？\N{\rE
 Dialogue: 0,1:11:28.14,1:11:29.68,Default,,0,0,0,,什么声音？\N{\rEng}What was that?
 Dialogue: 0,1:11:35.17,1:11:36.54,Default,,0,0,0,,别紧张\N{\rEng}Stay calm.
 Dialogue: 0,1:11:41.04,1:11:42.55,Default,,0,0,0,,这里只有我\N{\rEng}It's only me.
-Dialogue: 0,1:11:45.22,1:11:46.74,Default,,0,0,0,,你懂我的\N{\rEng}You know me.
+Dialogue: 0,1:11:45.22,1:11:46.74,Default,,0,0,0,,你认得我\N{\rEng}You know me.
 Dialogue: 0,1:12:16.84,1:12:18.27,Default,,0,0,0,,抱歉了\N{\rEng}I'm sorry.
 Dialogue: 0,1:12:19.90,1:12:22.18,Default,,0,0,0,,这全是为你好\N{\rEng}This is for your own good.
 Dialogue: 0,1:14:25.83,1:14:27.64,Default,,0,0,0,,在现实生活中\N{\rEng}As you walk through life,
@@ -1145,8 +1145,8 @@ Dialogue: 0,1:38:16.61,1:38:17.68,Default,,0,0,0,,没问题吧？\N{\rEng}if tha
 Dialogue: 0,1:38:23.97,1:38:26.90,Default,,0,0,0,,呃 首先...\N{\rEng}Uh, first thing, um...
 Dialogue: 0,1:38:26.92,1:38:29.23,Default,,0,0,0,,你能说说 你是怎么...\N{\rEng}could you establish how you, uh...
 Dialogue: 0,1:38:30.63,1:38:31.80,Default,,0,0,0,,进来的吗？\N{\rEng}got in here?
-Dialogue: 0,1:38:34.96,1:38:36.46,Default,,0,0,0,,我穿过了一家家具店\N{\rEng}I walked through a wall
-Dialogue: 0,1:38:37.59,1:38:39.26,Default,,0,0,0,,地下室的墙\N{\rEng}in the basement of a furniture store.
+Dialogue: 0,1:38:34.96,1:38:36.46,Default,,0,0,0,,我穿过了一堵墙\N{\rEng}I walked through a wall
+Dialogue: 0,1:38:37.59,1:38:39.26,Default,,0,0,0,,就在一家家具店的地下室里\N{\rEng}in the basement of a furniture store.
 Dialogue: 0,1:38:47.14,1:38:49.78,Default,,0,0,0,,你看这张照片 是这里吧？\N{\rEng}Can you confirm that this is the location in question?
 Dialogue: 0,1:38:47.42,1:38:49.80,Screen,,0,0,0,,{\an8}（克船长的家具帝国）
 Dialogue: 0,1:38:59.04,1:39:01.78,Default,,0,0,0,,好的 你当时想购物 还是...\N{\rEng}Okay, good. So you were shopping, or...
@@ -1198,7 +1198,7 @@ Dialogue: 0,1:41:45.29,1:41:48.42,Default,,0,0,0,,咱们能不能就简单聊聊
 Dialogue: 0,1:41:49.27,1:41:51.73,Default,,0,0,0,,就像...就像普通人那样\N{\rEng}you know, just like... just like two regular people.
 Dialogue: 0,1:41:53.09,1:41:56.09,Default,,0,0,0,,咱们摊开聊聊 毕竟咱俩都进去过\N{\rEng}We could unpack some of this, we've both been in there,
 Dialogue: 0,1:41:56.10,1:41:58.87,Default,,0,0,0,,这样咱...咱们才能把话说到一块儿去\N{\rEng}and-and-and get on the same page.
-Dialogue: 0,1:42:00.15,1:42:04.52,Default,,0,0,0,,现在到处都在打开门\N{\rEng}There are doors opening everywhere.
+Dialogue: 0,1:42:00.15,1:42:04.52,Default,,0,0,0,,现在到处都有门在打开\N{\rEng}There are doors opening everywhere.
 Dialogue: 0,1:42:05.19,1:42:08.46,Default,,0,0,0,,我们搞不懂是啥把这些连在一起的\N{\rEng}We don't know why or what's connecting them.
 Dialogue: 0,1:42:08.49,1:42:10.64,Default,,0,0,0,,没完没了地出现\N{\rEng}They sort of keep happening, and...
 Dialogue: 0,1:42:10.91,1:42:13.18,Default,,0,0,0,,我们完全不知道怎么让它停下来...\N{\rEng}and we don't know how to stop them...
@@ -1218,7 +1218,7 @@ Dialogue: 0,1:44:23.31,1:44:27.72,Credit,,0,0,0,,{\an8}摄影\N杰里米·考克
 Dialogue: 0,1:44:32.15,1:44:36.56,Credit,,0,0,0,,{\an8}剪辑\N格雷格·吴
 Dialogue: 0,1:44:40.95,1:44:45.37,Credit,,0,0,0,,{\an8}配乐\N艾多·凡布利曼\N凯恩·帕森斯
 Dialogue: 0,1:44:45.37,1:44:49.78,Credit,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
-Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, <占位>\N后期：NEST, <占位>\N字幕反馈：
+Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, Ke, yan, <占位>\N后期：NEST, <占位>\N字幕反馈：
 Dialogue: 0,1:44:54.21,1:44:58.58,Credit,,0,0,0,,{\an8}蒙太奇字幕组社群\NTelegram/IRC：MontageSubs
 Dialogue: 0,1:44:58.58,1:45:03.02,Credit,,0,0,0,,{\an8}字幕许可\NCC BY-NC-SA 4.0
 Dialogue: 0,1:45:03.02,1:45:07.43,Credit,,0,0,0,,{\an8}主演\N切瓦特·艾乔福 饰 家具店老板克拉克
