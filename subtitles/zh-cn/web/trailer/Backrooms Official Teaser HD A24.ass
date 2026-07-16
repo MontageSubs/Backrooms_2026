@@ -1,0 +1,35 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,100,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,35,1
+Style: Eng,Source Han Sans SC,65,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,35,1
+Style: Screen,Source Han Serif SC,95,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Screen2,SimHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,0,0,2,5,5,0,1
+Style: Default2,Source Han Sans SC,100,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.41,0:00:07.77,Default,,0,0,0,,{\an8\bord0\shad0\c&H6BB0BF&\1a&HFF&\t(0,1540,\1a&H00&)}（A24影业）
+Dialogue: 0,0:00:05.92,0:00:08.76,Default,,0,0,0,,我有了点发现\N{\rEng}I found something
+Dialogue: 0,0:00:09.80,0:00:12.20,Default,,0,0,0,,好\N{\rEng}Okay.
+Dialogue: 0,0:00:13.24,0:00:15.96,Default,,0,0,0,,发现了什么？\N{\rEng}What did you find?
+Dialogue: 0,0:00:18.64,0:00:21.32,Default,,0,0,0,,我发现了个地方\N{\rEng}I found a place.
+Dialogue: 0,0:00:22.48,0:00:24.15,Default,,0,0,0,,那地方太大了\N{\rEng}It's massive in there.
+Dialogue: 0,0:00:24.18,0:00:26.94,Default,,0,0,0,,根本没完没了 看不到尽头\N{\rEng}It just goes on and on and on.
+Dialogue: 0,0:00:26.96,0:00:30.04,Default,,0,0,0,,所有这些房间啊\N{\rEng}All these rooms...
+Dialogue: 0,0:00:30.04,0:00:33.00,Default,,0,0,0,,这个地方建了它们\N{\rEng}this place built them.
+Dialogue: 0,0:00:33.00,0:00:35.52,Default,,0,0,0,,其实更像是...\N{\rEng}Actually, more like...
+Dialogue: 0,0:00:35.52,0:00:38.48,Default,,0,0,0,,记得它们\N{\rEng}remembers them.
+Dialogue: 0,0:00:38.84,0:00:42.12,Default,,0,0,0,,只不过记得越多\N{\rEng}And the more times it remembers something,
+Dialogue: 0,0:00:42.12,0:00:45.08,Default,,0,0,0,,就越走样\N{\rEng}the less it does.
+Dialogue: 0,0:00:43.94,0:00:48.31,Default,,0,0,0,,{\shad0\bord0\an5\fs140\c&H67ACBB&\1a&HFF&\pos(960,650)\b1\t(0,1540,\1a&H00&)}后  室
+Dialogue: 0,0:00:48.35,0:00:50.42,Default,,0,0,0,,{\shad0\bord0\an5\fs90\c&H7BABB4&\pos(960,680)\b1}\N蒙太奇字幕组{\fs70\b1}\N原创译制
+Dialogue: 0,0:00:50.47,0:00:53.16,Default,,0,0,0,,{\pos(960,490)\an8\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
