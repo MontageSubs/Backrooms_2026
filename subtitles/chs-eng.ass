@@ -349,7 +349,7 @@ Dialogue: 0,0:22:08.18,0:22:09.98,Default,,0,0,0,,“准备好跨过去了吗？
 Dialogue: 0,0:22:12.74,0:22:15.81,Default,,0,0,0,,“去夺回属于你的东西”\N{\rEng}"So that you can reclaim that which was once yours...
 Dialogue: 0,0:22:17.51,0:22:20.47,Default,,0,0,0,,“去重新主宰你的生命”\N{\rEng}"and take back control of your life."
 Dialogue: 0,0:22:22.35,0:22:24.22,Default,,0,0,0,,“去过你想过的人生”\N{\rEng}"The life you want to be living."
-Dialogue: 0,0:22:25.82,0:22:28.37,Default,,0,0,0,,“卸下过去的沉重”\N{\rEng}"Unburdened by the traumas of the past."
+Dialogue: 0,0:22:25.82,0:22:28.37,Default,,0,0,0,,“卸下过去的重负”\N{\rEng}"Unburdened by the traumas of the past."
 Dialogue: 0,0:22:29.45,0:22:32.17,Default,,0,0,0,,“走出那些你亲手打造的围墙”\N{\rEng}"Free of the confines you had built."
 Dialogue: 0,0:22:32.18,0:22:33.78,Default,,0,0,0,,...所以我想...\N{\rEng}...to leave, and so I decided...
 Dialogue: 0,0:22:33.81,0:22:37.33,Default,,0,0,0,,“开辟一条属于你自己的路”\N{\rEng}"And free to choose a path of your own design."
@@ -516,7 +516,7 @@ Dialogue: 0,0:39:44.89,0:39:47.02,Default,,0,0,0,,（乌尔都语）“愿和平
 Dialogue: 0,0:39:47.03,0:39:50.93,Default,,0,0,0,,（乌尔都语）“我们代表地球的居民”
 Dialogue: 0,0:39:50.94,0:39:53.68,Default,,0,0,0,,（乌尔都语）“欢迎你们”
 Dialogue: 0,0:40:07.92,0:40:08.92,Default,,0,0,0,,抱歉来晚了\N{\rEng}Sorry I'm late.
-Dialogue: 0,0:40:10.15,0:40:12.15,Default,,0,0,0,,路上堵死了 我又没法早点走\N{\rEng}Traffic was hell, and I couldn't leave early.
+Dialogue: 0,0:40:10.15,0:40:12.15,Default,,0,0,0,,路上堵死了 我又没法提前走\N{\rEng}Traffic was hell, and I couldn't leave early.
 Dialogue: 0,0:40:12.24,0:40:13.74,Default,,0,0,0,,没关系 趁还有时间聊聊吧\N{\rEng}Let's just use the time we have.
 Dialogue: 0,0:40:17.35,0:40:18.70,Default,,0,0,0,,今天感觉怎么样 克拉克？\N{\rEng}How are you today, Clark?
 Dialogue: 0,0:40:19.70,0:40:21.08,Default,,0,0,0,,你觉得呢 我看起来怎么样？\N{\rEng}How do I look?
@@ -1218,7 +1218,7 @@ Dialogue: 0,1:44:23.31,1:44:27.72,Credit,,0,0,0,,{\an8}摄影\N杰里米·考克
 Dialogue: 0,1:44:32.15,1:44:36.56,Credit,,0,0,0,,{\an8}剪辑\N格雷格·吴
 Dialogue: 0,1:44:40.95,1:44:45.37,Credit,,0,0,0,,{\an8}配乐\N艾多·凡布利曼\N凯恩·帕森斯
 Dialogue: 0,1:44:45.37,1:44:49.78,Credit,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
-Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, Ke, <占位>, <占位>\N后期：NEST, <占位>\N字幕反馈：
+Dialogue: 0,1:44:49.78,1:44:54.21,Credit,,0,0,0,,{\an8}字幕贡献者\N翻译/校对/时间轴： 小p\N校对：Ariel, Ke, yan, <占位>\N后期：NEST, <占位>\N字幕反馈：
 Dialogue: 0,1:44:54.21,1:44:58.58,Credit,,0,0,0,,{\an8}蒙太奇字幕组社群\NTelegram/IRC：MontageSubs
 Dialogue: 0,1:44:58.58,1:45:03.02,Credit,,0,0,0,,{\an8}字幕许可\NCC BY-NC-SA 4.0
 Dialogue: 0,1:45:03.02,1:45:07.43,Credit,,0,0,0,,{\an8}主演\N切瓦特·艾乔福 饰 家具店老板克拉克
