@@ -58,17 +58,17 @@ Dialogue: 0,0:08:06.26,0:08:09.32,Default,,0,0,0,,却指望能走出一条新路
 Dialogue: 0,0:08:10.13,0:08:11.29,Default,,0,0,0,,但没用\N{\rEng}But they don't.
 Dialogue: 0,0:08:18.77,0:08:20.01,Default,,0,0,0,,毕竟\N{\rEng}And still,
 Dialogue: 0,0:08:20.03,0:08:23.29,Default,,0,0,0,,神经回路总是走阻力最小的路\N{\rEng}it's the neural pathway of least resistance.
-Dialogue: 0,0:08:25.76,0:08:28.15,Default,,0,0,0,,你给自己铺了一条心理防线\N{\rEng}A path you made.
-Dialogue: 0,0:08:28.16,0:08:31.31,Default,,0,0,0,,小时候 这套防线保护了你\N{\rEng}It's the one that kept you safe when you were a child.
+Dialogue: 0,0:08:25.76,0:08:28.15,Default,,0,0,0,,你给自己铺了一条小路\N{\rEng}A path you made.
+Dialogue: 0,0:08:28.16,0:08:31.31,Default,,0,0,0,,小时候 这条路保护了你\N{\rEng}It's the one that kept you safe when you were a child.
 Dialogue: 0,0:08:36.67,0:08:39.02,Default,,0,0,0,,你学会了在被伤害之前\N{\rEng}You learned to push people away
 Dialogue: 0,0:08:39.21,0:08:41.14,Default,,0,0,0,,抢先一步把别人推开\N{\rEng}before they could hurt you.
 Dialogue: 0,0:08:42.91,0:08:44.10,Default,,0,0,0,,但现在\N{\rEng}And now,
 Dialogue: 0,0:08:44.11,0:08:45.38,Default,,0,0,0,,你成年了\N{\rEng}as an adult,
 Dialogue: 0,0:08:45.39,0:08:47.56,Default,,0,0,0,,你依然留在原地\N{\rEng}you're still stuck right where you started.
-Dialogue: 0,0:08:53.29,0:08:54.46,Default,,0,0,0,,就你一个人\N{\rEng}Alone.
+Dialogue: 0,0:08:53.29,0:08:54.46,Default,,0,0,0,,唯独你一人\N{\rEng}Alone.
 Dialogue: 0,0:09:00.62,0:09:02.12,Default,,0,0,0,,我有人陪啊\N{\rEng}I mean, I'm not lonely.
 Dialogue: 0,0:09:03.07,0:09:07.44,Default,,0,0,0,,我有店员 还有顾客\N{\rEng}I have employees and... customers.
-Dialogue: 0,0:09:07.46,0:09:10.22,Default,,0,0,0,,我没说有人陪 我说的是就你一个人\N{\rEng}I didn't say lonely. I said alone.
+Dialogue: 0,0:09:07.46,0:09:10.22,Default,,0,0,0,,我没说有人陪 我说的是唯独你一人\N{\rEng}I didn't say lonely. I said alone.
 Dialogue: 0,0:09:11.09,0:09:12.55,Default,,0,0,0,,好吧 是 但是...\N{\rEng}Yeah, well, I mean...
 Dialogue: 0,0:09:14.38,0:09:16.08,Default,,0,0,0,,我老是伤人\N{\rEng}I hurt people.
 Dialogue: 0,0:09:16.09,0:09:17.94,Default,,0,0,0,,我也不想 可我脑回路就是这样接的\N{\rEng}I don't want to. It's just the way I'm wired.
@@ -881,12 +881,12 @@ Dialogue: 0,1:14:47.83,1:14:50.25,Default,,0,0,0,,尝试老路\N{\rEng}over and 
 Dialogue: 0,1:14:52.03,1:14:56.76,Default,,0,0,0,,毕竟 神经回路总是走阻力最小的路\N{\rEng}Still, it's the neural pathway of least resistance.
 Dialogue: 0,1:15:01.00,1:15:02.65,Default,,0,0,0,,可我的路 是我亲手铺的\N{\rEng}The one I made.
 Dialogue: 0,1:15:02.83,1:15:04.69,Default,,0,0,0,,小时候\N{\rEng}The one that kept me safe...
-Dialogue: 0,1:15:04.87,1:15:06.48,Default,,0,0,0,,这套防线保护了我\N{\rEng}when I was a child.
+Dialogue: 0,1:15:04.87,1:15:06.48,Default,,0,0,0,,这条路保护了我\N{\rEng}when I was a child.
 Dialogue: 0,1:15:08.90,1:15:10.50,Default,,0,0,0,,你知道...\N{\rEng}You know...
 Dialogue: 0,1:15:11.12,1:15:13.89,Default,,0,0,0,,我学会了在被伤害之前 抢先一步把别人推开\N{\rEng}I learned to push people away before they could hurt me.
 Dialogue: 0,1:15:15.24,1:15:18.27,Default,,0,0,0,,而现在 我成年了\N{\rEng}And, now, as an adult,
 Dialogue: 0,1:15:18.95,1:15:23.10,Default,,0,0,0,,我依然留在原地\N{\rEng}I'm still stuck right where I started.
-Dialogue: 0,1:15:26.05,1:15:27.55,Default,,0,0,0,,就我一个人\N{\rEng}Alone.
+Dialogue: 0,1:15:26.05,1:15:27.55,Default,,0,0,0,,唯我一人\N{\rEng}Alone.
 Dialogue: 0,1:15:29.53,1:15:30.76,Default,,0,0,0,,怎么回事？\N{\rEng}What is this?
 Dialogue: 0,1:15:33.00,1:15:35.76,Default,,0,0,0,,真是一团糟 对吧？\N{\rEng}It's a real mess. Am I right?
 Dialogue: 0,1:15:35.90,1:15:37.30,Default,,0,0,0,,克拉克...\N{\rEng}Clark...
