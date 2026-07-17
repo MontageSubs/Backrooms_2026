@@ -13,7 +13,7 @@ Update Details: 2026年7月17日：这部影片并未依赖血腥的冲击或突
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
+Style: Default,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,25,1
 Style: Eng,Arial,45,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
 Style: A24,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,-1,0,0,0,100,80,0,0,1,0,0,2,5,5,0,1
 Style: Screen,Microsoft YaHei,70,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
