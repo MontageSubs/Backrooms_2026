@@ -831,7 +831,6 @@ Dialogue: 0,1:01:16.09,1:01:18.06,Default,,0,0,0,,“我不会再回来了”\N{
 Dialogue: 0,1:02:03.02,1:02:03.82,Default,,0,0,0,,“...求你了”\N{\rEng}"...Please!"
 Dialogue: 0,1:02:05.61,1:02:06.60,Default,,0,0,0,,“救救我们”\N{\rEng}"Save us!"
 Dialogue: 0,1:02:05.36,1:02:08.84,Screen,,0,0,0,,{\an8}（1983年 异步研究所获得120万美元联邦资助开发下一代核磁共振设备）
-Dialogue: 0,1:02:06.73,1:02:06.95,Default,,0,0,0,,我没说有人陪 我说的
 Dialogue: 0,1:02:06.96,1:02:09.39,Default,,0,0,0,,“好 我照做”\N{\rEng}"All right! I'll do it!
 Dialogue: 0,1:02:09.41,1:02:12.91,Default,,0,0,0,,“我会救你们 我会照做”\N{\rEng}I'll save you! I will do it!"
 Dialogue: 0,1:02:23.01,1:02:26.58,Default,,0,0,0,,“梦翠儿！”\N{\rEng}"Moon Child!"
