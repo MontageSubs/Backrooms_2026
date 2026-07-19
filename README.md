@@ -4,9 +4,9 @@
 <!-- 此"影视内容简介"段落为自动生成，若无错误，请勿手动编辑 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/字幕状态-制作中-orange?style=flat-square" alt="字幕状态">
-  <img src="https://img.shields.io/badge/翻译进度-0%25-blue?style=flat-square" alt="翻译进度">
-  <img src="https://img.shields.io/badge/版本-v1.0-brightgreen?style=flat-square" alt="版本">
+  <img src="https://img.shields.io/badge/字幕状态-已发布-orange?style=flat-square" alt="字幕状态">
+  <img src="https://img.shields.io/badge/制作进度-100%25-blue?style=flat-square" alt="翻译进度">
+  <img src="https://img.shields.io/badge/版本-20260717-brightgreen?style=flat-square" alt="版本">
 </p>
 
 <p align="center">
@@ -43,7 +43,18 @@
 3. 建议说明字幕制作流程，必要的技术信息（如匹配版本）；
 4. 在下方一行以 ">" 开头后面输入内容 -->
 
-> 在这里写一段 100-500 字的字幕说明吧，用于发布在字幕网站。可以聊聊制作过程中的挑战、这部作品的特色、团队的付出，或任何想和观众分享的内容
+> [!NOTE]
+> 这部影片并未依赖血腥的冲击或突如其来的惊吓来制造恐惧，它选择了一种更危险的方式：潜入观众的内心，用极简的画面与精准的台词，在灵魂深处制造一场震颤。
+>
+> 当你沉浸其中，请细品每一句对白。恐惧并非来自外部的侵袭，而是在于那些潜藏在文字之下、逐渐浮现的诡谲感，在这种由细节累积而成的"细思极恐"中，不安感将悄然生长。所有的布景与对话，都是为了唤醒你内心深处某种被遗忘的共鸣。
+>
+> 为了还原这种复杂的心理机制，我们的翻译工作成了一场艰苦的"意识解码"。在数周的时间里，我们逐字推敲，咨询心理学专家，深挖"后室"宇宙的底层逻辑，并邀请多位观众进行反复的反馈与校对。我们力求保留那些微妙的双关与多义性，以还原导演精心构建的、潜行于意识之下的不安感。
+>
+> 导演主张这部影片不存在"官方解释"。我们深信，每个人的生命经验不同，对同一事物的解读也必然迥异。因此，我们在翻译时特意保留了这种多维度的可解释性，旨在忠实于每位观众独特的个体视角。与此同时，我们通过精心设计的特效与恰到好处的注释，试图在感官与理性的多重维度上，为你构建一个更深层的沉浸式体验。希望这部电影能触动你。
+>
+> 正如卡尔·荣格所言："内在未觉之物，终将外化为宿命 (When an inner situation is not made conscious, it happens outside, as fate.)"
+>
+> 愿这部用心制作的字幕，能带你走进这个阈限空间（Threshold/Liminal space）。
 
 <h3 id="feedback">字幕反馈</h3>
 
@@ -66,56 +77,63 @@
 
 | 字幕站 | 下载 | 最后更新 |
 | :---: | :--- | :---: |
-| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/subhd/favicon-32x32.png" alt="SubHD" width="20" height="20"/> **SubHD**](https://subhd.tv/u/%E8%92%99%E5%A4%AA%E5%A5%87%E5%AD%97%E5%B9%95%E7%BB%84) | *(待发布)* | *(待发布)* |
-| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/zimuku/favicon.png" alt="字幕库" width="20" height="20"/> **字幕库**](https://zimuku.org/u/A3y3QmGy0) | *(待发布)* | *(待发布)* |
-| <img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/assrt/favicon.png" alt="射手网(伪)" width="20" height="20"/> **射手网(伪)** | *(待发布)* | *(待发布)* |
-| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/subrain/favicon.png" alt="暮雨字幕网" width="20" height="20"/> **暮雨字幕网**](https://subrain.tv/u/montagesubs) | *(待发布)* | *(待发布)* |
-| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | *(待发布)* | *(待发布)* |
+| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/subhd/favicon-32x32.png" alt="SubHD" width="20" height="20"/> **SubHD**](https://subhd.tv/u/%E8%92%99%E5%A4%AA%E5%A5%87%E5%AD%97%E5%B9%95%E7%BB%84) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://subhd.me/a/VM6hkX) | 2026-07-17 |
+| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/zimuku/favicon.png" alt="字幕库" width="20" height="20"/> **字幕库**](https://zimuku.org/u/A3y3QmGy0) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://zimuku.org/detail/233331.html) | 2026-07-17 |
+| <img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/assrt/favicon.png" alt="射手网(伪)" width="20" height="20"/> **射手网(伪)** | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://2.assrt.net/xml/sub/669/669366.xml) | 2026-07-17 |
+| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/subrain/favicon.png" alt="暮雨字幕网" width="20" height="20"/> **暮雨字幕网**](https://subrain.tv/u/montagesubs) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://subrain.tv/subtitle/3998086480) | 2026-07-17 |
+| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://www.opensubtitles.org/en/subtitles/13911827/backrooms-zh) | 2026-07-17 |
+
 
 <h2 id="contributors">字幕贡献者</h2>
 
 <!-- 此"字幕贡献者"段落展示形式：一人一张卡片（头像 + GitHub 用户名 + 头衔），按行排列。
      新增贡献者：复制一个 <td> 单元格，替换用户名与头衔即可，无需改动整体结构；
-     一人多角色：头衔用 " · " 分隔，如 "翻译 · 校对"；
+     所有 <td> 均需带 valign="top"，确保头像顶部对齐，不受同行内其他人头衔行数影响；
+     一人多角色：头衔用 <br/> 换行堆叠显示，避免横向撑开列宽；
      一角色多人：为每人各建一张卡片；
-     人数不满一行时，用空 <td></td> 补齐，保持网格对齐 -->
+     无 GitHub 主页的贡献者：去掉 <a> 标签，仅保留头像图片与文字，不做超链接；
+     人数不满一行时，用空 <td valign="top"></td> 补齐，保持网格对齐 -->
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/USERNAME1"><img src="https://github.com/USERNAME1.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
-      <sub>项目协调员</sub>
+    <td align="center" valign="top">
+      <a href="https://github.com/mtsubs"><img src="https://github.com/mtsubs.png?size=80" width="80" height="80" alt="小p"/></a><br/>
+      <b>小p</b><br/>
+      <sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME2"><img src="https://github.com/USERNAME2.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
-      <sub>翻译</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME3"><img src="https://github.com/USERNAME3.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
+    <td align="center" valign="top">
+      <a href="https://github.com/arielherself"><img src="https://github.com/arielherself.png?size=80" width="80" height="80" alt="Ariel"/></a><br/>
+      <b>Ariel</b><br/>
       <sub>校对</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME5"><img src="https://github.com/USERNAME5.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
-      <sub>时间轴</sub>
+    <td align="center" valign="top">
+      <img src="https://github.com/MontageSubs.png?size=80" width="80" height="80" alt="Ke"/><br/>
+      <b>Ke</b><br/>
+      <sub>校对</sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/SmokedCherries"><img src="https://github.com/SmokedCherries.png?size=80" width="80" height="80" alt="Hypnotism"/></a><br/>
+      <b>Hypnotism</b><br/>
+      <sub>校对</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/USERNAME6"><img src="https://github.com/USERNAME6.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
-      <sub>后期 · 特效</sub>
+    <td align="center" valign="top">
+      <a href="https://github.com/MaxDingXY"><img src="https://github.com/MaxDingXY.png?size=80" width="80" height="80" alt="Balding"/></a><br/>
+      <b>Balding</b><br/>
+      <sub>校对</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME7"><img src="https://github.com/USERNAME7.png?size=80" width="80" height="80" alt="用户名"/></a><br/>
-      <b>用户名</b><br/>
-      <sub>技术支持</sub>
+    <td align="center" valign="top">
+      <a href="https://github.com/4Nest"><img src="https://github.com/4Nest.png?size=80" width="80" height="80" alt="NEST"/></a><br/>
+      <b>NEST</b><br/>
+      <sub>后期</sub>
     </td>
-    <td></td>
-    <td></td>
+    <td align="center" valign="top">
+      <a href="https://github.com/NickCollect"><img src="https://github.com/NickCollect.png?size=80" width="80" height="80" alt="NickCollect"/></a><br/>
+      <b>NickCollect</b><br/>
+      <sub>后期</sub>
+    </td>
+    <td valign="top"></td>
   </tr>
 </table>
 
