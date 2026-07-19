@@ -87,25 +87,35 @@
 <<h2 id="contributors">字幕贡献者</h2>
 
 <!-- 复制一行 <td>...</td> 替换用户名与头衔即可，务必保留 align/valign 属性
-     头像：https://wsrv.nl/?url=github.com/{用户名}.png&w=80&h=80&mask=circle&output=png
+     头像：https://wsrv.nl/?url=github.com/{用户名}.png&w=64&h=64&mask=circle&output=png
      多角色用 <br/> 换行；每行 4 人，不满一行用 <td valign="top"></td> 补齐 -->
 
 <table>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="小p"/><br/><b>小p</b></a><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
-<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ariel"/><br/><b>Ariel</b></a><br/><sub>校对</sub></td>
-<td align="center" valign="top"><img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ke"/><br/><b>Ke</b><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Hypnotism"/><br/><b>Hypnotism</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="小p"/><br/><b>小p</b></a><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
+<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="Ariel"/><br/><b>Ariel</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="Ke"/><br/><b>Ke</b><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="Hypnotism"/><br/><b>Hypnotism</b></a><br/><sub>校对</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Balding"/><br/><b>Balding</b></a><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NEST"/><br/><b>NEST</b></a><br/><sub>后期</sub></td>
-<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NickCollect"/><br/><b>NickCollect</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="Balding"/><br/><b>Balding</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="NEST"/><br/><b>NEST</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=64&h=64&mask=circle&output=png" width="64" height="64" alt="NickCollect"/><br/><b>NickCollect</b></a><br/><sub>后期</sub></td>
 <td align="center" valign="top"></td>
 </tr>
 </table>
 
 *这份字幕，是我们一起做成的！*
+
+
+
+
+
+
+
+
+
+
 
 
 <h2 id="about-montagesubs">关于蒙太奇字幕组 (MontageSubs)</h2>
