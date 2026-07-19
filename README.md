@@ -84,7 +84,7 @@
 | [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://www.opensubtitles.org/en/subtitles/13911827/backrooms-zh) | 2026-07-17 |
 
 
-<<h2 id="contributors">字幕贡献者</h2>
+<h2 id="contributors">字幕贡献者</h2>
 
 <!-- 复制一行 <td>...</td> 替换用户名与头衔即可，务必保留 align/valign 属性
      头像：https://wsrv.nl/?url=github.com/{用户名}.png&w=48&h=48&mask=circle&output=png
