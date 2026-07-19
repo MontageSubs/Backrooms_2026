@@ -88,7 +88,8 @@
 <!-- 此"字幕贡献者"段落展示形式：一人一张卡片（头像 + GitHub 用户名 + 头衔），按行排列。
      新增贡献者：复制一个 <td> 单元格，将用户名替换为真实 GitHub 用户名，并填写头衔即可，无需改动整体结构；
      头像使用 wsrv.nl 图片代理裁剪为圆形，写法固定为：
-     https://wsrv.nl/?url=github.com/{用户名}.png&w=80&h=80&mask=circle
+     https://wsrv.nl/?url=github.com/{用户名}.png&w=80&h=80&mask=circle&output=png
+     注意末尾必须带 &output=png，强制透明背景，否则圆形之外区域可能被填充灰色而非透明；
      所有 <td> 均需带 valign="top"，确保头像顶部对齐，不受同行内其他人头衔行数影响；
      一人多角色：头衔用 <br/> 换行堆叠显示，避免横向撑开列宽；
      一角色多人：为每人各建一张卡片；
@@ -98,39 +99,39 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=80&h=80&mask=circle" width="80" height="80" alt="小p"/></a><br/>
+      <a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="小p"/></a><br/>
       <b>小p</b><br/>
       <sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=80&h=80&mask=circle" width="80" height="80" alt="Ariel"/></a><br/>
+      <a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ariel"/></a><br/>
       <b>Ariel</b><br/>
       <sub>校对</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=80&h=80&mask=circle" width="80" height="80" alt="Ke"/><br/>
+      <img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ke"/><br/>
       <b>Ke</b><br/>
       <sub>校对</sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=80&h=80&mask=circle" width="80" height="80" alt="Hypnotism"/></a><br/>
+      <a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Hypnotism"/></a><br/>
       <b>Hypnotism</b><br/>
       <sub>校对</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=80&h=80&mask=circle" width="80" height="80" alt="Balding"/></a><br/>
+      <a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Balding"/></a><br/>
       <b>Balding</b><br/>
       <sub>校对</sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=80&h=80&mask=circle" width="80" height="80" alt="NEST"/></a><br/>
+      <a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NEST"/></a><br/>
       <b>NEST</b><br/>
       <sub>后期</sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=80&h=80&mask=circle" width="80" height="80" alt="NickCollect"/></a><br/>
+      <a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NickCollect"/></a><br/>
       <b>NickCollect</b><br/>
       <sub>后期</sub>
     </td>
