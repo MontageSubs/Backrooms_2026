@@ -84,32 +84,31 @@
 | [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://www.opensubtitles.org/en/subtitles/13911827/backrooms-zh) | 2026-07-17 |
 
 
-<h2 id="contributors">字幕贡献者</h2>
+<<h2 id="contributors">字幕贡献者</h2>
 
-<!-- 复制一行 <td>...</td> 替换用户名与头衔即可，务必保留 align/valign 属性（否则头像会因头衔行数不同而错位对齐）
+<!-- 复制一行 <td>...</td> 替换用户名与头衔即可，务必保留 align/valign 属性
      头像：https://wsrv.nl/?url=github.com/{用户名}.png&w=80&h=80&mask=circle&output=png
-     多角色用 <br/> 换行；无 GitHub 主页则去掉 <a> 标签
-     人数不满一行用 <td valign="top"></td> 补齐 -->
+     多角色用 <br/> 换行；每行 4 人，不满一行用 <td valign="top"></td> 补齐 -->
 
 <table>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="小p"/></a><br/><b>小p</b><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
-<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ariel"/></a><br/><b>Ariel</b><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="小p"/><br/><b>小p</b></a><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
+<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ariel"/><br/><b>Ariel</b></a><br/><sub>校对</sub></td>
 <td align="center" valign="top"><img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Ke"/><br/><b>Ke</b><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Hypnotism"/><br/><b>Hypnotism</b></a><br/><sub>校对</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Hypnotism"/></a><br/><b>Hypnotism</b><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Balding"/></a><br/><b>Balding</b><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NEST"/></a><br/><b>NEST</b><br/><sub>后期</sub></td>
-</tr>
-<tr>
-<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NickCollect"/></a><br/><b>NickCollect</b><br/><sub>后期</sub></td>
-<td valign="top"></td>
-<td valign="top"></td>
+<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="Balding"/><br/><b>Balding</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NEST"/><br/><b>NEST</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=80&h=80&mask=circle&output=png" width="80" height="80" alt="NickCollect"/><br/><b>NickCollect</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"></td>
 </tr>
 </table>
 
 *这份字幕，是我们一起做成的！*
+
+
+<h2 id="about-montagesubs">关于蒙太奇字幕组 (MontageSubs)</h2>
 
 <!-- 此段为固定段落，非必要请勿更改 -->
 
