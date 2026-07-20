@@ -54,7 +54,7 @@
 > 
 > 导演主张这部影片不存在"官方解释"。我们深信，每个人的生命经验不同，对同一事物的解读也必然迥异。因此，我们在翻译时特意保留了这种多维度的可解释性，旨在忠实于每位观众独特的个体视角。与此同时，我们通过精心设计的特效与恰到好处的注释，试图在感官与理性的多重维度上，为你构建一个更深层的沉浸式体验。希望这部电影能触动你。
 > 
-> 正如卡尔·荣格所言："内在未觉之物，终将外化为宿命 (When an inner situation is not made conscious, it happens outside, as fate.)"
+> 正如卡尔·荣格所言："内在未觉之物，终将外化为宿命 (When an inner situation is not made conscious, it happens outside, as fate.)"。
 > 
 > 愿这部用心制作的字幕，能带你走进这个阈限空间（Threshold/Liminal space）。
 > 
