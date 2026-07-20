@@ -87,7 +87,7 @@
 | [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/zimuku/favicon.png" alt="字幕库" width="20" height="20"/> **字幕库**](https://zimuku.org/u/A3y3QmGy0) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://zimuku.org/detail/233331.html) | 2026-07-20 |
 | <img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/assrt/favicon.png" alt="射手网(伪)" width="20" height="20"/> **射手网(伪)** | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://2.assrt.net/xml/sub/669/669366.xml) | 2026-07-20 |
 | [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/subrain/favicon.png" alt="暮雨字幕网" width="20" height="20"/> **暮雨字幕网**](https://subrain.tv/u/montagesubs) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://subrain.tv/subtitle/3998086480) | 2026-07-20 |
-| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://www.opensubtitles.org/en/subtitles/13918916/backrooms-zh) | 2026-07-201 |
+| [<img src="https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/opensubtitles/org/favicon.png" alt="OpenSubtitles" width="20" height="20"/> **OpenSubtitles**](https://www.opensubtitles.org/profile/iduser-10447713) | [![下载](https://img.shields.io/badge/-下载-555?style=flat-square)](https://www.opensubtitles.org/en/subtitles/13918916/backrooms-zh) | 2026-07-20 |
 
 
 <h2 id="contributors">字幕贡献者</h2>
