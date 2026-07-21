@@ -98,15 +98,15 @@
 
 <table>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://wsrv.nl/?url=github.com/mtsubs.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="小p"/><br/><b>小p</b></a><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
-<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://wsrv.nl/?url=github.com/arielherself.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="Ariel"/><br/><b>Ariel</b></a><br/><sub>校对</sub></td>
-<td align="center" valign="top"><img src="https://wsrv.nl/?url=github.com/MontageSubs.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="Ke"/><br/><b>Ke</b><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://wsrv.nl/?url=github.com/SmokedCherries.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="Hypnotism"/><br/><b>Hypnotism</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/mtsubs"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-68a4557e1b74/circle-48.png" width="48" height="48" alt="小p"/><br/><b>小p</b></a><br/><sub>项目协调员<br/>翻译<br/>校对<br/>时间轴</sub></td>
+<td align="center" valign="top"><a href="https://github.com/arielherself"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-b49fabfb496d/circle-48.png" width="48" height="48" alt="Ariel"/><br/><b>Ariel</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-9e87d020efd5/circle-48.png" width="48" height="48" alt="Ke"/><br/><b>Ke</b><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/SmokedCherries"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-9fa086be0389/circle-48.png" width="48" height="48" alt="Hypnotism"/><br/><b>Hypnotism</b></a><br/><sub>校对</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://wsrv.nl/?url=github.com/MaxDingXY.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="Balding"/><br/><b>Balding</b></a><br/><sub>校对</sub></td>
-<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://wsrv.nl/?url=github.com/4Nest.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="NEST"/><br/><b>NEST</b></a><br/><sub>后期</sub></td>
-<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://wsrv.nl/?url=github.com/NickCollect.png&w=48&h=48&mask=circle&output=png" width="48" height="48" alt="NickCollect"/><br/><b>NickCollect</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"><a href="https://github.com/MaxDingXY"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-a0b47f1933b0/circle-48.png" width="48" height="48" alt="Balding"/><br/><b>Balding</b></a><br/><sub>校对</sub></td>
+<td align="center" valign="top"><a href="https://github.com/4Nest"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-4598f11ac043/circle-48.png" width="48" height="48" alt="NEST"/><br/><b>NEST</b></a><br/><sub>后期</sub></td>
+<td align="center" valign="top"><a href="https://github.com/NickCollect"><img src="https://github.com/MontageSubs/member-assets/releases/download/v1-d25cfd7c0545/circle-48.png" width="48" height="48" alt="NickCollect"/><br/><b>NickCollect</b></a><br/><sub>后期</sub></td>
 <td align="center" valign="top"></td>
 </tr>
 </table>
