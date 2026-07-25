@@ -6,7 +6,7 @@
 
 <div align="right">
 
-**[前往 Actions 重新生成](https://github.com/MontageSubs/Backrooms_2026/actions/workflows/synopsis.yml)**
+**[重新生成](https://github.com/MontageSubs/Backrooms_2026/actions/workflows/synopsis.yml)**
 
 </div><br/>
 
@@ -14,43 +14,43 @@
 
 | 原文 | 建议译名 | 身份/关系 | 理由 |
 |---|---|---|---|
-| Clark | 克拉克 | 家具店主且是失败的建筑师 | 音译 |
+| Clark | 克拉克 | 家具店老板，失败的建筑师 | 音译 |
 | Mary Kline | 玛丽·克莱恩 | 克拉克的心理治疗师 | 音译 |
-| Phil | 菲尔 | Async研究机构的科学家 | 音译 |
+| Phil | 菲尔 | Async研究学会的科学家 | 音译 |
 | Kat | 凯特 | 克拉克的助理经理 | 音译 |
 | Bobby | 巴比 | 凯特的男友 | 音译 |
-| Naren Warne | 纳伦·沃恩 | Async研究机构的研究员 | 音译 |
-| Pirate Clark | 海盗克拉克 | 模仿克拉克吉祥物形象的畸形实体 | 意译 |
+| Naren Warne | 纳伦·沃恩 | Async研究学会的研究员 | 音译 |
 | Nora Kline | 诺拉·克莱恩 | 玛丽的母亲 | 音译 |
-| Async Research Institute | Async研究机构 | 探索后室的科研组织 | 意译 |
+| Async Research Institute | Async研究学会 | 研究后室的机构 | 意译 |
 | Backrooms | 后室 | 迷宫般的超维度空间 | 沿用 |
+| Pirate Mascot | 海盗吉祥物 | 克拉克扮演的角色及随后的畸形实体 | 意译 |
 
 ## 制作信息
 
 | 原文 | 建议译名 | 职务 |
 |---|---|---|
 | A24 | A24 | 发行公司 |
-| North Road Films | 北路影业 | 制作公司 |
-| 21 Laps Entertainment | 21 Laps娱乐 | 制作公司 |
-| Atomic Monster | 原子怪兽 | 制作公司 |
+| North Road Films | 北路公司 | 制作公司 |
+| 21 Laps Entertainment | 21 Laps娱乐公司 | 制作公司 |
+| Atomic Monster | 原子怪兽制片公司 | 制作公司 |
 | Phobos | Phobos | 制作公司 |
-| Oddfellows Pictures | 奇友影业 | 制作公司 |
-| Kane Parsons | 凯恩·帕森斯 | 导演, 配乐 |
-| James Wan | 温子仁 | 制片人 |
-| Michael Clear | 迈克尔·克利尔 | 制片人 |
-| Roberto Patino | 罗伯托·帕蒂诺 | 制片人 |
-| Shawn Levy | 肖恩·利维 | 制片人 |
-| Dan Cohen | 丹·科恩 | 制片人 |
-| Dan Levine | 丹·利文 | 制片人 |
-| Osgood Perkins | 奥兹·珀金斯 | 制片人 |
-| Chris Ferguson | 克里斯·费格森 | 制片人 |
-| Peter Chernin | 彼得·切宁 | 制片人 |
-| Jenno Topping | 珍诺·托平 | 制片人 |
-| Kori Adelson | 科里·阿德尔森 | 制片人 |
-| Will Soodik | 威尔·苏迪克 | 编剧 |
-| Jeremy Cox | 杰里米·考克斯 | 摄影 |
-| Greg Ng | 格雷格·吴 | 剪辑 |
-| Edo Van Breemen | 艾多·凡布利曼 | 配乐 |
+| Oddfellows Pictures | 奇友娱乐公司 | 制作公司 |
+| Kane Parsons | 凯恩·帕森斯 | 导演、配乐 | 音译 |
+| James Wan | 温子仁 | 制片人 | 沿用 |
+| Michael Clear | 麦可·克利尔 | 制片人 | 音译 |
+| Roberto Patino | 罗伯托·帕蒂诺 | 制片人 | 音译 |
+| Shawn Levy | 薛恩·李维 | 制片人 | 沿用 |
+| Dan Cohen | 丹·科恩 | 制片人 | 音译 |
+| Dan Levine | 丹·李文 | 制片人 | 音译 |
+| Osgood Perkins | 奥兹·柏金斯 | 制片人 | 音译 |
+| Chris Ferguson | 克里斯·费格森 | 制片人 | 音译 |
+| Peter Chernin | 彼得·切宁 | 制片人 | 音译 |
+| Jenno Topping | 珍诺·塔𬞟 | 制片人 | 音译 |
+| Kori Adelson | 科里·阿德尔森 | 制片人 | 音译 |
+| Will Soodik | 威尔·苏迪克 | 编剧 | 音译 |
+| Jeremy Cox | 杰瑞米·考克斯 | 摄影 | 音译 |
+| Greg Ng | 格雷格·吴 | 剪辑 | 音译 |
+| Edo Van Breemen | 艾多·凡布利曼 | 配乐 | 音译 |
 
 ## 参考资料与致谢
 
